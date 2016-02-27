@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_en_US>
+		<!--Suebi Knot-->
+		<Row Tag="TXT_KEY_DECISIONS_JFD_GERMANS_SUEBI_KNOT">
+			<Text>Adopt the Suebian Knot</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JFD_GERMANS_SUEBI_KNOT_DESC">
+			<Text>
+				For some time now we have observed that the people of the Suebi tribe tie their hair into a tall knot, so as to make their warriors appear taller and more imposing. Perhaps we should consider adopting this practice.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be The Germans
+				[NEWLINE][ICON_BULLET]Player must have at least two Tribal Encampments or Tribal Villages
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]1 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Melee Units cause adjacent enemies to lose 5% of their combat strength
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JFD_GERMANS_SUEBI_KNOT_ENACTED_DESC">
+			<Text>
+				For some time now we have observed that the people of the Suebi tribe tie their hair into a tall knot, so as to make their warriors appear taller and more imposing. Perhaps we should consider adopting this practice.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Melee Units cause adjacent enemies to lose 5% of their combat strength
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_GERMANS_SUEBI_KNOT">
+			<Text>Suebian Knot</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_GERMANS_SUEBI_KNOT_HELP">
+			<Text>Enemy units receive -5% [ICON_STRENGTH] Combat Strength when adjacent to any unit with this promotion.</Text>
+		</Row>
+		<!--Institutionalise the Weregild-->
+		<Row Tag="TXT_KEY_DECISIONS_JFD_GERMANS_WEREGILD">
+			<Text>Institutionalise the Weregild</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JFD_GERMANS_WEREGILD_DESC">
+			<Text>
+				We have long abided by a set of laws which impose a value upon every man, and which accords a price to any who would offend this value. But not all the tribes within our empire follow these laws, making them difficult to uphold. We should resolve this, and institutionalise the Weregild amongst the various Germanic tribes within our empire.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be The Germans
+				[NEWLINE][ICON_BULLET]Player must have at least three Tribal Encampments or Tribal Villages
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]1 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE][ICON_BULLET]{1_Num} [ICON_CULTURE] Culture
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Tribal Encampments and Villages yield +1 [ICON_CULTURE] Culture
+				[NEWLINE][NEWLINE][COLOR_NEGATIVE_TEXT]Note: The [ICON_CULTURE] Culture cost increases for every Tribal Encampment and Tribal Village in your empire
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JFD_GERMANS_WEREGILD_ENACTED_DESC">
+			<Text>
+				We have long abided by a set of laws which impose a value upon every man, and which accords a price to any who would offend this value. But not all the tribes within our empire follow these laws, making them difficult to uphold. We should resolve this, and institutionalise the Weregild amongst the various Germanic tribes within our empire.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Tribal Encampments and Villages yield +1 [ICON_CULTURE] Culture
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WORLD_EVENT_JFD_GERMANS_WEREGILD">
+			<Text>Arminius of The Germans has institutionalised the Weregild, bringing a set of laws to unite the Germanic tribes.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

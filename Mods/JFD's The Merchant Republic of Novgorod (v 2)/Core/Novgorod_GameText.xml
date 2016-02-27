@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 11/20/2013 3:43:32 AM -->
+<GameData>
+	<Language_en_US>
+		<!--NOVGOROD-->
+		<Row Tag="TXT_KEY_CIV_JFD_NOVGOROD_ADJECTIVE">
+			<Text>Novgorodian</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_JFD_NOVGOROD_DESC">
+			<Text>Novgorodian Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_JFD_NOVGOROD_SHORT_DESC">
+			<Text>Novgorod</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_NOVGOROD_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_NOVGOROD_TEXT_1">
+			<Text>Novgorod was a medieval Russian state which existed prior to the unification of Russia under the Grand Principality of Muscovy. Novgorod was the original capital of the Rus, until it was transferred to Kiev in 882. After the Novgorodian uprising of 1136 against its prince, Vsevolod Mstislavich, a unique form of government, known as "boyar republic" or "merchant republic" was established in the city. The Novgorodian republic gradually expanded north and east, and continued to prosper as a center of trade, mainly in fur. While it was mostly spared the terror of Mongol invasion that befell the rest of Russia between 1223 and 1240, it still had to pay tribute to the Khan. The republic continued to be relatively prosperous, but its sovereignty was being gradually undermined by the more and more powerful Mucovite princes; first by the Treaty of Yazhelbitsy in 1456, then after the disastrous Battle of Shelon in 1471. Novgorod was fully annexed by Moscow in 1478, after Ivan III sent his armies against the city. Novgorod continued to be an important city within Muscovite and subsequently Russian state until the famine of 1560s and the Massacre of Novgorod in 1570, when Ivan the Terrible slaughtered thousands of inhabitants, ransacked the city, and had its elite killed or deported. From a city that once rivaled Moscow, Novgorod was reduced to a provincial town.[NEWLINE][NEWLINE]From EUIV Wiki</Text>
+		</Row>
+		<!--Cities-->
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_NOVGOROD_01">
+			<Text>Novgorod</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_NOVGOROD_02">
+			<Text>Russa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_NOVGOROD_03">
+			<Text>Velikiye Luki</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_NOVGOROD_04">
+			<Text>Kholm</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_NOVGOROD_05">
+			<Text>Vologda</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_NOVGOROD_06">
+			<Text>Tver</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_NOVGOROD_07">
+			<Text>Ladoga</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_NOVGOROD_08">
+			<Text>Torzhok</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_NOVGOROD_09">
+			<Text>Pskov</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_NOVGOROD_10">
+			<Text>Izborsk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_NOVGOROD_11">
+			<Text>Oreshek</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_NOVGOROD_12">
+			<Text>Olonets</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_NOVGOROD_13">
+			<Text>Kholmogory</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_NOVGOROD_14">
+			<Text>Kargopol</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_NOVGOROD_15">
+			<Text>Vel'sk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_NOVGOROD_16">
+			<Text>Toropets</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_NOVGOROD_17">
+			<Text>Koporye</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_NOVGOROD_18">
+			<Text>Korela</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_NOVGOROD_19">
+			<Text>Orlets</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_NOVGOROD_20">
+			<Text>Solovetskiy Monastyr</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_NOVGOROD_21">
+			<Text>Vyshgorod</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_NOVGOROD_22">
+			<Text>Voronich</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_NOVGOROD_23">
+			<Text>Vyshny Volochyok</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_NOVGOROD_24">
+			<Text>Opoki</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_NOVGOROD_25">
+			<Text>Gdov</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_NOVGOROD_26">
+			<Text>Kamno</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_NOVGOROD_27">
+			<Text>Rugodiv</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_NOVGOROD_28">
+			<Text>Korostyn</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_NOVGOROD_29">
+			<Text>Spaso-Preobrazhenskiy Monastyr</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_NOVGOROD_30">
+			<Text>Spasskiy Sobor</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_NOVGOROD_31">
+			<Text>Kondopoga</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_NOVGOROD_32">
+			<Text>Demyansk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_NOVGOROD_33">
+			<Text>Porkhov</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_NOVGOROD_34">
+			<Text>Soltsy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_NOVGOROD_35">
+			<Text>Gorodets</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_NOVGOROD_36">
+			<Text>Borovsk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_NOVGOROD_37">
+			<Text>Vereya</Text>
+		</Row>
+		<!--Spies-->
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_NOVGOROD_10">
+			<Text>Eupraxia</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_NOVGOROD_9">
+			<Text>Svyatoslav</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_NOVGOROD_8">
+			<Text>Vsevolod</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_NOVGOROD_7">
+			<Text>Dovmont</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_NOVGOROD_6">
+			<Text>Vladimir</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_NOVGOROD_5">
+			<Text>Avraam</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_NOVGOROD_4">
+			<Text>Afanasiy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_NOVGOROD_3">
+			<Text>Rurik</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_NOVGOROD_2">
+			<Text>Anastasia</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_NOVGOROD_1">
+			<Text>Alexandra</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_NOVGOROD_0">
+			<Text>Helena</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<!--ALEKSANDR NEVSKY-->
+		<Row Tag="TXT_KEY_LEADER_JFD_NEVSKY">
+			<Text>Aleksandr Nevsky</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_NEVSKY_LIVED">
+			<Text>1220/30 - 1263</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_NEVSKY_NAME">
+			<Text>Aleksandr Nevsky</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_NEVSKY_SUBTITLE">
+			<Text>Leader of Novgorod</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_NEVSKY_TITLES_1">
+			<Text>Prince of Novgorod, Grand Prince of Kiev, Grand Prince of Vladimir</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_NEVSKY_HEADING_1">
+			<Text>Biography</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_NEVSKY_TEXT_1">
+			<Text>Aleksandr Nevsky, regarded as a Saint in the Russian Orthodox Church, was Prince of Novgorod, Grand Prince of Kiev, and Grand Prince of Vladimir in the mid-13th century. He is best known for his long series of military victories against Novgorod's contemporary foes: the Swedes and the Teutonic Knights. He is also well-known for his successful negotiation with the terrible and powerful Golden Horde, with whom he agreed to pay tribute in exchange for peace and independence.[NEWLINE][NEWLINE]Nevksy is a popular figure in Russian history, in which he is depicted as a defender of Russia and the ideal prince-soldier. In 2008, he was named the "greatest Russian" in the 'Name of Russia' television poll, before Nicholas II's Prime Minister, Pyotr Stolypin, and the Soviet dictator, Joseph Stalin. Many films, and honours, have been named after this must venerated prince.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DOM_JFD_NEVSKY_TEXT">
+			<Text>The wealth and glory of Novgorod lies before you, O' cherished and proud Aleksandr Nevsky; defender of the Rus' and repulsor of the Mongols. Ruling over the prosperous Novgorod Republic, as well as over the coveted Grand Principalities of Vladimir and Kiev, your reign would mark the zenith of the power and prestige of the medieval Russian states. Your military triumphs against the invading Swedes and the Teutonic Knights, and your negotiation of peace with the terrible Golden Horde, has imprinted upon you a legacy of a great prince-soldier which remains held in highest esteem today.[NEWLINE][NEWLINE]Blessed Saint, the wealth of merchants and the prestige of nobles beckons your return as the Prince of Novgorod. Can you heed their prayers and deliver the Merchant Republic to a golden age of peace and riches. Can you build a civilization that will stand the test of time?</Text>
+		</Row>
+		<!--PEACE OF NOVGOROD-->
+		<Row Tag="TXT_KEY_TRAIT_JFD_NOVGOROD_SHORT">
+			<Text>Peace of Novgorod</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_JFD_NOVGOROD">
+			<Text>No war with civilizations with whom you have at least three outgoing [ICON_INTERNATIONAL_TRADE] Trade Routes. Incoming [ICON_INTERNATIONAL_TRADE] International Trade Routes provide extra [ICON_STRENGTH] Defense equal to 33% of the [ICON_STRENGTH] Defense of the city with which it is trading.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_NOVGOROD_TR">
+			<Text>JFD: Novgorod TR</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_NOVGOROD_TR_HELP">
+			<Text>+1 TR</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_NOVGOROD_DEFENSE">
+			<Text>JFD: Novgorod Defense</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_NOVGOROD_DEFENSE_HELP">
+			<Text>+1 [ICON_STRENGTH] Defense</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_NOVGOROD_CITY_VIEW_HELP">
+			<Text>[NEWLINE][ICON_STRENGTH] Defense from incoming [ICON_INTERNATIONAL_TRADE] International Trade Routes:[NEWLINE]----------------------{1_DefenseList}----------------------[NEWLINE][COLOR_POSITIVE_TEXT]+{2_Total} [ICON_STRENGTH] Defense Total[ENDCOLOR]</Text>
+		</Row>
+		<Delete Tag="TXT_KEY_DIPLO_MAY_NOT_ATTACK_MOD" />
+		<Row Tag="TXT_KEY_DIPLO_MAY_NOT_ATTACK_MOD">
+			<Text>May not attack this player due to a special game rule.</Text>
+		</Row>
+		<!--BOYAR-->
+		<Row Tag="TXT_KEY_UNIT_JFD_BOYAR">
+			<Text>Boyar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_BOYAR_TEXT">
+			<Text>The Boyars were the highest ranking nobility of many of the medieval slavic states, second only to Princes (or the Tsar, in Bulgaria). Like their Western equivalents, Boyars often provided much of the military backbone of a Prince's power, and held considerable sway over the politics in the realm. In Russia and the Ukraine, Boyars were very similar to Knights. They lost much of their influence in Russian life in the wake of Ivan III and Ivan IV's consolidation of power over the Grand Principality of Moscow and the Russian Tsardom. Ivan IV is particularly infamous for his cruel and retributive treatment of the Boyars.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_BOYAR_STRATEGY">
+			<Text>The Boyar is Novgorod's replacement for the Great General. Station this unit in a city during peace to boost the [ICON_PRODUCTION] Production of Buildings, or during war to boost the [ICON_PRODUCTION] Production of Military Units, and use it to construct Customs Houses.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_BOYAR_HELP">
+			<Text>Unique Novgorodian Great General that boosts [ICON_PRODUCTION] Production of Buildings during peace or Military Units during war. May construct Customs Houses.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_BOYAR">
+			<Text>Boyar Nobility</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_BOYAR_HELP">
+			<Text>Station in a city to boost [ICON_PRODUCTION] of Buildings during peace or Military Units during war.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_BOYAR_PEACE_CITY_VIEW_HELP">
+			<Text>[NEWLINE]+15% [ICON_PRODUCTION] Building Production from Peace</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_BOYAR_WAR_CITY_VIEW_HELP">
+			<Text>[NEWLINE]+15% [ICON_PRODUCTION] Military Production from War</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_BOYAR_PEACE">
+			<Text>JFD: Boyar Peace</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_BOYAR_PEACE_HELP">
+			<Text>+15% [ICON_PRODUCTION] Production toward Buildings.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_BOYAR_WAR">
+			<Text>JFD: Boyar War</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_BOYAR_WAR_HELP">
+			<Text>+15% [ICON_PRODUCTION] Production toward Military Units.</Text>
+		</Row>
+		<!--Unique Names-->
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_BOYAR_1">
+			<Text>Vsevolod Mstislavich</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_BOYAR_2">
+			<Text>Yaroslav of Vladimir</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_BOYAR_3">
+			<Text>Mstislav of Chernigov</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_BOYAR_4">
+			<Text>Izyaslav of Polotsk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_BOYAR_5">
+			<Text>Yuri Dolgorukiy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_BOYAR_6">
+			<Text>Stepan Tverdislavich</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_BOYAR_7">
+			<Text>Tverdislav</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_BOYAR_8">
+			<Text>Ontsifor Lukinich</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_BOYAR_9">
+			<Text>Yan Vyshatich</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_BOYAR_10">
+			<Text>Vyshata</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_BOYAR_11">
+			<Text>Konstantin Dobrynich</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_BOYAR_12">
+			<Text>Dobrynya</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_BOYAR_13">
+			<Text>Putyata</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_BOYAR_14">
+			<Text>Ivan Kalita</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_BOYAR_15">
+			<Text>Svyatoslav</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_BOYAR_16">
+			<Text>Konstantin of Rostov</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_BOYAR_17">
+			<Text>Vassily of Kostroma</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_BOYAR_18">
+			<Text>Svyatoslav Olgovich</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_BOYAR_19">
+			<Text>Vladimir Monomakh</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_BOYAR_20">
+			<Text>Vsevolod Bolshoye Gnyezdo</Text>
+		</Row>
+		<!--POGOST--> 
+		<Row Tag="TXT_KEY_BUILDING_JFD_POGOST">
+			<Text>Pogost</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_POGOST_TEXT">
+			<Text>A Pogost is a historical type of administrative district in many of the medieval Russian states, usually composed of up to hundreds or thousands of rural villages. Originally, a Pogost was a type of coaching inn reserved for princes and ecclesiastics, but it eventually became a centre for trade and religious community. Pogosts ceased to have any administrative function in 1775, and since then have served mainly as parish centres.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_POGOST_HELP">
+			<Text>Land trade routes originating from this city have a 50% increase in range and produce an additional 2 [ICON_GOLD] Gold when connecting to another civilization. Incoming International Trade Routes will generate an extra 2 [ICON_GOLD] Gold and 1 [ICON_PRODUCTION] Production for the city.[NEWLINE][NEWLINE]Boosts [ICON_PRODUCTION] Production of Caravans and Cargo Ships by 50%.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_POGOST_STRATEGY">
+			<Text>The Pogost is a unique Caravansary for Novgorod. It improves the range and [ICON_GOLD] Gold yield of land trade routes like the regular Caravansary. However, it also increases the [ICON_GOLD] Gold and [ICON_PRODUCTION] Production output of the city for every incoming International Trade Route, and increases the [ICON_PRODUCTION] Production of Caravans and Cargo Ships. Settle in the centre of a trade hub to get the most of your Pogosts.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_POGOST_CONNECTION">
+			<Text>JFD: Pogost Production</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_POGOST_CONNECTION_HELP">
+			<Text>+1 [ICON_PRODUCTION] Production and +2 [ICON_GOLD] Gold</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_POGOST_CITY_VIEW_HELP">
+			<Text>[NEWLINE][ICON_GOLD] Gold and [ICON_PRODUCTION] Production from incoming [ICON_INTERNATIONAL_TRADE] International Trade Routes:[NEWLINE]----------------------{1_TRList}----------------------[NEWLINE][COLOR_POSITIVE_TEXT]+{2_Total} [ICON_GOLD] Gold Total[NEWLINE]+{3_Total} [ICON_PRODUCTION] Production Total[ENDCOLOR]</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

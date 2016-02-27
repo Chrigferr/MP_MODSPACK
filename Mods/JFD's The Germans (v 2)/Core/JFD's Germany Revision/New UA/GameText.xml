@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 1/16/2014 11:54:41 PM -->
+<GameData>
+  <Language_en_US>
+	 <!--Blood and Iron-->
+	  <Row Tag="TXT_KEY_TRAIT_JFD_BISMARCKIAN_GERMANY_SHORT">
+		  <Text>Blood and Iron</Text>
+	  </Row>
+	  <Row Tag="TXT_KEY_TRAIT_JFD_BISMARCKIAN_GERMANY">
+		  <Text>Conquered City-States do not enter [ICON_RESISTANCE] resistance and provide an additional delegate to the World Congress.</Text>
+	  </Row>
+	  <Update>
+		  <Set Text="[NEWLINE][ICON_BULLET]{1_NumVotes} from Buildings and World Wonders."/>
+		  <Where Tag="TXT_KEY_LEAGUE_OVERVIEW_MEMBER_DETAILS_WONDER_VOTES" />
+	  </Update>
+	  <Row Tag="TXT_KEY_BUILDING_JFD_BISMARCK_DELEGATE_HELP">
+		  <Text>1 extra Delegate.</Text>
+	  </Row>
+	  <Row Tag="TXT_KEY_BUILDING_JFD_BISMARCK_DELEGATE">
+		  <Text>JFD: Bismarck Delegate</Text>
+	  </Row>
+  </Language_en_US>
+</GameData>

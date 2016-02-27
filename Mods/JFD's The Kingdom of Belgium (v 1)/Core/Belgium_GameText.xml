@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 11/23/2013 1:27:25 PM -->
+<GameData>
+	<Language_en_US>
+		<!--BELGIUM-->
+		<Row Tag="TXT_KEY_JFD_BELGIUM_DESC">
+			<Text>Belgian Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_BELGIUM_SHORT_DESC">
+			<Text>Belgium</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_BELGIUM_ADJ">
+			<Text>Belgian</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_BELGIUM_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_BELGIUM_TEXT_1">
+			<Text>The name 'Belgium' is derived from Gallia Belgica, a Roman province in the northernmost part of Gaul that before Roman invasion in 100 BC, was inhabited by the Belgae, a mix of Celtic and Germanic peoples. gradual immigration by Germanic Frankish tribes during the 5th century brought the area under the rule of the Merovingian kings. A gradual shift of power during the 8th century led the kingdom of the Franks to evolve into the Carolingian Empire.[NEWLINE][NEWLINE]The Treaty of Verdun in 843 divided the region into Middle and West Francia and therefore into a set of more or less independent fiefdoms which, during the Middle Ages, were vassals either of the King of France or of the Holy Roman Emperor.[NEWLINE][NEWLINE] Many of these fiefdoms were united in the Burgundian Netherlands of the 14th and 15th centuries.Emperor Charles V extended the personal union of the Seventeen Provinces in the 1540s, making it far more than a personal union by the Pragmatic Sanction of 1549 and increased his influence over the Prince-Bishopric of Liège.[NEWLINE][NEWLINE]The Eighty Years' War (1568–1648) divided the Low Countries into the northern United Provinces (Belgica Foederata in Latin, the "Federated Netherlands") and the Southern Netherlands (Belgica Regia, the "Royal Netherlands"). The latter were ruled successively by the Spanish and the Austrian Habsburgs and comprised most of modern Belgium. This was the theatre of most Franco-Spanish and Franco-Austrian wars during the 17th and 18th centuries. [NEWLINE][NEWLINE]Following the campaigns of 1794 in the French Revolutionary Wars, the Low Countries—including territories that were never nominally under Habsburg rule, such as the Prince-Bishopric of Liège—were annexed by the French First Republic, ending Austrian rule in the region. The reunification of the Low Countries as the United Kingdom of the Netherlands occurred at the dissolution of the First French Empire in 1815, after the defeat of Napoleon.[NEWLINE][NEWLINE]In 1830, the Belgian Revolution led to the separation of the Southern Provinces from the Netherlands and to the establishment of a Catholic and bourgeois, officially French-speaking and neutral, independent Belgium under a provisional government and a national congress.Since the installation of Leopold I as king on 21 July 1831 (which is now celebrated as Belgium's National Day), Belgium has been a popular monarchy and parliamentary democracy, with a laicist constitution based on the Napoleonic code. Although the franchise was initially restricted, universal suffrage for men was introduced after the general strike of 1893 (with plural voting until 1919) and for women in 1949. [NEWLINE][NEWLINE]The main political parties of the 19th century were the Catholic Party and the Liberal Party, with the Belgian Labour Party emerging towards the end of the 19th century. French was originally the single official language adopted by the nobility and the bourgeoisie. It progressively lost its overall importance as Dutch became recognised as well. This recognition became official in 1898 and in 1967 a Dutch version of the Constitution was legally accepted.[NEWLINE][NEWLINE]The Berlin Conference of 1885 ceded control of the Congo Free State to King Leopold II as his private possession. From around 1900 there was growing international concern for the extreme and savage treatment of the Congolese population under Leopold II, for whom the Congo was primarily a source of revenue from ivory and rubber production. In 1908 this outcry led the Belgian state to assume responsibility for the government of the colony, henceforth called the Belgian Congo.[NEWLINE][NEWLINE]Germany invaded Belgium in 1914 as part of the Schlieffen Plan to attack France and much of the Western Front fighting of World War I occurred in western parts of the country. The opening months of the war were known as the Rape of Belgium due to German excesses. Belgium took over the German colonies of Ruanda-Urundi (modern day Rwanda and Burundi) during the war, and they were mandated to Belgium in 1924 by the League of Nations. In the aftermath of the First World War, the Prussian districts of Eupen and Malmedy were annexed by Belgium in 1925, thereby causing the presence of a German-speaking minority.[NEWLINE][NEWLINE]The country was again invaded by Germany in 1940 and was occupied until its liberation by the Allies in 1944. After World War II, a general strike forced King Leopold III, who many viewed as collaborating with Germany during the war, to abdicate in 1951.The Belgian Congo gained independence in 1960 during the Congo Crisis; Ruanda-Urundi followed with its independence two years later. Belgium joined NATO as a founding member and formed the Benelux group of nations with the Netherlands and Luxembourg.[NEWLINE][NEWLINE]Belgium became one of the six founding members of the European Coal and Steel Community in 1951 and of the European Atomic Energy Community and European Economic Community, established in 1957. The latter is now the European Union, for which Belgium hosts major administrations and institutions, including the European Commission, the Council of the European Union and the extraordinary and committee sessions of the European Parliament.</Text>
+		</Row>
+		<!--Cities-->
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_BELGIUM_01">
+			<Text>Brussels</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_BELGIUM_02">
+			<Text>Antwerp</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_BELGIUM_03">
+			<Text>Ghent</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_BELGIUM_04">
+			<Text>Charleroi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_BELGIUM_05">
+			<Text>Liege</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_BELGIUM_06">
+			<Text>Bruges</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_BELGIUM_07">
+			<Text>Namur</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_BELGIUM_08">
+			<Text>Leuven</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_BELGIUM_09">
+			<Text>Mons</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_BELGIUM_10">
+			<Text>Aalst</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_BELGIUM_11">
+			<Text>Mechelen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_BELGIUM_12">
+			<Text>La Louviere</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_BELGIUM_13">
+			<Text>Kortrije</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_BELGIUM_14">
+			<Text>Hasselt</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_BELGIUM_15">
+			<Text>Ostend</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_BELGIUM_16">
+			<Text>Ixelles</Text>
+		</Row>
+		<!--Spies-->
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_BELGIUM_9">
+			<Text>Capt. Haddock</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_BELGIUM_8">
+			<Text>Hercules Poirot</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_BELGIUM_7">
+			<Text>Prof. Calculus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_BELGIUM_6">
+			<Text>Lukas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_BELGIUM_5">
+			<Text>Seppe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_BELGIUM_4">
+			<Text>Gabrielle</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_BELGIUM_3">
+			<Text>Pascale</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_BELGIUM_2">
+			<Text>Marthe</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_BELGIUM_1">
+			<Text>Thompson and Thompson</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_BELGIUM_0">
+			<Text>Tintin</Text>
+		</Row>
+		<!-- ALBERT -->
+		<Row Tag="TXT_KEY_LEADER_JFD_ALBERT">
+			<Text>Albert I</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_ALBERT_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_ALBERT_TEXT_1">
+			<Text>Albert I (April 8, 1875 – February 17, 1934) reigned as King of the Belgians from 1909 to 1934. This was an eventful period in the History of Belgium since it included the period of World War I (1914 - 1918), when 90 percent of Belgium was overrun, occupied, and ruled by the German Empire. Other crucial issues included the adoption of the Treaty of Versailles, the ruling of the Belgian Congo as an overseas possession of the Kingdom of Belgium along with the League of Nations mandate of Ruanda-Urundi, the reconstruction of Belgium following the war, and the first five years of the Great Depression (1929 - 1934). King Albert was killed in a mountaineering accident in eastern Belgium in 1934, at the age of 58, and he was succeeded by his son Leopold.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_ALBERT_HEADING_2">
+			<Text>Early Life</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_ALBERT_TEXT_2">
+			<Text>Born Albert Léopold Clément Marie Meinrad in Brussels, he was the fifth child and second son of Prince Philippe, Count of Flanders, and his wife, Princess Marie of Hohenzollern-Sigmaringen. Prince Philippe was the third (second surviving) son of Leopold I, the first King of the Belgians, and his wife, Marie-Louise of France, and the younger brother of King Leopold II of Belgium. Princess Marie was a relative of Kaiser Wilhelm II of Germany, and a member of the non-reigning, Catholic branch of the Hohenzollern family. Albert grew up in the Palace of Flanders, initially as third in the line of succession to the Belgian throne as his reigning Uncle Leopold II's son had already died. When, however, Albert's older brother, Prince Baudouin of Belgium, who had been subsequently prepared for the throne, also died young, Albert, at the age of 16, unexpectedly became second in line (after his father) to the Belgian Crown.[NEWLINE][NEWLINE]Retiring and studious, Albert prepared himself strenuously for the task of kingship. In his youth, Albert was seriously concerned with the situation of the working classes in Belgium, and personally traveled around working class districts incognito, to observe the living conditions of the people. Shortly before his accession to the throne in 1909, Albert undertook an extensive tour of the Belgian Congo, which had been annexed by Belgium in 1908 (after having been previously owned by King Leopold II of Belgium as his personal property), finding the country in poor condition. Upon his return to Belgium, he recommended reforms to protect the native population and to further technological progress in the colony.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_ALBERT_HEADING_3">
+			<Text>Accession</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_ALBERT_TEXT_3">
+			<Text>Following the death of his uncle, Leopold II, Albert succeeded to the Belgian throne in December 1909, since Albert's own father had already died in 1905. Previous Belgian kings had taken the royal accession oath only in French; Albert innovated by taking it in Dutch as well. He and his wife, Queen Elisabeth, were popular in Belgium due to their simple, unassuming lifestyle and their harmonious family life, which stood in marked contrast to the aloof, autocratic manner and the irregular private life of Leopold II. An important aspect of the early years of Albert's reign was his institution of many reforms in the administration of the Belgian Congo, Belgium's only colonial possession.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_ALBERT_HEADING_4">
+			<Text>Religion</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_ALBERT_TEXT_4">
+			<Text>King Albert was a devout Catholic. Many stories illustrate his deep and tender piety. For instance, when his former tutor General De Grunne, in his old age, entered the Benedictine monastery of Maredsous in Belgium, King Albert wrote a letter to him in which he spoke of the joy of giving oneself to God. He said: "May you spend many years at Maredsous in the supreme comfort of soul that is given, to natures touched by grace, by faith in God's infinite power and confidence in His goodness." To another friend, a Chinese diplomat, who became a Catholic monk, Albert wrote: "Consecrating oneself wholly to the service of Our Lord gives, to those touched by grace, the peace of soul which is the supreme happiness here below." Albert used to tell his children: "As you nourish your body, so you should nourish your soul." In an interesting meditation on what he viewed as the harm that would result if Christian ideals were abandoned in Belgium, he said: "Every time society has distanced itself from the Gospel, which preached humility, fraternity, and peace, the people have been unhappy, because the pagan civilization of ancient Rome, which they wanted to replace it with, is based only on pride and the abuse of force" (Commemorative speech for the war dead of the Battle of the Yser, given by Dom Marie-Albert, Abbot of Orval Abbey, Belgium, in 1936 ).</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_ALBERT_HEADING_5">
+			<Text>World War 1</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_ALBERT_TEXT_5">
+			<Text>At the start of World War I, Albert complied with a British demand that he not acquiesce to a German request to move troops through Belgium in order to attack Britain's ally, France, which Germany anticipated was about to declare war on Germany in support of Russia; Britain was one of several European Great Powers guaranteeing Belgian neutrality under an 1839 treaty. King Albert refused passage of the Kaiser's soldiers through his nation. When Germany subsequently invaded Belgium, King Albert, as prescribed by the Belgian constitution, took personal command of the Belgian army, and held the Germans off long enough for Britain and France to prepare for the Battle of the Marne (6–9 September 1914). He led his army through the Siege of Antwerp and the Battle of the Yser, when the Belgian army was driven back to a last, tiny strip of Belgian territory, near the North Sea. Here the Belgians, in collaboration with the armies of the Triple Entente, took up a war of position, in the trenches behind the River Yser, remaining there for the next four years. During this period, King Albert fought with his troops and shared their dangers, while his wife, Queen Elisabeth, worked as a nurse at the front. During his time on the front, rumors spread on both sides of the lines that the German soldiers never fired upon him out of respect for him being the highest ranked commander in harm's way, while others feared risking punishment by the Kaiser himself. The King also allowed his 14-year-old son, Prince Leopold, to enlist in the Belgian army as a private and fight in the ranks.[NEWLINE][NEWLINE]The war inflicted great suffering on Belgium, which was subjected to a harsh German occupation. The King, fearing the destructive results of the war for Belgium and Europe and appalled by the huge casualty rates, worked through secret diplomatic channels for a negotiated peace between Germany and the Entente based on the "no victors, no vanquished" concept. He considered that such a resolution to the conflict would best protect the interests of Belgium and the future peace and stability of Europe. Since, however, neither Germany nor the Entente were favorable to the idea, tending instead to seek total victory, Albert's attempts to further a negotiated peace were unsuccessful. At the end of the war, as commander of the Army Group Flanders, consisting of Belgian, British and French divisions, Albert led the final offensive of the war that liberated occupied Belgium. King Albert, Queen Elisabeth, and their children then re-entered Brussels to a hero's welcome.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_ALBERT_HEADING_6">
+			<Text>Death</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_ALBERT_TEXT_6">
+			<Text>A passionate alpinist, King Albert I died in a mountaineering accident while climbing alone on the Roche du Vieux Bon Dieu at Marche-les-Dames, in the Ardennes region of Belgium near Namur. His death shocked the world and he was deeply mourned, both in Belgium and abroad. Because King Albert was an expert climber, some questioned the official version of his death. Nonetheless, rumors of murder have been dismissed by most historians. There are two possible explanations for his death: the first was he leaned against a boulder at the top of the mountain, which became dislodged; or two, the pinnacle to which his rope was belayed had broken, causing him to fall about sixty feet. King Albert is interred in the Royal Crypt at the Church of Our Lady of Laeken in Brussels.[NEWLINE][NEWLINE]In 1935, prominent Belgian author Emile Cammaerts published a widely acclaimed biography of King Albert I, titled "Albert of Belgium: Defender of Right". In 1993, a close climbing companion of the King, Walter Amstutz, founded the King Albert I Memorial Foundation, an association based in Switzerland and dedicated to honoring distinguished individuals in the mountaineering world.[NEWLINE][NEWLINE]Celebrating 175 years of Belgian Dynasty and the 100th anniversary of his accession, Albert I was selected as the main motif of a high-value collectors' coin: the Belgian 12.5 euro Albert I commemorative coin, minted in 2008. The obverse shows a portrait of the King.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_ALBERT_NAME">
+			<Text>Albert I</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_ALBERT_SUBTITLE">
+			<Text>Leader of Belgium</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_ALBERT_TITLES_1">
+			<Text>King of the Belgians</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_ALBERT_LIVED">
+			<Text>1875 - 1934 AD</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DOM_JFD_ALBERT_TEXT">
+			<Text>Noble Albert, King of the Belgians, we are graced by your leadership. At the onset of your reign you would ascend to a burgeoning kingdom. Inheriting a dilapidated colonial empire, you would endeavour to become a symbol of a united Belgium, forging a government that would bring together its dissidents and bestowing upon your people the universal suffrage for which they yearned. When war fell upon Belgium in 1914, you and your family would set aside the gowns of royalty and would share in the bloody defiance of your soldiers against the German invaders, forever emboldening your name as King of the Belgians.[NEWLINE][NEWLINE]Heroic King, your government beckons for the return of your determinate rule. Can you remain diligent and safeguard the integrity and unity of your people's Kingdom? Can you secure for yourself a place amongst the powers of this world, forging alliances to ensure the perseverance of your country? Can you build a civilization that can stand the test of time?</Text>
+		</Row>
+		<!--TREATY OF LONDON-->
+		<Row Tag="TXT_KEY_TRAIT_JFD_BELGIUM_SHORT">
+			<Text>Treaty of London</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_JFD_BELGIUM">
+			<Text>Civilizations with whom you have a declaration of friendship gift Military Units when war is declared against you. May build Plantations in neutral territory.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_BELGIUM_MILITARY_SUPPORT">
+			<Text>{1_CivName} has sent a {2_UnitName} to your capital to defend against the invasion of the {3_AttackingCivName}!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_BELGIUM_MILITARY_SUPPORT_SHORT">
+			<Text>Military Support from {1_CivName}!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_BELGIAN_PLANTATION">
+			<Text>Construct a Belgian Plantation</Text>
+		</Row>
+		<!--CHASSEUR-->
+		<Row Tag="TXT_KEY_UNIT_JFD_CHASSEUR">
+			<Text>Chasseur</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_CHASSEUR_TEXT">
+			<Text>Chasseur (a French term for "hunter") is the designation given to certain regiments of French and Belgian light infantry (Chasseurs à pied) or light cavalry (Chasseurs à cheval) to denote troops trained for rapid action. From its creation as a permanent force in 1832 the Belgian army included regiments of both Chasseurs à pied and Chasseurs à cheval, performing the same roles as their French counterparts. At the outbreak of World War I in August 1914 there were 3 regiments of Chasseurs à pied, each of 3 battalions, and 3 regiments of mounted Chasseurs. The last Belgian regiments of Chasseurs à cheval (or Jagers te Paard in Dutch), the 1st Regiment of Chasseurs à cheval were amalgamated with the 1st Guides Regiment in 2004, while the final unit, the 2nd/4th Chasseurs à cheval, was formed into the ISTAR Battalion in 2011, losing the distinctive designation.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_CHASSEUR_HELP">
+			<Text>A unique replacement for the Gatling Gun for Belgium that heals every turn when fighting in a war involving a friend.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_CHASSEUR_STRATEGY">
+			<Text>The Chasseur is the unique unit for Belgium, replacing the Gatling Gun. Like the Gatling Gun, it has a one-hex ranged attack. However, the Chasseur also gains an additional [ICON_MOVES] Movement and, when fighting in a war alongside a civilization with whom you have a declaration of friendship, the Chasseur heals every turn, even when performing an action. However, it is slightly weaker than the Gatling Gun.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_CHASSEUR">
+			<Text>Allied Forces</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_CHASSEUR_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]Heals[ENDCOLOR] damage every turn whilst you are at war alongside a friend.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_CHASSEUR_MARCH">
+			<Text>Allied Forces</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_CHASSEUR_MARCH_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]Heals[ENDCOLOR] damage every turn whilst you are at war alongside a friend.</Text>
+		</Row>
+		<!--CHOCOLATERIE-->
+		<Row Tag="TXT_KEY_BUILDING_JFD_CHOCOLATE_HOUSE">
+			<Text>Chocolaterie</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_CHOCOLATE_HOUSE_HELP">
+			<Text>Grants a copy of the [ICON_RES_JFD_PRALINE] Praline luxury resource.[NEWLINE][NEWLINE]City must have a Colosseum.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_CHOCOLATE_HOUSE_STRATEGY">
+			<Text>The Chocolaterie is the unique Belgian replacement for the Zoo. Unlike the Zoo, the Chocolaterie does not produce any [ICON_HAPPINESS_1] Happiness by itself. Instead, it provides a copy of the unique [ICON_RES_JFD_PRALINE] Praline resource, which yields [ICON_HAPPINESS_1] Happiness like other luxury resources and may be traded to other civilizations. The Chocolaterie also increases the [ICON_GOLD] Gold yield of plantation-based resources.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_CHOCOLATE_HOUSE_TEXT">
+			<Text>A chocolaterie is a business which both manufactures chocolate confections and sells them, at the same location. It is usually a small family business, often operating at only one location. The word is of French origin, and shops named as such are common in France and Belgium. The term is also used to designate larger chocolate production companies, such as Chocolaterie Guylian, many of which started as smaller shops. This type of store operates in other countries, such as the US, Canada, the UK and Germany, sometimes using the French term. Stores which sell candies and chocolate but do not produce their own brand are called Confectionery stores, or other names depending on the region. The related occupational term is chocolatier, though this term is also used sometimes to describe chocolateries, such as Godiva Chocolatier.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_JFD_PRALINE">
+			<Text>Praline</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_JFD_PRALINE_TEXT">
+			<Text>Praline can refer to confections made from nuts and sugar syrup, whether in whole pieces or a ground powder, or to any chocolate cookie containing the ground powder or nuts. Belgian pralines (often called Belgian chocolate) are different; they consist of a hard chocolate shell with a softer, sometimes liquid, filling. French pralines are a combination of almonds and caramelized sugar. American pralines also contain milk or cream and are therefore softer and creamier, resembling fudge.</Text>
+		</Row>
+		<!--MINOR CIVS-->
+		<!--Andorra la Vella-->
+		<Row Tag="TXT_KEY_CITYSTATE_JFD_ANDORRA_LA_VELLA_DESC">
+			<Text>Andorra la Vella</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_JFD_ANDORRA_LA_VELLA_SHORT_DESC">
+			<Text>Andorra</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_JFD_ANDORRA_LA_VELLA_ADJECTIVE">
+			<Text>Andorran</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_ANDORRA_LA_VELLA_TEXT_1">
+			<Text>Andorra la Vella is the capital of the Principality of Andorra, and is located high in the east Pyrenees between France and Spain. It is also the name of the parish that surrounds the capital. The site of Andorra la Vella (literally, "Andorra the City", not "Andorra the Old" as is often misunderstood) has been settled since prior to the Christian era—notably by the Andosin tribe from the late Neolithic. The state is one of the Marca Hispanica created and protected by Charlemagne in the eighth century as a buffer from the Moorish settlers in the Iberian Peninsula.</Text>
+		</Row>
+		<!--Vaduz-->
+		<Row Tag="TXT_KEY_CITYSTATE_JFD_VADUZ_DESC">
+			<Text>Vaduz</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_JFD_VADUZ_ADJECTIVE">
+			<Text>Vaduz</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_JFD_VADUZ_SHORT_DESC">
+			<Text>Vaduz</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_VADUZ_TEXT_1">
+			<Text>Vaduz is the capital of the principality of Liechtenstein and the seat of the national parliament. The town, located along the Rhine, has about 5,100 inhabitants (as of 2009), most of whom are Roman Catholic. Its cathedral is the seat of the Roman Catholic Archbishop of Vaduz. Vaduz is said to be mentioned in historic 12th-century manuscripts as Farduzes. It is, however, commonly believed to have been founded circa 1322 by the Counts of Werdenberg. In 1322 a mention of the castle is made, which was sacked by the Swiss in 1499 during the Swabian War. The entire town was also destroyed.[NEWLINE][NEWLINE]In the 17th century the Liechtenstein family was seeking a seat in the Imperial diet, the Reichstag. However, since they did not hold any territory that was directly under the Imperial throne, they were unable to meet the primary requirement to qualify.[NEWLINE][NEWLINE]The family yearned for the added power a seat in the Imperial government would bring, and therefore sought to acquire lands that would be Reichsunmittelbar, or held without any feudal personage other than the Holy Roman Emperor himself having rights on the land. After some time, the family was able to arrange the purchase of the minuscule Herrschaft ("Lordship") of Schellenberg and countship of Vaduz (in 1699 and 1712 respectively) from the Hohenems. Tiny Schellenberg and Vaduz possessed exactly the political status required: no feudal lord other than their comital sovereign and the suzerain Emperor.[NEWLINE][NEWLINE]Thereby, on January 23, 1719, after purchase had been duly made, Charles VI, Holy Roman Emperor, decreed Vaduz and Schellenberg were united, and raised to the dignity of Fürstentum (principality) with the name "Liechtenstein" in honour of "[his] true servant, Anton Florian of Liechtenstein". It is on this date that Liechtenstein became a sovereign member state of the Holy Roman Empire. As a testament to the pure political expediency of the purchases, the Princes of Liechtenstein did not set foot in their new principality for over 120 years.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

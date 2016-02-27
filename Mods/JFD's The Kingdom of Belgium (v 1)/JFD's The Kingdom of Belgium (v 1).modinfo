@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="488c2bae-ea94-45f8-8d79-7e943d41e3ca" version="1">
+  <Properties>
+    <Name>JFD's The Kingdom of Belgium</Name>
+    <Teaser>Adds the [COLOR_POSITIVE_TEXT]The Kingdom of Belgium[ENDCOLOR] with Albert to the game.</Teaser>
+    <Description>See Steam Workshop or CivFanatics for full details.</Description>
+    <Authors>JFD, Janboruta</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References>
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="Yet (not) Another Earth Maps Pack" />
+    <Mod id="7fdd72a5-d4ae-441c-bc4e-2e3d2a26cff4" minversion="0" maxversion="999" title="Ethnic Units" />
+    <Mod id="e576894a-ed2b-4033-be14-ed1c8ceb81d3" minversion="0" maxversion="999" title="Map Labels" />
+    <Mod id="1f941088-b185-4159-865c-472df81247b2" minversion="0" maxversion="999" title="Events and Decisions" />
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="JFD's Cultural Diversity (Core)" />
+    <Mod id="eea66053-7579-481a-bb8d-2f3959b59974" minversion="0" maxversion="999" title="JFD’s Piety" />
+    <Mod id="8670da15-d435-44ea-9758-7438cb321411" minversion="0" maxversion="999" title="R.E.D. Modpack" />
+    <Mod id="01c131ef-2162-4a7b-b845-763a4e675940" minversion="0" maxversion="999" title="Unique Cultural Influence" />
+    <Mod id="8411a7a8-dad3-4622-a18e-fcc18324c799" minversion="0" maxversion="999" title="Community Balance Patch" />
+    <Mod id="10e9728f-d61c-4317-be4f-7d52d6bae6f4" minversion="0" maxversion="999" title="JFD's CCCHP" />
+    <Mod id="43868e8d-de88-48a1-a8d9-ce144e07f5e0" minversion="0" maxversion="999" title="JFD's Exploration Continued Expanded" />
+    <Mod id="d99bf7aa-51ac-4bef-bd88-d765b28e260e" minversion="0" maxversion="999" title="JFD’s Sovereignty" />
+    <Mod id="ce8aa614-7ef7-4a45-a179-5329869e8d6d" minversion="0" maxversion="999" title="Enlightenment Era" />
+    <Mod id="a19351c5-c0b3-4b07-8695-4affaa199949" minversion="0" maxversion="999" title="JFD’s and Pouakai’s Mercenaries" />
+    <Mod id="be2d13ee-d18d-410e-8f04-7cd19cd99a98" minversion="0" maxversion="999" title="More Luxuries" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="802B96FB13530E4358639E65829D761D" import="1">Art/Diplomacy/Albert_Diplo.dds</File>
+    <File md5="9D70A34A4A50A8D0BF5040A6CCB7E2C7" import="1">Art/Diplomacy/Albert_Scene.xml</File>
+    <File md5="07FCF53AED1C2E1EB2C29C038BA16CBF" import="1">Art/Graphics/civ5_swerm1.fbx</File>
+    <File md5="C12E1992601585621BA69FB587C1E422" import="1">Art/Graphics/civ5_swerm1.fxsxml</File>
+    <File md5="E2FAA3CEC206A58D5F5FBAA778DA1BAF" import="1">Art/Graphics/civ5_swerm1.gr2</File>
+    <File md5="AE8384480CAD1D4BBBA0F83F567FC515" import="1">Art/Graphics/sv_Chasseur.dds</File>
+    <File md5="5FB636557846F6ED0395784E83E9F54A" import="1">Art/Graphics/swerm1.dds</File>
+    <File md5="505D25114B00306E1A284F8E145085AC" import="1">Art/Graphics/swerm1_sref.dds</File>
+    <File md5="FF567DEBFEAA6276AC0BCC87C973C714" import="1">Art/IconAtlas/JFD_BelgiumAlphaAtlas_128.dds</File>
+    <File md5="8F275D816A0764BF58F170BA86998A80" import="1">Art/IconAtlas/JFD_BelgiumAlphaAtlas_16.dds</File>
+    <File md5="9C110D3D16BBE6B632B75BCBB6822A8A" import="1">Art/IconAtlas/JFD_BelgiumAlphaAtlas_24.dds</File>
+    <File md5="20EFFA870AEC2E43375B41A3519EEA9A" import="1">Art/IconAtlas/JFD_BelgiumAlphaAtlas_32.dds</File>
+    <File md5="E4EC45BDB948AB88001D89ABD3E30856" import="1">Art/IconAtlas/JFD_BelgiumAlphaAtlas_45.dds</File>
+    <File md5="0D89BBE9DAC775479715E0148DEA226D" import="1">Art/IconAtlas/JFD_BelgiumAlphaAtlas_48.dds</File>
+    <File md5="0E3FDA772BFCEBEA6AAE26B57504DD74" import="1">Art/IconAtlas/JFD_BelgiumAlphaAtlas_64.dds</File>
+    <File md5="11DC93F9158850F3491EC3D43759428A" import="1">Art/IconAtlas/JFD_BelgiumAlphaAtlas_80.dds</File>
+    <File md5="45018B564F92E3147132C4C5017DDDA3" import="1">Art/IconAtlas/JFD_BelgiumAtlas_128.dds</File>
+    <File md5="49E250342EE7BE03F246619AEDBA584C" import="1">Art/IconAtlas/JFD_BelgiumAtlas_256.dds</File>
+    <File md5="ADDF168E0F8AC6456F25B138C556336B" import="1">Art/IconAtlas/JFD_BelgiumAtlas_32.dds</File>
+    <File md5="AC1F667AE7BAABF5AC2140D4D72F338D" import="1">Art/IconAtlas/JFD_BelgiumAtlas_45.dds</File>
+    <File md5="5C53804F6D98A1A14CF859F6D2279692" import="1">Art/IconAtlas/JFD_BelgiumAtlas_64.dds</File>
+    <File md5="CFFC5EA1AEE0D80724D3C5F56D7E03AE" import="1">Art/IconAtlas/JFD_BelgiumAtlas_80.dds</File>
+    <File md5="F3DC7006535C2B464BC3672FA9169448" import="1">Art/IconAtlas/JFD_ChasseurUnitFlag_32.dds</File>
+    <File md5="4018D10FB376C08EA06488FAAE8BEB12" import="1">Art/IconAtlas/JFD_PralineFontIcons_22.ggxml</File>
+    <File md5="BE23B7FA00ECF3308AE31D4AC1D08A85" import="1">Art/IconAtlas/Praline-FontIcons.dds</File>
+    <File md5="7E01474BD4F92791B8C9523C21229FFB" import="1">Art/Images/Event_Belgium_Profits.dds</File>
+    <File md5="A929956D1E02B68EB03CF88F0282AE05" import="1">Art/Images/Event_Belgium_Tensions.dds</File>
+    <File md5="8E63003CC25FA159D47A07E487B0E704" import="1">Art/Map/DOM_Albert.dds</File>
+    <File md5="E5BB32CD8A2DC8B6185689B7C23A362C" import="1">Art/Map/MapBelgium512.dds</File>
+    <File md5="491F4FACCC46C87205C3DA2E9106CD99" import="1">Audio/Albert_Peace.mp3</File>
+    <File md5="347698720D76CC416292BC3197AD834C" import="1">Audio/Albert_War.mp3</File>
+    <File md5="5F0A78552BB4FE2750E5C2B4788AED71" import="0">Core/Belgium_ArtDefines.sql</File>
+    <File md5="17B985B4D5DCCBD98E8065798EDA1442" import="0">Core/Belgium_GameDefines.sql</File>
+    <File md5="066047E93CA6E4FBF344EFC6DB276AC9" import="0">Core/Belgium_GameDefines_Diplomacy.sql</File>
+    <File md5="8745E15953E0BC4B2591E9536CEAAAAA" import="0">Core/Belgium_GameDefines_ModSupport.sql</File>
+    <File md5="9AA02E8B9426301719881BCCA79FB67E" import="0">Core/Belgium_GameText.xml</File>
+    <File md5="D35D18A28B5D2759A4BC0B30C5A78218" import="0">Core/Belgium_GameText_Diplomacy.xml</File>
+    <File md5="E6D676DA132F8DD273E064A7D8BD9C11" import="0">Core/Belgium_GameText_ModSupport.xml</File>
+    <File md5="3665EA7314EC7714D3F5520365D7702A" import="0">DeleteMissingReferences.xml</File>
+    <File md5="B00A9384865C87DAB1732D1F6F868D82" import="1">Lua/JFD_Belgium_Decisions.lua</File>
+    <File md5="4DF6D95F06C901B92869AC1BBA60033B" import="1">Lua/JFD_Belgium_Events.lua</File>
+    <File md5="C7BB97C685079A66366869A833168C5A" import="0">Lua/JFD_Belgium_Functions.lua</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Core/Belgium_ArtDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Belgium_GameDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Belgium_GameDefines_Diplomacy.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Belgium_GameDefines_ModSupport.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Belgium_GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Belgium_GameText_Diplomacy.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Belgium_GameText_ModSupport.xml</UpdateDatabase>
+      <UpdateDatabase>DeleteMissingReferences.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/JFD_Belgium_Functions.lua">
+      <Name>Belgium Functions</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 1/4/2014 8:45:16 AM -->
+<GameData>
+	<Language_en_US>
+		<!--TOJO-->
+		<Row Tag="TXT_KEY_LEADER_JFD_TOJO">
+			<Text>Tojo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_TOJO_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_TOJO_TEXT_1">
+			<Text>Hideki Tōjō was a general of the Imperial Japanese Army (IJA), the leader of the Imperial Rule Assistance Association, and the 40th Prime Minister of Japan during most of World War II, from October 17, 1941 to July 22, 1944. As Prime Minister, he was directly responsible for the attack on Pearl Harbor, which initiated war between Japan and the United States, although planning for it had begun before he entered office. After the end of the war, Tōjō was arrested, sentenced to death for Japanese war crimes by the International Military Tribunal for the Far East, and was hanged on December 23, 1948.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_TOJO_LIVED">
+			<Text>1884 - 1948</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_TOJO_NAME">
+			<Text>Tojo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_TOJO_SUBTITLE">
+			<Text>Prime Minister of the Empire of Japan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_TOJO_TITLES_1">
+			<Text>Prime Minister of the Empire of Japan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_JFD_TOJO_DAWN">
+			<Text>Hideki Tojo, by the grace of His Imperial Majesty, Prime Minister to Japan and her empire, you stand at the charge of a burgeoning war machine. At the turn of the 20th century, the Empire of Japan had rapidly transformed into an industrial and military superpower, and she sought now an empire like those possessed in the West. Under your directive, Japan would wage war against her classical enemies in China and South-East Asia, seeking hegemony over the Pacific coast. This would culminate into a confrontation with the United states of America, and would ultimately lead to the empire's terrible loss and your terrible shame.[NEWLINE][NEWLINE]Dutiful Tojo, the forces of Japan once again stand in obediance to the Chrysanthemum Throne. Though Japan's foes are many, her powers are great, and her desire for glory and honour supreme. Can you take charge and lead her Imperial forces once more? Can you build a civilisation that will stand the test of time?</Text>
+		</Row>
+		<!--EMPIRE OF THE PACIFIC-->
+		<Row Tag="TXT_KEY_TRAIT_JFD_JAPAN_TOJO">
+			<Text>Gain [ICON_RESEARCH] Science for each new Coast or Ocean Tile acquired; doubled in conquered cities. [ICON_PRODUCTION] Produce Naval Units 50% faster in conquered cities.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_JFD_JAPAN_TOJO_SHORT">
+			<Text>Empire of the Pacific</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_JAPAN_TOJO_NAVAL_PRODUCTION">
+			<Text>JFD: Japan (Tojo) Naval Production</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_JAPAN_TOJO_NAVAL_PRODUCTION_HELP">
+			<Text>+50% [ICON_PRODUCTION] Production toward Naval Units.</Text>
+		</Row>
+		<!--YAMATO-->
+		<Row Tag="TXT_KEY_UNIT_JFD_YAMATO">
+			<Text>Yamato</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_JFD_YAMATO">
+			<Text>A powerful Japanese battleship that gains a devastating attack bonus against cities and which can carry Fighters.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_YAMATO_STRATEGY">
+			<Text>The Yamato is the unique Battleship replacement for Tojo's Japan. It possesses a devastating attack bonus against cities and can carry a small number of Fighter units, making it a veritable artillery unit at sea. However, it is slightly slower than the regular Battleship.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_YAMATO_TEXT">
+			<Text>The Yamato-class battleships were battleships of the Imperial Japanese Navy (IJN) constructed and operated during World War II. Displacing 72,000 long tons (73,000 t) at full load, the vessels were the heaviest and most powerfully armed battleships ever constructed. The class carried the largest naval artillery ever fitted to a warship, nine 460-millimetre (18.1 in) naval guns, each capable of firing 1,360 kg (3,000 lb) shells over 42 km (26 mi). Two battleships of the class (Yamato and Musashi) were completed, while a third (Shinano) was converted to an aircraft carrier during construction.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_YAMATO">
+			<Text>Bonus vs Cities (100)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_YAMATO_HELP">
+			<Text>+100% [ICON_STRENGTH] Combat Strength VS [COLOR_POSITIVE_TEXT]Cities[ENDCOLOR]</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 11/23/2013 1:27:25 PM -->
+<GameData>
+	<Language_en_US>
+		<!--AUSTRIA-HUNGARY-->
+		<Row Tag="TXT_KEY_CIV_JFD_AUSTRIA_JOSEPH_II_ADJECTIVE">
+			<Text>Josephinian</Text>
+		</Row>
+		<!--JOSEPH II-->
+		<Row Tag="TXT_KEY_LEADER_JFD_JOSEPH_II">
+			<Text>Joseph II</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_JOSEPH_II_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_JOSEPH_II_TEXT_1">
+			<Text>Joseph II was Holy Roman Emperor from 1765 to 1790 and ruler of the Habsburg lands from 1780 to 1790. He was the eldest son of Empress Maria Theresa and her husband, Francis I, and was the brother of Marie Antoinette. He was thus the first ruler in the Austrian dominions of the House of Lorraine, styled Habsburg-Lorraine (von Habsburg-Lothringen in German). Joseph was a proponent of enlightened absolutism; however, his commitment to modernizing reforms subsequently engendered significant opposition, which eventually culminated in an ultimate failure to fully implement his programmes. His policies are now known as Josephinism. He died with no sons and was succeeded by his younger brother, Leopold.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_JOSEPH_II_HEADING_2">
+			<Text>Legacy and Death</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_JOSEPH_II_TEXT_2">
+			<Text>In 1789, Joseph II was a dying man. The concentration of his troops in the east gave the discontented Belgians an opportunity to revolt. In Hungary, the nobles were in all but open rebellion, and in his other states, there were peasant risings and a revival of particularistic sentiments. Joseph was left entirely alone. His minister Kaunitz refused to visit his sick-room and did not see him for two years. His brother Leopold remained at Florence. At last, Joseph, worn out and broken-hearted, recognized that his servants could not, or would not, carry out his plans. On 30 January 1790, he formally withdrew almost all his reforms in Hungary, and he died on 20 February 1790. He asked that his epitaph read: "Here lies Joseph II, who failed in all he undertook."[NEWLINE][NEWLINE]Joseph's image in popular memory has been varied. Like many of the "enlightened despots" of his time, Joseph was a lover and patron of the arts and is remembered as such. He was known as the "Musical King" and steered Austrian high culture towards a more Germanic orientation. He commissioned the German-language opera 'Die Entführung aus dem Serail' from Mozart.[NEWLINE][NEWLINE]From Wikipedia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_JOSEPH_II_HEADING_3">
+			<Text>Factoids</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_JOSEPH_II_TEXT_3">
+			<Text>Alongside Catherine the Great of Russia and Frederick the Great of Prussia, Joseph II is considered one of the pinnacles of enlightened absolutism. His example is a big middle-finger to the misconceptions surrounding monarchy.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_JOSEPH_II_NAME">
+			<Text>Joseph II</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_JOSEPH_II_SUBTITLE">
+			<Text>Leader of Austria</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_JOSEPH_II_TITLES_1">
+			<Text>Archduke of Austria[NEWLINE][NEWLINE]King of Hungary and Croatia[NEWLINE][NEWLINE]King of Germany[NEWLINE][NEWLINE]King of Bohemia[NEWLINE][NEWLINE]Holy Roman Emperor</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_JOSEPH_II_LIVED">
+			<Text>1741 - 1790</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DAWN_AUSTRIA_JOSEPH_II_TEXT">
+			<Text>The people of Austria welcome His Imperial Highness, Joseph II, Archduke of Austria and Holy Roman Emperor. Upon the death of your mother, Queen Maria Theresa, you set out to transform Austria into a modern state. You championed the ideals of the Enlightenment and sought to unite your many peoples beneath a centralized government. Although your reforms would ultimately fail to take hold, your ideals would remain a testimony to your broad-minded governance and your secular rule, and would allow Austria the path to modernity that it rightly deserved.[NEWLINE][NEWLINE]Noble Archduke, the time has come to once more be a voice to the Enlightenment. Can you see to it that your people are governed with prudence and fairness? Can you safeguard Austria from the medieval fixities which plague other states? Can you build a civilization that can stand the test of time?</Text>
+		</Row>
+		<!--ENLIGHTENED ABSOLUTISM-->
+		<Row Tag="TXT_KEY_TRAIT_JFD_AUSTRIA_JOSEPH_II_SHORT">
+			<Text>Enlightened Absolutism</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_JFD_AUSTRIA_JOSEPH_II">
+			<Text>Each [ICON_CULTURE] Social Policy branch begun increases the length of [ICON_GOLDEN_AGE] Golden Ages by 10%. [ICON_GREAT_PEOPLE] Great People Points also contribute toward [ICON_GOLDEN_AGE] Golden Ages.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_AUSTRIA_JOSEPH_II">
+			<Text>JFD: Austria (Joseph II)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_AUSTRIA_JOSEPH_II_HELP">
+			<Text>+10% [ICON_GOLDEN_AGE] Golden Age length.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_AUSTRIA_JOSEPH_II_GAP_FROM_GPP">
+			<Text>{1_Num} is added per turn from your [ICON_GREAT_PEOPLE] Great People Points.</Text>
+		</Row>
+		<!--GRENADIER-->
+		<Row Tag="TXT_KEY_UNIT_JFD_GRENADIER">
+			<Text>Grenadier</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_GRENADIER_HELP">
+			<Text>Basic infantry unit of the Industrial Era that is stronger against its own kind. If beginning its turn next to another Grenadier, it performs a first-strike ranged attack before combat. Only Austria may built it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_GRENADIER_STRATEGY">
+			<Text>The Grenadier is the gunpowder unit following the musketman, replacing the Rifleman for Austria. If this unit begins its turn next to another Grenadier, it performs a ranged attack that can damage or kill an enemy unit before making contact. In addition, the Grenadier gains a bonus vs. other Rifleman units.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_GRENADIER_TEXT">
+			<Text>The original grenadier was a specialized assault soldier designed to attack enemy fortifications. The grenadier was equipped with grenades, small metal balls filled with gunpowder. The grenadiers would approach the enemy's works, light and throw their grenades, and then rush the works in the resulting confusion and panic.[NEWLINE][NEWLINE]As time progressed, the early grenades were abandoned, primarily because improvements in musketry and massed fire techniques made it highly likely that the grenadier would get shot while in the act of throwing the grenade. The term "grenadier" remained, however, and it was used to denote elite troops until the First World War.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_GRENADIER">
+			<Text>Bonus vs. Riflemen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_GRENADIER_HELP">
+			<Text>+15% [ICON_STRENGTH] Combat Strength vs. Riflemen Units.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_GRENADIER_RANGE">
+			<Text>Volley Fire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_GRENADIER_RANGE_HELP">
+			<Text>Before engaging in melee, this unit may perform a ranged attack.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_GRENADIER_RANGE_INFO">
+			<Text>Volley Fire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_GRENADIER_RANGE_INFO_HELP">
+			<Text>May perform an extra attack if beginnings its turn adjacent to another Grenadier Unit.</Text>
+		</Row>
+		<!--STATE SCHOOL-->
+		<Row Tag="TXT_KEY_BUILDING_JFD_STATE_SCHOOL">
+			<Text>State School</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_STATE_SCHOOL_HELP">
+			<Text>Provides an Engineer and a Merchant specialist after completion.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_STATE_SCHOOL_STRATEGY">
+			<Text>A unique Public School for Austria, the State School is available slightly earlier, at Economics. In addition to the Scientist specialist that it possesses, the State School provides an Engineer and a Merchant specialist.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_STATE_SCHOOL_TEXT">
+			<Text>Joseph II's education policies were remarkable for their time. It was his desire to produce a highly literate citizenry, irrespective of ethnicity or social class. To do this, Joseph made elementary education compulsory for all boys and girls, and created special scholarships for poor students who showed particular aptitude in their studies.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

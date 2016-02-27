@@ -1,0 +1,422 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 11/23/2013 1:27:25 PM -->
+<GameData>
+	<Language_en_US>
+		<!-- DENMARK-NORWAY -->
+		<Row Tag="TXT_KEY_CIV_JFD_DENMARK_NORWAY_ADJECTIVE">
+			<Text>Dano-Norwegian</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_JFD_DENMARK_NORWAY_DESC">
+			<Text>Dano-Norwegian Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_JFD_DENMARK_NORWAY_SHORT_DESC">
+			<Text>Denmark-Norway</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_DENMARK_NORWAY_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_DENMARK_NORWAY_TEXT_1">
+			<Text>Denmark–Norway is the historiographical name for a former political entity consisting of the united kingdoms of Denmark and Norway, including overseas Norwegian dependencies of Iceland, Greenland, the Faroe Islands, and the Northern Isles. Following the departure of Sweden from the Kalmar Union, and its subsequent dissolution, in 1524 Denmark and Norway entered into another personal union, under Danish hegemony. In 1536 the kingdom of Norway was formally dissolved and integrated into Denmark, and as a consequence its Council of the Realm was abolished. However, Norway continued to have separate institutions and its own laws. Norway was re-established as a kingdom in 1660 after the introduction of absolutism. The personal union of the two kingdoms lasted until 1814, when Norway was ceded to Sweden by the House of Oldenburg after Denmark–Norway's defeat in the Napoleonic wars.</Text>
+		</Row>
+		<!--<Row Tag="TXT_KEY_CIV5_JFD_DENMARK_NORWAY_HEADING_2">
+			<Text>Geography</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_DENMARK_NORWAY_TEXT_2">
+			<Text>The landscape of Bavaria is to many one of the most beautiful in the world. Picturesque winter scenes arise when shown with a snowed-over castle in the background, presumably generating a fair amount of the worth of Bavaria’s tourist industry. Given that Bavaria shares borders with the mountainous Austria and the Czech Republic, one might expect it to have its fair share of hills; indeed, the Bavarian Alps add to its beauty. Two forest ranges, the Bavarian and the Bohemian, span most of the Czech and Austrian borders and contribute further to this majestical nation. The region also has two major rivers that run through it - the Danube and the Main - the former being one of the best known rivers in Europe.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_DENMARK_NORWAY_HEADING_3">
+			<Text>Holy Rome and Early History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_DENMARK_NORWAY_TEXT_3">
+			<Text>Prior to the Holy Roman Empire, the Bavarian state had not yet been conceived in the sense we would look at it today. It had rough borders in the south of Germany, but had no real significance besides being located in the centre of Europe. The Duchy of Bavaria was really the initial mention of Bavaria in any form, but at first, Bavaria never looked like it was getting anywhere. One of the first leaders came to the throne at the age of eight, and while he was able to fight wars against the Slavs to the east later in his reign and build monasteries around Bavaria, he was pressured into resigning as Duke, and subsequently deposed by Charlemagne, the Holy Roman Emperor at the time. While these were some setbacks to Bavaria as a state, it managed to endure in several forms until the end of the Holy Roman Empire regardless, and afterwards forming borders far closer to the current ones.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_DENMARK_NORWAY_HEADING_4">
+			<Text>The Bavarian Electorate</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_DENMARK_NORWAY_TEXT_4">
+			<Text>In 1623, the Electorate of Bavaria was formed out of a power vacuum in the area due to the Thirty Years’ War, resulting in rough borders that were getting closer to the current Bavarian lands. The former Duchy of Bavaria was the first initiation of the state to use Munich as its capital, but the Electorate used it for its entire history. This state was part of the loosely-confederated Holy Roman Empire, a “patchwork empire” that had established fragile dominance in the heart of Europe. At the time, Bavaria’s crown was essentially independent from Holy Rome in many ways. During the Electorate period, Bavaria only stagnated. The House of Wittelsbach kept Bavaria essentially in the Middle Ages, even into the so-called Enlightenment Era. It was at this time the Illuminati, or “Illuminated Ones”, were founded; an underground organization that aimed to promote equality in the state of Bavaria, and later spread in the form of conspiracy theories. Only a few years after the Illuminati were founded, the French Revolution began; Europe, plunged into turmoil, felt it right at the core.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_DENMARK_NORWAY_HEADING_5">
+			<Text>Revolution and Kingdom</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_DENMARK_NORWAY_TEXT_5">
+			<Text>Right at the start of the uprisings in France, Bavaria was overrun by French troops aiming to liberate it from its monarchy. However, given the weak political situation in Bavaria, people found it hard to find a stable political system. In 1806, Napoleon invaded Germany and founded the Confederation of the Rhine, including Bavaria, now more or less independent, as a client state. A lot of present-day Bavaria’s cultural heritage comes from this period, especially the castles dotted around the landscape, notably Neuschwanstein. This iteration of Bavaria spanned around one hundred years, during which it ascended to the German Confederation. The Kingdom of Bavaria saw successive monarchs using their personal wealth to create a legacy in the lands, and during the entire post-revolutionary period, Bavaria prospered as a result of undying patronage and romanticism from the monarchs. The Kingdom fell in 1918, at the end of the First World War. Germany, having lost, deposed all forms of monarchy and founded the new Weimar Republic in the Empire’s place. From that point on, Bavaria ceased to exist as an independent nation, instead simply as a part of Germany. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_DENMARK_NORWAY_HEADING_6">
+			<Text>Bavaria Today</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_DENMARK_NORWAY_TEXT_6">
+			<Text>Following the years after the disestablishment of the Kingdom of Bavaria, it became a major political centre of Germany. For example, in 1923, the Nazi Party attempted a coup in Munich to install themselves as Germany’s legitimate party, which ultimately failed. To this day, Bavaria as a whole remains the heart of Germany’s political system, but also its culture. The tales of the Grimm Brothers, while not explicitly set in Bavaria, are often featured there to take advantage of its breathtaking landscape. Today, tourists come to this corner of Germany if only to see the mountains, forests, rivers and lakes, with castles further assuring the fairytale theme. Bavaria’s history makes it far from a fantasy state, though; instead, a vibrant nation, full of culture and exciting history, making it an integral part of the nation of Germany today</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_DENMARK_NORWAY_FACTOID_HEADING">
+			<Text>Factoids</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_DENMARK_NORWAY_FACTOID_TEXT">
+			<Text>The main ruling family of Bavaria, the House of Wittelsbach, dominated Bavarian politics for over seven hundred years, having effective control of whatever Bavarian state existed at the time from around 1214 to 1918.[NEWLINE][NEWLINE]Bavaria is the largest region of Germany, and also one of the oldest. With around 12 million people - roughly a fifth of Germany’s total population - Bavaria forms a vital part of the nation.[NEWLINE][NEWLINE]King Ludwig II was one of the first to suggest that Kaiser Wilhelm I should take over the whole of Germany; he accepted at a treaty signed in Versailles, which was then occupied by Germany.</Text>
+		</Row>-->
+		<!--City List-->
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_DENMARK_NORWAY_01">
+			<Text>Copenhagen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_DENMARK_NORWAY_02">
+			<Text>Christiania</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_DENMARK_NORWAY_03">
+			<Text>Aarhus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_DENMARK_NORWAY_04">
+			<Text>Bergen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_DENMARK_NORWAY_05">
+			<Text>Aalborg</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_DENMARK_NORWAY_06">
+			<Text>Trondheim</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_DENMARK_NORWAY_07">
+			<Text>Odense</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_DENMARK_NORWAY_08">
+			<Text>Stavanger</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_DENMARK_NORWAY_09">
+			<Text>Fredriksberg</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_DENMARK_NORWAY_10">
+			<Text>Kristiansand</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_DENMARK_NORWAY_11">
+			<Text>Malmø</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_DENMARK_NORWAY_12">
+			<Text>Reykjavik</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_DENMARK_NORWAY_13">
+			<Text>Esbjerg</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_DENMARK_NORWAY_14">
+			<Text>Fredrikstad</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_DENMARK_NORWAY_15">
+			<Text>Glentofte</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_DENMARK_NORWAY_16">
+			<Text>Drammen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_DENMARK_NORWAY_17">
+			<Text>Gladsaxe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_DENMARK_NORWAY_18">
+			<Text>Skien</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_DENMARK_NORWAY_19">
+			<Text>Randers</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_DENMARK_NORWAY_20">
+			<Text>Tromsø</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_DENMARK_NORWAY_21">
+			<Text>Nuuk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_DENMARK_NORWAY_22">
+			<Text>Tórshavn</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_DENMARK_NORWAY_23">
+			<Text>Kolding</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_DENMARK_NORWAY_24">
+			<Text>Tønsberg</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_DENMARK_NORWAY_25">
+			<Text>Horsens</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_DENMARK_NORWAY_26">
+			<Text>Ålesund</Text>
+		</Row>
+		<!-- Spy Names -->
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_DENMARK_NORWAY_9">
+			<Text>Ole</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_DENMARK_NORWAY_8">
+			<Text>Ærinbjørn</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_DENMARK_NORWAY_7">
+			<Text>Anders</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_DENMARK_NORWAY_6">
+			<Text>Roald</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_DENMARK_NORWAY_5">
+			<Text>Trygve</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_DENMARK_NORWAY_4">
+			<Text>Helle</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_DENMARK_NORWAY_3">
+			<Text>Eline</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_DENMARK_NORWAY_2">
+			<Text>Gertrude</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_DENMARK_NORWAY_1">
+			<Text>Sarah Lund</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_DENMARK_NORWAY_0">
+			<Text>Ariel</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<!-- CHRISTIAN IV -->
+		<Row Tag="TXT_KEY_LEADER_JFD_CHRISTIAN">
+			<Text>Christian IV</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_CHRISTIAN_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_CHRISTIAN_TEXT_1">
+			<Text>Christian IV, sometimes colloquially referred to as Christian Firtal in Denmark and Christian Kvart or Quart in Norway, was a monarch of the House of Oldenburg who ruled as King of Denmark-Norway from 1588 to 1648. His reign of more than 59 years is the longest of all Danish monarchs. Christian began his personal rule of Denmark in 1596 at the age of 19. He is frequently remembered as one of the most popular, ambitious, and proactive Danish kings, having initiated many reforms and projects. However, his personal obsession with witchcraft led to the public execution of some of his innocent subjects, leading to the greatest number of deaths in Denmark during the Burning Times. He renamed the Norwegian capital Oslo as Christiania after himself, a name used until 1925.</Text>
+		</Row>
+		<!--<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_CHRISTIAN_HEADING_2">
+			<Text>Ascenscion to the Throne</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_CHRISTIAN_TEXT_2">
+			<Text>Ludwig’s father, Maximilian, had him brought up as a child of royalty to ensure that his throne passed to secure hands. Through brutal tutoring and a rigid education program, Ludwig was brought up as a truly royal child, with none of the household telling him he’d be anything other than king. From an early age, he was certainly more than ready to fulfil the role; and ready he had to be. In 1864, Maximilian died after a short illness, thus forcing the youthful Ludwig to take on his post as King of Bavaria. Aged only 18 at the time of his ascension, Ludwig began to pursue policies of grandeur from an early age. Even at an early age, it was obvious that Ludwig had little intention of governing like his father had hoped for him to do. He very rarely attended formal events, instead preferring to govern by going on long trips of the countryside, chatting to farm labourers and spending his time day-dreaming. While this may not sound like the ingredients for a successful monarch, Bavarians appeared to enjoy this minimalist government stance.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_CHRISTIAN_HEADING_3">
+			<Text>Prussian Defeat</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_CHRISTIAN_TEXT_3">
+			<Text>During Ludwig’s early years as monarch, he made many questionable decisions. To start with, when war broke out between the powers of Austria and Prussia, Ludwig backed the former, not realising Prussia’s capabilities. The Austro-Bavarian alliance was defeated in the war, leaving Bavaria as little more than a client state of Prussia. However, many officials in Bavaria aimed to maintain sovereignty in their nation, and Ludwig also protested by refusing to bow to the Prussian’s will. In 1870, Ludwig was forced to cede Bavaria to the German Confederation, but he kept an unusually large amount of powers to himself. Over the years, Bavaria was able to prosper as part of this larger state, but they retained and revered Ludwig as their leader.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_CHRISTIAN_HEADING_4">
+			<Text>Prussian Defeat</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_CHRISTIAN_TEXT_4">
+			<Text>Ludwig’s sexuality is something of dispute among scholars; however, one thing that he truly did love was arts and culture. In a letter to his only fiancée, Sophia Charlotte, Ludwig wrote, "The main substance of our relationship has always been ... Richard Wagner's remarkable and deeply moving destiny." This implied that he had little interest in sexual desire, and instead his true love lay in the world of creativity and imagination. However, Ludwig never came out as openly homosexual, though it was not a criminal act in Bavaria. The reasoning was that the Prussians had outlawed it, and being in partial control of their country, Ludwig had no choice but to keep it as secret as possible.[NEWLINE][NWLINE]Over the course of his reign, Ludwig build three large complexes in total, all of which were funded by the crown expenses. They were, in part, inspired by Wagner; Neuschwanstein, one of Ludwig’s proudest achievements, was directly made from his works. Such endeavours earnt him his reputation as the Fairytale King, not quite in touch with the real world, but doing the best he could to make his world appear for others. Even today, Ludwig’s constructions have usage in Bavaria’s tourism industry, Neuschwanstein contributing to it in no small part.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_CHRISTIAN_HEADING_5">
+			<Text>Later Reign</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_CHRISTIAN_TEXT_5">
+			<Text>While Ludwig had been able to use only his funds to finance his projects across the country, this did not make Bavaria immune to falling into economic crisis. In 1885, Ludwig found himself 14 million marks in debt due to his excessive funding of all things cultural. Though Ludwig’s ministers advised him heavily to start paying off the debt, Ludwig refused and instead borrowed yet more from other European royal families. The Bavarian Cabinet were dismissed, but they didn’t go without a fight. Declaring Ludwig as insane, they hatched a plot to depose him and put Luitpold in his place as king. By piecing together a report on Ludwig, he was declared insane on the 10th of June 1886, and deposed the same day. The King was at Neuschwanstein at the time, having only been completed for a matter of months. Though many peasants tried to support Ludwig, they were pushed aside, and Luitpold became King of Bavaria. Three days later, Ludwig went out for a walk with his personal doctor, Gudden, and was found dead in Lake Starnberg after a few hours, along with Gudden. The exact circumstances of his death remain unknown.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_CHRISTIAN_HEADING_6">
+			<Text>Judgement of History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_CHRISTIAN_TEXT_6">
+			<Text>Though notorious for heavily indebted himself, Ludwig is still known to Bavarians as a good monarch, one who managed to put Bavaria on the globe and establish a rich cultural legacy. Ludwig’s reign, in its entirety, is one of the strangest and most fascinating in world history. While a good monarch is meant to govern for the good of the people, Ludwig failed to do so in many ways, yet he is still recognized as a good monarch. The reason for this is likely the romanticism that he brought upon Bavaria, and perhaps even the wealth of culture he gave back to it. Ludwig was also noted for talking to people of all classes, meaning he had a broad understanding of what was going on. Furthermore, he took responsibility in indebting himself and not the state in his ambitions; another sign of good leadership. Though he carried out few political acts that would forever shape the world, he truly romanticised Bavaria in a way no other monarch has been able to do to their own land, and likely never will again.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_CHRISTIAN_HEADING_7">
+			<Text>Factoids</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_CHRISTIAN_TEXT_7">
+			<Text>King Ludwig II was one of the first to suggest that Kaiser Wilhelm I should take over the whole of Germany; he accepted at a treaty signed in Versailles, which was then occupied by Germany. This was done to help avoid another war with France.[NEWLINE][NEWLINE]Though Ludwig waited around 15 years for Neuschwanstein to be in a state he could move into, he spent less than two years in it before he was deposed. By 1892, most work on the castle stopped, and it is still not technically complete to this day.</Text>
+		</Row>-->
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_CHRISTIAN_NAME">
+			<Text>Christian IV</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_CHRISTIAN_SUBTITLE">
+			<Text>Leader of Denmark-Norway</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_CHRISTIAN_TITLES_1">
+			<Text>King of Denmark and Norway, Christian Firtal</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_CHRISTIAN_LIVED">
+			<Text>1577 - 1648</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DAWN_DENMARK_NORWAY_TEXT">
+			<Text>Good tidings upon thee, noble King Christian IV, leader of the Kingdoms of Denmark and Norway. Though the time that the three ancient Kingdoms of Scandinavia were one had past, you would inherit a powerful union of Denmark and Norway which dominated the peninsula. Heralded for your great and ambitious character, your 59 year reign would be one of the expansion of the Royal Navy and of Dano-Norwegian interests overseas. Though your clashes with Sweden for dominance over the Baltic Sea would ultimately falter, your endearing efforts to better the lives of your people, and your great love of music and art, would ensure your lasting legacy as a great king of the renaissance.[NEWLINE][NEWLINE]O beloved Christian, the Kingdoms of Denmark and Norway beckon the return of your rule to re-establish a powerful maritime empire. Can you heed the calling of the ancient crowns of Denmark and Norway? Can you, with good character, be the enlightened king that your people demand? Can you build a civilization that can stand the test of time?</Text>
+		</Row>
+		<!-- DOMINIUM MARIS BALTICI -->
+		<Row Tag="TXT_KEY_TRAIT_JFD_DENMARK_NORWAY_SHORT">
+			<Text>Dominium Maris Baltici</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_JFD_DENMARK_NORWAY">
+			<Text>Coastal cities are automatically [ICON_CONNECTED] connected to the [ICON_CAPITAL] Capital after researching the Wheel and begin with a free Merchant specialist. Gain [ICON_GREAT_PEOPLE] Kontreadmiral points from conquering or settling coastal cities.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_DANO_NORWEGIAN_GREAT_ADMIRAL_POINTS">
+			<Text>[COLOR_POSITIVE_TEXT]+{1_Num}[ENDCOLOR] [ICON_GREAT_ADMIRAL] Kontreadmiral points from Dominum Maris Baltici!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_DENMARK_NORWAY">
+			<Text>Merchant Specialist</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_DENMARK_NORWAY_HELP">
+			<Text>Automatially [ICON_CONNECTED] connects this city to the [ICON_CAPITAL] Capital after the Wheel and contains a free Merchant specialist slot</Text>
+		</Row>
+		<!-- KONTREADMIRAL -->
+		<Row Tag="TXT_KEY_UNIT_JFD_KONTREADMIRAL">
+			<Text>Kontreadmiral</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_KONTREADMIRAL_PEDIA">
+			<Text>The Kontreadmiral is the highest active rank in Danish and Norwegian navies and is usually awarded to the head of a command. The rank is equivalent to a Major General in air or ground forces. Kontreadmiral literally means “rear” or “under” admiral, signifying that the rank is below that of the Admiral. The term was coined by the Dutch first as Schoutbynaut, meaning “Supervisor of the night”. In 1771, the term was adopted in Denmark-Norway under the reign of Christian VII.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_KONTREADMIRAL_STRATEGY">
+			<Text>The Kontreadmiral is the unique Great Admiral replacement for Denmark-Norway. It can be used to construct the special Citadel improvement which gives a big defensive bonus to any unit occupying it, damages enemy units moving adjacent, and puts all adjacent tiles into your territory. This Citadel may also be used by Land Units to cross single-tile land gaps, but it cannot be built adjacent to another Citadel. The Kontreadmiral is converted into a Naval Combat Unit when it builds the Citadel. Like the Great Admiral, the Kontreadmiral also provides a 15% combat bonus to all player-owned naval units within 2 tiles. The Great Admiral is NOT consumed when he provides this bonus.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_KONTREADMIRAL_HELP">
+			<Text>Unique Dano-Norwegian replacement for the Great Admiral that may create a Citadel on water tiles. When consumed by this action, becomes a free Naval Combat Unit with 30 XP.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_JFD_SEA_FORTRESS">
+			<Text>Citadel</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_SEA_FORTRESS">
+			<Text>Construct a Citadel</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_JFD_SEA_FORTRESS_HELP">
+			<Text>+100% [ICON_STRENGTH] Defensive Strength for any Unit stationed in this Tile. Any enemy unit which ends its turn next to the Citadel takes 3 damage. Land Units may cross this Citadel as if it were land. Constructing the Citadel will convert this unit into the best avaliable Naval Combat Unit beginning with 30 XP.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_JFD_SEA_FORTRESS_REC">
+			<Text>It will improve the [ICON_STRENGTH] Defense of any military unit stationed in this tile.</Text>
+		</Row>
+		<Delete Tag="TXT_KEY_CIV5_IMPROVEMENTS_CITADEL_TEXT" />
+		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_CITADEL_TEXT">
+			<Text>A Citadel is a mighty fortification that can only be constructed by a Great General or the Dano-Norwegian Kontreadmiral, usually near a city or on a particularly defensible piece of terrain, or, for the Kontreadmiral, on a water tile. The Acropolis in Athens, Greece, is an example of an early powerful Citadel. Such structures were almost impossible to take by direct attack, and they were capable of withstanding protracted sieges before they fell. You can construct a Citadel anywhere within your territory, or directly adjacent to your territory. Upon constructing the Citadel, your Culture borders will also expand to surround the Citadel on all sides by one hex. If the new Culture border claims hexes already owned by another civilization, you will incur a diplomatic penalty as a result. Any unit stationed within a Citadel receives a 100% defensive strength bonus. Additionally, any enemy unit which ends its turn next to a Citadel takes 30 damage (damage does not stack with other Citadels).</Text>
+		</Row>
+		<!--Unique Names-->
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_KONTREADMIRAL_01">
+			<Text>Claus Paarss</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_KONTREADMIRAL_02">
+			<Text>Niels Juel</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_KONTREADMIRAL_03">
+			<Text>Cort Adeler</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_KONTREADMIRAL_04">
+			<Text>Peter Tordenskjold</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_KONTREADMIRAL_05">
+			<Text>Olfert Fischer</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_KONTREADMIRAL_06">
+			<Text>Steen Andersen Bille</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_KONTREADMIRAL_08">
+			<Text>Cornelis Tromp</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_KONTREADMIRAL_09">
+			<Text>Peter Christian Petersenr</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_KONTREADMIRAL_10">
+			<Text>Ove Gjedde</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_KONTREADMIRAL_11">
+			<Text>Evert Andersen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_KONTREADMIRAL_12">
+			<Text>Lauritz Galtung</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_KONTREADMIRAL_13">
+			<Text>Corfits Ulfeldt</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_KONTREADMIRAL_14">
+			<Text>Kristoffer Throndsen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_KONTREADMIRAL_15">
+			<Text>Christen Thomesen Sehested</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_KONTREADMIRAL_16">
+			<Text>Axel Mowat</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_KONTREADMIRAL_17">
+			<Text>Thomas Konow</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_KONTREADMIRAL_18">
+			<Text>Niels Juel</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_KONTREADMIRAL_20">
+			<Text>Jørgen Jørgensen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_KONTREADMIRAL_21">
+			<Text>Hans Køning</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_KONTREADMIRAL_22">
+			<Text>Lauritz Galtung</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_KONTREADMIRAL_23">
+			<Text>Hans Peter Holm</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_KONTREADMIRAL_24">
+			<Text>Ivar Huitfeldt</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_KONTREADMIRAL_25">
+			<Text>Carl Wilhelm Jessen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_KONTREADMIRAL_26">
+			<Text>Henrik Bjelke</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_KONTREADMIRAL_27">
+			<Text>Michael Bille</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_KONTREADMIRAL_28">
+			<Text>Christian Thomsen Carl</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_KONTREADMIRAL_29">
+			<Text>Jens Schou Fabricius</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_KONTREADMIRAL_30">
+			<Text>Jens Munk</Text>
+		</Row>
+		<!-- SKI INFANTRY -->
+		<Delete Tag="TXT_KEY_UNIT_DANISH_SKI_INFANTRY" />
+		<Row Tag="TXT_KEY_UNIT_DANISH_SKI_INFANTRY">
+			<Text>Ski Infantry</Text>
+		</Row>
+		<Delete Tag="TXT_KEY_CIV5_DENMARK_SKI_INFANTRY_STRATEGY" />
+		<Row Tag="TXT_KEY_CIV5_DENMARK_SKI_INFANTRY_STRATEGY">
+			<Text>The Ski Infantry is one of two Dano-Norwegian Unique Units, replacing the Rifleman. When this unit begins its turn on a Hill tile, it gains +2 [ICON_MOVES] Movement and a +20% [ICON_STRENGTH] Combat Strength bonus, making it especially effective at surprise attacks.</Text>
+		</Row>
+		<Delete Tag="TXT_KEY_CIV5_DENMARK_SKI_INFANTRY_HELP" />
+		<Row Tag="TXT_KEY_CIV5_DENMARK_SKI_INFANTRY_HELP">
+			<Text>Strong, front-line land Unit of the mid-game that specializes in operating in Hills. Gains extra [ICON_MOVES] Movement and [ICON_STRENGTH] Combat Strength when beginning its turn on a Hill tile. Only Denmark-Norway may build it. Replaces the Rifleman.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_DANO_NORWEGIAN_SKI_INFANTRY_MOVES">
+			<Text>Hill Movement</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_DANO_NORWEGIAN_SKI_INFANTRY_MOVES_HELP">
+			<Text>+2 [ICON_MOVES] Movement and +20% [ICON_STRENGTH] Combat Strength when starting on a hill tile.</Text>
+		</Row>
+		<!-- DENMARK -->
+		<!--City List-->
+		<Delete Tag="TXT_KEY_CITY_NAME_COPENHAGEN" />
+		<Row Tag="TXT_KEY_CITY_NAME_COPENHAGEN">
+			<Text>Roskilde</Text>
+		</Row>
+		<!-- LONGBOAT -->
+		<Delete Tag="TXT_KEY_UNIT_JFD_LONGBOAT" />
+		<Row Tag="TXT_KEY_UNIT_JFD_LONGBOAT">
+			<Text>Longboat</Text>
+		</Row>
+		<Delete Tag="TXT_KEY_UNIT_JFD_LONGBOAT_TEXT" />
+		<Row Tag="TXT_KEY_UNIT_JFD_LONGBOAT_TEXT">
+			<Text>Longboats (or Longships) were sea vessels made and used by the Vikings from the Nordic countries for trade, commerce, exploration, and warfare during the Viking Age. The longship is characterized as a graceful, long, narrow, light, wooden boat with a shallow-draft hull designed for speed. The ship's shallow draft allowed navigation in waters only one metre deep and permitted beach landings. Longships were fitted with oars along almost the entire length of the boat itself. Later versions sported a rectangular sail on a single mast which was used to replace or augment the effort of the rowers.</Text>
+		</Row>
+		<Delete Tag="TXT_KEY_UNIT_JFD_LONGBOAT_STRATEGY" />
+		<Row Tag="TXT_KEY_UNIT_JFD_LONGBOAT_STRATEGY">
+			<Text>The Longboat is an early naval unit unique to Denmark, replacing the Trireme. Unlike the Trireme, the Longboat is a ranged unit and, though it is slightly weaker, it confers a foreign lands combat bonus to  Land Units within two tiles. It also may move after attacking, allowing it to easily engage in hit-and-run tactics. This unit also replaces the Galleass. Any ancient era Longboats will be automatically upgraded after researching Compass.</Text>
+		</Row>
+		<Delete Tag="TXT_KEY_UNIT_JFD_LONGBOAT_HELP" />
+		<Row Tag="TXT_KEY_UNIT_JFD_LONGBOAT_HELP">
+			<Text>Danish early Naval Unit which grants a foreign lands combat bonus to nearby units and has a ranged attack. Can move after attacking. Automatically upgrades with additional strength at the discovery of Compass.</Text>
+		</Row>
+		<Delete Tag="TXT_KEY_PROMOTION_JFD_LAND_UNIT_BONUS" />
+		<Row Tag="TXT_KEY_PROMOTION_JFD_LAND_UNIT_BONUS">
+			<Text>Viking Longboat</Text>
+		</Row>
+		<Delete Tag="TXT_KEY_PROMOTION_JFD_LAND_UNIT_BONUS_LONGBOAT" />
+		<Row Tag="TXT_KEY_PROMOTION_JFD_LAND_UNIT_BONUS_LONGBOAT">
+			<Text>Viking Longboat</Text>
+		</Row>
+		<Delete Tag="TXT_KEY_PROMOTION_JFD_LAND_UNIT_BONUS_HELP" />
+		<Row Tag="TXT_KEY_PROMOTION_JFD_LAND_UNIT_BONUS_HELP">
+			<Text>+20% [ICON_STRENGTH] Combat Strength in foreign lands whilst this unit is within two tiles of a Longboat.</Text>
+		</Row>
+		<Delete Tag="TXT_KEY_PROMOTION_JFD_LAND_UNIT_BONUS_LONGBOAT_HELP" />
+		<Row Tag="TXT_KEY_PROMOTION_JFD_LAND_UNIT_BONUS_LONGBOAT_HELP">
+			<Text>+20% [ICON_STRENGTH] Combat Strength in foreign lands to Land Units within two tiles of this unit.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

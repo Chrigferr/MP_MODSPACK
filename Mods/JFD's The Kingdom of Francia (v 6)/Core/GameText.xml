@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 1/12/2014 7:03:07 PM -->
+<GameData>
+	<Language_en_US>
+		<!-- THE FRANKS -->
+		<!-- The Franks -->
+		<Row Tag="TXT_KEY_CIV_JFD_THE_FRANKS_ADJECTIVE">
+			<Text>Frankish</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_JFD_THE_FRANKS_DESC">
+			<Text>Frankish Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_JFD_THE_FRANKS_SHORT_DESC">
+			<Text>Francia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_THE_FRANKS_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_THE_FRANKS_TEXT_1">
+			<Text>The Franks were a tenuous confederation of Germanic tribes settled in a strip of land along the right bank of the Lower Rhine, the border of Rome in Germania. In the 3rd Century AD, some Franks raided Roman territories along the river, while others migrated into the empire and settled in Gaul. This brought a split in the Franks into the Ripuarian Franks (the first group) and the Salian Franks (the second).[NEWLINE][NEWLINE]Primarily a pastoral people, the Ripuarian Franks lived in small settlements and homesteads along the west bank of the Rhine, supporting themselves by fishing and hunting along with the occasional raid on Roman holdings. Beyond being an annoyance, the Ripuarians were among the most peaceful of Rome's neighbors. In 310 AD, the Emperor Constantine had a bridge built across the Rhine at Cologne to facilitate trade with them. The Ripuarians, given an impetus towards social unity by the Roman-administered city, were increasingly relied upon to provide protection for the empire, serving as a buffer against the more warlike tribes to the east. The last chieftain of the Ripuarian Franks, Sigobert the Lame, joined forces with Clovis I, who rallied the Franks against the Alemanni and reunited the Frankish tribes.[NEWLINE][NEWLINE]The Salian Franks meanwhile, displaced by the onslaught of barbarians from the north, migrated into the Roman territory of Toxandria (the region of modern-day Antwerp). This "insolent" settlement of Roman lands was rejected by Emperor Julian the Apostate, who attacked. In 358 AD, the Salians surrendered to Roman forces in exchange for citizenship. Under the emperor Honorius's patronage, the Salian Franks expanded their holdings considerably under Chlodio beginning in the 420. The Salians proved loyal friends of Rome. In 451, Flavius Aetius called upon his Germanic allies to fight off the invasion by Attila's Huns. The Salians fought alongside the Romans at the Battle of Chalons, which effectively ended the Hunnic threat to Western Europe. As a reward, the Romans allowed further Salian expansion. In 486, Clovis became absolute ruler of a mixed Roman-Germanic kingdom. He unified the Franks and defeated the Visigoths and Alemanni. Clovis established his new capital at Paris, laying the foundation for the nation of France.</Text>
+		</Row>
+		<!-- City Names -->
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_VANNES">
+			<Text>Vannes</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_BETUWE">
+			<Text>Betuwe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_METTIS">
+			<Text>Mettis</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_THEROUANNE">
+			<Text>Therouanne</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_VOUILLE">
+			<Text>Vouille</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_COLMAR">
+			<Text>Colmar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_BASILEA">
+			<Text>Basilea</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_MUNSTER">
+			<Text>Munster</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_PASSAU">
+			<Text>Passau</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_CAMBRAI">
+			<Text>Cambrai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_TONGRAS">
+			<Text>Tongras</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_TOURNAI">
+			<Text>Tournai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_AIX">
+			<Text>Aix</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_FRANKFORT">
+			<Text>Frankfort</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ARLES">
+			<Text>Arles</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_VIENNE">
+			<Text>Vienne</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_SPEYER">
+			<Text>Speyer</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_MAYENCE">
+			<Text>Mayence</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_VERDUN">
+			<Text>Verdun</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_WORMS">
+			<Text>Worms</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HIELDEBERG">
+			<Text>Hieldeberg</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_POITIERS">
+			<Text>Poitiers</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_CHALONS">
+			<Text>Chalons</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_CLAUDIA">
+			<Text>Claudia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_REGENSBURG">
+			<Text>Regensburg</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_STRASBOURG">
+			<Text>Strasbourg</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_AACHEN">
+			<Text>Aachen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_TREVES">
+			<Text>Treves</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_SOISSONS">
+			<Text>Soissons</Text>
+		</Row>
+		<!-- Spy Names -->
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_THE_FRANKS_9">
+			<Text>Earnest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_THE_FRANKS_8">
+			<Text>Bertrand</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_THE_FRANKS_7">
+			<Text>Roland</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_THE_FRANKS_6">
+			<Text>Remigius</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_THE_FRANKS_5">
+			<Text>Francio</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_THE_FRANKS_4">
+			<Text>Marcomer</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_THE_FRANKS_3">
+			<Text>Antenor</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_THE_FRANKS_2">
+			<Text>Priam</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_THE_FRANKS_1">
+			<Text>Andras</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_THE_FRANKS_0">
+			<Text>Merovich</Text>
+		</Row>
+		<!-- CHARLEMAGNE -->
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE">
+			<Text>Charlemagne</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_CHARLEMAGNE_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_CHARLEMAGNE_TEXT_1">
+			<Text>Charles the Great, Emperor of the Holy Roman Empire, fathered a kingdom that encompassed France, Germany, Italy and much of Eastern Europe. Legends of his conquests are pervasive throughout history, and he is considered one of the great figureheads of European Chivalric society.[NEWLINE][NEWLINE]During his lifetime Charlemagne successfully campaigned in many countries. Some wars he completed personally and others were left for his sons to finish. His first campaign was against Desiderius of Lombardy who, soon after the succession of Pope Hadrian I, marched on Rome. Charlemagne pressed into Lombardy, and after a lengthy siege (772-774), he accepted Desiderius' unconditional surrender. Desiderius would live out the remainder of his life confined to a monastery.[NEWLINE][NEWLINE]The longest lasting and most challenging conquest of Charlemagne's reign would be that of Saxonia. It would be a theater that he would continually revisit during his lifetime. After Charlemagne's initial push into Saxonia he was continuously forced to retake previously conquered land which had rebelled against his authority. Weary of war and losing more rights and freedoms with every capitulation, the Saxons eventually accepted Charlemagne's terms, including renouncement of their national religious customs and adoption of the Christian faith and its associated Frankish customs.[NEWLINE][NEWLINE]Charles was both a highly religious man and a philanthropist. He often built friendly relationships with other countries, such as Egypt and India, so that he could later send money in an effort to assist struggling Christians in those regions. Although much more of a conqueror than an economic or social reformer, Charles often contributed money to relieve the poor and sick in his kingdom.[NEWLINE][NEWLINE]Charlemagne, despite being unable to write well himself, had a vast love of literature and education. Due to his conquests, Charlemagne came into contact with many different cultures and learning institutions. Having contributed considerable funding to existing monastic schools and institutions of learning, Charlemagne's era became known as the Carolingian Renaissance, with a blossoming of the arts and sciences.[NEWLINE][NEWLINE]As a member of the Nine Worthies, a group of both fictional and real people that represented the pinnacle of chivalry during their eras, Charlemagne was the embodiment of honor in both person and position. A conqueror, a philanthropist, lover of the arts and a highly devout Christian, Charlemagne stands as one of the important figures of the first millennium, and the forefather of Central Europe as it stands today.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_CHARLEMAGNE_LIVED">
+			<Text>742-814</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_CHARLEMAGNE_NAME">
+			<Text>Charlemagne</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_CHARLEMAGNE_SUBTITLE">
+			<Text>King of the Franks, Emperor of the Romans</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DOM_CHARLEMAGNE_TEXT">
+			<Text>Blessed Charlemagne, King of the Franks, Emperor of the Romans, salutations be upon you. You are the father of Europe, to whom the French and German Kingdoms to come owe their descendance. A name beheld in legend, the Carolingians united western Europe beneath an empire unseen since the death of Rome. Its formation would bring light to Europe's darkened ages, and the stalwart devotion of your faith would see the title of Emperor of Rome bestown upon you: Charles the Great. Your love of the arts and sympathy for the hapless, and your might as a conqueror, would dawn upon Europe a new age, and your name would be forever held as one of the great Kings of our time.[NEWLINE][NEWLINE]Great and faithful King, noble Franks and Germans gaze upon the night sky for your fabled return. They call for the reunification of Europe beneath a pure and virtuous empire. Can bear the crown of this dominion? Can you bring glory and devotion to your Kingdom? Can you build a civilization that will stand the test of time?</Text>
+		</Row>
+		<!-- CAROLINGIAN PIETY -->
+		<Row Tag="TXT_KEY_TRAIT_JFD_THE_FRANKS_SHORT">
+			<Text>Carolingian Piety</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_JFD_THE_FRANKS">
+			<Text>Earn [ICON_PEACE] Faith from conquering cities based upon your faith per turn and the size of the city conquered. Whenever a Great Prophet is born through [ICON_PEACE] Faith, you may choose instead a free [ICON_CULTURE] Social Policy.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_FAITH_ALERT">
+			<Text>You recieve +{1_Num} [ICON_PEACE] Faith from your conquests!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_FRANKS_MESSAGE">
+			<Text>By the Grace of God, a new Great Prophet has been born within our empire! We may accept this prophet for their religious teachings, or take to heart the social reforms that come with them.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_FRANKS_PROPHET_BUTTON">
+			<Text>[ICON_PROPHET] Great Prophet [ICON_PROPHET]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_FRANKS_PROPHET_TT">
+			<Text>[ICON_BULLET]Keep your Great Prophet</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_FRANKS_POLICY_BUTTON">
+			<Text>[ICON_CULTURE] Social Policy [ICON_CULTURE]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_FRANKS_POLICY_TT">
+			<Text>[ICON_BULLET]Receive a free Social Policy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_FREE_POLICY_SHORT">
+			<Text>Free Social Policy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_FREE_POLICY_DESC">
+			<Text>By the Grace of God, we have been afforded a free Social Policy for our enduring faith.</Text>
+		</Row>
+		<!-- PALADIN -->
+		<Row Tag="TXT_KEY_UNIT_JFD_PALADIN">
+			<Text>Paladin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_PALADIN_TEXT">
+			<Text>The paladins, sometimes known as the Twelve Peers, were the foremost warriors of Charlemagne's court, according to the literary cycle known as the Matter of France. They first appear in the early chansons de geste such as The Song of Roland, where they represent Christian valor against the Saracen hordes. The paladins and their associated exploits are largely later fictional inventions, with some basis on historical Frankish retainers of the 8th century and events such as the Battle of Roncevaux Pass and the confrontation of the Frankish Empire with Umayyad Al-Andalus in the Marca Hispanica</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_PALADIN_HELP">
+			<Text>May build Siege Units on unimproved Forest or Jungle tiles in neutral or friendly territory.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_PALADIN_STRATEGY">
+			<Text>The Paladin is the unique Great General replacement for Francia. In addition to being faster than the Great General, the Paladin may be used to contruct Siege Units on any tile with an unimproved Forest or Jungle (in neutral or friendly territory). The unit is not expended when doing this, but constructing a Siege Unit will take a number of turns. During this time the unit is vulnerable and should be stacked with a Military unit for protection.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_PALADIN_01">
+			<Text>Roland</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_PALADIN_02">
+			<Text>Oliver</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_PALADIN_03">
+			<Text>Gérin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_PALADIN_04">
+			<Text>Gérier</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_PALADIN_05">
+			<Text>Bérengier</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_PALADIN_06">
+			<Text>Otton</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_PALADIN_07">
+			<Text>Samson</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_PALADIN_08">
+			<Text>Engelier</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_PALADIN_09">
+			<Text>Ivon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_PALADIN_10">
+			<Text>Ivoire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_PALADIN_11">
+			<Text>Anséis</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_PALADIN_12">
+			<Text>Girard</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_PALADIN_13">
+			<Text>Tupin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_PALADIN_14">
+			<Text>Ogier the Dane</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_PALADIN_15">
+			<Text>Huon of Bordeaux</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_PALADIN_16">
+			<Text>Fierabras</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_PALADIN_17">
+			<Text>Renaud de Montauban</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_PALADIN_18">
+			<Text>Ganelon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_JFD_SIEGE_UNIT">
+			<Text>Siege Unit</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_SIEGE_UNIT">
+			<Text>Construct a Siege Unit</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_JFD_SIEGE_UNIT_HELP">
+			<Text>Spawns the best Siege Unit available.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_JFD_SIEGE_UNIT_REC">
+			<Text>It will cut down this Forest or Jungle and create the best available Siege Unit.</Text>
+		</Row>
+		<!-- FRANCIA -->
+		<Row Tag="TXT_KEY_UNIT_JFD_FRANCISCA">
+			<Text>Francisca</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_FRANCISCA_TEXT">
+			<Text>The francisca is a throwing axe used as a weapon by the Franks during the Early Middle Ages, among whom it was a characteristic national weapon at the time of the Merovingians from about 500 to 750 and is known to have been used during the reign of Charlemagne (768–814). Although generally associated with the Franks, it was also used by other Germanic peoples of the period including the Anglo-Saxons, and several examples have been found in England. The Roman historian Procopius (c. 500–565) described the Franks and their use of throwing axes: "...each man carried a sword and shield and an axe. Now the iron head of this weapon was thick and exceedingly sharp on both sides while the wooden handle was very short. And they are accustomed always to throw these axes at one signal in the first charge and thus shatter the shields of the enemy and kill the men."</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_FRANCISCA_HELP">
+			<Text>Frankish replacement for the Swordsman. Especially effective against other Melee units. Does not require iron.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_FRANCISCA_STRATEGY">
+			<Text>The Francisca is the Frankish unique replacement for the Swordsman. Unlike the Swordsman, the Francisca deals 33% more damage against Melee units. It also does not require [ICON_RES_IRON] Iron to be built.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_BONUS_VS_MELEE">
+			<Text>Bonus vs. Melee (33)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_BONUS_VS_MELEE_HELP">
+			<Text>33% Bonus vs. Melee</Text>
+		</Row>
+  </Language_en_US>
+</GameData>

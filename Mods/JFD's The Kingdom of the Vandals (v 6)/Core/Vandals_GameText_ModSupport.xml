@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 11/23/2013 1:27:25 PM -->
+<GameData>
+	<Language_en_US>
+		<!--JFD SOVEREIGNTY-->
+		<!--Government-->
+		<Row Tag="TXT_KEY_JFD_LEGISLATURE_NAME_CIVILIZATION_THE_VANDALS">
+			<Text>Great Council</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_THE_VANDALS">
+			<Text>High Elder</Text>
+		</Row>
+		<!--RYOGA UNIQUE CULTURAL INFLUENCE-->
+		<Row Tag="TXT_KEY_GENERIC_JFD_THE_VANDALS_INFLUENTIAL_ON_AI_1">
+			<Text>Our people are now drinking from the skulls of their enemies and graffiting over our cities. I worry the rest of the world will also succumb to the influence of your culture.</Text>
+		</Row>
+		<!--SUKRITACT DECISIONS-->
+		<!--Become King of the Alans-->
+		<Row Tag="TXT_KEY_DECISIONS_JFD_THE_VANDALS_ALANS">
+			<Text>Become King of the Alans</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JFD_THE_VANDALS_ALANS_DESC">
+			<Text>
+				Together with our powerful brothers, the Alani, we have tamed this ferocious land in spite of our many enemies. Now we must assert our dominance over them, so that they may know their father's name: Genseric, leader of the Vandals, and King of the Alans.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be the Vandals
+				[NEWLINE][ICON_BULLET]Must own at least three cities
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Culture} [ICON_CULTURE] Culture
+				[NEWLINE][ICON_BULLET]1 {2_ResourceType}
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Empire becomes known as the Vandals and Alans
+				[NEWLINE][ICON_BULLET]Mounted Units may capture defeated enemies
+				[NEWLINE][ICON_BULLET]Gain 2 free [ICON_RES_HORSE] Horses
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JFD_THE_VANDALS_ALANS_ENACTED_DESC">
+			<Text>
+				Together with our powerful brothers, the Alani, we have tamed this ferocious land in spite of our many enemies. Now we must assert our dominance over them, so that they may know their father's name: Genseric, leader of the Vandals, and King of the Alans.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Empire becomes known as the Vandals and Alans
+				[NEWLINE][ICON_BULLET]Mounted Units may capture defeated enemies
+				[NEWLINE][ICON_BULLET]Gain 2 free [ICON_RES_HORSE] Horses
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_JFD_THE_VANDALS_AND_ALANS_ADJ">
+			<Text>Vandalic and Alani</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_JFD_THE_VANDALS_AND_ALANS_DESC">
+			<Text>Vandalic and Alani Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_JFD_THE_VANDALS_AND_ALANS_SHORT_DESC">
+			<Text>The Vandals and Alans</Text>
+			<Plurality>2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_WORLD_EVENT_JFD_THE_VANDALS_ALANS">
+			<Text>Genseric of the Vandals has become King of the Alans.</Text>
+		</Row>
+		<Update>
+			<Where Tag="TXT_KEY_EUPANEL_CAPTURE_CHANCE" />
+			<Set Text="[COLOR_CYAN]Capture Chance if Defeated: {1_Percent}%[ENDCOLOR]" />
+		</Update>
+		<Row Tag="TXT_KEY_PROMOTION_DECISIONS_JFD_ALANS">
+			<Text>Alani Tribe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DECISIONS_JFD_ALANS_HELP">
+			<Text>May capture defeated enemies.</Text>
+		</Row>
+		<!--Impose Religious Taxes-->
+		<Row Tag="TXT_KEY_DECISIONS_JFD_THE_VANDALS_IMPOSE_RELIGIOUS_TAXES">
+			<Text>Impose Religious Taxes</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JFD_THE_VANDALS_IMPOSE_RELIGIOUS_TAXES_DESC">
+			<Text>
+				Amongst our conquered possessions are those who would refuse to practice our beliefs. Instead of flailing and executing them as they might better deserve, let us instead tax them for what they are worth.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be the Vandals
+				[NEWLINE][ICON_BULLET]Must have captured at least one capital
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Num} [ICON_GOLD] Gold
+				[NEWLINE][ICON_BULLET]1 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]+2 [ICON_GOLD] Gold for each World Religion that has at least 1 follower in all cities.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JFD_THE_VANDALS_IMPOSE_RELIGIOUS_TAXES_ENACTED_DESC">
+			<Text>
+				Amongst our conquered possessions are those who would refuse to practice our beliefs. Instead of flailing and executing them as they might better deserve, let us instead tax them for what they are worth.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]+2 [ICON_GOLD] Gold for each World Religion that has at least 1 follower in all cities.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_DECISIONS_JFD_VANDAL_TAXES">
+			<Text>JFD: Vandal Taxes</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_DECISIONS_JFD_VANDAL_TAXES_HELP">
+			<Text>+2 [ICON_GOLD] Gold for each World Religion that has at least 1 follower</Text>
+		</Row>
+		<!--SUKRITACT EVENTS-->
+		<!--St. Augustine-->
+		<Row Tag="TXT_KEY_EVENT_JFD_THE_VANDALS_ST_AUGUSTINE">
+			<Text>St. Augustine</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_THE_VANDALS_ST_AUGUSTINE_DESC">
+			<Text>
+				As we lay siege to the city of {1_CityName}, we have been asked by our foes to offer reprieve to an important religious leader, St. Augustine, who is trapped amidst our assault.[NEWLINE]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_THE_VANDALS_ST_AUGUSTINE_OUTCOME_1">
+			<Text>If they value his life, they will surrender the city!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_THE_VANDALS_ST_AUGUSTINE_OUTCOME_2">
+			<Text>We shall spare his life then, and see to it that he leaves the city unharmed.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_THE_VANDALS_ST_AUGUSTINE_OUTCOME_3">
+			<Text>He shall make a fine ransom. We must not harm him.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_THE_VANDALS_ST_AUGUSTINE_OUTCOME_RESULT_1">
+			<Text>[ICON_BULLET][COLOR_NEGATIVE_TEXT]Lose {1_Num} [ICON_PEACE] Faith[NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]50% chance {2_CityName} will immediately surrender with no warmonger penalty[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_THE_VANDALS_ST_AUGUSTINE_OUTCOME_RESULT_2">
+			<Text>[ICON_BULLET][COLOR_NEGATIVE_TEXT]{1_CityName} heals 20 damage[NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]Gain {2_Num} [ICON_PEACE] Faith[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_THE_VANDALS_ST_AUGUSTINE_OUTCOME_RESULT_3">
+			<Text>[ICON_BULLET][COLOR_NEGATIVE_TEXT]{1_CityName} heals 10 damage[NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]Gain {2_Num} [ICON_GOLD] Gold[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_THE_VANDALS_ST_AUGUSTINE_OUTCOME_RESULT_1_NOTIFICATION">
+			<Text>Our enemy did not surrender to spare the life of St. Augustine of {1_CityName}, and so our assault continues.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_THE_VANDALS_ST_AUGUSTINE_OUTCOME_RESULT_1_ALT_NOTIFICATION">
+			<Text>To spare the life of St. Augustine of {1_CityName}, our enemy has surrendered.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_THE_VANDALS_ST_AUGUSTINE_OUTCOME_RESULT_2_NOTIFICATION">
+			<Text>We have halted our assault on {1_CityName} so that St. Augustine might flee the siege.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_THE_VANDALS_ST_AUGUSTINE_OUTCOME_RESULT_3_NOTIFICATION">
+			<Text>We have halted our assault on {1_CityName} so that St. Augustine could be captured for ransom.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_WORLD_EVENT_THE_VANDALS_ST_AUGUSTINE_1">
+			<Text>{1_LeaderName} of {2_CivName} has slain St. Augustine of {3_CityName} in his besiegement of the city.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_WORLD_EVENT_THE_VANDALS_ST_AUGUSTINE_2">
+			<Text>{1_LeaderName} of {2_CivName} has allowed St. Augustine of {3_CityName} to flee his besiegement of the city unharmed.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_WORLD_EVENT_THE_VANDALS_ST_AUGUSTINE_3">
+			<Text>{1_LeaderName} of {2_CivName} has ransomed the life of St. Augustine of {3_CityName} in his besiegement of the city.</Text>
+		</Row>
+		<!--The Arian Heresy-->
+		<Row Tag="TXT_KEY_EVENT_JFD_THE_VANDALS_ARIAN_HERESY">
+			<Text>The Arian Heresy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_THE_VANDALS_ARIAN_HERESY_DESC">
+			<Text>
+				Ulfilas, a Gothic missionary from the east, has come to appeal to us the case of the heretic Arius. The teachings of Arius, known as Arianism, have been declared heretical by many of the religious empires in the world, but Ulfilas has appealed to us to defend them instead.[NEWLINE]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_THE_VANDALS_ARIAN_HERESY_OUTCOME_1">
+			<Text>Execute this heretic.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_THE_VANDALS_ARIAN_HERESY_OUTCOME_2">
+			<Text>We shall accept these teachings, and defend them as our own.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_THE_VANDALS_ARIAN_HERESY_OUTCOME_3">
+			<Text>Religion? Bah. Ask this priest how much his life is worth.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_THE_VANDALS_ARIAN_HERESY_OUTCOME_RESULT_1">
+			<Text>[ICON_BULLET][COLOR_POSITIVE_TEXT]Gain {1_Num} {2_Yield}[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_THE_VANDALS_ARIAN_HERESY_OUTCOME_RESULT_2">
+			<Text>[ICON_BULLET][COLOR_POSITIVE_TEXT]All cities adopt Arianism. If Arianism has not been founded, it will be founded in your [ICON_CAPITAL] Capital with randomly chosen beliefs.[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_THE_VANDALS_ARIAN_HERESY_OUTCOME_RESULT_3">
+			<Text>[ICON_BULLET][COLOR_POSITIVE_TEXT]Gain {1_Num} [ICON_GOLD] Gold[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_THE_VANDALS_ARIAN_HERESY_OUTCOME_RESULT_1_NOTIFICATION">
+			<Text>We have had the heretic Ulfilas put to death.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_THE_VANDALS_ARIAN_HERESY_OUTCOME_RESULT_2_NOTIFICATION">
+			<Text>We have accepted the teachings of Arius.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_THE_VANDALS_ARIAN_HERESY_OUTCOME_RESULT_3_NOTIFICATION">
+			<Text>We have extorted as much gold as we could from Ulfilas the missionary.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_WORLD_EVENT_THE_VANDALS_ARIAN_HERESY_1">
+			<Text>A missionary preaching the heretic teachings of Arius has been executed by {1_LeaderName} of {2_CivName}.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_WORLD_EVENT_THE_VANDALS_ARIAN_HERESY_2">
+			<Text>{1_LeaderName} of {2_CivName} has embraced the teachings of the heretic Arius.</Text>
+		</Row>
+		<!--VICEVIRTUOSO's WISH FOR THE WORLD-->
+		<Row Tag="TXT_KEY_PMMM_LEADER_MG_NAME_JFD_THE_VANDALS">
+			<Text>Eudocia</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

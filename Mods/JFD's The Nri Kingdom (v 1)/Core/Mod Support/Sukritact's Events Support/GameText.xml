@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_en_US>
+		<!-- Year Counting Ceremony -->
+		<Row Tag="TXT_KEY_EVENT_JFD_NRI_YEAR_COUNTING">
+			<Text>Igu Aro</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_NRI_YEAR_COUNTING_DESC">
+			<Text>
+				It is once again time for the Year Counting Ceremony: Igu Aro; whence all our loyal subjects pay tribute to our great spiritual guide and are unified in our benevolance. Let us rejoice and pass the yams![NEWLINE]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_NRI_YEAR_COUNTING_OUTCOME_1">
+			<Text>He who offers the greatest tribute shall have my blessing and some yams.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_NRI_YEAR_COUNTING_OUTCOME_RESULT_1">
+			<Text>[ICON_BULLET][COLOR_POSITIVE_TEXT]The city other than the capital with the highest [ICON_PEACE] Faith output begins celebrating 'We Love the King Day' for {1_Num} turns[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_NRI_YEAR_COUNTING_OUTCOME_RESULT_1_NOTIFICATION">
+			<Text>{1_CityName} has received our blessing for their great tribute to our unity.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_WORLD_EVENT_NRI_YEAR_COUNTING">
+			<Text>The Year Counting Ceremony begins in the {1_CivName}.</Text>
+		</Row>
+		<!-- Runaway Slaves -->
+		<Row Tag="TXT_KEY_EVENT_JFD_NRI_RUNAWAY_SLAVES">
+			<Text>Runaway Slaves</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_NRI_RUNAWAY_SLAVES_DESC">
+			<Text>Our reputation as an empire of unyielding peace and freedom has attracted a number of slaves from the City-State of {1_CityStateName} to come to our court seeking refuge. They ask that we free them of their servile bonds, and that we may let them live amongst our people.[NEWLINE]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_NRI_RUNAWAY_SLAVES_OUTCOME_1">
+			<Text>No thanks. Our relationship with {1_CityStateName} is too important.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_NRI_RUNAWAY_SLAVES_OUTCOME_RESULT_1">
+			<Text>[ICON_BULLET][COLOR_POSITIVE_TEXT]Gain {1_Num} [ICON_INFLUENCE] Influence with {2_CityStateName}[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_NRI_RUNAWAY_SLAVES_OUTCOME_RESULT_1_NOTIFICATION">
+			<Text>We have turned away runaway slaves from {1_CityStateName}, pleasing them immensely.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_NRI_RUNAWAY_SLAVES_OUTCOME_2">
+			<Text>Their bonds are broken. Let no man own these people so long as they are of Nri.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_NRI_RUNAWAY_SLAVES_OUTCOME_RESULT_2">
+			<Text>[ICON_BULLET][COLOR_NEGATIVE_TEXT]Lose {1_Num} [ICON_INFLUENCE] Influence with {2_CityStateName}[NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]+1 [ICON_CITIZEN] Population in the [ICON_CAPITAL] Capital[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_NRI_RUNAWAY_SLAVES_OUTCOME_RESULT_2_NOTIFICATION">
+			<Text>We have accepted the runaway slaves from {1_CityStateName} into our empire.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_NRI_RUNAWAY_SLAVES_OUTCOME_3">
+			<Text>Very well. But put them to work!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_NRI_RUNAWAY_SLAVES_OUTCOME_RESULT_3">
+			<Text>[ICON_BULLET][COLOR_NEGATIVE_TEXT]Lose {1_Num} [ICON_INFLUENCE] Influence with {2_CityStateName}[NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]Gain a free Worker Unit[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_NRI_RUNAWAY_SLAVES_OUTCOME_RESULT_3_NOTIFICATION">
+			<Text>We have accepted the runaway slaves from {1_CityStateName} into our empire and have put them straight to work.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

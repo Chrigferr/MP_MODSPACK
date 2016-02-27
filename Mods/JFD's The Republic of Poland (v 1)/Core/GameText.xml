@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 1/4/2014 8:45:16 AM -->
+<GameData>
+	<Language_en_US>
+		<!--POLAND (PILSUDSKI)-->
+		<!-- City Names -->
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_POLAND_PILSUDSKI_01">
+			<Text>Poznan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_POLAND_PILSUDSKI_02">
+			<Text>Lwow</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_POLAND_PILSUDSKI_03">
+			<Text>Wilno</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_POLAND_PILSUDSKI_04">
+			<Text>Lodz</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_POLAND_PILSUDSKI_05">
+			<Text>Lublin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_POLAND_PILSUDSKI_06">
+			<Text>Gdynia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_POLAND_PILSUDSKI_07">
+			<Text>Nowogrodek</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_POLAND_PILSUDSKI_08">
+			<Text>Stanislawow</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_POLAND_PILSUDSKI_09">
+			<Text>Brzesc nad Bugiem</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_POLAND_PILSUDSKI_10">
+			<Text>Tarnopol</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_POLAND_PILSUDSKI_11">
+			<Text>Kielce</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_POLAND_PILSUDSKI_12">
+			<Text>Luck</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_POLAND_PILSUDSKI_13">
+			<Text>Czestochowa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_POLAND_PILSUDSKI_14">
+			<Text>Katowice</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_POLAND_PILSUDSKI_15">
+			<Text>Bialystok</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_POLAND_PILSUDSKI_16">
+			<Text>Rzeszow</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_POLAND_PILSUDSKI_17">
+			<Text>Tarnow</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_POLAND_PILSUDSKI_18">
+			<Text>Plock</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_POLAND_PILSUDSKI_19">
+			<Text>Chorzow</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_POLAND_PILSUDSKI_20">
+			<Text>Sosnowiec</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_POLAND_PILSUDSKI_21">
+			<Text>Konin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_POLAND_PILSUDSKI_22">
+			<Text>Bydgoszcz</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_POLAND_PILSUDSKI_23">
+			<Text>Radom</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_POLAND_PILSUDSKI_24">
+			<Text>Przemysl</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_POLAND_PILSUDSKI_25">
+			<Text>Kalisz</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_POLAND_PILSUDSKI_26">
+			<Text>Sandomierz</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_POLAND_PILSUDSKI_27">
+			<Text>Ostroleka</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_POLAND_PILSUDSKI_28">
+			<Text>Zakopane</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_POLAND_PILSUDSKI_29">
+			<Text>Pila</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_POLAND_PILSUDSKI_30">
+			<Text>Moscice</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_POLAND_PILSUDSKI_31">
+			<Text>Nowy Sacz</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_POLAND_PILSUDSKI_32">
+			<Text>Krosno</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_POLAND_PILSUDSKI_33">
+			<Text>Jaslo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_POLAND_PILSUDSKI_34">
+			<Text>Sanok</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_POLAND_PILSUDSKI_35">
+			<Text>Wizna</Text>
+		</Row>
+		<!-- Spy Names -->
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_POLAND_PILSUDSKI_01">
+			<Text>Kwinto</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_POLAND_PILSUDSKI_02">
+			<Text>Natasza</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_POLAND_PILSUDSKI_03">
+			<Text>Dyzma</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_POLAND_PILSUDSKI_04">
+			<Text>Bór</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_POLAND_PILSUDSKI_05">
+			<Text>Kramer</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_POLAND_PILSUDSKI_06">
+			<Text>Pilecki</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_POLAND_PILSUDSKI_07">
+			<Text>Sosnowski</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_POLAND_PILSUDSKI_08">
+			<Text>Pola Negri</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_POLAND_PILSUDSKI_09">
+			<Text>Faustyna</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_POLAND_PILSUDSKI_10">
+			<Text>Hennelowa</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_POLAND_PILSUDSKI_11">
+			<Text>Wieniawa</Text>
+		</Row>
+		<!--PILSUDSKI-->
+		<Row Tag="TXT_KEY_LEADER_JFD_PILSUDSKI">
+			<Text>Pilsudski</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_PILSUDSKI_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_PILSUDSKI_TEXT_1">
+			<Text>Józef Klemens Piłsudski was a Polish statesman; Chief of State (1918–22), "First Marshal of Poland" (from 1920), and de facto leader (1926–35) of the Second Polish Republic, Minister of Military Affairs. From mid-World War I he had a major influence in Poland's politics, and was an important figure on the European political scene. He was the person most responsible for the creation of the Second Republic of Poland in 1918, 123 years after it had been taken over by Russia, Austria and Prussia. Under Piłsudski, Poland annexed Vilnius from Lithuania following Żeligowski's Mutiny but was unable to incorporate most of his Lithuanian homeland into the newly resurrected Polish State. He believed in a multicultural Poland with recognition of numerous ethnic and religious nationalities. His arch-rival Roman Dmowski by contrast called for a purified Poland based on Polish-speaking Catholics with little role for minorities.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_PILSUDSKI_LIVED">
+			<Text>1867 - 1935 AD</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_PILSUDSKI_NAME">
+			<Text>Pilsudski</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_PILSUDSKI_SUBTITLE">
+			<Text>Leader of Poland</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_PILSUDSKI_TITLES_1">
+			<Text>Chief of State[NEWLINE][NEWLINE]First Marshal of Poland</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_JFD_PILSUDSKI_DAWN">
+			<Text>Hail Marshal Pilsudski, Minister of Military Affairs and Chief of State of the Second Polish Republic! Your valiant actions and political foresight would secure your position as the saviour of the Polish nation, and that of a hero to be remembered by generations. At the turn of the 20th century, Poland had been under foreign rule for more than one hundred years. Thanks to your involvement in the creation of the Polish Legions during World War I, the cause of Polish independence would re-surface and captivate the hearts and minds of many. Despite your imprisonment at the hands of the Germans, and the dissolution of the Legions, Poland would declare independence on November 11th, 1918. In the course of six wars, after having been nearly defeated by the land-hungry Soviet armies, the re-emering country would firmly establish its borders and proceed to build a strong, industrially and culturally sound nation in the heart of Europe. However, not a state strong enough to withstand the onslaught that would come mere two decades later.[NEWLINE][NEWLINE]Marshal Pilsudski, the people of Poland call out your name and wish for you to return and lead them once again to glory and triumph. Will you answer the call, and assume supreme command once more? Will you once again put your life at stake for the independence of your country? Will you build a civilisation that will stand the test of time?</Text>
+		</Row>
+		<!--MIRACLE OF THE VISTULA-->
+		<Row Tag="TXT_KEY_TRAIT_JFD_POLAND_PILSUDSKI">
+			<Text>Units are trained faster and earn more XP from combat when fighting against a foe with a greater military force. After Industrialisation, Workers may build weaker Manufactories and Customs Houses.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_JFD_POLAND_PILSUDSKI_SHORT">
+			<Text>Miracle of the Vistula</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_PILSUDSKI_MILITARY_PRODUCTION">
+			<Text>JFD: Poland Military Production</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_POLAND_PILSUDSKI_CITY_VIEW_HELP">
+			<Text>[NEWLINE]+25% [ICON_PRODUCTION] Military Unit Production whilst at war with a stronger foe.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_PILSUDSKI">
+			<Text>Miracle of the Vistula</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_PILSUDSKI_HELP">
+			<Text>Earns 33% more XP from combat.</Text>
+		</Row>
+		<!--UHLAN-->
+		<Row Tag="TXT_KEY_PROMOTION_JFD_UHLAN_ARMOUR">
+			<Text>Bonus vs Armor</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_UHLAN_ARMOUR_HELP">
+			<Text>Attack Bonus vs Armor (10%)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_UHLAN_COMBUSTION">
+			<Text>Combustion Upgrade</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_UHLAN_COMBUSTION_HELP">
+			<Text>Gains additional [ICON_STRENGTH] Combat Strength after Combustion</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_UHLAN">
+			<Text>Legiony Polskie</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_UHLAN_HELP">
+			<Text>After defeating an enemy unit, may attack again and deals additional damage to enemy units in the area.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_LEG_UHLAN">
+			<Text>Legionary Uhlan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_JFD_LEG_UHLAN">
+			<Text>Fast Cavalry replacement which becomes stronger in later eras. May attack again and deals extra damage to nearby units after defeating an enemy in battle. Only Pilsudski's Poland may built it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_LEG_UHLAN_STRATEGY">
+			<Text>The Legionary Uhlan is a fast mounted unit that has greater movement than the Cavalry which it replaces. After defeating an enemy unit, the Uhlan may attack again and deals additional damage to any other enemy units in the area. Use them for rapid flanking attacks and fast withdrawal to avoid taking damage. Upon researching Combustion, this unit becomes stronger.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_LEG_UHLAN_TEXT">
+			<Text>The Polish Legions were created in 1914, as an independent unit within the Austro-Hungarian Army. With personnel hailing from Austrian-held part of Poland called Galicia, they moved out to meet the Russians in battle on Polish soil. In 1916 the Legions were officially renamed to Polish Auxiliary Force, but the old name remained customary, and with it, the kind of elan of the unit was carried over. Even though the force was dissolved in the course of the war, officers and soldiers of the Legion moved on to create the backbone of the Polish Army after regaining independence in 1918. Many of the veterans of the Legions became important military and political figures of the interwar period in Poland, and were highly respected. </Text>
+		</Row>
+		<!--PZL.23-->
+		<Row Tag="TXT_KEY_PROMOTION_JFD_PZL23">
+			<Text>Bonus vs. Land Units</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_PZL23_HELP">
+			<Text>Bonus vs. Land Units (40%)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_PZL23">
+			<Text>PZL.23</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_JFD_PZL23">
+			<Text>Fighter replacement that can operate further and is better at bombarding enemy land forces.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_PZL23_STRATEGY">
+			<Text>The PZL.23 is a Polish (Pilsudski) unique unit, which replaces the Fighter. Unlike the Fighter, it has better Range and has a combat bonus against Land Units. Use it as a fighter-bomber, capable against both the enemy's air force and land army.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_PZL23_TEXT">
+			<Text>The PZL.23 Karas ("Crucian"), was a Polish light bomber, designed in 1934 and introduced into the Polish Air Force in 1936. It was a full-metal monoplane. It took three crewmembers, could carry up to 700kg of bombs, and sported two machine guns for self-defence. Despite initial engine problems, the design became popular and was met with interest in the Romanian and Bulgarian Air Forces. Altohugh outnumbered in the German invasion of Poland in 1939 and obsolete in comparison to superior German designs, the PZL.23 aircraft carried out succesful attacks on German armoured columns. After the war, it became a symbol of pre-war Polish Air Force, and miniature modellers' favourite. </Text>
+		</Row>
+	</Language_en_US>
+</GameData>

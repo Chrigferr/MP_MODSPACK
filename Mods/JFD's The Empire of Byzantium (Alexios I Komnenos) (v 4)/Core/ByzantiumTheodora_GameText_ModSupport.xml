@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 5/30/2015 10:03:44 AM -->
+<GameData>
+	<Language_en_US>
+		<!--GAZEBO COMMUNITY BALANCE PATCH-->
+		<Row Tag="TXT_KEY_BUILDING_JFD_STOUDION_HELP_CBP">
+			<Text>+25% [ICON_GREAT_PEOPLE] Great People generation in this City.[NEWLINE][NEWLINE]Missionaries purchased in this city begin with +1 [ICON_MOVES] Movement and have no Sight Penalty. +2 [ICON_GOLD] Gold from [ICON_RES_CITRUS] Citrus and [ICON_RES_COCOA] Cocoa.[NEWLINE][NEWLINE]Does not require Fresh Water.</Text>
+		</Row>
+		<!--JFD HEALTH-->
+		<Row Tag="TXT_KEY_BUILDING_JFD_STOUDION_HELP_PIETY_HEALTH">
+			<Text>Missionaries purchased in this city begin with +1 [ICON_MOVES] Movement and have no Sight Penalty.[NEWLINE][NEWLINE]Each source of [ICON_RES_INCENSE] Incense and [ICON_RES_WINE] Wine worked by this City produce +1 [ICON_PEACE] Faith, +1 [ICON_CULTURE] Culture, and +1 [ICON_JFD_HEALTH] Health.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_STOUDION_HELP_PIETY_EXCE_HEALTH">
+			<Text>Missionaries purchased in this city begin with +1 [ICON_MOVES] Movement and have no Sight Penalty.[NEWLINE][NEWLINE]Each source of [ICON_RES_INCENSE] Incense, [ICON_RES_JFD_SAFFRON] Saffron, and [ICON_RES_WINE] Wine worked by this City produce +1 [ICON_PEACE] Faith, +1 [ICON_CULTURE] Culture, and +1 [ICON_JFD_HEALTH] Health.</Text>
+		</Row>
+		<!--JFD PIETY-->
+		<Row Tag="TXT_KEY_BUILDING_JFD_STOUDION_HELP_PIETY">
+			<Text>Missionaries purchased in this city begin with +1 [ICON_MOVES] Movement and have no Sight Penalty.[NEWLINE][NEWLINE]Each source of [ICON_RES_INCENSE] Incense and [ICON_RES_WINE] Wine worked by this City produce +1 [ICON_PEACE] Faith and +1 [ICON_CULTURE] Culture.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_STOUDION_STRATEGY_PIETY">
+			<Text>The unique Stoudion is Theodora's Byzantium's replacement for the Monastery, however, it contains a slot for a Great Work of Art. It benefits your Missionaries by granting then an additional [ICON_MOVES] Movement and removing their Sight Penalty when they are born. Ensure that you build Stoudions at your centres for religious propagation.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_STOUDION_HELP_PIETY_EXCE">
+			<Text>Missionaries purchased in this city begin with +1 [ICON_MOVES] Movement and have no Sight Penalty.[NEWLINE][NEWLINE]Each source of [ICON_RES_INCENSE] Incense, [ICON_RES_JFD_SAFFRON] Saffron, and [ICON_RES_WINE] Wine worked by this City produce +1 [ICON_PEACE] Faith and +1 [ICON_CULTURE] Culture.</Text>
+		</Row>
+		<!--SUKRITACT DECISIONS-->
+		<!--Renovate the Capital-->
+		<Row Tag="TXT_KEY_DECISIONS_JFD_BYZANTIUM_RENOVATE_CAPITAL">
+			<Text>Renovate the Capital</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JFD_BYZANTIUM_RENOVATE_CAPITAL_DESC">
+			<Text>
+				Our capital city has yet more potential to become the greatest city in the world. Let us transform our humble capital from its drab state into one of great splendour.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Byzantium (Theodora)
+				[NEWLINE][ICON_BULLET]May only be enacted from the beginning of the Medieval Era
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Num} [ICON_GOLD] Gold
+				[NEWLINE][ICON_BULLET]1 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]The Palace yields +15% [ICON_TOURISM] Tourism
+				[NEWLINE][ICON_BULLET]+2 [ICON_CULTURE] Culture from Stoudions
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JFD_BYZANTIUM_RENOVATE_CAPITAL_ENACTED_DESC">
+			<Text>
+				Our capital city has yet more potential to become the greatest city in the world. Let us transform our humble capital from its drab state into one of great splendour.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]The Palace yields +15% [ICON_TOURISM] Tourism
+				[NEWLINE][ICON_BULLET]+2 [ICON_CULTURE] Culture from Stoudions
+			</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

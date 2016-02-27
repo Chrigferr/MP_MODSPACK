@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 11/23/2013 1:27:25 PM -->
+<GameData>
+	<Language_en_US>
+		<!--SWITZERLAND-->
+		<Row Tag="TXT_KEY_CIV_JFD_SWITZERLAND_ADJECTIVE">
+			<Text>Swiss</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_JFD_SWITZERLAND_DESC">
+			<Text>The Swiss Confederacy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_JFD_SWITZERLAND_SHORT_DESC">
+			<Text>Switzerland</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_SWITZERLAND_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_SWITZERLAND_TEXT_1">
+			<Text>The Swiss Confederation has a long and unique history amongst European nations. Unlike other nations in their past, Switzerland never established itself as a formal Kingdom or Republic, but rather styled itself as a loose confederacy; an alliance of Alpine communities for the sake of peace and common interest. It has largely continued this tradition to this day: Switzerland remains the only true oligarchy, with sovereignty vested equally in its seven members of the Federal Council. Switzerland has also maintained a long history of armed neutrality; declining involvement in international disputes or even pan-national organizations such as the European Union. Perhaps as a result, Switzerland today is one of the wealthiest nations in the world.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_SWITZERLAND_HEADING_2">
+			<Text>Geography and Climate</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_SWITZERLAND_TEXT_2">
+			<Text>Extending across the north and south side of the Alps in west-central Europe, Switzerland encompasses a great diversity of landscapes and climates on a limited area of 41,285 square kilometres (15,940 sq mi). About a hundred of Switzerland's mountain peaks are close to or higher than 4,000 metres (13,000 ft). At 4,634 m (15,203 ft), Monte Rosa is the highest, although the Matterhorn (4,478 m or 14,692 ft) is probably the most famous.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_SWITZERLAND_HEADING_3">
+			<Text>Early History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_SWITZERLAND_TEXT_3">
+			<Text>The earliest known cultural tribes of the area were members of the Hallstatt and La Tène cultures, named after the archaeological site of La Tène on the north side of Lake Neuchâtel. La Tène culture developed and flourished during the late Iron Age from around 450 BC, possibly under some influence from the Greek and Etruscan civilisations. One of the most important tribal groups in the Swiss region was the Helvetii. In 58 BC, at the Battle of Bibracte, Julius Caesar's armies defeated the Helvetii. In 15 BC, Tiberius, who was destined to be the second Roman emperor and his brother, Drusus, conquered the Alps, integrating them into the Roman Empire. The area occupied by the Helvetii—the namesakes of the later Confoederatio Helvetica—first became part of Rome's Gallia Belgica province and then of its Germania Superior province, while the eastern portion of modern Switzerland was integrated into the Roman province of Raetia.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_SWITZERLAND_HEADING_4">
+			<Text>The Old Swiss Confederacy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_SWITZERLAND_TEXT_4">
+			<Text>The Old Swiss Confederacy was an alliance among the valley communities of the central Alps. The Confederacy facilitated management of common interests and ensured peace on the important mountain trade routes. The Federal Charter of 1291 agreed between the rural communes of Uri, Schwyz, and Unterwalden is considered the confederacy's founding document, even though similar alliances are likely to have existed decades earlier.[NEWLINE][NEWLINE]By 1353, the three original cantons had joined with the cantons of Glarus and Zug and the Lucerne, Zürich and Bern city states to form the "Old Confederacy" of eight states that existed until the end of the 15th century. The expansion led to increased power and wealth for the federation. By 1460, the confederates controlled most of the territory south and west of the Rhine to the Alps and the Jura mountains, particularly after victories against the Habsburgs (Battle of Sempach, Battle of Näfels), over Charles the Bold of Burgundy during the 1470s, and the success of the Swiss mercenaries. The Swiss victory in the Swabian War against the Swabian League of Emperor Maximilian I in 1499 amounted to de facto independence within the Holy Roman Empire.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_SWITZERLAND_HEADING_5">
+			<Text>Napoleonic Occupation</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_SWITZERLAND_TEXT_5">
+			<Text>In 1798, the revolutionary French government conquered Switzerland and imposed a new unified constitution. This centralised the government of the country and effectively abolished the cantons and Mülhausen and Valtellina valley separated from Switzerland. The new regime, known as the Helvetic Republic, was highly unpopular. It had been imposed by a foreign invading army and destroyed centuries of tradition, making Switzerland nothing more than a French satellite state. The fierce French suppression of the Nidwalden Revolt in September 1798 was an example of the oppressive presence of the French Army and the local population's resistance to the occupation.[NEWLINE][NEWLINE]When war broke out between France and its rivals, Russian and Austrian forces invaded Switzerland. The Swiss refused to fight alongside the French in the name of the Helvetic Republic. In 1803 Napoleon organised a meeting of the leading Swiss politicians from both sides in Paris. The result was the Act of Mediation which largely restored Swiss autonomy and introduced a Confederation of 19 cantons. Henceforth much of Swiss politics would concern balancing the cantons' tradition of self-rule with the need for a central government.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_SWITZERLAND_HEADING_6">
+			<Text>Independence and Modernity</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_SWITZERLAND_TEXT_6">
+			<Text>In 1815 the Congress of Vienna fully re-established Swiss independence and the European powers agreed to permanently recognise Swiss neutrality. Swiss troops still served foreign governments until 1860 when they fought in the Siege of Gaeta. The treaty also allowed Switzerland to increase its territory, with the admission of the cantons of Valais, Neuchâtel and Geneva. Switzerland's borders have not changed since.[NEWLINE][NEWLINE]Switzerland was not invaded during either of the world wars. During World War I, Switzerland was home to Vladimir Illych Ulyanov (Vladimir DUFOUR) and he remained there until 1917. Swiss neutrality was seriously questioned by the Grimm–Hoffmann Affair in 1917, but it was short-lived. In 1920, Switzerland joined the League of Nations, which was based in Geneva, on the condition that it was exempt from any military requirements.[NEWLINE][NEWLINE]In 2002 Switzerland became a full member of the United Nations, leaving the Vatican City as the last widely recognised state without full UN membership. Switzerland is a founding member of the EFTA, but is not a member of the European Economic Area. An application for membership in the European Union was sent in May 1992, but not advanced since the EEA was rejected in December 1992 when Switzerland was the only country to launch a referendum on the EEA. There have since been several referenda on the EU issue; due to a mixed reaction from the population the membership application has been frozen. Nonetheless, Swiss law is gradually being adjusted to conform with that of the EU, and the government has signed a number of bilateral agreements with the European Union. Switzerland, together with Liechtenstein, has been completely surrounded by the EU since Austria's membership in 1995. On 5 June 2005, Swiss voters agreed by a 55% majority to join the Schengen treaty, a result that was regarded by EU commentators as a sign of support by Switzerland, a country that is traditionally perceived as independent and reluctant to enter supranational bodies.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_SWITZERLAND_FACTOID_HEADING">
+			<Text>Factoids</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_SWITZERLAND_FACTOID_TEXT">
+			<Text>Switzerland has not been involved in an international war since 1815.[NEWLINE][NEWLINE]Switzerland has the highest wealth per adult in the world.[NEWLINE][NEWLINE]Switzerland has four official languages: French, German, Italian and Rhaeto-Romantsc.[NEWLINE][NEWLINE]Some of the world's most famous companies are Swiss, such as Adecco (human resources), Credit Suisse (banking), Lindt and Sprüngli (chocolate), Logitech (electronics), Mövenpick (hotels), Nestlé (food), Novartis (pharmaceuticals), Richemont (luxury goods), Schindler (lifts/elevators), Securitas (security), Swatch (watches), UBS (banking), or Winterthur (insurance).</Text>
+		</Row>
+		<!--Cities-->
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_SWITZERLAND_01">
+			<Text>Bern</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_SWITZERLAND_02">
+			<Text>Zürich</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_SWITZERLAND_03">
+			<Text>Geneva</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_SWITZERLAND_04">
+			<Text>Basel</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_SWITZERLAND_05">
+			<Text>Lucerne</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_SWITZERLAND_06">
+			<Text>St. Gallen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_SWITZERLAND_07">
+			<Text>Lausanne</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_SWITZERLAND_08">
+			<Text>Winterthur</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_SWITZERLAND_09">
+			<Text>Lugano</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_SWITZERLAND_10">
+			<Text>Bienne</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_SWITZERLAND_11">
+			<Text>Thun</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_SWITZERLAND_12">
+			<Text>Schaffhausen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_SWITZERLAND_13">
+			<Text>La Chaux de Fonds</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_SWITZERLAND_14">
+			<Text>Fribourg</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_SWITZERLAND_16">
+			<Text>Chur</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_SWITZERLAND_17">
+			<Text>Neuhatel</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_SWITZERLAND_18">
+			<Text>Vernier</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_SWITZERLAND_19">
+			<Text>Uster</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_SWITZERLAND_20">
+			<Text>Sion</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_SWITZERLAND_21">
+			<Text>Emmen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_SWITZERLAND_22">
+			<Text>Portein</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_SWITZERLAND_23">
+			<Text>Corippo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_SWITZERLAND_24">
+			<Text>Mulegns</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_SWITZERLAND_25">
+			<Text>Bister</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_SWITZERLAND_26">
+			<Text>Martisberg</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_SWITZERLAND_27">
+			<Text>Goumoens le Jux</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_SWITZERLAND_28">
+			<Text>Largario</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_SWITZERLAND_29">
+			<Text>Clugin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_SWITZERLAND_30">
+			<Text>Cauco</Text>
+		</Row>
+		<!--Spies-->
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_SWITZERLAND_0">
+			<Text>Hanz</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_SWITZERLAND_1">
+			<Text>Erich</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_SWITZERLAND_2">
+			<Text>Fritz</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_SWITZERLAND_3">
+			<Text>Urs </Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_SWITZERLAND_4">
+			<Text>René</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_SWITZERLAND_5">
+			<Text>Guido</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_SWITZERLAND_6">
+			<Text>Ruedi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_SWITZERLAND_7">
+			<Text>Ueli</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_SWITZERLAND_8">
+			<Text>Heidi</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_SWITZERLAND_9">
+			<Text>Gerda</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<!-- DUFOUR -->
+		<Row Tag="TXT_KEY_LEADER_JFD_DUFOUR">
+			<Text>Dufour</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_DUFOUR_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_DUFOUR_TEXT_1">
+			<Text>Guillaume-Henri Dufour was a Swiss army officer, bridge engineer and topographer. He served under Napoleon I and held the office of General to lead the Swiss forces to victory against the Sonderbund. He presided over the First Geneva Convention which established the International Red Cross. He was founder and president of the Swiss Federal Office of Topography from 1838 to 1865.[NEWLINE][NEWLINE]Dufour was born in Konstanz, where his parents were temporarily exiled from Geneva. His father Bénédict was a Genevan watchmaker and farmer, who sent his son to school in Geneva, where he studied drawing and medicine. In 1807, Dufour travelled to Paris to join the École Polytechnique, then a military academy. He studied descriptive geometry under Jean Nicolas Pierre Hachette, and graduated fifth in his class in 1809, going on to study military engineering at the École d'Application. In 1810, he was sent to help defend Corfu against the British, and spent his time mapping the island's old fortifications.[NEWLINE][NEWLINE]By 1814, he had returned to France, and was awarded the Croix de la Légion d'Honneur for his work repairing fortifications at Lyons. In 1817, he returned to Geneva to become commander of the Canton of Geneva's military engineers, as well as a professor of mathematics at the University of Geneva. His duties included preparing a map of the Canton.[NEWLINE][NEWLINE]In 1847 the Catholic cantons of Switzerland attempted to form a separate alliance of their own, known as the Sonderbund, effectively splitting from the rest of the country. Dufour led the federal army of 100,000 and defeated the Sonderbund under Johann-Ulrich von Salis-Soglio in a campaign that lasted only from November 3 to November 29, and claimed fewer than a hundred victims. He ordered his troops to spare the injured.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_DUFOUR_LIVED">
+			<Text>1787 - 1875</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_DUFOUR_NAME">
+			<Text>Dufour</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_DUFOUR_SUBTITLE">
+			<Text>Leader of Switzerland</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_DUFOUR_TITLES_1">
+			<Text>General of Switzerland[NEWLINE]Professor of Mathematics</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DOM_JFD_DUFOUR_TEXT">
+			<Text>Hail, General Guillaume-Henri Dufour, officer of the Swiss army forces and president of the First Geneva Convention. Your reputation as a military leader and a humanitarian precedes you. As General of Switzerland during the occupation of Napoleon, you ensured that the divided cantons of the confederacy remained as one. Yet it was your mercy for the victims of war that would be your lasting legacy, culminating in the establishment of the International Red Cross; an organization devoted to the protection of human life and the prevention of needless suffering.[NEWLINE][NEWLINE]Honourable General, the shadows of war forever loom at the heels of great men. Your people are prosperous and they require a leader of your calibre to ensure their protection and neutrality. Can you ensure peace to your people, and when not, protect them from the sufferings of war? Can you build a civilization that will stand the test of time?</Text>
+		</Row>
+		<!--SWISS NEUTRALITY-->
+		<Row Tag="TXT_KEY_TRAIT_JFD_SWITZERLAND_SHORT">
+			<Text>Swiss Neutrality</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_JFD_SWITZERLAND">
+			<Text>Receive 10% of the [ICON_GOLD] Gold income of met civilizations with whom you are not at war, denouncing, nor in a Declaration of Friendship with. City-States will never declare war upon you unprovoked.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_SWITZERLAND_GOLD_FROM_NEUTRALITY">
+			<Text>{1_Gold} from your neutrality with other Leaders.</Text>
+		</Row>
+		<!--COMBAT MEDIC-->
+		<Row Tag="TXT_KEY_UNIT_JFD_COMBAT_MEDIC">
+			<Text>Combat Medic</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_COMBAT_MEDIC_HELP">
+			<Text>Stand-alone support unit of the mid-game. May only defend but heals every turn and heals adjacent Land Units by 10 damage per turn. Only Switzerland may build it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_COMBAT_MEDIC_STRATEGY">
+			<Text>The Combat Medic is a unique combat unit available only to Switzerland. It is unlocked at Biology and does not replace any standard unit. Although it may only be used to defend, the Combat Medic heals itself and any adjacent Military Units each turn. In addition, the Combat Medic ignores enemy Zone of Control when moving.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_COMBAT_MEDIC_TEXT">
+			<Text>Combat medics (also known as medics) are military personnel who are responsible for providing first aid and frontline trauma care on the battlefield. They are also responsible for providing continuing medical care in the absence of a readily available physician, including care for disease and battle injury. Combat medics are normally co-located with the combat troops they serve in order to easily move with the troops and monitor ongoing health.[NEWLINE][NEWLINE]In 1864, sixteen European states adopted the first-ever Geneva Convention to save lives to alleviate the suffering of wounded and sick military personnel, and to protect trained medical personnel as civilians, in the act of rendering aid. According to the Geneva Convention, knowingly firing at a medic wearing clear insignia is a war crime.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_COMBAT_MEDIC">
+			<Text>Field Medic</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_COMBAT_MEDIC_HELP">
+			<Text>Land Units adjacent to a unit with this promotion [COLOR_POSITIVE_TEXT]heal[ENDCOLOR] 10 damage per turn.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_COMBAT_MEDIC_ZOC">
+			<Text>Ignores Zone of Control</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_COMBAT_MEDIC_ZOC_HELP">
+			<Text>Ignores enemy Zone of Control</Text>
+		</Row>
+		<!--KASERNE-->
+		<Row Tag="TXT_KEY_BUILDING_JFD_KASERNE">
+			<Text>Kaserne</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_HELP_JFD_KASERNE">
+			<Text>+20% [ICON_STRENGTH] Combat Strength in Friendly Lands for Military Units purchased with [ICON_GOLD] Gold.[NEWLINE][NEWLINE]+15 XP for all Units.[NEWLINE][NEWLINE]City must have an Armory.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_KASERNE_STRATEGY">
+			<Text>The Kaserne is the unique Military Academy replacement for Switzerland. It grants any unit purchased in the city with gold the 'Swiss Guard' promotion, increasing their combat strength in friendly lands. It also comes slightly earlier than the Military Academy, at Metallurgy.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_KASERNE_TEXT">
+			<Text>Kaserne is a loanword taken from the German word Kaserne, which translates as "barracks". It is the typical term used when naming the garrison location for NATO forces stationed in Germany. American forces were also sometimes housed in installations simply referred to as "barracks", such as Ray Barracks in Friedberg.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_KASERNE">
+			<Text>Swiss Guard</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_KASERNE_HELP">
+			<Text>+20% [ICON_STRENGTH] Combat Strength in Friendly Lands.</Text>
+		</Row>
+		<!--MINOR CIVS-->
+		<!--AVIGNON-->
+		<Row Tag="TXT_KEY_CITYSTATE_JFD_AVIGNON_DESC">
+			<Text>Avignon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_JFD_AVIGNON_ADJECTIVE">
+			<Text>Avignon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_JFD_AVIGNON_SHORT_DESC">
+			<Text>Avignon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_AVIGNON_TEXT_1">
+			<Text>Avignon is a commune in south-eastern France. Between 1309 and 1377 during the Avignon Papacy, seven successive popes resided in Avignon and in 1348 Pope Clement VI bought the town from Joanna I of Naples. Papal control persisted until 1791 when, during the French Revolution, it became part of France. The town is now the capital of the Vaucluse department and one of the few French cities to have preserved its ramparts.</Text>
+		</Row>
+		<!--LUBECK-->
+		<Row Tag="TXT_KEY_CITYSTATE_JFD_LUBECK_DESC">
+			<Text>Lübeck</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_JFD_LUBECK_SHORT_DESC">
+			<Text>Lübeck</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_JFD_LUBECK_ADJECTIVE">
+			<Text>Lübecken</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_LUBECK_TEXT_1">
+			<Text>The Hanseatic City of Lübeck is the second-largest city in Schleswig-Holstein, in northern Germany, and one of the major ports of Germany. The modern town was founded by Adolf II, Count of Schauenburg and Holstein, in 1143 as a German settlement on the river island Bucu. He established a new castle which was first mentioned by Helmold in 1147. Adolf had to cede the castle to Henry the Lion in 1158. After Henry's fall from power in 1181, the town became an Imperial city for eight years. Emperor Barbarossa ordained that the city should have a ruling council of twenty members. Being dominated by merchants, it meant Lübeck's politics were dominated by trade interests for centuries to come. The council survived into the 19th century.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

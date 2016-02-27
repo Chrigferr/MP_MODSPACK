@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 11/23/2013 1:27:25 PM -->
+<GameData>
+	<Language_en_US>
+		<!--RUSSIA-HUNGARY-->
+		<Row Tag="TXT_KEY_CIV_JFD_RUSSIA_ALEXANDER_I_ADJECTIVE">
+			<Text>Alexandrian</Text>
+		</Row>
+		<!--Cities-->
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_RUSSIA_ALEXANDER_I_1">
+			<Text>St. Petersburg</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_RUSSIA_ALEXANDER_I_2">
+			<Text>Moscow</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_RUSSIA_ALEXANDER_I_3">
+			<Text>Kiev</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_RUSSIA_ALEXANDER_I_4">
+			<Text>Novgorod</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_RUSSIA_ALEXANDER_I_5">
+			<Text>Kharkov</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_RUSSIA_ALEXANDER_I_6">
+			<Text>Kazan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_RUSSIA_ALEXANDER_I_7">
+			<Text>Simferopol</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_RUSSIA_ALEXANDER_I_8">
+			<Text>Smolensk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_RUSSIA_ALEXANDER_I_9">
+			<Text>Kaluga</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_RUSSIA_ALEXANDER_I_10">
+			<Text>Minsk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_RUSSIA_ALEXANDER_I_11">
+			<Text>Vitebsk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_RUSSIA_ALEXANDER_I_12">
+			<Text>Borodino</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_RUSSIA_ALEXANDER_I_13">
+			<Text>Maloyaroslavets</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_RUSSIA_ALEXANDER_I_14">
+			<Text>Borisov</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_RUSSIA_ALEXANDER_I_15">
+			<Text>Fili</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_RUSSIA_ALEXANDER_I_16">
+			<Text>Vilno</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_RUSSIA_ALEXANDER_I_17">
+			<Text>Riga</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_RUSSIA_ALEXANDER_I_18">
+			<Text>Revel</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_RUSSIA_ALEXANDER_I_19">
+			<Text>Helsingfors</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_RUSSIA_ALEXANDER_I_20">
+			<Text>Belostok</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_RUSSIA_ALEXANDER_I_21">
+			<Text>Warsaw</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_RUSSIA_ALEXANDER_I_22">
+			<Text>Yekaterinoslav</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_RUSSIA_ALEXANDER_I_23">
+			<Text>Tula</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_RUSSIA_ALEXANDER_I_24">
+			<Text>Nizhniy Novgorod</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_RUSSIA_ALEXANDER_I_25">
+			<Text>Rostov-on-Don</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_RUSSIA_ALEXANDER_I_26">
+			<Text>Stavropol</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_RUSSIA_ALEXANDER_I_27">
+			<Text>Tsaritsyn</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_RUSSIA_ALEXANDER_I_28">
+			<Text>Yekaterinburg</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_RUSSIA_ALEXANDER_I_29">
+			<Text>Akhtiar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_RUSSIA_ALEXANDER_I_30">
+			<Text>Yekaterinodar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_RUSSIA_ALEXANDER_I_31">
+			<Text>Tobolsk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_RUSSIA_ALEXANDER_I_32">
+			<Text>Omsk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_RUSSIA_ALEXANDER_I_33">
+			<Text>Tomsk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_RUSSIA_ALEXANDER_I_34">
+			<Text>Krasnoyarsk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_RUSSIA_ALEXANDER_I_35">
+			<Text>Irkutsk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_RUSSIA_ALEXANDER_I_36">
+			<Text>Yakutsk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_RUSSIA_ALEXANDER_I_37">
+			<Text>Okhotsk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_RUSSIA_ALEXANDER_I_38">
+			<Text>Petropavlovsk </Text>
+		</Row>
+		<!--ALEXANDER I-->
+		<Row Tag="TXT_KEY_LEADER_JFD_ALEXANDER_I">
+			<Text>Alexander I</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_ALEXANDER_I_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_ALEXANDER_I_TEXT_1">
+			<Text>Alexander I reigned as Emperor of Russia during the period of the Napoleonic Wars, and as the first Russian King of Poland and the first Russian Grand Duke of Finland. He was born in Saint Petersburg to Grand Duke Paul Petrovich, later Emperor Paul I, and succeeded to the throne after his father was murdered.[NEWLINE][NEWLINE]As prince and emperor, Alexander often used liberal rhetoric, but continued Russia's absolutist policies in practice. In the first years of his reign, he initiated some minor social reforms and, in 1803-04, major, liberal educational reforms. He promised constitutional reforms and a desperately needed reform of serfdom in Russia but made no concrete proposals and nothing happened. In the second half of his reign he was increasingly arbitrary, reactionary and fearful of plots against him; he ended many earlier reforms. He purged schools of foreign teachers, as education became more religiously oriented as well as politically conservative.[NEWLINE][NEWLINE]In foreign policy, he switched Russia back and forth four times in 1804-1812 from neutral peacemaker to anti-Napoleon to an ally of Napoleon, winding up in 1812 as Napoleon’s enemy. In 1805, he joined Britain in the War of the Third Coalition against Napoleon, but after the massive defeat at the Battle of Austerlitz he switched and formed an alliance with Napoleon by the Treaty of Tilsit (1807) and joined Napoleon's Continental System. He fought a small-scale naval war against Britain, 1807-12. He and Napoleon could never agree, especially about Poland, and the alliance collapsed by 1810. The tsar's greatest triumph came in 1812 as Napoleon's invasion of Russia proved a total disaster for the French. As part of the winning coalition against Napoleon he gained some spoils in Finland and Poland. He formed the Holy Alliance to suppress revolutionary movements in Europe that he saw as immoral threats to legitimate Christian monarchs. He helped Austria's Klemens von Metternich in suppressing all national and liberal movements.[NEWLINE][NEWLINE]His reign also saw the conquering and forced cession of what is now Georgia, Dagestan, and much of Azerbaijan from Persia into the Russian Empire, following the Russo-Persian War (1804-1813) and the outcoming Treaty of Gulistan[NEWLINE][NEWLINE]Alexander died without issue and after great confusion that included the failed Decembrist revolt of liberal army officers, he was succeeded by his younger brother, Nicholas I.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_ALEXANDER_I_NAME">
+			<Text>Alexander I</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_ALEXANDER_I_SUBTITLE">
+			<Text>Leader of Russia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_ALEXANDER_I_TITLES_1">
+			<Text>Emperor and Autocrat of All the Russias[NEWLINE][NEWLINE]King of Poland[NEWLINE][NEWLINE]Grand Duke of Finland</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_ALEXANDER_I_LIVED">
+			<Text>1801 – 1825</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DAWN_RUSSIA_ALEXANDER_I_TEXT">
+			<Text>Alexander I, Emperor of All the Russias and King of Poland, may good health and pious heart keep you. As founder to the Holy Alliance between Russia, Prussia, and Austria, you sought to challenge the otherwise homogenous revolution that was sweeping through Europe. Although a heartful reformer, you stood firm in the face of wreckless change, and defended with your allies the sacred rights of Europe against the belligerence of Napoleon of France and the republican menace.[NEWLINE][NEWLINE]O' blessed Emperor, the fires of the French Revolution yet poison the hearts of common men. Can you bear the duties of sovereign and defend the ancient spirit of your motherland? Can you face your foes in battle and halt the advances of their heresy? Can you build a civilization that can stand the test of time?</Text>
+		</Row>
+		<!--HOLY ALLIANCE-->
+		<Row Tag="TXT_KEY_TRAIT_JFD_RUSSIA_ALEXANDER_I_SHORT">
+			<Text>Holy Alliance</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_JFD_RUSSIA_ALEXANDER_I">
+			<Text>When declaring friendship, Russia and their friend lose [ICON_RESISTANCE] Resistance faster and have increased religious pressure. Units fighting in land belonging to a friend earn +30% more XP from combat and heal +10 damage per turn.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_RUSSIA_ALEXANDER_I">
+			<Text>JFD: Russia (Alexander I)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_RUSSIA_ALEXANDER_I_HELP">
+			<Text>+10% Religious Pressure</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_RUSSIA_ALEXANDER_I_CITY_VIEW_HELP">
+			<Text>[NEWLINE]+{1_Num}% Religious Pressure from Friendships.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_RUSSIA_ALEXANDER_I_OTHER_CITY_VIEW_HELP">
+			<Text>[NEWLINE]+20% Religious Pressure from Friendship with Alexander I of Russia.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_HOLY_ALLIANCE">
+			<Text>Holy Alliance</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_HOLY_ALLIANCE_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]Heals[ENDCOLOR] 10 damage per turn and earns 30% more XP from combat whilst in the borders of a friend.</Text>
+		</Row>
+		<!--LEIB GVARDIA-->
+		<Row Tag="TXT_KEY_UNIT_JFD_LEIB_GVARDE">
+			<Text>Leib-Gvardia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_LEIB_GVARDE_HELP">
+			<Text>Cheap Infantry Unit of the Industrial Era that can respond quickly to a threat. It gains +1 [ICON_MOVES] Movement when beginning its turn Fortified; increased to +2 if adjacent to another Leib-Gvardia.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_LEIB_GVARDE_STRATEGY">
+			<Text>This unique Rifleman is useful for covering large distances. It gains an additional [ICON_MOVES] Move if beginning its turn Fortified, and this bonus is increased to +2 if it begins next to another Leib-Gvardia. Only Alexander I's Russia may build it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_LEIB_GVARDE_TEXT">
+			<Text>Historically, the Lifeguards were the most ornate unit of the emperor’s entire army. Hand-picked for looks and stature, they even had their jackets padded around the chest and shoulders to enhance their impressive physiques. Generally recruited from among the nobility, these men soon earned themselves an unfavourable reputation amongst other European nations for their conduct during a banquet held in their honour. Napoleon’s own guards were appalled to see the Russians tearing meat with their hands, draining glasses of wine in one gulp, and even vomiting to make room for further excesses!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_LEIB_GVARDE">
+			<Text>Emperor's Guard</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_LEIB_GVARDE_HELP">
+			<Text>+1 [ICON_MOVES] Movement if beginning Fortified. Bonus increased to +2 if next to another Leib-Gvardia.</Text>
+		</Row>
+		<!--LIRCORNE-->
+		<Row Tag="TXT_KEY_UNIT_JFD_LICORNE">
+			<Text>Licorne</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_LICORNE_HELP">
+			<Text>Siege Unit that is better against Gun Units than it is against Cities. This unit has a chance to withdraw before an enemy melee attack can occur. Only Russia may built it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_LICORNE_STRATEGY">
+			<Text>The Licorne is the unique Cannon replacement for Alexander I's Russia. It has a smaller bonus vs. Cities (150 instead of 200), but gains a 33% bonus vs. Gun Units. In addition, it possesses a 50% chance to withdraw before a melee attack can occur against it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_LICORNE_TEXT">
+			<Text>Licorne is the french name given to the Russian 'unicorn' cannons. The first unicorn was cast by Andrey Chokhov, a Russian gun founder who began his career during the reign of Ivan the Terrible (1547-84). He supervised the creation of many of Russia’s most famous artillery pieces including the behemoth “Tsar Pushka”, or Tsar Cannon. This masterpiece was commissioned by Tsar Feodor and weighed a whopping 38 metric tons. It originally sat on a wooden carriage that was later destroyed during Napoleon’s attack on Moscow in 1812. It now sits in the Kremlin next to the “Tsar Bell”, the biggest bell ever made but never rung.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_LICORNE">
+			<Text>Withdraw Before Melee</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_LICORNE_HELP">
+			<Text>Unit may withdraw when faced with melee attack. Chance of withdrawal decreased against fast enemy units or if there are limited open tiles behind the unit.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_LICORNE_GUN">
+			<Text>Bonus vs. Gun Units</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_LICORNE_GUN_HELP">
+			<Text>+33% [ICON_STRENGTH] Combat Strength vs. Gun Units.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_LICORNE_CITY">
+			<Text>Bonus vs Cities (150)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_LICORNE_CITY_HELP">
+			<Text>+150% Bonus vs Cities.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

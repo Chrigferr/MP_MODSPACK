@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 11/23/2013 1:27:25 PM -->
+<GameData>
+	<Language_en_US>
+		<!-- JFD's EXPLORATION CONTINUED EXPANDED -->
+		<!--England-->
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_ENGLAND_HENRY_01">
+			<Text>Henrytown</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_ENGLAND_HENRY_02">
+			<Text>Kingston</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_ENGLAND_HENRY_03">
+			<Text>Sydney</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_ENGLAND_HENRY_04">
+			<Text>Gibraltar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_ENGLAND_HENRY_05">
+			<Text>Nelson</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_ENGLAND_HENRY_06">
+			<Text>Russel</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_ENGLAND_HENRY_07">
+			<Text>Freetown</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_ENGLAND_HENRY_08">
+			<Text>Plymouth</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_ENGLAND_HENRY_09">
+			<Text>Roanoke</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_ENGLAND_HENRY_10">
+			<Text>St. George</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_ENGLAND_HENRY_11">
+			<Text>St. John</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_ENGLAND_HENRY_12">
+			<Text>Salem</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_ENGLAND_HENRY_13">
+			<Text>Boston</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_ENGLAND_HENRY_14">
+			<Text>Windsor</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_ENGLAND_HENRY_15">
+			<Text>Abidjan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_ENGLAND_HENRY_16">
+			<Text>Libreville</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_ENGLAND_HENRY_17">
+			<Text>Saybrook</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_ENGLAND_HENRY_18">
+			<Text>Providence</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_ENGLAND_HENRY_19">
+			<Text>Cape Town</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_ENGLAND_HENRY_20">
+			<Text>Accra</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_ENGLAND_HENRY_21">
+			<Text>Lagos</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_ENGLAND_HENRY_22">
+			<Text>Victoria</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_ENGLAND_HENRY_23">
+			<Text>Mombasa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_ENGLAND_HENRY_24">
+			<Text>Maseru</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_ENGLAND_HENRY_25">
+			<Text>Wellington</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_ENGLAND_HENRY_26">
+			<Text>Natal</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_ENGLAND_HENRY_27">
+			<Text>Pretoria</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_ENGLAND_HENRY_28">
+			<Text>Bloemfontein</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_ENGLAND_HENRY_29">
+			<Text>Codrington</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_ENGLAND_HENRY_30">
+			<Text>Kuching</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_ENGLAND_HENRY_31">
+			<Text>Rangoon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_ENGLAND_HENRY_32">
+			<Text>Colombo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_ENGLAND_HENRY_33">
+			<Text>Stanley</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_ENGLAND_HENRY_34">
+			<Text>Jesselton</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_ENGLAND_HENRY_35">
+			<Text>Singapore</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_ENGLAND_HENRY_36">
+			<Text>Sandakan</Text>
+		</Row>
+		<!-- JFD's PIETY & PRESTIGE-->
+		<!--Dieu et Mon Droit-->
+		<Row Tag="TXT_KEY_TRAIT_JFD_HENRY_ENGLAND_PIETY">
+			<Text>A 'We Love the King Day' begins in all cities whenever you capture an enemy city or adopt a new Social Policy. Cities celebrating 'WLtKD' always follow your State Religion and have increased [ICON_GREAT_PEOPLE] Great People generation.</Text>
+		</Row>
+		<!-- RYOGA's UNIQUE CULTURAL INFLUENCE -->
+		<Row Tag="TXT_KEY_GENERIC_JFD_ENGLAND_HENRY_INFLUENTIAL_ON_AI_1">
+			<Text>Our people are now divorcing their wives left, right and centre, and engaging in wreckless jousting competitions - sometimes at the same time! We're worried the rest of the world will also succumb to the influence of your culture.</Text>
+		</Row>
+		<!-- SUKRITACT's DECISIONS -->
+		<!--Dissolve the Monasteries-->
+		<Row Tag="TXT_KEY_DECISIONS_JFD_ENGLAND_HENRY_DISSOLVE_MONASTERIES">
+			<Text>Dissolve the Monasteries</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JFD_ENGLAND_HENRY_DISSOLVE_MONASTERIES_DESC">
+			<Text>
+				What only stands now in the way of our religious authority are those layabout monks who would remain loyal to their abominable heresies, and who would deny God's charge of I as Supreme Head of the Churches of England and of Ireland. They must, therefore, be suppressed by any means necessary.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be England (Henry VIII)
+				[NEWLINE][ICON_BULLET]May only be enacted from the beginning of the Medieval Era
+				[NEWLINE][ICON_BULLET]Must have enacted "Enact the Statute in Restraint of Appeals"
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]2 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE][ICON_BULLET]All Monasteries in the empire are destroyed
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]{1_Num} {2_YieldType}
+				[NEWLINE][ICON_BULLET]{3_Num} [ICON_GOLD] Gold
+				[NEWLINE][NEWLINE][COLOR_POSITIVE_TEXT]Note: The {2_YieldType} and [ICON_GOLD] Gold rewards increase for every Monastery destroyed from this decision
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JFD_ENGLAND_HENRY_DISSOLVE_MONASTERIES_ENACTED_DESC">
+			<Text>
+				What only stands now in the way of our religious authority are those layabout monks who would remain loyal to their abominable heresies, and who would deny God's charge of I as Supreme Head of the Churches of England and of Ireland. They must, therefore, be suppressed by any means necessary.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Lump sum of {1_YieldType}
+				[NEWLINE]{ICON_BULLET]Lump sum of [ICON_GOLD] Gold
+			</Text>
+		</Row>
+		<!--Enact the Statute in Restraint of Appeals-->
+		<Row Tag="TXT_KEY_DECISIONS_JFD_ENGLAND_HENRY_RESTRAINT_OF_APPEALS">
+			<Text>Enact the Statute in Restraint of Appeals</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JFD_ENGLAND_HENRY_RESTRAINT_OF_APPEALS_DESC">
+			<Text>By the goodness and sufferance of Almighty God, with plenary, whole, and entire power, pre-eminence, authority... I, Sovereign of England, promulgate this degree that this Empire shall be governed by one Supreme Head and Sovereign having the dignity and royal estate of the imperial Crown, and that no person or persons shall appeal to any authority greater than the authority of the Sovereign of England, lest they shall incur the dangers, pains, and penalties therein.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be England (Henry VIII)
+				[NEWLINE][ICON_BULLET]May only be enacted from the beginning of the Medieval Era
+				[NEWLINE][ICON_BULLET]Must not have founded a religion
+				[NEWLINE][ICON_BULLET]{1_ReligionReq}
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{2_Num} {3_YieldType}
+				[NEWLINE][ICON_BULLET]1 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Founds a new religion, with the same tenets as those found in {4_ReligionType}
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JFD_ENGLAND_HENRY_RESTRAINT_OF_APPEALS_ENACTED_DESC">
+			<Text>
+				By the goodness and sufferance of Almighty God, with plenary, whole, and entire power, pre-eminence, authority... I, King of England, promulgate this degree that this Empire shall be governed by one Supreme Head and King having the dignity and royal estate of the imperial Crown, and that no person or persons shall appeal to any authority greater than the authority of the King of England, lest they shall incur the dangers, pains, and penalties therein.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Founds a new religion, with the same tenets as those found in {1_ReligionType}
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WORLD_EVENT_JFD_ENGLAND_HENRY_RESTRAINT_OF_APPEALS">
+			<Text>Henry VIII has declared himself Supreme Head of all religious matters within the {1_CivName}.</Text>
+		</Row>
+		<!-- SUKRITACT's EVENTS -->
+		<!-- Failure to Produce a Male Heir -->
+		<Row Tag="TXT_KEY_EVENT_JFD_HENRY_VIII_HEIR_FAIL">
+			<Text>Failure to Produce a Male Heir</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_HENRY_VIII_HEIR_FAIL_DESC">
+			<Text>
+				Our darling Queen has once again disappointed us with the bearing of a daughter. Whilst this daughter might have some use in the court of one of our friends, we need a strong, male heir with whom to ensure the continuation of our Tudor Dynasty and of our control over the English crown.[NEWLINE]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_HENRY_VIII_HEIR_FAIL_OUTCOME_1">
+			<Text>Marry this daughter off, rid my sight of this wife.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_HENRY_VIII_HEIR_FAIL_OUTCOME_2">
+			<Text>As her loyal husband, I can but only try again.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_HENRY_VIII_HEIR_FAIL_OUTCOME_3">
+			<Text>If only we could annul this marriage which is clearly false...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_HENRY_VIII_HEIR_FAIL_OUTCOME_RESULT_1">
+			<Text>[ICON_BULLET][COLOR_NEGATIVE_TEXT]Lose {1_Num} [ICON_GOLDEN_AGE] Golden Age points[NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]Gain 1 [ICON_MAGISTRATES] Magistrate[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_HENRY_VIII_HEIR_FAIL_OUTCOME_RESULT_2">
+			<Text>[ICON_BULLET][COLOR_POSITIVE_TEXT]Gain {1_Num} {2_YieldType}[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_HENRY_VIII_HEIR_FAIL_OUTCOME_RESULT_3">
+			<Text>[ICON_BULLET][COLOR_NEGATIVE_TEXT]Nothing[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HENRY_VIII_HEIR_FAIL_OUTCOME_RESULT_1_NOTIFICATION">
+			<Text>We have married off our new daughter, and sent our unhelpful wife to the chopping block.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HENRY_VIII_HEIR_FAIL_OUTCOME_RESULT_2_NOTIFICATION">
+			<Text>As her loyal husband, we have pledged to remain faithful to our wife.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HENRY_VIII_HEIR_FAIL_OUTCOME_RESULT_3_NOTIFICATION">
+			<Text>Regretfully, it is forbidden to divorce in our faith. What an inconvenience...</Text>
+		</Row>
+		<!-- An Heir is Born! -->
+		<Row Tag="TXT_KEY_EVENT_JFD_HENRY_VIII_HEIR_SUCCESS">
+			<Text>An Heir is Born!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_HENRY_VIII_HEIR_SUCCESS_DESC">
+			<Text>Our darling Queen has graced us with a son and heir with whom to continue the Tudor dynasty! God has seen fit to bless our endeavours, and we, His humble servant, are grateful.[NEWLINE]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_HENRY_VIII_HEIR_SUCCESS_OUTCOME_1">
+			<Text>The Kingdom shall rejoice!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_HENRY_VIII_HEIR_SUCCESS_OUTCOME_RESULT_1">
+			<Text>[ICON_BULLET][COLOR_POSITIVE_TEXT]All cities begin celebrating 'We Love the King Day' for {1_Num} Turns[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HENRY_VIII_HEIR_SUCCESS_OUTCOME_RESULT_1_NOTIFICATION">
+			<Text>A new heir has been born in these lands, and the Tudor dynasty shall live on.</Text>
+		</Row>
+		<!-- Pilgrimage of Grace -->
+		<Row Tag="TXT_KEY_EVENT_JFD_ENGLAND_HENRY_PILGRIMAGE_OF_GRACE">
+			<Text>Pilgrimage of Grace</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_ENGLAND_HENRY_PILGRIMAGE_OF_GRACE_DESC">
+			<Text>Some foul miscreants have caused a rebellion in the city of {1_CityName}, in opposition to our assumption as Supreme Head of the Church of England. They are calling it a "Pilgrimage of Grace." If we are to preserve our new-found role as the highest and supreme authority on all religious matters, then we must crush this unrest swiftly and without mercy.[NEWLINE]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_ENGLAND_HENRY_PILGRIMAGE_OF_GRACE_OUTCOME_1">
+			<Text>Let them riot. They'll learn that their efforts are ultimately fruitless.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_ENGLAND_HENRY_PILGRIMAGE_OF_GRACE_OUTCOME_2">
+			<Text>Kill them.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_ENGLAND_HENRY_PILGRIMAGE_OF_GRACE_OUTCOME_RESULT_1">
+			<Text>[ICON_BULLET][COLOR_NEGATIVE_TEXT]{1_CityName} goes into [ICON_RESISTANCE] Resistance for 2 turns[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_ENGLAND_HENRY_PILGRIMAGE_OF_GRACE_OUTCOME_RESULT_2">
+			<Text>[ICON_BULLET][COLOR_NEGATIVE_TEXT]{1_CityName} loses 1 [ICON_CITIZEN] Population[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_ENGLAND_HENRY_PILGRIMAGE_OF_GRACE_OUTCOME_RESULT_1_NOTIFICATION">
+			<Text>We decided to let the rebellion in {1_CityName} die out naturally.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_ENGLAND_HENRY_PILGRIMAGE_OF_GRACE_OUTCOME_RESULT_2_NOTIFICATION">
+			<Text>We have come down mercilessly upon the rebellion in {1_CityName}.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WORLD_EVENT_JFD_ENGLAND_HENRY_PILGRIMAGE_OF_GRACE">
+			<Text>Religious unrest has broken out in the English city of {1_CityName}, over Henry VIII's assumption as Supreme Head of the Church of England.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

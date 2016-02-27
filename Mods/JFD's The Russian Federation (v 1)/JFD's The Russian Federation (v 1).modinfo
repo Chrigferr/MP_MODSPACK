@@ -1,0 +1,148 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="2aa13bd5-1c33-4aff-96f9-daa0bf1e6c7d" version="1">
+  <Properties>
+    <Name>JFD's The Russian Federation</Name>
+    <Teaser>Adds the [COLOR_POSITIVE_TEXT]The Russian Federation[ENDCOLOR] with Vladimir Putin to the game. Oh my!</Teaser>
+    <Description>See CivFanatics or Steam Workshop for full details.</Description>
+    <Authors>JFD, Janboruta, Viregel</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References>
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="JFD's Cultural Diversity (Core)" />
+    <Mod id="eea66053-7579-481a-bb8d-2f3959b59974" minversion="0" maxversion="999" title="JFD’s Piety" />
+    <Mod id="1f941088-b185-4159-865c-472df81247b2" minversion="0" maxversion="999" title="Sukritact’s Events &amp; Decisions" />
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="Yet (not) Another Earth Map Pack" />
+    <Mod id="e576894a-ed2b-4033-be14-ed1c8ceb81d3" minversion="0" maxversion="999" title="Map Labels" />
+    <Mod id="7fdd72a5-d4ae-441c-bc4e-2e3d2a26cff4" minversion="0" maxversion="999" title="Ethnic Units" />
+    <Mod id="8670da15-d435-44ea-9758-7438cb321411" minversion="0" maxversion="999" title="R.E.D. Modpack" />
+    <Mod id="d1b6328c-ff44-4b0d-aad7-c657f83610cd" minversion="0" maxversion="999" title="DLL - Various Mod Components" />
+    <Mod id="1153b26a-69fd-4cd5-899c-a8ba8e0e5e5d" minversion="0" maxversion="999" title="Civ IV Leader Traits in Civ V" />
+    <Mod id="43868e8d-de88-48a1-a8d9-ce144e07f5e0" minversion="0" maxversion="999" title="JFD's Exploration Continued Expanded" />
+    <Mod id="19351c5-c0b3-4b07-8695-4affaa199949" minversion="0" maxversion="999" title="JFD’s and Pouakai’s Mercenaries" />
+    <Mod id="d99bf7aa-51ac-4bef-bd88-d765b28e260e" minversion="0" maxversion="999" title="JFD’s Sovereignty" />
+    <Mod id="10e9728f-d61c-4317-be4f-7d52d6bae6f4" minversion="0" maxversion="999" title="JFD's Cities in Development" />
+    <Mod id="d1b6328c-ff44-4b0d-aad7-c657f83610cd" minversion="0" maxversion="999" title="Community Patch" />
+    <Mod id="8411a7a8-dad3-4622-a18e-fcc18324c799" minversion="0" maxversion="999" title="Community Balance Patch" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="A03B24B086F96EF782D664C11B29C56B" import="1">Art/Diplomacy/Putin_Diplo.dds</File>
+    <File md5="06837DC1164512B95259E3FBFDEC5CFE" import="1">Art/Diplomacy/Putin_Scene.xml</File>
+    <File md5="C0B145DEBC89486B809F7E1DF16D48BE" import="1">Art/FontIcon/JFD_VodkaFontIcons_22.ggxml</File>
+    <File md5="8EB358A1D71622A34BBB6315DF7EF41E" import="1">Art/FontIcon/Vodka-FontIcons.dds</File>
+    <File md5="AF0C8E8F8A6780D0E3E98F7E62906597" import="1">Art/Graphics/Spetsnaz/AN-94_diff.dds</File>
+    <File md5="0B21E2FE884261F66A2265B7D9A2654D" import="1">Art/Graphics/Spetsnaz/AN-94_sref.dds</File>
+    <File md5="5B8FBDD532486EB60ECB727286CA7706" import="1">Art/Graphics/Spetsnaz/fx_triggers_modernmarine.ftsxml</File>
+    <File md5="10FBE81A38F4D40FBB262AA7848681E8" import="1">Art/Graphics/Spetsnaz/ModernMarine_Attack.gr2</File>
+    <File md5="82C1973B3CED9ACEFFFE2C2003A603D4" import="1">Art/Graphics/Spetsnaz/ModernMarine_Bombard_Defense.gr2</File>
+    <File md5="4E5C1205401B54CBE76140F440D3200D" import="1">Art/Graphics/Spetsnaz/ModernMarine_DeathA.gr2</File>
+    <File md5="5D434BEDA164FA4674D624BBD5D5D2A1" import="1">Art/Graphics/Spetsnaz/ModernMarine_DeathA_Idle.gr2</File>
+    <File md5="90EEA8E512E8E0B848BD323FE8A99780" import="1">Art/Graphics/Spetsnaz/ModernMarine_DeathB.gr2</File>
+    <File md5="0208C41187615F90A266AB8AF44EFF0A" import="1">Art/Graphics/Spetsnaz/ModernMarine_DeathB_Idle.gr2</File>
+    <File md5="17FA15D5AF19204D2FBDDBDF0BCD6313" import="1">Art/Graphics/Spetsnaz/ModernMarine_Fidget.gr2</File>
+    <File md5="B63A001D59F2A07B413BB02898D2E656" import="1">Art/Graphics/Spetsnaz/ModernMarine_Fortify.gr2</File>
+    <File md5="4DB8C1D2B17255833878519BA8CF4568" import="1">Art/Graphics/Spetsnaz/ModernMarine_Fortify_Idle.gr2</File>
+    <File md5="A6DDF301AB9DFC99838E77EC71416A0C" import="1">Art/Graphics/Spetsnaz/ModernMarine_Idle.gr2</File>
+    <File md5="DCB52786F02DF0FE8C8C64A68733041A" import="1">Art/Graphics/Spetsnaz/ModernMarine_Run.gr2</File>
+    <File md5="33D41B5CD81094144F73E7CF4172E055" import="1">Art/Graphics/Spetsnaz/RussianSF.fxsxml</File>
+    <File md5="3C87FBB8DBA9E964C5A2D31B149A304D" import="1">Art/Graphics/Spetsnaz/RussianSF.gr2</File>
+    <File md5="E637EFDAB776734D089AE9126ADC96F8" import="1">Art/Graphics/Spetsnaz/RussianSF_diff.dds</File>
+    <File md5="CB36AB12AD6FE9D9B9AFD31103A7FCDA" import="1">Art/Graphics/Spetsnaz/RussianSF_sref.dds</File>
+    <File md5="A8336A754FCD2B1EC51B654521297556" import="1">Art/Graphics/Spetsnaz/sv_Spetsnaz.dds</File>
+    <File md5="BCD6C08FD204F7E61989828CB1BE7770" import="1">Art/IconAtlas/JFD_RussiaPutinAlphaAtlas_16.dds</File>
+    <File md5="E966C4F36F939C117417014C3163CD96" import="1">Art/IconAtlas/JFD_RussiaPutinAlphaAtlas_22.dds</File>
+    <File md5="84117A46C63B33B6A3891B2BFCDC7774" import="1">Art/IconAtlas/JFD_RussiaPutinAlphaAtlas_24.dds</File>
+    <File md5="CD79BDB0AFA0BC6AFF266F49450D64A5" import="1">Art/IconAtlas/JFD_RussiaPutinAlphaAtlas_32.dds</File>
+    <File md5="44880F77718AEB1B638373B2B2FB0FCF" import="1">Art/IconAtlas/JFD_RussiaPutinAlphaAtlas_128.dds</File>
+    <File md5="03A0E768A9E3EB693FE4BB4C4B98AE41" import="1">Art/IconAtlas/JFD_RussiaPutinAlphaAtlas_45.dds</File>
+    <File md5="69D1F8E4A6C55356DD48285C36A26AE7" import="1">Art/IconAtlas/JFD_RussiaPutinAlphaAtlas_48.dds</File>
+    <File md5="564E8A68C2269E727BDCFAD48292E829" import="1">Art/IconAtlas/JFD_RussiaPutinAlphaAtlas_64.dds</File>
+    <File md5="75A8F0FA0E65A3C8556132D8DED8C300" import="1">Art/IconAtlas/JFD_RussiaPutinAlphaAtlas_80.dds</File>
+    <File md5="34D2C2A4C0A135509F03700D629A9B2C" import="1">Art/IconAtlas/JFD_RussiaPutinAtlas_128.dds</File>
+    <File md5="5A4BE90F05649C6159DBE336E6E91894" import="1">Art/IconAtlas/JFD_RussiaPutinAtlas_256.dds</File>
+    <File md5="3288EA918DB2AA6B3384C8240534ABC9" import="1">Art/IconAtlas/JFD_RussiaPutinAtlas_32.dds</File>
+    <File md5="95A61588352E2E4649D6553F9FAF6432" import="1">Art/IconAtlas/JFD_RussiaPutinAtlas_45.dds</File>
+    <File md5="E6DD83158477DFA62904F56CDF44C576" import="1">Art/IconAtlas/JFD_RussiaPutinAtlas_64.dds</File>
+    <File md5="4FD51B248F8FB78DCEFD7FF4F269221B" import="1">Art/IconAtlas/JFD_RussiaPutinAtlas_80.dds</File>
+    <File md5="59099C87A42F3774BB95D4ECB103D72B" import="1">Art/IconAtlas/JFD_RussiaPutinResourceAtlas_128.dds</File>
+    <File md5="9A5FCAE1917E696553DB97E7248E286A" import="1">Art/IconAtlas/JFD_RussiaPutinResourceAtlas_256.dds</File>
+    <File md5="51FD583697FA09860998114DA2B05944" import="1">Art/IconAtlas/JFD_RussiaPutinResourceAtlas_45.dds</File>
+    <File md5="E18CA9BEC3A6014CC9450D3111075071" import="1">Art/IconAtlas/JFD_RussiaPutinResourceAtlas_64.dds</File>
+    <File md5="37BFBC89E698D7FB7ED2212280574A3A" import="1">Art/IconAtlas/JFD_RussiaPutinResourceAtlas_80.dds</File>
+    <File md5="F8C815F9C69EE19BE6B336DDC8545AB7" import="1">Art/IconAtlas/JFD_SpetsnazUnitFlag_32.dds</File>
+    <File md5="91CD9144C664E118BEF20CCC9B57450C" import="1">Art/Images/Event_RussiaPutin_EmoPlague.dds</File>
+    <File md5="8A6077BC856538D6DE22624869D63474" import="1">Art/Images/Event_RussiaPutin_Oligarchs.dds</File>
+    <File md5="A7562FC9FEBAF09F63406D7E7CBB0092" import="1">Art/Images/Event_RussiaPutin_Strongman.dds</File>
+    <File md5="56C934945EA8B6BE50E943737F2C23F2" import="1">Art/Map/MapRussiaPutin512.dds</File>
+    <File md5="91EB49B8C8CC00E6EE5AB4569E5A514D" import="1">Art/Map/DOM_Putin.dds</File>
+    <File md5="53BD6DCD5A9C45CCD99DFB7325E4953B" import="1">Audio/Putin_Peace.mp3</File>
+    <File md5="CF8884E9F33EC0C84601B45F1689FFC5" import="1">Audio/Putin_AnthemAlt.mp3</File>
+    <File md5="AF99D130F1C445AA1479295B2B30C7CE" import="1">Audio/Putin_Anthem.mp3</File>
+    <File md5="8DAFFE14F00B1EB359B09C98A9DA0142" import="1">Audio/Putin_War.mp3</File>
+    <File md5="D41CC1C85E7D14C063F2130142417EF5" import="0">Core/RussiaPutin_ArtDefines.sql</File>
+    <File md5="4F32D73EB34D33C7E033DB43879D7E2E" import="0">Core/RussiaPutin_GameDefines.sql</File>
+    <File md5="82E21062B3AA09D00E9C25106DFB9404" import="0">Core/RussiaPutin_GameDefines_Diplomacy.sql</File>
+    <File md5="7293C504B3612A951CE4489A4DAAE98A" import="0">Core/RussiaPutin_GameDefines_ModSupport.sql</File>
+    <File md5="796D37247CE62BBEF5369E523660E2BF" import="0">Core/RussiaPutin_GameText.xml</File>
+    <File md5="CE40A6ED09372BF3C3735614AC17C65F" import="0">Core/RussiaPutin_GameText_Diplomacy.xml</File>
+    <File md5="E6B2A44955D13411EFB864D2499DDE9D" import="0">Core/RussiaPutin_GameText_ModSupport.xml</File>
+    <File md5="3665EA7314EC7714D3F5520365D7702A" import="0">DeleteMissingReferences.xml</File>
+    <File md5="E18266D40209B948B2AAEF07DF9B0F4C" import="0">Lua/JFD_RussiaPutin_Functions.xml</File>
+    <File md5="047B426582CEBEB6460050A58880E34E" import="1">Lua/JFD_RussiaPutin_Decisions.lua</File>
+    <File md5="27326AED90E6E1A255B5EF515F4E8164" import="1">Lua/JFD_RussiaPutin_Events.lua</File>
+    <File md5="26129A077FEC8F172F931D34B6FAF180" import="0">Lua/JFD_RussiaPutin_Functions.lua</File>
+    <File md5="6AA80D87BC4E6AB24C9CD5EAE01B1B0F" import="1">Lua/Utilities/JFD DTP/JFD_RussiaPutinDTP.lua</File>
+    <File md5="2D105C80C3DCD90EC6FE7DCA18BF3338" import="0">Lua/Utilities/JFD DTP/JFD_TopPanelUpdated.lua</File>
+    <File md5="34C13D4B3416EE65EFB1E2B77F86C6AB" import="1">Lua/Utilities/JFD_RussiaPutinUtils.lua</File>
+    <File md5="00650B1FF67713C4C601031ECECBE0D9" import="1">Lua/Utilities/PlotIterators.lua</File>
+    <File md5="86C1C3EDCE4699DE320A932C4E70E22C" import="0">Lua/Utilities/Sukritact MCIS/CityInfoStack.lua</File>
+    <File md5="120EB71025973A8A48B38314241DD0B3" import="0">Lua/Utilities/Sukritact MCIS/CityInfoStack.xml</File>
+    <File md5="902B7727B4FB584A443AE29E53DCB2A2" import="0">Lua/Utilities/Sukritact MCIS/JFD_RussiaPutin_StateAssembly_CityInfo.lua</File>
+    <File md5="3B9B367D15861DD9C7EA9FCFB1087BD1" import="0">Lua/Utilities/Sukritact MCIS/JFD_RussiaPutin_StateAssembly_CityInfo.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Core/RussiaPutin_ArtDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Core/RussiaPutin_GameDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Core/RussiaPutin_GameDefines_Diplomacy.sql</UpdateDatabase>
+      <UpdateDatabase>Core/RussiaPutin_GameDefines_ModSupport.sql</UpdateDatabase>
+      <UpdateDatabase>Core/RussiaPutin_GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/RussiaPutin_GameText_Diplomacy.xml</UpdateDatabase>
+      <UpdateDatabase>Core/RussiaPutin_GameText_ModSupport.xml</UpdateDatabase>
+      <UpdateDatabase>DeleteMissingReferences.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/JFD_RussiaPutin_Functions.lua">
+      <Name>JFD_RussiaPutin_Functions</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/Utilities/JFD DTP/JFD_TopPanelUpdated.lua">
+      <Name>JFD_TopPanelUpdated</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/Utilities/Sukritact MCIS/CityInfoStack.lua">
+      <Name>Sukritact MCIS</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/Utilities/Sukritact MCIS/JFD_RussiaPutin_StateAssembly_CityInfo.lua">
+      <Name>JFD_RussiaPutin_StateAssembly_CityInfo</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

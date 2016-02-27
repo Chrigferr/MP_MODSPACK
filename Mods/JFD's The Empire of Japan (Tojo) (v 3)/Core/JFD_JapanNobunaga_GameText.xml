@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 1/4/2014 8:45:16 AM -->
+<GameData>
+	<Language_en_US>
+		<!--DOJO-->
+		<Row Tag="TXT_KEY_BUILDING_JFD_DOJO">
+			<Text>Dojo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_HELP_JFD_DOJO">
+			<Text>+15 XP for all Units and additional XP for Melee and Gun Units equal to 20% of the city's [ICON_CULTURE] Culture output (up tp 20 XP). This is increased to 30% if the city has a Temple.[NEWLINE][NEWLINE]City must have a Barracks.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_DOJO_TEXT">
+			<Text>A dojo is a Japanese term which literally means "place of the way". Initially, dojos were adjunct to temples. The term can refer to a formal training place for any of the Japanese do arts but typically it is considered the formal gathering place for students of any Japanese martial arts style to conduct training, examinations and other related encounters.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_DOJO_STRATEGY">
+			<Text>The Dojo is the unique Japanese Armory. In addition to the regular effects of the Armory, Melee and Gun Units trained in a city with a Dojo gain additional experience equal to 20% of the cultural output of that city - this amount is increased to 30% if the city also has a Temple. It is also avaliable slightly earlier than the Armory.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

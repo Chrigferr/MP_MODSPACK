@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 11/20/2013 3:43:32 AM -->
+<GameData>
+	<Language_en_US>
+		<!--NORWAY-->
+		<Row Tag="TXT_KEY_CIV_JFD_NORWAY_ADJECTIVE">
+			<Text>Norwegian</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_JFD_NORWAY_DESC">
+			<Text>Norwegian Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_JFD_NORWAY_SHORT_DESC">
+			<Text>Norway</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_NORWAY_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_NORWAY_TEXT_1">
+			<Text>Amongst the great powers of Scandinavia, Norway was decisively the first. As audacious Vikings and explorers, and then hardened Christian warriors and traders, Norway rose to prominence in the 13th century, colonizing as far as Greenland and Iceland, and bringing inspiration to her nordic brothers. Its dominance would be short-lived, however, as Norway would be devastated by the Bubonic Plague and then the rise of the Hanseatic League, and would spend the next seven centuries under the sovereignty of Denmark and then Sweden. The Kingdom would regain its independence at the turn of the 20th century and would regain its former prosperity; becoming one of the most successful economies today - owing largely to the fact of its independence from the European Union and its exorbitant natural oil reserves.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_NORWAY_HEADING_2">
+			<Text>Viking Legacy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_NORWAY_TEXT_2">
+			<Text>Much likes its neighbours, Norway's legacy begins in the period of Scandinavian expansion known as the Viking Age. During this time, Norwegian Vikings sought to colonize lands suitable for farming; maintaining raiding parties and the abduction of thralls in order to support their expansion. These Vikings settled as far as Shetland, Orkney and the Faroe Islands - and even founded the city of Dublin in Ireland in the 7th Century. Norwegian expansion across the Atlantic peaked in the late 8th century, when Erik the Red settled the island of Greenland, and then when his son, Leif Ericson, discovered Newfoundland in North America. By the mid 9th century, petty kingdoms had begun to arise in Norway and eventually the quest to unify the land would fall to Harald Fairhair - traditionally the first King of Norway.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_NORWAY_HEADING_3">
+			<Text>Dissidence Period</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_NORWAY_TEXT_3">
+			<Text>During the early Middle Ages, violent dissidence over the Christianization of Norway and the alliance of Danish Kings against the ruling Fairhair dynasty would divide the Kingdom, leading to the Battle of Stiklestad and the death of the Christian King Olav Haraldsson. Eventually, though, Norway would be united in its opposition to the influence of neighbouring Denmark and nearly a century of peace would ensue. In 1130, a civil war would break out over an uncertain succession, in which all the King's sons had been bestowed to rule jointly. Although the church would attempt to intervene, it would finally be the succession of Haakon Haakonsson in 1217 that would bring peace to Norway, as well as prominence and power to the Kingdom.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_NORWAY_HEADING_4">
+			<Text>The Norwegian Golden Age</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_NORWAY_TEXT_4">
+			<Text>The Norwegian Golden Age begins in the 13th century, during a time in which Norwegian trade with the British Islands and Germany was prosperous and bustling, and Norway's influence exerted itself across all of Scandinavia. During this time, the Norwegian Kings established a central administration and formalized Norway as a political entity, and the power of the Church would grow considerably. In 1349, the Bubonic Plague would devistate Norway, killing a third of the Kingdom's population, and in the following years its power would decline. In the 14th century, its trading prowess would be finally usurped by the Hanseatic League and Norway's former glory would fade.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_NORWAY_HEADING_5">
+			<Text>The Kalmar Union</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_NORWAY_TEXT_5">
+			<Text>In 1380, Olaf Haakonsson inherited both the thrones of Norway and Denmark and a union was formed between the two countries. In 1396, under the reign of Queen Margarethe I, Sweden would be included in this union - to be known as the Kalmar Union - and all of Scandinavia would be united for the first time in its history. Despite attempts to do so, Norway was never strong enough to secure its independence, and though Sweden would pull out of the Union in 1523, Norway would remain and become apart of Denmark-Norway under the rule of the Danish Kings of Copenhagen. This would eventually lead to Norway's conversion to Protestantism and a series of lengthy wars between Denmark-Norway and Sweden over the dominance in the Scandinavian peninsula - Sweden triumphing for the most part.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_NORWAY_HEADING_6">
+			<Text>Denmark-Norway</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_NORWAY_TEXT_6">
+			<Text>In 1807 Denmark-Norway entered the Napoleonic Wars allied with Napoleon's France, which would have devastating repercussions upon Norway. In 1813, Norwegians finally rejected the rule of the Danish heir Christian Frederik and demanded the creation of a Norwegian constitution to ensure representation in Copenhagen. In 1814, the Constitution of Norway was concluded, but an invasion by Sweden would intervene in its passing and Denmark-Norway would surrender to the invaders. Norway would once again lose its chance for independence and a union between Sweden and itself would be formed.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_NORWAY_HEADING_7">
+			<Text>Norwegian Independence</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_NORWAY_TEXT_7">
+			<Text>Norway's independence would come in 1905, after a nation-wide referendum in which an overwhelming majority rejected the rule of the King of Sweden. Norway's parliament would offer the crown to Denmark's Prince Carl and Haakon VII would become the first sovereign of Norway in centuries. Over the course of the 20th century, Norway would maintain a strict policy of neutrality. Though it would be annexed by Germany in 1940, it would resist the occupation and eventually regain its independence. From then, Norway would remain an important member of the United Nations in Europe and would emphasis its relations with its neighbours. Unlike most other European countries, Norway would retain its independence from the European Union, as well as its Monarchy, and has become one of the most socially and economically prosperous nations today.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_NORWAY_FACTOID_HEADING">
+			<Text>Factoids</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_NORWAY_FACTOID_TEXT">
+			<Text>Although it is one of the top oil exporters in the world, Norway is one of the countries with the highest petrol price.[NEWLINE][NEWLINE]The Grandiosa frozen pizza is unofficially named as the Norwegian national dish and each year Norwegians consume 20 million Grandiosa pizzas in addition to all the other frozen pizza brands on the market.[NEWLINE][NEWLINE]Norway has voted against membership in the EU several times, but has implemented more EU directives than any other EU member state.[NEWLINE][NEWLINE]The majority of the population of Norway believe a Norwegian invented the paperclip, which is not actually true.</Text>
+		</Row>
+		<!--Cities-->
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_NORWAY_01">
+			<Text>Oslo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_NORWAY_02">
+			<Text>Trondheim</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_NORWAY_03">
+			<Text>Bergen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_NORWAY_04">
+			<Text>Eidsvoll</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_NORWAY_05">
+			<Text>Tromso</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_NORWAY_06">
+			<Text>Stavanger</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_NORWAY_07">
+			<Text>Tonsberg</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_NORWAY_08">
+			<Text>Lillehammer</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_NARVIK">
+			<Text>Narvik</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_NORWAY_09">
+			<Text>Roros</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_NORWAY_10">
+			<Text>Sarpsborg</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_NORWAY_11">
+			<Text>Alesund</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_NORWAY_12">
+			<Text>Bodo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_NORWAY_13">
+			<Text>Kristiansand</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_NORWAY_14">
+			<Text>Avaldsnes</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_NORWAY_15">
+			<Text>Elverum</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_NORWAY_16">
+			<Text>Vardo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_NORWAY_17">
+			<Text>Grip</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_NORWAY_18">
+			<Text>Sandnes</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_NORWAY_19">
+			<Text>Rjukan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_NORWAY_20">
+			<Text>Drammen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_NORWAY_21">
+			<Text>Skien</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_NORWAY_22">
+			<Text>Namsos</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_NORWAY_23">
+			<Text>Kongsberg</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_NORWAY_24">
+			<Text>Hamar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_NORWAY_25">
+			<Text>Egersund</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_NORWAY_26">
+			<Text>Halden</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_NORWAY_27">
+			<Text>Nordkapp</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_NORWAY_28">
+			<Text>Alta</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_NORWAY_29">
+			<Text>Levanger</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_NORWAY_30">
+			<Text>Kautokeino</Text>
+		</Row>
+		<!--Spies-->
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_NORWAY_9">
+			<Text>Marius</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_NORWAY_8">
+			<Text>Astrid</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_NORWAY_7">
+			<Text>Hanne</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_NORWAY_6">
+			<Text>Sonja</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_NORWAY_5">
+			<Text>Selmer</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_NORWAY_4">
+			<Text>Bergh</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_NORWAY_3">
+			<Text>Thorstein</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_NORWAY_2">
+			<Text>Sverre</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_NORWAY_1">
+			<Text>Trine</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_NORWAY_0">
+			<Text>Yngve</Text>
+		</Row>
+		<!--HAAKON IV-->
+		<Row Tag="TXT_KEY_LEADER_JFD_HAAKON">
+			<Text>Haakon IV</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_HAAKON_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_HAAKON_TEXT_1">
+			<Text>Haakon Haakonsson, sometimes called Haakon the Old in contrast to his son with the same name, and known in modern regnal lists as Haakon IV, was the King of Norway from 1217 to 1263. His reign lasted for 46 years, longer than any Norwegian king since Harald I. Haakon was born into the troubled civil war era in Norway, but his reign eventually managed to put an end to the internal conflicts. At the start of his reign, during his minority, his later rival Earl Skule Bårdsson served as regent. As a king of the birkebeiner faction, Haakon defeated the uprising of the final bagler royal pretender, Sigurd Ribbung, in 1227. He put a definitive end to the civil war era when he had Skule Bårdsson killed in 1240, a year after he had himself proclaimed king in opposition to Haakon. Haakon thereafter formally appointed his own son as his co-regent.[NEWLINE][NEWLINE]Under Haakon's rule, medieval Norway is considered to have reached its zenith or golden age. His reputation and formidable naval fleet allowed him to maintain friendships with both the Pope and the Holy Roman Emperor, despite their conflict. He was at different points offered the Imperial Crown by the Pope, the Irish High Kingship by a delegation of Irish kings, and the command of the French crusader fleet by the French king. He amplified the influence of European culture in Norway by importing and translating contemporary European literature into Old Norse, and by constructing monumental European-style stone buildings. In conjunction with this he employed an active and aggressive foreign policy, and at the end of his rule added Iceland and the Norse Greenland community to his kingdom, leaving Norway at its territorial height. Although he for the moment managed to secure Norwegian control of the islands off the northern and western shores of Great Britain, he fell ill and died when wintering in Orkney following some military engagements with the expanding Scottish kingdom.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_HAAKON_LIVED">
+			<Text>1204-1263</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_HAAKON_NAME">
+			<Text>Haakon IV</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_HAAKON_SUBTITLE">
+			<Text>King of Norway</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DOM_JFD_HAAKON_TEXT">
+			<Text>By the grace of God, noble Haakon, King of Norway and her eminent holdings, welcome. Born in the midst of civil war, you would rise to become Norway's greatest King; crushing those who would tear the kingdom asunder, and bringing calm and prosperity to the tumultuous land of the valiant Norse. During your reign, you would seek to bring your people closer to Europe, and you would instigate legal, cultural, and spiritual reforms to bridge the gap between the Christian continent and the Pagan north. Under your capable guidance, Norway would be transformed into a kingdom upon which the powers of Europe would gaze with envy, and you would set in motion the lasting legacy of Scandinavian influence to come.[NEWLINE][NEWLINE]Exemplary King, your faithful subjects call for you to lead Norway once more to the glory of its past. Can you tame the frozen seas of the north? Can you become the envy of all Scandinavian princes to come? Can you build a civilization that will stand the test of time?</Text>
+		</Row>
+		<!--NORTHWARD ROUTE-->
+		<Row Tag="TXT_KEY_TRAIT_JFD_NORWAY">
+			<Text>Begin with visibility of nearby coastal tiles and receive double quantity from ocean resources. Sources of [ICON_RES_FISH] Fish yield +1 [ICON_GOLD] Gold.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_JFD_NORWAY_SHORT">
+			<Text>The Northward Route</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_NORWAY_FISH">
+			<Text>JFD: Norwegian Fish</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_NORWAY_FISH_HELP">
+			<Text>+1 [ICON_GOLD] Gold on [ICON_RES_FISH] Fish</Text>
+		</Row>
+		<!-- STAVE CHURCH -->
+		<Row Tag="TXT_KEY_BUILDING_JFD_STAVE_CHURCH">
+			<Text>Stave Church</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_STAVE_CHURCH_HELP">
+			<Text>Stores [ICON_FOOD] Food when a new [ICON_CITIZEN] Citizen is born, equal to the city's [ICON_PEACE] Faith output (up to 15%). Does not require a Shrine to be built.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_STAVE_CHURCH_STRATEGY">
+			<Text>The Stave Church is the unique Norwegian replacement for the Temple. In addition to boosting a city's [ICON_PEACE] Faith output, the Stave Church increases the amount of [ICON_FOOD] Food stored in the city after a new [ICON_CITIZEN] Citizen is born by the amount of [ICON_PEACE] Faith produced in that city (up to 15%). It also does not require a Shrine in order to be built.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_STAVE_CHURCH_TEXT">
+			<Text>Stave churches were wooden, post-and-beam constructions found throughout medieval Scandinavia after the Vikings converted to Christianity.  In Sweden alone it is estimated that over 1000 stave churches were built, the oldest dating back to the mid-1100s. Besides their religious function, stave churches often served as meeting halls, cultural centers, courthouses, and even as marketplaces. Early stave churches were palisade constructions, with steeply pitched roofs to shed the heavy snows. The churches had elaborate wooden carvings, usually Christian in design but occasionally depicting pre-Christian heroes and myths. Later, only the corner posts were set in the earth, with planking covering the frame. Currently 30 stave churches remain standing, all save two in Norway.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_STAVE_STORAGE">
+			<Text>JFD: Stave Storage</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_STAVE_STORAGE_HELP">
+			<Text>+1% [ICON_FOOD] Food is carried over when a new [ICON_CITIZEN] Citizen is born</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_STAVE_CHURCH_CITY_VIEW_HELP">
+			<Text>[NEWLINE]+{1_Num}% extra [ICON_FOOD] Food will be carried over when a new [ICON_CITIZEN] Citizen is born.</Text>
+		</Row>
+		<!--BIRKEBEINER-->
+		<Row Tag="TXT_KEY_UNIT_JFD_BIRKEBEINER">
+			<Text>Birkebeiner</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_BIRKEBEINER_STRATEGY">
+			<Text>The Birkebeiner is a Swordsman which can move through hills, snow, and tundra at double the usual rate, and which gains a [ICON_STRENGTH] Combat Strength bonus in Hills. Only the Norwegians may build it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_JFD_BIRKEBEINER">
+			<Text>Land Unit that is stronger in hills and faster in Snow and Tundra. Only Norway may build it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_UNITS_JFD_BIRKEBEINER_TEXT">
+			<Text>The Birkebeiner was an opposition party formed in 1174 in protest to the then pretender to the Norwegian throne, Eystein Meyla. In Old Norse, the name refers to the birch shoes worn by the party's members and was originally a derogatory term alluding to their poverty. Today, the Birkebeiners are popularly celebrated for their endearing protection of the two year-old Haakon Haakonsson, whom they delivered through treacherous mountainside to his destined throne in Trondheim.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_BIRKEBEINER_HELP">
+			<Text>In Snow, Tundra, Hills: Double Movement (if Forest or Jungle is not present). +20% [ICON_STRENGTH] Combat Strength in Hills.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

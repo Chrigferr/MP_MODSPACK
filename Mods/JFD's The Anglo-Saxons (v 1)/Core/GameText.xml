@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 11/23/2013 1:27:25 PM -->
+<GameData>
+	<Language_en_US>
+		<!-- ANGLO-SAXONS -->
+		<Row Tag="TXT_KEY_CIV_JFD_ANGLO_SAXONS_ADJECTIVE">
+			<Text>Anglo-Saxon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_JFD_ANGLO_SAXONS_DESC">
+			<Text>Anglo-Saxon Kingdom</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_JFD_ANGLO_SAXONS_SHORT_DESC">
+			<Text>The Anglo-Saxons</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_ANGLO_SAXONS_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_ANGLO_SAXONS_TEXT_1">
+			<Text>The Anglo-Saxons were a people who inhabited Great Britain from the 5th century. They included people from Germanic tribes who migrated to the southern half of the island from continental Europe, and their descendants; as well as indigenous Romano-British populations who adopted Anglo-Saxon culture and language. The Anglo-Saxon period denotes the period of British history after their initial settlement, until the Norman conquest, between about 450 and 1066.[NEWLINE][NEWLINE]The Anglo-Saxon period includes the creation of an English nation, with many of the aspects that survive today including regional government of shires and hundreds; the re-establishment of Christianity; a flowering in literature and language; and the establishment of charters and law. The term Anglo-Saxon is also used for the language, more correctly called Old English, that was spoken and written by the Anglo-Saxons in England and eastern Scotland between at least the mid-5th century and the mid-12th century.</Text>
+		</Row>
+		<!--City List-->
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ANGLO_SAXONS_01">
+			<Text>Winchester</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ANGLO_SAXONS_02">
+			<Text>Wallingford</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ANGLO_SAXONS_03">
+			<Text>Warwick</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ANGLO_SAXONS_04">
+			<Text>Chester</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ANGLO_SAXONS_05">
+			<Text>Buckingham</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ANGLO_SAXONS_06">
+			<Text>Stafford</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ANGLO_SAXONS_07">
+			<Text>Wareham</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ANGLO_SAXONS_08">
+			<Text>Ipswich</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ANGLO_SAXONS_09">
+			<Text>Maldon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ANGLO_SAXONS_10">
+			<Text>Hertford</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ANGLO_SAXONS_11">
+			<Text>Tamworth</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ANGLO_SAXONS_12">
+			<Text>Bridgnorth</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ANGLO_SAXONS_13">
+			<Text>Hastings</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ANGLO_SAXONS_14">
+			<Text>Lyford</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ANGLO_SAXONS_15">
+			<Text>Axbridge</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ANGLO_SAXONS_16">
+			<Text>Chichester</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ANGLO_SAXONS_17">
+			<Text>Bath</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ANGLO_SAXONS_18">
+			<Text>Wilton</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ANGLO_SAXONS_19">
+			<Text>Sashes</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ANGLO_SAXONS_20">
+			<Text>Old Sarum</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ANGLO_SAXONS_21">
+			<Text>Bridport</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ANGLO_SAXONS_22">
+			<Text>Twynam</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ANGLO_SAXONS_23">
+			<Text>Malmesbury</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ANGLO_SAXONS_24">
+			<Text>Southampton</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ANGLO_SAXONS_25">
+			<Text>Exeter</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ANGLO_SAXONS_26">
+			<Text>Watchet</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ANGLO_SAXONS_27">
+			<Text>Cricklade</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ANGLO_SAXONS_28">
+			<Text>Worchester</Text>
+		</Row>
+		<!-- Spy Names -->
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_ANGLO_SAXONS_9">
+			<Text>AElewine</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_ANGLO_SAXONS_8">
+			<Text>Cenric</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_ANGLO_SAXONS_7">
+			<Text>Herewealde</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_ANGLO_SAXONS_6">
+			<Text>Henrik</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_ANGLO_SAXONS_5">
+			<Text>Paega</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_ANGLO_SAXONS_4">
+			<Text>Cynefrio</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_ANGLO_SAXONS_3">
+			<Text>Eadburga</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_ANGLO_SAXONS_2">
+			<Text>Hilda</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_ANGLO_SAXONS_1">
+			<Text>Mildgyo</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_ANGLO_SAXONS_0">
+			<Text>Sunngifu</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<!-- ALFRED -->
+		<Row Tag="TXT_KEY_LEADER_JFD_ALFRED">
+			<Text>Alfred</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_ALFRED_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_ALFRED_TEXT_1">
+			<Text>Alfred the Great was King of Wessex from 871 to 899. Alfred successfully defended his kingdom against the Viking attempt at conquest, and by the time of his death had become the dominant ruler in England. He is the only English monarch to be accorded the epithet "the Great". Alfred was the first King of the West Saxons to style himself "King of the Anglo-Saxons". Details of Alfred's life are described in a work by the 10th-century Welsh scholar and bishop Asser. A devout Christian, Alfred's reputation has been that of a learned and merciful man of a gracious and level-headed nature who encouraged education and improved his kingdom's legal system, military structure and his people's quality of life.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_ALFRED_NAME">
+			<Text>Alfred</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_ALFRED_SUBTITLE">
+			<Text>Leader of the Anglo-Saxons</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_ALFRED_TITLES_1">
+			<Text>King of Wessex, King of the Anglo-Saxons</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_ALFRED_LIVED">
+			<Text>849 - 899</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DAWN_ANGLO_SAXONS_TEXT">
+			<Text>Most proud and great, Alfred, King of Wessex and of the Anglo-Saxons, we as your loyal subjects greet you. As the great monarch who repelled the invasion of the Great Heathen Army, you came to dominate the lands of England. As King, you would leave behind a legacy of a kind and virtuous reign, and you would bring forth great learning and legal reforms upon your Kingdom upon which the foundation of the future English nation could be borne.[NEWLINE][NEWLINE]O' great and learned monarch, the wisdom of your ancestors beckon your reign to once more invigorate the minds and souls of your people. Can you usher a golden age of truth and nobility to reign over your Kingdom? Can you defend your empire in all times of great strife and warfare? Can you build a civilization that can stand the test of time?</Text>
+		</Row>
+		<!-- THE ANGLO-SAXON CHRONICLE -->
+		<Row Tag="TXT_KEY_TRAIT_JFD_ANGLO_SAXONS_SHORT">
+			<Text>The Anglo-Saxon Chronicle</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_JFD_ANGLO_SAXONS">
+			<Text>[ICON_GOLDEN_AGE] Golden Age progress is impeded by 33% less [ICON_HAPPINESS_4] Unhappiness. [ICON_CULTURE] Social Policy costs are reduced by 20% during [ICON_GOLDEN_AGE] Golden Ages.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_ANGLO_POLICY">
+			<Text>JFD: Anglo-Saxon Chronicle</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_ANGLO_POLICY_HELP">
+			<Text>-20% [ICON_CULTURE] Social Policy cost</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_GOLDEN_AGE_FROM_LESS_UNHAPPINESS">
+			<Text>{1_Num} is added per turn from reduced [ICON_HAPPINESS_4] Unhappiness penalty.</Text>
+		</Row>
+		<!-- HUSCARL -->
+		<Row Tag="TXT_KEY_UNIT_JFD_HUSCARL">
+			<Text>Huscarl</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_HUSCARL_TEXT">
+			<Text>The Anglo-Saxon Huscarls, the medieval equivalent of the modern bodyguard, were professionally trained and well-compensated soldiers who served the king and other nobility. Equipped with waist-length chainmail coats known as "Byrnies," and typically armed with battle-axes, the Huscarls were an intimidating defensive force throughout the 11th and 12th centuries.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_HUSCARL_HELP">
+			<Text>Strong, defensive unit of the Medieval Era unique to the Anglo-Saxons. Gains a strong [ICON_STRENGTH] Defensive Bonus when adjacent to coast or river. Replaces the Longswordsman, but is available earlier.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_HUSCARL_STRATEGY">
+			<Text>The Huscarl is the unique unit for the Anglo-Saxons, replacing the Longswordsman. This unit comes earlier than the Longswordsman; at Metal Casting instead of Steel. It gains a +33% [ICON_STRENGTH] Defensive bonus when adjacent to river or coast, allowing it to resist attacks from the sea.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_HUSCARL">
+			<Text>Battle of Edington</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_HUSCARL_HELP">
+			<Text>+33% [ICON_STRENGTH] Defense whilst this unit is adjacent to a coastal tile.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_HUSCARL_INFO_HELP">
+			<Text>+33% [ICON_STRENGTH] Defense whilst this unit is adjacent to a coastal tile.</Text>
+		</Row>
+		<!-- SHIRE COURT -->
+		<Row Tag="TXT_KEY_BUILDING_JFD_SHIRE_COURT">
+			<Text>Shire Court</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_SHIRE_COURT_HELP">
+			<Text>Increases the [ICON_CULTURE] Culture output of the [ICON_CAPITAL] Capital by +2.[NEWLINE][NEWLINE]Reduces enemy spy stealing rate by 25%.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_SHIRE_COURT_STRATEGY">
+			<Text>The Shire Court is the unique Anglo-Saxon replacement for the Constabulary. Like the Constabulary, the Shire Court slows down the rate at which enemy spies can steal technologies from your city. However, every Shire Court in the empire also increases the [ICON_CULTURE] Culture output of the [ICON_CAPITAL] Capital by +2. It comes much earlier than the Constabulary, at Civil Service, and yields a small amount of [ICON_HAPPINESS_1] Local Happiness.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_SHIRE_COURT_TEXT">
+			<Text>Shire Court or Shire Moot was an Anglo-Saxon institution dating back to the earliest days of English society. The Shire Court referred to the magnates, both lay and spiritual, who were entitled to sit in council for the shire and was a very early form of representative democracy. The Shire Courts themselves met twice a year to allocate shire gold which had been collected by the Shire-reeve. The gathering was headed by nobility, usually Bishops, Earls, Abbots or Lords. All those who attended would have been Clergymen. The practice of holding shire courts began in Wessex and was later used throughout the rest of England. Similar models were introduced to Wales, particularly after the Statute of Rhuddlan in 1284.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_ANGLO_CULTURE">
+			<Text>JFD: Shire Culture</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_ANGLO_CULTURE_HELP">
+			<Text>+2 [ICON_CULTURE] Culture</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_SHIRE_COURT_CITY_VIEW_HELP">
+			<Text>+{1_Num} [ICON_CULTURE] Culture from Shire Courts in the empire.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

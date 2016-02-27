@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 1/4/2014 8:45:16 AM -->
+<GameData>
+	<Language_en_US>
+		<!--AMERICA-->
+		<Row Tag="TXT_KEY_CIV_JFD_AMERICA_ROOSEVELT_DESC">
+			<Text>The United States of America</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_JFD_AMERICA_ROOSEVELT_SHORT_DESC">
+			<Text>America</Text>
+		</Row>
+		<!--City List-->
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_AMERICA_ROOSEVELT_01">
+			<Text>Washington</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_AMERICA_ROOSEVELT_02">
+			<Text>New York</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_AMERICA_ROOSEVELT_03">
+			<Text>Chicago</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_AMERICA_ROOSEVELT_04">
+			<Text>Philadelphia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_AMERICA_ROOSEVELT_05">
+			<Text>Detroit</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_AMERICA_ROOSEVELT_06">
+			<Text>Los Angeles</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_AMERICA_ROOSEVELT_07">
+			<Text>Cleveland</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_AMERICA_ROOSEVELT_08">
+			<Text>Baltimore</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_AMERICA_ROOSEVELT_09">
+			<Text>St. Louis</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_AMERICA_ROOSEVELT_10">
+			<Text>Boston</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_AMERICA_ROOSEVELT_11">
+			<Text>Pittsburgh</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_AMERICA_ROOSEVELT_12">
+			<Text>San Francisco</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_AMERICA_ROOSEVELT_13">
+			<Text>Milwaukee</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_AMERICA_ROOSEVELT_14">
+			<Text>Buffalo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_AMERICA_ROOSEVELT_15">
+			<Text>New Orleans</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_AMERICA_ROOSEVELT_16">
+			<Text>Minneapolis</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_AMERICA_ROOSEVELT_17">
+			<Text>Cincinnati</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_AMERICA_ROOSEVELT_18">
+			<Text>Kansas City</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_AMERICA_ROOSEVELT_19">
+			<Text>Indianapolis</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_AMERICA_ROOSEVELT_20">
+			<Text>Houston</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_AMERICA_ROOSEVELT_21">
+			<Text>Seattle</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_AMERICA_ROOSEVELT_22">
+			<Text>Las Vegas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_AMERICA_ROOSEVELT_23">
+			<Text>Denver</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_AMERICA_ROOSEVELT_24">
+			<Text>Columbus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_AMERICA_ROOSEVELT_25">
+			<Text>Atlanta</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_AMERICA_ROOSEVELT_26">
+			<Text>Louisville</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_AMERICA_ROOSEVELT_27">
+			<Text>Dallas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_AMERICA_ROOSEVELT_28">
+			<Text>Richmond</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_AMERICA_ROOSEVELT_29">
+			<Text>San Diego</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_AMERICA_ROOSEVELT_30">
+			<Text>Miami</Text>
+		</Row>
+		<!--ROOSEVELT-->
+		<Row Tag="TXT_KEY_LEADER_JFD_ROOSEVELT">
+			<Text>Roosevelt</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_ROOSEVELT_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_ROOSEVELT_TEXT_1">
+			<Text>Franklin Delano Roosevelt, the 32nd President of the United States, is best known for leading the US out of the Great Depression and to victory in WWII. Crippled by polio at 39, Roosevelt displayed indomitable courage and resolve to overcome his disability and achieve his goals.[NEWLINE][NEWLINE]Roosevelt was a man of contradictions. Though wealthy and powerful, Roosevelt was beloved by the poor and downtrodden and despised as a socialist by the wealthy and powerful. Roosevelt ran for office on a platform of isolationism, but he hated fascism and oppression, and unceasingly worked behind the scenes to aid the UK and get America into World War II.[NEWLINE][NEWLINE]When Roosevelt first became President in 1932, the United States was in a crippling depression. Banks had closed and businesses had failed. Millions were unemployed and falling into poverty. To counter this malaise, Roosevelt enacted a series of policies that he called the "New Deal:" a sweeping program to bring recovery to business and agriculture, relief to the unemployed and to those in danger of losing businesses, farms and homes.[NEWLINE][NEWLINE]Meanwhile, the Depression raged across the entire planet, and much of the rest of the world was degenerating into chaos. Japan was attacking China, while the two great dictators - Hitler and Stalin - were threatening to engulf Europe. The United States had largely withdrawn from world politics after World War I and the failure of the League of Nations, and few American politicians had the stomach to call for intervention. Roosevelt didn't, either, and in fact he ran for reelection on a platform of isolationism.[NEWLINE][NEWLINE]However, Roosevelt sincerely believed that the United States would have to become involved in the conflict one way or another - he abhorred fascism and totalitarianism - and he feared that, left unchecked, Germany, Russia and Japan would become powerful enough to overwhelm everything in their path - including, eventually, the US. Thus he did everything in his power to ready the US for the upcoming conflict by dramatically increasing the size of the US armed forces, pitifully weakened after the end of World War I. Further, he gave as much aid as was politically feasible to England, whom he rightly saw as the unprepared US's chief protection from the German war machine. Meanwhile, he did his best to turn public opinion around in favor of more direct action.[NEWLINE][NEWLINE]It is not clear that Roosevelt would have succeeded in that, if it weren't for Japan's attack against Pearl Harbor. Though casualties were extremely heavy, Pearl Harbor did "awake a sleeping giant," and at long last the citizens of the country realized their peril. And when Germany made the huge strategic blunder of declaring war on the United States shortly thereafter, Roosevelt was able to put all of the United States' massive industrial and military might into the conflict.[NEWLINE][NEWLINE]During the war, Roosevelt showed himself to be a masterful international politician; the UK-Soviet-American alliance was shaky at best, and his adroit handling of Stalin and Churchill did much to keep things running (relatively) smoothly. Meanwhile his "fireside chats" kept the country firmly behind him, and world opinion in the allies' favor. It has been said that Hitler hated Roosevelt even more than Stalin or Churchill - high praise indeed.[NEWLINE][NEWLINE]As a military leader Roosevelt was less sure-footed and the US made some early strategic blunders that could have been avoided. He learned quickly, however, and by the end of his life the US military machine was the most powerful that the world had ever seen.[NEWLINE][NEWLINE]Roosevelt died in 1945, shortly before the war ended. His legacies of social welfare and international cooperation would dominate United States policies for the next half a century.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_ROOSEVELT_LIVED">
+			<Text>1882 - 1945</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_ROOSEVELT_NAME">
+			<Text>Roosevelt</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_ROOSEVELT_SUBTITLE">
+			<Text>Leader of America</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_ROOSEVELT_TITLES_1">
+			<Text>President of the United States</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DOM_JFD_ROOSEVELT_TEXT">
+			<Text>Greetings, President Roosevelt, leader of the United States of America. With courage and determination, and in spite of great personal adversity, you would lead the United States through her darkest hours. Elected to the presidency in 1933, your aim would be the reinvigoration of a shattered economy, and against the pressures of your republican foes, you would champion extensive policies to alleviate the status of the poor and disadvantaged. In 1941, the United States would be suddenly and deliberately attacked by the Empire of Japan, prompting your government to rally to the cause of Western civilization as it became engulfed in the storm of the Second World War, and from this your nation would arise triumphant, and your presidency a legacy to behold.[NEWLINE][NEWLINE]Great President, the time has come for your leadership once more. Can you give voice to the downtrodden, and champion the spirit of the United States for all? Can you lead the American people to take greatness in the face of war? Can you build a civilization that will stand the test of time?</Text>
+		</Row>
+		<!--THE NEW DEAL-->
+		<Row Tag="TXT_KEY_TRAIT_JFD_AMERICA_ROOSEVELT">
+			<Text>
+				Choose from either Great Merchant points and a [ICON_GOLD] Gold boost or Great Engineer points and a [ICON_PRODUCTION] Production boost every time you adopt a new Social Policy. +2 [ICON_CULTURE] Culture from Great Person Tile Improvements.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_JFD_AMERICA_ROOSEVELT_SHORT">
+			<Text>The New Deal</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_ROOSEVELT_NEW_DEAL_MESSAGE">
+			<Text>You have recently announced a new executive policy. Alongside this policy shall come a relief package that aims to either invigorate the economy or the industries. It is up to you to whom this package goes.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_ROOSEVELT_ENGINEER_BUTTON">
+			<Text>[ICON_GREAT_ENGINEER] The Industries [ICON_GREAT_ENGINEER]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_ROOSEVELT_ENGINEER_TT">
+			<Text>[ICON_BULLET]+{1_Num} [ICON_GREAT_PEOPLE] Great Engineer points in all cities and +{2_Num} [ICON_PRODUCTION] Production boost in all cities</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_ROOSEVELT_MERCHANT_BUTTON">
+			<Text>[ICON_GREAT_MERCHANT] The Economy [ICON_GREAT_MERCHANT]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_ROOSEVELT_MERCHANT_TT">
+			<Text>[ICON_BULLET]+{1_Num} [ICON_GREAT_PEOPLE] Great Merchant points in all cities and +{2_Num} [ICON_GOLD] Gold boost</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_JFD_AMERICA_ROOSEVELT_NOTIFICATION_MERCHANT">
+			<Text>New executive policies have been issued which benefit America's economy.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_JFD_AMERICA_ROOSEVELT_NOTIFICATION_ENGINEER">
+			<Text>New executive policies have been issued which benefit America's Industries.</Text>
+		</Row>
+		<!--ASSEMBLY PLANT-->
+		<Row Tag="TXT_KEY_BUILDING_JFD_ARMS_FACTORY">
+			<Text>Assembly Plant</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_ARMS_FACTORY_STRATEGY">
+			<Text>The Assembly Plant is the unique replacement for the Factory for Roosevelt. In addition to the regular production boosts provided by the Factory, the Assembly Plant grants an additional +10% [ICON_PRODUCTION] Production when building Air, Armor or Siege Units. Armored and Siege Units also gain a promotion that increases their [ICON_STRENGTH] Defense whilst embarked. Only one Assembly Plant is required in order to adopt an Ideology.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_ARMS_FACTORY_HELP">
+			<Text>+10% [ICON_PRODUCTION] Production toward Mechanised Land and Air Units. +50% embarked [ICON_STRENGTH] Defense for Armor and Siege Units.[NEWLINE][NEWLINE]Only one Assembly Plant is required to unlock an Ideology.[NEWLINE][NEWLINE]Requires 1 [ICON_RES_COAL] Coal.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_ARMS_FACTORY">
+			<Text>American-made</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_ARMS_FACTORY_HELP">
+			<Text>+50% [ICON_STRENGTH] Defense whilst embarked</Text>
+		</Row>
+		<Delete Tag="TXT_KEY_NOTIFICATION_CHOOSE_IDEOLOGY_FACTORIES" />
+		<Row Tag="TXT_KEY_NOTIFICATION_CHOOSE_IDEOLOGY_FACTORIES">
+			<Text>You have factories in 3 cities or an assembly plant. The ideas of the Industrial Revolution now permeate your society. Your people clamor for you to pick an Ideology for your civilization.</Text>
+		</Row>
+		<!--AMERICA (WASHINGTON)-->
+		<!--City List-->
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_AMERICA_01">
+			<Text>Washington</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_AMERICA_02">
+			<Text>New York</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_AMERICA_03">
+			<Text>Philadelphia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_AMERICA_04">
+			<Text>Boston</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_AMERICA_05">
+			<Text>Charleston</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_AMERICA_06">
+			<Text>Baltimore</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_AMERICA_07">
+			<Text>Providence</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_AMERICA_08">
+			<Text>Williamsburg</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_AMERICA_09">
+			<Text>Newport</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_AMERICA_10">
+			<Text>Norfolk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_AMERICA_11">
+			<Text>Savannah</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_AMERICA_12">
+			<Text>Salem</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_AMERICA_13">
+			<Text>Hartford</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_AMERICA_14">
+			<Text>Albany</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_AMERICA_15">
+			<Text>Richmond</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_AMERICA_16">
+			<Text>New Bern</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_AMERICA_17">
+			<Text>Gloucester</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_AMERICA_18">
+			<Text>Wilmington</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_AMERICA_19">
+			<Text>Dover</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_AMERICA_20">
+			<Text>Annapolis</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_AMERICA_21">
+			<Text>Falmouth</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_AMERICA_22">
+			<Text>New Castle</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_AMERICA_23">
+			<Text>Trenton</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_AMERICA_24">
+			<Text>Portsmouth</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_AMERICA_25">
+			<Text>Greenville</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_AMERICA_26">
+			<Text>Edenton</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_AMERICA_27">
+			<Text>New Haven</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_AMERICA_28">
+			<Text>Reading</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_AMERICA_29">
+			<Text>Petersburg</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_AMERICA_30">
+			<Text>Kingston</Text>
+		</Row>
+		<!--RANCH-->
+		<Row Tag="TXT_KEY_BUILDING_JFD_RANCH">
+			<Text>Ranch</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_RANCH_STRATEGY">
+			<Text>The Ranch is the unique American building, replacing the Stable. Unlike the Stable, the Ranch is available at Trapping, and it provides a small boost to happiness, though it also costs an extra [ICON_GOLD] Gold maintenance. After completion, the Ranch will claim and improve all workable sources of [ICON_RES_BISON] Bison, [ICON_RES_COW] Cattle, [ICON_RES_DEER] Deer, [ICON_RES_HORSE] Horses, and [ICON_RES_SHEEP] Sheep. It provides a smaller production boost for Mounted Units.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_RANCH_HELP">
+			<Text>Claims and improves all workable sources of [ICON_RES_BISON] Bison, [ICON_RES_COW] Cattle, [ICON_RES_DEER] Deer, [ICON_RES_HORSE] Horses, and [ICON_RES_SHEEP] Sheep.[NEWLINE][NEWLINE]10% [ICON_PRODUCTION] Production when building Mounted Units.[NEWLINE][NEWLINE]Each source of Bison, Cattle, Deer, Horses, and Sheep worked by this city produce +1 [ICON_PRODUCTION] Production.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_RANCH_TEXT">
+			<Text>A ranch is an area of landscape, including various structures, given primarily to the practice of ranching, the practice of raising grazing livestock such as cattle or sheep for meat or wool. The word most often applies to livestock-raising operations in Mexico, the western United States and Canada, though there are ranches in other areas. People who own or operate a ranch are called ranchers, or stockgrowers. Ranching is also a method used to raise less common livestock such as elk, American bison or even ostrich, emu, and alpacas.</Text>
+		</Row>
+		<!--MINUTEMAN-->
+		<Delete Tag="TXT_KEY_UNIT_AMERICAN_MINUTEMAN_STRATEGY" />
+		<Row Tag="TXT_KEY_UNIT_AMERICAN_MINUTEMAN_STRATEGY">
+			<Text>The Minuteman is the American unique unit, replacing the Musketman. The Minuteman can move through difficult terrain as though it were clear (all tiles cost 1mp per hex), and receives a bonus when fighting in rough terrain. It is much cheaper to produce than the Musketman.</Text>
+		</Row>
+		<Delete Tag="TXT_KEY_UNIT_HELP_MINUTEMAN" />
+		<Row Tag="TXT_KEY_UNIT_HELP_MINUTEMAN">
+			<Text>One of the first gunpowder units of the game. Only the Americans may build it. Replaces the Musketman, but is much cheaper to produce. This Unit may move through rough ground as though it were flat, and receives a bonus when fighting in rough terrain.</Text>
+		</Row>
+		<!--MANIFEST DESTINY-->
+		<Row Tag="TXT_KEY_TRAIT_JFD_AMERICA">
+			<Text>+1 Sight for Land Military Units and +1 [ICON_MOVES] Movement for Civilian Units. Enemy Units ending their turn next to American borders take damage.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

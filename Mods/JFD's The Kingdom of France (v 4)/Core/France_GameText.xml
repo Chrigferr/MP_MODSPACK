@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 11/23/2013 1:27:25 PM -->
+<GameData>
+	<Language_en_US>
+		<!--FRANCE-->
+		<!--Cities-->
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_VERSAILLES">
+			<Text>Versailles</Text>
+		</Row>
+		<!--Spies-->
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_FRANCE_LOUIS_XIV_0">
+			<Text>Atos</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_FRANCE_LOUIS_XIV_1">
+			<Text>Mme Pompadour</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_FRANCE_LOUIS_XIV_2">
+			<Text>Marie Louise</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_FRANCE_LOUIS_XIV_3">
+			<Text>Éponine</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_FRANCE_LOUIS_XIV_4">
+			<Text>Richelieu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_FRANCE_LOUIS_XIV_5">
+			<Text>Grand Condé</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_FRANCE_LOUIS_XIV_6">
+			<Text>Monte Cristo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_FRANCE_LOUIS_XIV_7">
+			<Text>D'Artagnan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_FRANCE_LOUIS_XIV_8">
+			<Text>Aramis</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_FRANCE_LOUIS_XIV_9">
+			<Text>Portos</Text>
+		</Row>
+		<!--LOUIS XIV-->
+		<Row Tag="TXT_KEY_LEADER_JFD_LOUIS_XIV">
+			<Text>Louis XIV</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_LOUIS_XIV_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_LOUIS_XIV_TEXT_1">
+			<Text>Born to King Louis XIII of France, Louis XIV was raised in the most opulent court in Europe. His every need was catered to, and he was given an excellent education, even if he was too lazy and spoiled to appreciate it. Louis XIII died when his son was five, and the regency passed to the queen mother, Anne of Austria. For the next 18 years she ruled France with the able assistance of Cardinal Mazarin, who may or may not have also been her lover, while Louis lived in pampered splendor.[NEWLINE][NEWLINE]It was upon Mazarin's death in 1661 that the 22-year-old Louis XIV began to take an active interest in ruling his country. Much to everyone's surprise, he was good at it. First he gathered all of the power into his own hands, bypassing the old bureaucratic patronage system that Mazarin and his predecessors had used. He enticed the great nobles to his court, where he heaped upon them titles, honorary positions, and financial rewards, while at the same time undermining their actual power. In Louis' court, great noblemen - whose parents had fought for the crown of France itself - fought each other for the privilege of watching Louis shave.[NEWLINE][NEWLINE]In person Louis was said to possess a great natural dignity and bearing. He was unfailingly courteous and usually honest, but he could dissimulate with the best of them when need-be.[NEWLINE][NEWLINE]During his early reign Louis's court was known for its debauchery, and Louis himself had several mistresses. As his reign progressed, however, Louis became more devout, and he even married his last mistress (although in secret). Louis also became a patron of the arts, and literature and painting flourished under his rule. He built many great buildings and palaces, including the grand palace at Versailles. [NEWLINE][NEWLINE]Despite France's wealth, the country remained virtually bankrupt, not only because it had to pay for all the gifts that Louis gave his favorites, but, more importantly, it had to pay for all the wars of conquest that Louis embarked upon. Although a sound and thoughtful ruler at home, Louis had a great thirst for international "glory" - which in his terms meant victory on the battlefield. He constantly fought his neighbors, often for the most trivial reasons, gaining little but glory from the wars. Though he left the army and navy in splendid condition, he left his country's treasury bare. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_LOUIS_XIV_NAME">
+			<Text>Louis XIV</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_LOUIS_XIV_SUBTITLE">
+			<Text>Leader of France</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_LOUIS_XIV_TITLES_1">
+			<Text>King of France</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_LOUIS_XIV_LIVED">
+			<Text>1638 - 1715</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DOM_JFD_LOUIS_XIV_TEXT">
+			<Text>Peoples the world over rejoice, for never before have they seen such a glorious and finely dressed monarch as you, O' Louis XIV, the Sun King of France. At five, you inherited the French throne - the most ancient and noble of the thrones of Europe - and for seventy-two years a modern state would be your design. Though a man of indulgence, your legal and cultural codes would form the basis of both Napoleon's Empire and the French Republics to come, and you would ultimately leave in your wake the most glorious century with which France has ever been blessed.[NEWLINE][NEWLINE]Your great majesty, the Kingdom of France is bereft of the glory that had once adorned it, and your people grieve for ages past. Can you restore the refinement and power of the Bourbon throne? Can you, with guile and excellence, restore the treasured crown of the divine kings? Can you build a civilization that can stand the test of time?</Text>
+		</Row>
+		<!--THE SUN KING-->
+		<Row Tag="TXT_KEY_TRAIT_JFD_LOUIS_XIV_SHORT">
+			<Text>The Sun King</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_JFD_LOUIS_XIV">
+			<Text>During 'We Love the King Day,' the [ICON_CAPITAL] Capital generates points toward your choice of [ICON_GREAT_PEOPLE] Cultural Great Person equal to double the number of wonders and [ICON_PUPPET] puppets you own. Great Work theming bonus doubled in the [ICON_CAPITAL] Capital.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_LOUIS_BUTTON">
+			<Text>{1_UnitName}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_LOUIS_BUTTON_HL">
+			<Text>[COLOR_POSITIVE_TEXT]{1_UnitName}[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_LOUIS_BUTTON_TT">
+			<Text>+{1_Num} [ICON_GREAT_PEOPLE] {2_UnitName} points from wonders and puppets in the empire whilst this city is celebrating 'We Love the King Day'.</Text>
+		</Row>
+		<!--CHATEAU-->
+		<Replace Tag="TXT_KEY_CIV5_IMPROVEMENTS_CHATEAU_TEXT">
+			<Text>A chateau is a manor house or country home of gentry, usually without fortifications. In the Middle Ages, a chateau was largely self-sufficient, being supported by the lord's demesne (hereditary lands). In the 1600s, the wealthy and aristocratic French lords dotted the countryside with elegant, luxuriant, architecturally refined mansions such as the Chateau de Maisons. Today, the term chateau is loosely used; for instance, it is common for any winery or inn, no matter how humble, to prefix its name with "Chateau."[NEWLINE][NEWLINE]A Chateau must be built adjacent to a Luxury resource. It may not be adjacent to another Chateau. It provides one additional [ICON_GOLD] Gold and [ICON_CULTURE] Culture, and begins a 5 turn 'We Love the King Day' in your [ICON_CAPITAL] Capital when built. When Flight is researched its [ICON_CULTURE] Culture yield increases by 1 and its [ICON_GOLD] Gold output rises by 2. Must be built in French territory.</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_CIV5_IMPROVEMENTS_CHATEAU_HELP">
+			<Text>A Chateau must be built adjacent to a Luxury resource and cannot be removed. It may not be adjacent to another Chateau. When constructed, begins a 5-turn 'We Love the King Day' in the [ICON_CAPITAL] Capital. Must be built in French territory. When Flight is researched its [ICON_CULTURE] Culture yield increases by 1 and its [ICON_GOLD] Gold output rises by 2.</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_BUILD_CHATEAU_REC">
+			<Text>A Chateau must be built adjacent to a Luxury resource.  It may not be adjacent to another Chateau and cannot be removed.[NEWLINE][NEWLINE]It will increase the Culture and Gold yield of the tile and begins a 'We Love the King Day' in the Capital.</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_BUILD_CHATEAU_HELP">
+			<Text>Constructs a Chateau which increases the Culture and Gold yield of the tile and to start a 'We Love the King Day' in the Capital. Also provides a defensive bonus.</Text>
+		</Replace>
+	</Language_en_US>
+</GameData>

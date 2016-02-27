@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 11/23/2013 1:27:25 PM -->
+<GameData>
+	<Language_en_US>
+		<!--GAZEBO COMMUNITY BALANCE PATCH-->
+		<Row Tag="TXT_KEY_BUILDING_JFD_STAVE_CHURCH_HELP_CBP">
+			<Text>Stores [ICON_FOOD] Food when a new [ICON_CITIZEN] Citizen is born, equal to the city's [ICON_PEACE] Faith output (up to 15%). Does not require a Shrine to be built.[NEWLINE][NEWLINE]+1 [ICON_CULTURE] Culture and +1 [ICON_GOLD] Gold from [ICON_RES_INCENSE] Incense and [ICON_RES_WINE] Wine. Reduces [ICON_HAPPINESS_3] Religious Unrest.</Text>
+		</Row>
+		<!--JFD COLONIES-->
+		<!--Colony List--> 
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_NORWAY_01">
+			<Text>Myggbukta</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_NORWAY_02">
+			<Text>Eystribyggð</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_NORWAY_03">
+			<Text>Longyearbyen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_NORWAY_04">
+			<Text>Vinland</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_NORWAY_05">
+			<Text>Vestribyggð</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_NORWAY_06">
+			<Text>Olonkinbyen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_NORWAY_07">
+			<Text>Bouvetøya</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_NORWAY_08">
+			<Text>Dronning Maud Land</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_NORWAY_09">
+			<Text>Tórshavn</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_NORWAY_10">
+			<Text>Klaksvík</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_NORWAY_11">
+			<Text>Hoyvík</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_NORWAY_12">
+			<Text>Argir</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_NORWAY_13">
+			<Text>Reykjavík</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_NORWAY_14">
+			<Text>Seyðisfjörður</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_NORWAY_15">
+			<Text>Skúlastaðir</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_NORWAY_16">
+			<Text>Vífilsstaðir</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_NORWAY_17">
+			<Text>Garðabær</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_NORWAY_18">
+			<Text>Vopnafjörður</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_NORWAY_19">
+			<Text>Kirkwall</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_NORWAY_20">
+			<Text>Stromness</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_NORWAY_21">
+			<Text>Lerwick</Text>
+		</Row>
+		<!--JFD SOVEREIGNTY-->
+		<!--Government-->
+		<Row Tag="TXT_KEY_JFD_LEGISLATURE_NAME_CIVILIZATION_NORWAY">
+			<Text>Allting</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_NORWAY">
+			<Text>Lieutenant of the Realm</Text>
+		</Row>
+		<!--Heads of Govt.-->
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_NORWAY_1">
+			<Text>Peder Hansen Litle</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_NORWAY_2">
+			<Text>Jesper Friis</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_NORWAY_3">
+			<Text>Christiern Munk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_NORWAY_4">
+			<Text>Pouel Ottesen Huitfeldt</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_NORWAY_5">
+			<Text>Ludvig Ludvigsson Munk til Norlund</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_NORWAY_6">
+			<Text>Ove Juel</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_NORWAY_7">
+			<Text>Aksel Gyldenstjerne</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_NORWAY_8">
+			<Text>Jørgen Friis til Krastrup</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_NORWAY_9">
+			<Text>Enevold Kruse til Hjermislov</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_NORWAY_10">
+			<Text>Jens Hermansson Juel</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_NORWAY_11">
+			<Text>Christopher Knudsson Urne til Asmark</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_NORWAY_12">
+			<Text>Hannibal Sehested</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_NORWAY_13">
+			<Text>Gregers Krabbe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_NORWAY_14">
+			<Text>Niels Trolle til Trollesholm og Gavnø</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_NORWAY_15">
+			<Text>Iver Tageson Krabbe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_NORWAY_16">
+			<Text>Ove Juel</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_NORWAY_17">
+			<Text>Jens Juel</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_NORWAY_18">
+			<Text>Just Högh til Fultofte</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_NORWAY_19">
+			<Text>Frederik Gabel</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_NORWAY_20">
+			<Text>Johan Vibe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_NORWAY_21">
+			<Text>Ulrik Frederik Valdemar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_NORWAY_22">
+			<Text>Claus Henrik Vieregg</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_NORWAY_23">
+			<Text>Frederik Krag</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_NORWAY_24">
+			<Text>Ditlev Vibe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_NORWAY_25">
+			<Text>Patroclus Rømeling</Text>
+		</Row>
+		<!--Politics-->
+		<Row Tag="TXT_KEY_JFD_PARTY_JFD_CLERGY_NORWAY">
+			<Text>Kirkeraadet</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_PARTY_JFD_COMMUNIST_NORWAY">
+			<Text>Red Party</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_PARTY_JFD_CONSERVATIVE_NORWAY">
+			<Text>Hoerye</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_PARTY_JFD_FASCIST_NORWAY">
+			<Text>Nasjonal Samling</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_PARTY_JFD_LIBERAL_NORWAY">
+			<Text>Venstre</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_PARTY_JFD_LIBERTARIAN_NORWAY">
+			<Text>Progress Party</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_PARTY_JFD_NOBILITY_NORWAY">
+			<Text>Riksraadet</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_PARTY_JFD_REVOLUTIONARY_NORWAY">
+			<Text>Bagli Party</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_PARTY_JFD_SOCIALIST_NORWAY">
+			<Text>Labour Party</Text>
+		</Row>
+		<!--Titles-->
+		<Row Tag="TXT_KEY_GOVERNMENT_JFD_REPUBLIC_TITLE_LEADER_NORWAY">
+			<Text>Statsminister</Text>
+		</Row>
+		<!--RYOGA UNIQUE CULTURAL INFLUENCE-->
+		<Row Tag="TXT_KEY_GENERIC_JFD_NORWAY_INFLUENTIAL_ON_AI_1">
+			<Text>Our people are now enjoying your fishing rights and banging their heads to your black metal. I worry the rest of the world will also succumb to the influence of your culture, and that it shall foil any hope we have in creating a one world government.</Text>
+		</Row>
+		<!--SUKRITACT DECISIONS-->
+		<!--Root out Paganism-->
+		<Row Tag="TXT_KEY_DECISIONS_JFD_NORWAY_ROOT_OUT_PAGANISM">
+			<Text>Root out Paganism</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JFD_NORWAY_ROOT_OUT_PAGANISM_DESC">
+			<Text>
+				These worshippers of false Gods infect the land like a plague with their witchery and superstitution. If we are to truly become a nation favoured by God, we must convert them by sword or prayer, whatever it takes.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Norway
+				[NEWLINE][ICON_BULLET]Player must have a {1_ReligionType}
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{2_Num} [ICON_CULTURE] Culture
+				[NEWLINE][ICON_BULLET]1 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]All citizens following your pantheon belief are converted to your {1_ReligionType}
+				[NEWLINE][ICON_BULLET]{3_Num} {4_Yield}
+				[NEWLINE][NEWLINE][COLOR_NEGATIVE_TEXT]Note: The [ICON_CULTURE] Culture cost increases with every citizen in the empire following only your pantheon belief[ENDCOLOR]
+				[NEWLINE][NEWLINE][COLOR_POSITIVE_TEXT]Note: The amount of {4_Yield} received increases with every citizen in the empire following only your pantheon belief[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JFD_NORWAY_ROOT_OUT_PAGANISM_ENACTED_DESC">
+			<Text>
+				These worshippers of false Gods infect the land like a plague with their witchery and superstitution. If we are to truly become a nation favoured by God, we must convert them by sword or prayer, whatever it takes.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]All citizens following your pantheon belief are converted to your {1_ReligionType}
+				[NEWLINE][ICON_BULLET]Lump sum of {2_Yield}
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WORLD_EVENT_JFD_NORWAY_ROOT_OUT_PAGANISM">
+			<Text>{1_LeaderName} of {2_CivName} has purged his realm of pagan worshippers.</Text>
+		</Row>
+		<!--Fund Seafaring Expedition-->
+		<Row Tag="TXT_KEY_DECISIONS_JFD_NORWAY_EXPEDITIONS">
+			<Text>Fund Seafaring Expedition</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JFD_NORWAY_EXPEDITIONS_DESC">
+			<Text>
+				Our ancestors were great seafarers, braving the treacherous oceans in pursuit of wealth and adventure. We should recreate their legendary tales and prepare a great fleet for a voyage into foreign waters, where riches and glory await.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Norway
+				[NEWLINE][ICON_BULLET]Player must have researched Optics
+				[NEWLINE][ICON_BULLET]May only be enacted before the Renaissance Era
+				[NEWLINE][ICON_BULLET]May only be enacted once per era
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Gold} [ICON_GOLD] Gold
+				[NEWLINE][ICON_BULLET]1 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Receive two Longboats and one Settler that may cross oceans immediately
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JFD_NORWAY_EXPEDITIONS_ENACTED_DESC">
+			<Text>
+				Our ancestors were great seafarers, braving the treacherous oceans in pursuit of wealth and adventure. We should recreate their legendary tales and prepare a great fleet for a voyage into foreign waters, where riches and glory await.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Receive two Longboats and one Settler that may cross oceans immediately
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WORLD_EVENT_JFD_NORWAY_EXPEDITIONS">
+			<Text>A great fleet has been commissioned by {1_LeaderName} of {2_CivName} in a quest to discover new lands.</Text>
+		</Row>
+		<!--SUKRITACT EVENTS-->
+		<!--Cultural Development-->
+		<Row Tag="TXT_KEY_EVENT_CULDEV_JFD_NORWAY_01">
+			<Text>In the city of {1_City}, sore thumbs have become a thing of the past when cutting cheese. Thor Bjørklund has invented what he calls the Cheese Slicer - a product that will no doubt become a household item.</Text>
+		</Row>
+		<!--Bagli Pretender-->
+		<Row Tag="TXT_KEY_EVENT_JFD_NORWAY_BAGLI">
+			<Text>Bagli Pretender</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_NORWAY_BAGLI_DESC">
+			<Text>The rebel Bagler group, advocating for the rights of the nobility over those of the common folk, have rallied their support behind a new pretender to the throne of Norway. A civil war has broken out, and the Bagler seek to have us displaced.[NEWLINE]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_NORWAY_BAGLI_OUTCOME_1">
+			<Text>Their rebellion must be put down.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_NORWAY_BAGLI_OUTCOME_RESULT_1">
+			<Text>[ICON_BULLET][COLOR_NEGATIVE_TEXT]3 rebel Swordsmen spawn in your territory[ENDCOLOR][NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]2 Birkebeiner spawn in the [ICON_CAPITAL] Capital[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_NORWAY_BAGLI_OUTCOME_RESULT_1_NOTIFICATION">
+			<Text>Civil war begins as the Bagler rebels rise up against our rule.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WORLD_EVENT_JFD_NORWAY_BAGLI">
+			<Text>Civil war has broken out in {1_CivName} between claimants to the throne of {2_LeaderName}.</Text>
+		</Row>
+		<!-- Rex Perpetuus Norvegiae -->
+		<Row Tag="TXT_KEY_EVENT_JFD_NORWAY_ETERNAL_KING">
+			<Text>Rex Perpetuus Norvegiae</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_NORWAY_ETERNAL_KING_DESC">
+			<Text>
+				Norway has become a bastion of faith; united in the spirit of devotion to {1_ReligionName}. This confers an inviolable legitimacy upon our throne, and as such, we shall henceforth be known as her Eternal King.[NEWLINE]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_NORWAY_ETERNAL_KING_OUTCOME_1">
+			<Text>This is a great honour.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_NORWAY_ETERNAL_KING_OUTCOME_RESULT_1">
+			<Text>[ICON_BULLET][COLOR_POSITIVE_TEXT]Gain the epithet 'the Holy'[NEWLINE][ICON_BULLET]Gain {1_Num} {2_Yield}[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_NORWAY_ETERNAL_KING_OUTCOME_RESULT_1_NOTIFICATION">
+			<Text>We have become known as Haakon Haakonsson the Holy; the Eternal King of Norway.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_NORWAY_THE_HOLY_ENACTED">
+			<Text>Haakon the Holy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WORLD_EVENT_JFD_NORWAY_ETERNAL_KING">
+			<Text>Norway's Haakon IV has been declared Rex Perpetuus Norvegiae - the Eternal King.</Text>
+		</Row>
+		<!--VICEVIRTUOSO WISH FOR THE WORLD-->
+		<Row Tag="TXT_KEY_PMMM_LEADER_MG_NAME_JFD_NORWAY">
+			<Text>Margrete Skulesdotter</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

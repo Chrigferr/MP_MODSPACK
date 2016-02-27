@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 1/16/2014 11:54:41 PM -->
+<GameData>
+	<Language_en_US>
+		<!--JFD'S EXCE-->
+		<!--Colony List-->
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_FRANCE_DEGAULLE_01">
+			<Text>La Rochelle</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_FRANCE_DEGAULLE_02">
+			<Text>Charlesbourg Royale</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_FRANCE_DEGAULLE_03">
+			<Text>Montreal</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_FRANCE_DEGAULLE_04">
+			<Text>Nouvelle Orleans</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_FRANCE_DEGAULLE_05">
+			<Text>Fort Caroline</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_FRANCE_DEGAULLE_06">
+			<Text>Tadoussac</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_FRANCE_DEGAULLE_07">
+			<Text>Basse-Terre</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_FRANCE_DEGAULLE_08">
+			<Text>Quebec</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_FRANCE_DEGAULLE_09">
+			<Text>Saint Cristophe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_FRANCE_DEGAULLE_10">
+			<Text>Trois Riviers</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_FRANCE_DEGAULLE_11">
+			<Text>Dominica</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_FRANCE_DEGAULLE_12">
+			<Text>Cayenne</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_FRANCE_DEGAULLE_13">
+			<Text>La Grenade</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_FRANCE_DEGAULLE_14">
+			<Text>Moroni</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_FRANCE_DEGAULLE_15">
+			<Text>Brazzaville</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_FRANCE_DEGAULLE_16">
+			<Text>Bamako</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_FRANCE_DEGAULLE_17">
+			<Text>Ndjamena</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_FRANCE_DEGAULLE_18">
+			<Text>Njimay</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_FRANCE_DEGAULLE_19">
+			<Text>Djibouti</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_FRANCE_DEGAULLE_20">
+			<Text>Conakry</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_FRANCE_DEGAULLE_21">
+			<Text>Fort Dauphin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_FRANCE_DEGAULLE_22">
+			<Text>Djougou</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_FRANCE_DEGAULLE_23">
+			<Text>Bechar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_FRANCE_DEGAULLE_24">
+			<Text>Saigon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_FRANCE_DEGAULLE_25">
+			<Text>Hanoi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_FRANCE_DEGAULLE_26">
+			<Text>Keelung</Text>
+		</Row>
+		<!--RYOGA'S UNIQUE CULTURAL INFLUENCE-->
+		<Row Tag="TXT_KEY_GENERIC_JFD_FRANCE_DEGAULLE_INFLUENTIAL_ON_AI_1">
+			<Text>Our people are now drinking your wine and eating your cheeses. I worry the rest of the world will also succumb to the influence of your culture.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

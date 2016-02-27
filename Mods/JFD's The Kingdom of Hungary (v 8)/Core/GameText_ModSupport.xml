@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 11/23/2013 1:27:25 PM -->
+<GameData>
+	<Language_en_US>
+		<!-- JFD's PPIETY & PRESTIGE-->
+		<!--Apostolic Majesty-->
+		<Row Tag="TXT_KEY_TRAIT_JFD_HUNGARY_PIETY">
+			<Text>Whilst the majority of your cities follow your State Religion, 33% of your [ICON_PEACE] Faith Per Turn contributes toward [ICON_GOLDEN_AGE] Golden Age progress and conquered cities slowly convert to your State Religion.</Text>
+		</Row>
+		<!--Vegvar-->
+		<Row Tag="TXT_KEY_BUILDING_JFD_VEGVAR_PIETY_HELP">
+			<Text>So long as the city follows your State Religion, the Vegvar increases religious pressure by 25% and [ICON_PEACE] Faith output by +1 for every defensive building in the city.[NEWLINE][NEWLINE]If a city with a Vegvar is occupied by an enemy civilization at war with Hungary, that city will continuously take 30 damage per turn until the city is re-taken or peace is brokered.[NEWLINE][NEWLINE]City must have Walls.</Text>
+		</Row>
+		<!-- RYOGA's UNIQUE CULTURAL INFLUENCE -->
+		<Row Tag="TXT_KEY_GENERIC_JFD_HUNGARY_INFLUENTIAL_ON_AI_1">
+			<Text>Our people are now dancing to your folk music and eating your goulash. I worry the rest of the world will also succumb to the influence of your culture.</Text>
+		</Row>
+		<!-- SUKRITACT's DECISIONS -->
+		<!--Establish an Archdiocese-->
+		<Row Tag="TXT_KEY_DECISIONS_JFD_HUNGARY_ARCHDIOCESE">
+			<Text>Establish an Archdiocese</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JFD_HUNGARY_ARCHDIOCESE_DESC">
+			<Text>
+				In all the world there is no more faithful nation than that of the Hungarians. To consolidate this truth, let us establish an Archdiocese, and let the world know that this nation is borne by the Grace of God.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Hungary
+				[NEWLINE][ICON_BULLET]Player must have a {1_ReligionType}
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{2_Num} [ICON_CULTURE] Culture
+				[NEWLINE][ICON_BULLET]1 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]All cities are converted fully to your {1_ReligionType}
+				[NEWLINE][ICON_BULLET]A city of your choice receives a free Cathedral
+				[NEWLINE][ICON_BULLET]+1 [ICON_PEACE] Faith from Cathedrals
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JFD_HUNGARY_ARCHDIOCESE_ENACTED_DESC">
+			<Text>
+				In all the world there is no more faithful nation than that of the Hungarians. To consolidate this truth, let us establish an Archdiocese, and let the world know that this nation is borne by the Grace of God.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]All cities are converted fully to your {1_ReligionType}
+				[NEWLINE][ICON_BULLET]A city of your choice receives a free Cathedral
+				[NEWLINE][ICON_BULLET]+1 [ICON_PEACE] Faith from Cathedrals
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_CHOOSE_ARCHDIOCESE_MENU">
+			<Text>Establish an Archdiocese</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_CHOOSE_ARCHDIOCESE_BUTTON">
+			<Text>Create</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_CHOOSE_ARCHDIOCESE_BUTTON_TT">
+			<Text>Select a city out of which to establish an Archdiocese</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_CHOOSE_ARCHDIOCESE_MENU_TOOLTIP">
+			<Text>This will establish {1_CityName} as an Archdiocese</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WORLD_EVENT_JFD_HUNGARY_ARCHDIOCESE">
+			<Text>The Archdiocese of Budapest has been founded by Stephen I of the {1_CivName}.</Text>
+		</Row>
+		<!--Create the Black Army-->
+		<Row Tag="TXT_KEY_DECISIONS_JFD_HUNGARY_BLACK_ARMY">
+			<Text>Create the Black Army</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JFD_HUNGARY_BLACK_ARMY_DESC">
+			<Text>The Black Army was the name given to the standing army of King Matthias Corvinus of Hungary. The core of the army consisted of 8-9 thousand mercenary soldiers and was one of the first professional armies to employ gunpowder weaponry.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Hungary
+				[NEWLINE][ICON_BULLET]Must have researched Gunpowder
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Gold} [ICON_GOLD] Gold
+				[NEWLINE][ICON_BULLET]1 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Cost of purchasing Military Units reduced by 33%
+				[NEWLINE][ICON_BULLET]Receive four free Musketmen
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JFD_HUNGARY_BLACK_ARMY_ENACTED_DESC">
+			<Text>
+				The Black Army was the name given to the standing army of King Matthias Corvinus of Hungary. The core of the army consisted of 8-9 thousand mercenary soldiers and was one of the first professional armies to employ gunpowder weaponry.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Cost of purchasing Military Units reduced by 33%
+				[NEWLINE][ICON_BULLET]Receive four free Musketmen
+			</Text>
+		</Row>
+		<!-- SUKRITACT's EVENTS -->
+		<!-- The Blood Countess -->
+		<Row Tag="TXT_KEY_EVENT_JFD_HUNGARY_BLOOD_COUNTESS">
+			<Text>The Blood Countess</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_HUNGARY_BLOOD_COUNTESS_DESC">
+			<Text>A minister in our court has spoken up against the Countess Elizabeth Báthory, accusing her of wicked crimes against the Hungarian people. He alleges that the Countess has an insatisable obsession with torture and death, and that, at her hands, countless young women - of noble and common birth alike - have been tortured to death. These crimes are very serious, and we must not let them go unpunished if true.[NEWLINE]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_HUNGARY_BLOOD_COUNTESS_OUTCOME_1">
+			<Text>Investigate these claims.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_HUNGARY_BLOOD_COUNTESS_OUTCOME_2">
+			<Text>Disregard these claims.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_HUNGARY_BLOOD_COUNTESS_OUTCOME_RESULT_1">
+			<Text>[ICON_BULLET][COLOR_NEGATIVE_TEXT]Lose {1_Num} [ICON_GOLD] Gold[ENDCOLOR][NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]Gain {2_Num} [ICON_GOLDEN_AGE] Golden Age points[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_HUNGARY_BLOOD_COUNTESS_OUTCOME_RESULT_2">
+			<Text>[ICON_BULLET][COLOR_NEGATIVE_TEXT]Lose {1_Num} [ICON_GOLDEN_AGE] Golden Age points[ENDCOLOR][NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]Gain {2_Num} [ICON_CULTURE] Culture[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HUNGARY_BLOOD_COUNTESS_OUTCOME_RESULT_1_NOTIFICATION">
+			<Text>Our investigation into claims of serial murder against the Countess Elizabeth Báthory have turned up truth: a list of some 640 deaths has been unearthed and attributed to the Countess. She will be brought to the Capital and tried by the highest court in the land.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HUNGARY_BLOOD_COUNTESS_OUTCOME_RESULT_2_NOTIFICATION">
+			<Text>We have disregarded claims of serial murder against the Countess Elizabeth Báthory. Business as usual then.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WORLD_EVENT_JFD_HUNGARY_BLOOD_COUNTESS">
+			<Text>The Countess Elizabeth Báthory has been convicted of serial murder in Hungary.</Text>
+		</Row>
+		<!-- A Foreign Hero -->
+		<Row Tag="TXT_KEY_EVENT_JFD_HUNGARY_FOREIGN_HERO">
+			<Text>A Foreign Hero</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_HUNGARY_FOREIGN_HERO_DESC">
+			<Text>A foreign commander, General Józef Bem, has recently become a hero to the Hungarian people for his courageous efforts to fight within our armies against our enemies. General Bem is known throughout for his military achievements, and we are fortunate that he fights for our cause. We should have him commemorated for his efforts.[NEWLINE]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_HUNGARY_FOREIGN_HERO_OUTCOME_1">
+			<Text>Promote General Bem to the ranks of Hungary's commanders.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_HUNGARY_FOREIGN_HERO_OUTCOME_2">
+			<Text>Decorate General Bem with the highest Hungarian honour.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_HUNGARY_FOREIGN_HERO_OUTCOME_3">
+			<Text>We shall afford no national honours to a foreigner.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_HUNGARY_FOREIGN_HERO_OUTCOME_RESULT_1">
+			<Text>[ICON_BULLET][COLOR_NEGATIVE_TEXT]Lose {1_Num} [ICON_CULTURE] Culture[NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]Gain a free Great General with additional Sight and [ICON_MOVES] Moves and which ignores enemy Zone of Control[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_HUNGARY_FOREIGN_HERO_OUTCOME_RESULT_2">
+			<Text>[ICON_BULLET][COLOR_NEGATIVE_TEXT]Lose {1_Num} [ICON_CULTURE] Culture[NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]Gain a free Great General[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_HUNGARY_FOREIGN_HERO_OUTCOME_RESULT_3">
+			<Text>[ICON_BULLET][COLOR_NEGATIVE_TEXT]A foreign civilization receives a free Great General[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HUNGARY_FOREIGN_HERO_OUTCOME_RESULT_1_NOTIFICATION">
+			<Text>We have promoted General Józef Bem to join the ranks of our highest commanders.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HUNGARY_FOREIGN_HERO_OUTCOME_RESULT_2_NOTIFICATION">
+			<Text>We have decorated General Józef Bem with our highest honour.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HUNGARY_FOREIGN_HERO_OUTCOME_RESULT_3_NOTIFICATION">
+			<Text>We have ignored the efforts of General Józef Bem, so he has chosen to desert our empire and serve elsewhere.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HUNGARY_JOZEF_BEM">
+			<Text>Józef Bem</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_HUNGARY_FOREIGN_HERO">
+			<Text>National Hero</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_HUNGARY_FOREIGN_HERO_HELP">
+			<Text>Ignores Zone of Control. +1 Sight and +1 [ICON_MOVES] Movement.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

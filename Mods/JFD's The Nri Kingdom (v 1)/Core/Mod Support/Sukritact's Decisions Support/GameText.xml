@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_en_US>	
+		<!--Journey to the Anambra River-->
+		<Row Tag="TXT_KEY_DECISIONS_JFD_NRI_ANAMBRA_RIVER">
+			<Text>Journey to the Anambra River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JFD_NRI_ANAMBRA_RIVER_DESC">
+			<Text>
+				The role of the eze Nri is not complete until the journey to the sacred Anambra River has taken place. There, the eze Nri must demonstrate their blessing by collecting stones from beneath the water, before being buried, exhumed, and anointed in white clay. Only following this can the eze Nri have his people's trust and approval.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Nri
+				[NEWLINE][ICON_BULLET]Must be at peace
+				[NEWLINE][ICON_BULLET]Must have founded a religion
+				[NEWLINE][ICON_BULLET]May only be enacted once per era
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_FaithCost} [ICON_PEACE] Faith
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Gain 1 [ICON_MAGISTRATES] Magistrate
+				[NEWLINE][ICON_BULLET]Begins a {2_GoldenAgeTurns} [ICON_GOLDEN_AGE] Golden Age
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JFD_NRI_ANAMBRA_RIVER_ENACTED_DESC">
+			<Text>
+				The role of the eze Nri is not complete until the journey to the sacred Anambra River has taken place. There, the eze Nri must demonstrate their blessing by collecting stones from beneath the water, before being buried, exhumed, and anointed in white clay. Only following this can the eze Nri have his people's trust and approval.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Gain 1 [ICON_MAGISTRATES] Magistrate
+				[NEWLINE][ICON_BULLET]Begins a [ICON_GOLDEN_AGE] Golden Age
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JFD_NRI_ANAMBRA_RIVER_FAITH_ALERT">
+			<Text>[COLOR_POSITIVE_TEXT]+{1_Num}[ENDCOLOR] [ICON_PEACE] Faith from a {2_BuildingName} purchased in {3_CityName}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JFD_NRI_ANAMBRA_RIVER_GOLD_ALERT">
+			<Text>[COLOR_POSITIVE_TEXT]+{1_Num}[ENDCOLOR] [ICON_GOLD] Gold from a {2_BuildingName} purchased in {3_CityName}</Text>
+		</Row>
+		<!--Sanctify the Ìkénga-->
+		<Row Tag="TXT_KEY_DECISIONS_JFD_NRI_IKENGA">
+			<Text>Sanctify the Ìkénga</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JFD_NRI_IKENGA_DESC">
+			<Text>
+				The Ìkénga are our eyes and ears; we do not mingle with our followers. Instead, we must rule through our Ìkénga: those priests and noblemen who adminster the day-to-day running of the empire. But we believe that the Ìkénga are too disconnected from the role of their sacred eze Nri. We must bridge this gap, and make the Ìkénga an institution with heavenly purpose.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Nri
+				[NEWLINE][ICON_BULLET]Must be at peace
+				[NEWLINE][ICON_BULLET]Must have founded a religion
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]2 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Gain [ICON_PEACE] Faith whenever you spend [ICON_GOLD] Gold to purchase Buildings
+				[NEWLINE][ICON_BULLET]Gain [ICON_GOLD] Gold whenever you spend [ICON_PEACE] Faith to purchase Buildings
+				[NEWLINE][NEWLINE][COLOR_POSITIVE_TEXT]Note: The amount of [ICON_PEACE] Faith or [ICON_GOLD] Gold received is approximately equal to 20% of the item's cost.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JFD_NRI_IKENGA_ENACTED_DESC">
+			<Text>
+				The Ìkénga are our eyes and ears; we do not mingle with our followers. Instead, we must rule through our Ìkénga: those priests and noblemen who adminster the day-to-day running of the empire. But we believe that the Ìkénga are too disconnected from the role of their sacred eze Nri. We must bridge this gap, and make the Ìkénga an institution with heavenly purpose.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Gain [ICON_PEACE] Faith whenever you spend [ICON_GOLD] Gold to purchase Buildings
+				[NEWLINE][ICON_BULLET]Gain [ICON_GOLD] Gold whenever you spend [ICON_PEACE] Faith to purchase Buildings
+				[NEWLINE][NEWLINE][COLOR_POSITIVE_TEXT]Note: The amount of [ICON_PEACE] Faith or [ICON_GOLD] Gold received is approximately equal to 20% of the item's cost.
+			</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

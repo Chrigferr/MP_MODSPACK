@@ -1,0 +1,110 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="205aa32b-9ee1-4ad8-8c42-4fcde1d4f417" version="5">
+  <Properties>
+    <Name>JFD's The Confederation of Switzerland</Name>
+    <Teaser>Adds the [COLOR_POSITIVE_TEXT]the Confederation of Switzerland[ENDCOLOR] with Guillaume-Henri Dufour to the game.</Teaser>
+    <Description>See Steam Workshop or CivFanatics for full details.</Description>
+    <Authors>JFD, Janboruta</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <Homepage>http://forums.civfanatics.com/showthread.php?t=474393</Homepage>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies>
+    <Dlc id="6DA07636-4123-4018-B643-6575B4EC336B" minversion="0" maxversion="999" />
+  </Dependencies>
+  <References>
+    <Mod id="1f941088-b185-4159-865c-472df81247b2" minversion="0" maxversion="999" title="Events and Decisions" />
+    <Mod id="7fdd72a5-d4ae-441c-bc4e-2e3d2a26cff4" minversion="0" maxversion="999" title="Ethnic Units" />
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="Yet (not) Another Earth Maps Pack" />
+    <Mod id="eea66053-7579-481a-bb8d-2f3959b59974" minversion="0" maxversion="999" title="JFD’s Piety" />
+    <Mod id="e576894a-ed2b-4033-be14-ed1c8ceb81d3" minversion="0" maxversion="999" title="Map Labels" />
+    <Mod id="8670da15-d435-44ea-9758-7438cb321411" minversion="0" maxversion="999" title="R.E.D. Modpack" />
+    <Mod id="a19351c5-c0b3-4b07-8695-4affaa199949" minversion="0" maxversion="999" title="JFD’s and Pouakai’s Mercenaries" />
+    <Mod id="ce8aa614-7ef7-4a45-a179-5329869e8d6d" minversion="0" maxversion="999" title="Enlightenment Era" />
+    <Mod id="6676902b-b907-45f1-8db5-32dcb2135eee" minversion="0" maxversion="999" title="JFD's Exploration Continued Expanded" />
+    <Mod id="8411a7a8-dad3-4622-a18e-fcc18324c799" minversion="0" maxversion="999" title="Community Balance Patch" />
+    <Mod id="d1b6328c-ff44-4b0d-aad7-c657f83610cd" minversion="0" maxversion="999" title="Community Patch" />
+    <Mod id="10e9728f-d61c-4317-be4f-7d52d6bae6f4" minversion="0" maxversion="999" title="JFD's Claims and Colonies" />
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="JFD's Cultural Diversity (Core)" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="59CAA133137348726E7D4BCC9AB9BE4D" import="1">Art/Diplomacy/Dufour_diplo.dds</File>
+    <File md5="BC724BBD2A479924F5E1E9D87C9CDC91" import="1">Art/Diplomacy/Dufour_Scene.xml</File>
+    <File md5="B8A03FA21E2C62EB856D71F436C4F125" import="1">Art/Graphics/Combat Medic/Industrial/civ5_frerm.fxsxml</File>
+    <File md5="333B64905A4164625A207B9D34306373" import="1">Art/Graphics/Combat Medic/Industrial/civ5_frerm.gr2</File>
+    <File md5="C9E95084E20C354724161BB257B140F6" import="1">Art/Graphics/Combat Medic/Industrial/frerm.dds</File>
+    <File md5="E53220C726C831E2BFFA583CD0D750B8" import="1">Art/Graphics/Combat Medic/Industrial/frerm_diff.dds</File>
+    <File md5="32F4FE0E091B1FE56C98785D4C24E332" import="1">Art/Graphics/Combat Medic/Modern/ausgw1.dds</File>
+    <File md5="09494335C27B585180136F7F5AA91CE9" import="1">Art/Graphics/Combat Medic/Modern/ausgw1.fxsxml</File>
+    <File md5="033BFACE31C66BE49DE1F84AF9FED36F" import="1">Art/Graphics/Combat Medic/Modern/ausgw1.gr2</File>
+    <File md5="0C759F1CED95795CCFBE40C6BD9A963C" import="1">Art/Graphics/Combat Medic/Modern/no_gloss.dds</File>
+    <File md5="7089E4167BD82510612DFB78F78C7261" import="1">Art/Graphics/Combat Medic/sv_CombatMedic.dds</File>
+    <File md5="9DB26DBC44630C7F81F3E3E2F7E60CD1" import="1">Art/Icon Atlas/JFD_SwitzerlandAlphaAtlas_128.dds</File>
+    <File md5="C919E3EC5CFC17E1FDB58A8DD719AA36" import="1">Art/Icon Atlas/JFD_SwitzerlandAlphaAtlas_16.dds</File>
+    <File md5="D9D379E2F4802FB8F676825682BF7581" import="1">Art/Icon Atlas/JFD_SwitzerlandAlphaAtlas_22.dds</File>
+    <File md5="A743EE4725E40C72A61AF1EF6F358D84" import="1">Art/Icon Atlas/JFD_SwitzerlandAlphaAtlas_24.dds</File>
+    <File md5="30E5654DE6C1BB57DD6B9279EEDDEB93" import="1">Art/Icon Atlas/JFD_SwitzerlandAlphaAtlas_32.dds</File>
+    <File md5="E4335B228C26A8158B00D8C6FBADA691" import="1">Art/Icon Atlas/JFD_SwitzerlandAlphaAtlas_45.dds</File>
+    <File md5="D407574180CC3E3BB7DEB58B898E54F0" import="1">Art/Icon Atlas/JFD_SwitzerlandAlphaAtlas_48.dds</File>
+    <File md5="BBF537521EF327B4805248027028B75B" import="1">Art/Icon Atlas/JFD_SwitzerlandAlphaAtlas_64.dds</File>
+    <File md5="240AAB4ACE01942D6B2DDBD27B9D4332" import="1">Art/Icon Atlas/JFD_SwitzerlandAlphaAtlas_80.dds</File>
+    <File md5="C9AC677F260D66DE447EC22CC029A488" import="1">Art/Icon Atlas/JFD_SwitzerlandAtlas_128.dds</File>
+    <File md5="1E984CCCFA5E3F1D6A20A3CDB93516F7" import="1">Art/Icon Atlas/JFD_SwitzerlandAtlas_256.dds</File>
+    <File md5="0650BB523699BF757F9949FB065247A2" import="1">Art/Icon Atlas/JFD_SwitzerlandAtlas_32.dds</File>
+    <File md5="E4335B228C26A8158B00D8C6FBADA691" import="1">Art/Icon Atlas/JFD_SwitzerlandAtlas_45.dds</File>
+    <File md5="037AF6E7D027B3B16BAAB203E1E43F14" import="1">Art/Icon Atlas/JFD_SwitzerlandAtlas_64.dds</File>
+    <File md5="1D7A78344626311CB6238C98C9B38E8C" import="1">Art/Icon Atlas/JFD_SwitzerlandAtlas_80.dds</File>
+    <File md5="0C4A2C0329F93E5FC27B95D46F71E627" import="1">Art/Icon Atlas/Unit_CombatMedic_Flag_32.dds</File>
+    <File md5="91AC04C8CCF64D7614F3CCA5C31664A3" import="1">Art/Map/Dufour_DOM.dds</File>
+    <File md5="7F9726CE275081D2E87302CAA2ADDDEA" import="1">Art/Map/SwitzerlandMap512.dds</File>
+    <File md5="3C66D456FB558E9416C6405171047DEC" import="1">Audio/Dufour_Peace.mp3</File>
+    <File md5="1D03251A253D685EE811AEF9B39EB86E" import="1">Audio/Dufour_War.mp3</File>
+    <File md5="9A392044885662B32A76489E63F86D8B" import="0">Core/Switzerland_ArtDefines.sql</File>
+    <File md5="32AC0F4E4E7A1D642D29D3C314D70B74" import="0">Core/Switzerland_GameDefines.sql</File>
+    <File md5="BDCEDD5253F77B927CD828D4555F0BA1" import="0">Core/Switzerland_GameDefines_Diplomacy.sql</File>
+    <File md5="963DA5CCC7E48A77EB2F1CC23866FD5E" import="0">Core/Switzerland_GameDefines_ModSupport.sql</File>
+    <File md5="E493C4390829F859C701BF6CD2C73727" import="0">Core/Switzerland_GameText.xml</File>
+    <File md5="003B290D71DAC4D1B97D3ABC40732D28" import="0">Core/Switzerland_GameText_Diplomacy.xml</File>
+    <File md5="074E9DC39B2575DD9C2DE807234C2E39" import="0">Core/Switzerland_GameText_ModSupport.xml</File>
+    <File md5="3665EA7314EC7714D3F5520365D7702A" import="0">DeleteMissingReferences.xml</File>
+    <File md5="70DA91FFFAFF86C423BB242CB7564ED8" import="1">Lua/JFD_Switzerland_Decisions.lua</File>
+    <File md5="EFECF982D4ECB4F236D749362A73DDA6" import="1">Lua/JFD_Switzerland_Events.lua</File>
+    <File md5="6645D21B35D99A97E0B5790D907E93C9" import="0">Lua/JFD_Switzerland_Functions.lua</File>
+    <File md5="289EEF63B22400E375B68F3CF1972F6C" import="1">Lua/Utilities/JFD DTP/JFD_Switzerland_DTP.lua</File>
+    <File md5="B9BFB07A5FCFB778E2D096C2A4A5D0B3" import="0">Lua/Utilities/JFD DTP/JFD_TopPanelUpdated.lua</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Core/Switzerland_ArtDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Switzerland_GameDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Switzerland_GameDefines_Diplomacy.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Switzerland_GameDefines_ModSupport.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Switzerland_GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Switzerland_GameText_Diplomacy.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Switzerland_GameText_ModSupport.xml</UpdateDatabase>
+      <UpdateDatabase>DeleteMissingReferences.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/JFD_Switzerland_Functions.lua">
+      <Name>Switzerland Functions</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/Utilities/JFD DTP/JFD_TopPanelUpdated.lua">
+      <Name>JFD_TopPanelUpdated</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

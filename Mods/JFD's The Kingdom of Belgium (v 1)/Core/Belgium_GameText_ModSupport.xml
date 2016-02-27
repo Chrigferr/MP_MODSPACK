@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 11/23/2013 1:27:25 PM -->
+<GameData>
+	<Language_en_US>
+		<!--GAZEBO COMMUNITY BALANCE PATCH-->
+		<Row Tag="TXT_KEY_BUILDING_JFD_CHOCOLATE_HOUSE_HELP_CBP">
+			<Text>Grants a copy of the [ICON_RES_JFD_PRALINE] Praline luxury resource.[NEWLINE][NEWLINE]City must have a Circus.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_CHOCOLATE_HOUSE_STRATEGY_CBP">
+			<Text>The Chocolaterie is the unique Belgian replacement for the Zoo. Unlike the Zoo, the Chocolaterie does not produce any [ICON_HAPPINESS_1] Happiness by itself. Instead, it provides a copy of the unique [ICON_RES_JFD_PRALINE] Praline resource, which yields [ICON_HAPPINESS_1] Happiness like other luxury resources. The Chocolaterie also increases the [ICON_GOLD] Gold yield of plantation-based resources and reduces [ICON_HAPPINESS_3] Boredom.</Text>
+		</Row>
+		<!--JFD COLONIES-->
+		<!--Colonies-->
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_BELGIUM_01">
+			<Text>Leopoldville</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_BELGIUM_02">
+			<Text>Banningville</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_BELGIUM_03">
+			<Text>Bomba</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_BELGIUM_04">
+			<Text>Elizabethville</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_BELGIUM_05">
+			<Text>Stanleyville</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_BELGIUM_06">
+			<Text>Coquilhatville</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_BELGIUM_07">
+			<Text>Albertville</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_BELGIUM_08">
+			<Text>Luluabourg</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_BELGIUM_09">
+			<Text>Thysville</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_BELGIUM_10">
+			<Text>Jadotville</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_BELGIUM_11">
+			<Text>Tshikapa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_BELGIUM_12">
+			<Text>Costermansville</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_BELGIUM_13">
+			<Text>Bakwanga</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_BELGIUM_14">
+			<Text>Kindu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_BELGIUM_15">
+			<Text>Banana</Text>
+		</Row>
+		<!--JFD SOVEREIGNTY-->
+		<!--Government-->
+		<Row Tag="TXT_KEY_JFD_LEGISLATURE_NAME_CIVILIZATION_BELGIUM">
+			<Text>Belgian Federal Parliament</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_BELGIUM">
+			<Text>Prime Minister</Text>
+		</Row>
+		<!--Heads of Govt.-->
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_BELGIUM_1">
+			<Text>Hubert Pierlot</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_BELGIUM_2">
+			<Text>Achille Van Acker</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_BELGIUM_3">
+			<Text>Achille Van Acker</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_BELGIUM_4">
+			<Text>Camille Huysmans</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_BELGIUM_5">
+			<Text>Gaston Eyskens</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_BELGIUM_6">
+			<Text>Jean Duvieusart</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_BELGIUM_7">
+			<Text>Joseph Pholien</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_BELGIUM_8">
+			<Text>Jean Van Houtte</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_BELGIUM_9">
+			<Text>Henri de Brouckère</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_BELGIUM_10">
+			<Text>Walthère Frère-Orban</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_BELGIUM_11">
+			<Text>Jules d'Anethan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_BELGIUM_12">
+			<Text>Jules Malou</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_BELGIUM_13">
+			<Text>Auguste Beernaert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_BELGIUM_14">
+			<Text>Léon Delacroix</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_BELGIUM_15">
+			<Text>Henri Carton de Wiart</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_BELGIUM_16">
+			<Text>Georges Theunis</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_BELGIUM_17">
+			<Text>Aloys Van de Vyvere</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_BELGIUM_18">
+			<Text>Prosper Poullet</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_BELGIUM_19">
+			<Text>Henri Jaspar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_BELGIUM_20">
+			<Text>Jules Renkin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_BELGIUM_21">
+			<Text>Charles de Broqueville</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_BELGIUM_22">
+			<Text>Georges Theunis</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_BELGIUM_23">
+			<Text>Paul van Zeeland</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_BELGIUM_24">
+			<Text>Paul-Émile Janson</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_BELGIUM_25">
+			<Text>Paul-Henri Spaak</Text>
+		</Row>
+		<!--Political Parties-->
+		<Row Tag="TXT_KEY_JFD_PARTY_JFD_LIBERAL_BELGIUM">
+			<Text>Reformist Movement</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_PARTY_JFD_REVOLUTIONARY_BELGIUM">
+			<Text>Vlaams Belang</Text>
+		</Row>
+		<!--POUAKAI ENLIGHTENMENT ERA-->
+		<Row Tag="TXT_KEY_BUILDING_JFD_CHOCOLATE_HOUSE_HELP_EE">
+			<Text>Grants a copy of the [ICON_RES_JFD_PRALINE] Praline luxury resource.[NEWLINE][NEWLINE]City must have a Tavern.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_CHOCOLATE_HOUSE_STRATEGY_EE">
+			<Text>The Chocolaterie is the unique Belgian replacement for the Menagerie. Unlike the Menagerie, the Chocolaterie does not produce any [ICON_HAPPINESS_1] Happiness by itself. Instead, it provides a copy of the unique [ICON_RES_JFD_PRALINE] Praline resource, which yields [ICON_HAPPINESS_1] Happiness like other luxury resources and may be traded to other civilizations. It also increases the [ICON_GOLD] Gold yield of plantation-based resources.</Text>
+		</Row>
+		<!--RYOGA UNIQUE CULTURAL INFLUENCE-->
+		<Row Tag="TXT_KEY_GENERIC_JFD_BELGIUM_INFLUENTIAL_ON_AI_1">
+			<Text>Our people are now eating your chocolate and reading your comic books. I worry the rest of the world will also succumb to the influence of your culture.</Text>
+		</Row>
+		<!--SUKRITACT DECISIONS-->
+		<!--Create the Force Publique-->
+		<Row Tag="TXT_KEY_DECISIONS_JFD_BELGIUM_FORCE_PUBLIQUE">
+			<Text>Create the Force Publique</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JFD_BELGIUM_FORCE_PUBLIQUE_DESC">
+			<Text>
+				Maintaining foreign colonies often involves ensuring that the native population knows who's in charge. Incompetency and non-productivity should not be tolerated. Creating a military force to oversee our economic quotas would make Belgium very prosperous indeed.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Belgium
+				[NEWLINE][ICON_BULLET]May only be enacted from the beginning of the Industrial Era
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Num} [ICON_GOLD] Gold
+				[NEWLINE][ICON_BULLET]1 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]+1 [ICON_PRODUCTION] Production on Plantations.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JFD_BELGIUM_FORCE_PUBLIQUE_ENACTED_DESC">
+			<Text>
+				Maintaining foreign colonies often involves ensuring that the native population knows who's in charge. Incompetency and non-productivity should not be tolerated. Creating a military force to oversee our economic quotas would make Belgium very prosperous indeed.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]+1 [ICON_PRODUCTION] Production on Plantations.
+			</Text>
+		</Row>
+		<!--Brussels Geographic Conference-->
+		<Row Tag="TXT_KEY_DECISIONS_JFD_BELGIUM_GEOGRAPHIC_CONFERENCE">
+			<Text>Convene the Brussels Geographic Conference</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JFD_BELGIUM_GEOGRAPHIC_CONFERENCE_DESC">
+			<Text>
+				It is important that Belgium not fall behind its rivals in  power. Calling together the world's leading experts on exploratory science would put us leagues ahead of other empires in the race to further our reach.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Belgium
+				[NEWLINE][ICON_BULLET]May only be enacted from the beginning of the Renaissance Era
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Num} [ICON_GOLD] Gold
+				[NEWLINE][ICON_BULLET]2 {2_ResourceType}
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Settlers and Workers gain +1 Sight and ignore terrain costs when moving.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JFD_BELGIUM_GEOGRAPHIC_CONFERENCE_ENACTED_DESC">
+			<Text>
+				It is important that Belgium not fall behind its rivals in imperial power. Calling together the world's leading experts on exploratory science would put us leagues ahead of other empires in the race to further our reach.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Settlers and Workers gain +1 Sight and ignore terrain costs when moving.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_BELGIAN_GEOGRAPHIC_CONFERENCE_DESC">
+			<Text>Geographic Conference</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_BELGIAN_GEOGRAPHIC_CONFERENCE_HELP">
+			<Text>Ignores terrain cost and gains +1 Sight.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WORLD_EVENT_JFD_BELGIUM_GEOGRAPHIC_CONFERENCE">
+			<Text>{1_LeaderName} has called together the Brussels Geographic Conference in {2_CivName}.</Text>
+		</Row>
+		<!--SUKRITACT EVENTS-->
+		<!--Cultural Development-->
+		<Row Tag="TXT_KEY_EVENT_CULDEV_JFD_BELGIUM_01">
+			<Text>People in {1_CityName} have begun attaching wheels to their shoes and 'skating' around the city! There is sure to be a rise in accidents.</Text>
+		</Row>
+		<!--Linguistic Tensions-->
+		<Row Tag="TXT_KEY_EVENT_JFD_BELGIUM_LINGUISTIC_TENSIONS">
+			<Text>Linguistic Tensions</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_BELGIUM_LINGUISTIC_TENSIONS_DESC">
+			<Text>
+				Recently, a group of {1_Language}-speaking Belgians have caused a stir by demanding equal representation of their language in the courts. They see the omission of their language to convey Belgian laws as an affront to their protection beneath those same laws. We must act to resolve this issue before it gets out of hand.[NEWLINE]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_BELGIUM_LINGUISTIC_TENSIONS_OUTCOME_1">
+			<Text>Very well. There shall be equal use of the languages within the courts.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_BELGIUM_LINGUISTIC_TENSIONS_OUTCOME_2">
+			<Text>Absolutely not. Dutch is the language of our laws and so it shall stay.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_BELGIUM_LINGUISTIC_TENSIONS_OUTCOME_RESULT_1">
+			<Text>[ICON_BULLET][COLOR_NEGATIVE_TEXT]The [ICON_CAPITAL] Capital undergoes 1 turn of [ICON_RESISTANCE] Resistance[ENDCOLOR][NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]Gain {1_Num} [ICON_CULTURE] Culture[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_BELGIUM_LINGUISTIC_TENSIONS_OUTCOME_RESULT_2">
+			<Text>[ICON_BULLET][COLOR_NEGATIVE_TEXT]Lose {1_Num} [ICON_GOLDEN_AGE] Golden Age points[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_BELGIUM_LINGUISTIC_TENSIONS_OUTCOME_RESULT_1_NOTIFICATION">
+			<Text>We have resolved linguistic tensions within our nation by establishing equal representation of our languages within the courts.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_BELGIUM_LINGUISTIC_TENSIONS_OUTCOME_RESULT_2_NOTIFICATION">
+			<Text>We have dismissed the tensions caused by linguistic divisions in the country.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WORLD_EVENT_JFD_BELGIUM_LINGUISTIC_TENSIONS">
+			<Text>Tensions between {1_Language} and Dutch-speaking citizens have sparked division in {2_CivName}.</Text>
+		</Row>
+		<!--Profitable Year-->
+		<Row Tag="TXT_KEY_EVENT_JFD_BELGIUM_PROFITS">
+			<Text>Profitable Year</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_BELGIUM_PROFITS_DESC">
+			<Text>It has been a profitable year for our plantation industry, and we have reaped a hefty surplus.[NEWLINE]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_BELGIUM_PROFITS_OUTCOME_1">
+			<Text>Excellent!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_BELGIUM_PROFITS_OUTCOME_RESULT_1">
+			<Text>[ICON_BULLET][COLOR_POSITIVE_TEXT]Gain {1_Num} [ICON_GOLD] Gold[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_BELGIUM_PROFITABLE_YEAR_OUTCOME_RESULT_1_NOTIFICATION">
+			<Text>It has been a profitable year for our plantation industry.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WORLD_EVENT_JFD_BELGIUM_PROFITABLE_YEAR">
+			<Text>The plantations in {1_CivDesc} are reporting record-high profits this year.</Text>
+		</Row>
+		<!--VICEVIRTUOSO's WISH FOR THE WORLD-->
+		<Row Tag="TXT_KEY_PMMM_LEADER_MG_NAME_JFD_BELGIUM">
+			<Text>Elisabeth</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

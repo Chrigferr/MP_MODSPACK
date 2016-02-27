@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_en_US>	
+		<!--Hold the Great Sjem-->
+		<Delete Tag="TXT_KEY_DECISIONS_POLANDSEJM_DESC" />
+		<Row Tag="TXT_KEY_DECISIONS_POLANDSEJM_DESC">
+			<Text>
+				In this age of reason, the policies of our country are being rendered backwards and obsolete. We must hold a Great Sejm, to address the defects of our realm, thoroughly reform it, and thus rejuvenate it, so that Poland will be in the vanguard of enlightenment and liberty once again.
+				[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Poland-Lithuania
+				[NEWLINE][ICON_BULLET]May only be enacted in Renaissance or Industrial Era
+				[NEWLINE][ICON_BULLET]May not be enacted during a [ICON_GOLDEN_AGE] Golden Age
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Culture} [ICON_CULTURE] Culture
+				[NEWLINE][ICON_BULLET]2 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET] +1 Happiness [ICON_HAPPINESS_1] for every 2 Social Policies
+				[NEWLINE][ICON_BULLET] Receive Gold [ICON_GOLD] each time a Social Policy is adopted
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WORLD_EVENT_JFD_POLAND_LITHUANIA_GREAT_SEJM">
+			<Text>A Great Sjem has been held in Poland-Lithuania</Text>
+		</Row>
+		<!--Pass the Nihil Novi Act-->
+		<Row Tag="TXT_KEY_DECISIONS_JFD_POLAND_LITHUANIA_NIHIL_NOVI_ACT">
+			<Text>Pass the Nihil Novi Act</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JFD_POLAND_LITHUANIA_NIHIL_NOVI_ACT_DESC">
+			<Text>
+				Nihil novi nisi commune consensu - nothing new without the common consent. Such an act shall epitomise the liberty for which our commonwealth stands and so such an act must be promulgated and institutionalised.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Poland-Lithuania
+				[NEWLINE][ICON_BULLET]Must have built at least four Estates
+				[NEWLINE][ICON_BULLET]May only be enacted from the beginning of the Renaissance Era
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_num} [ICON_GOLD] Gold
+				[NEWLINE][ICON_BULLET]1 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]The [ICON_CAPITAL] Capital begins celebrating 'We Love the King Day' for 20 turns
+				[NEWLINE][ICON_BULLET]+2 [ICON_CULTURE] Culture on Estates
+				[NEWLINE][NEWLINE][COLOR_NEGATIVE_TEXT]Note: The [ICON_GOLD] Gold cost increases for every Estate in your empire
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JFD_POLAND_LITHUANIA_NIHIL_NOVI_ACT_ENACTED_DESC">
+			<Text>
+				Nihil novi nisi commune consensu - nothing new without the common consent. Such an act shall epitomise the liberty for which our commonwealth stands and so such an act must be promulgated and institutionalised.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]The [ICON_CAPITAL] Capital begins celebrating 'We Love the King Day' for 20 turns
+				[NEWLINE][ICON_BULLET]+2 [ICON_CULTURE] Culture on Estates
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WORLD_EVENT_JFD_POLAND_LITHUANIA_NIHIL_NOVI">
+			<Text>Sigismund II has passed the Nihil Novi Act in Poland-Lithuania, establishing a Noble's Democracy.</Text>
+		</Row>
+		<!--Call the Noble Host-->
+		<Row Tag="TXT_KEY_DECISIONS_JFD_POLAND_NOBLE_HOST">
+			<Text>Call the Noble Host</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JFD_POLAND_NOBLE_HOST_DESC">
+			<Text>
+				Our war goes badly. If we are to consider victory, then we must rally our noble allies and have them proove their fealty to us in the field of battle.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Poland
+				[NEWLINE][ICON_BULLET]Player must at War
+				[NEWLINE][ICON_BULLET]May only be enacted from the beginning of the Medieval Era
+				[NEWLINE][ICON_BULLET]May only be enacted before the beginning of the Industrial Era
+				[NEWLINE][ICON_BULLET]May only be enacted once per era
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_num} [ICON_GOLD] Gold
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Receive four free Mounted Units at the [ICON_CAPITAL] Capital. These units do not require [ICON_RES_HORSE] Horses and are disbanded after {2_Num} turns
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JFD_POLAND_NOBLE_HOST_ENACTED_DESC">
+			<Text>
+				Our war goes badly. If we are to consider victory, then we must rally our noble allies and have them proove their fealty to us in the field of battle.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Receive four free Mounted Units at the [ICON_CAPITAL] Capital.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WORLD_EVENT_JFD_POLAND_NOBLE_HOST">
+			<Text>Casimir III has called together a Noble Host to rally to the cause of his war.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

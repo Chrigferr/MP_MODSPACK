@@ -1,0 +1,133 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="8c4344a8-5539-4e28-bf67-35bdb2b0d57a" version="2">
+  <Properties>
+    <Name>JFD's The Kingdom of Sardinia-Piedmont</Name>
+    <Teaser>Adds the [COLOR_POSITIVE_TEXT]The Kingdom of Sardinia-Piedmont[ENDCOLOR] with Victor-Emmanuel II to the game</Teaser>
+    <Description>See CivFanatics or Steam Workshop for full details.</Description>
+    <Authors>JFD, Janboruta, Hypereon, Viregel</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References>
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="JFD's Cultural Diversity (Core)" />
+    <Mod id="eea66053-7579-481a-bb8d-2f3959b59974" minversion="0" maxversion="999" title="JFD’s Piety" />
+    <Mod id="1f941088-b185-4159-865c-472df81247b2" minversion="0" maxversion="999" title="Sukritact’s Events &amp; Decisions" />
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="Yet (not) Another Earth Map Pack" />
+    <Mod id="e576894a-ed2b-4033-be14-ed1c8ceb81d3" minversion="0" maxversion="999" title="Map Labels" />
+    <Mod id="7fdd72a5-d4ae-441c-bc4e-2e3d2a26cff4" minversion="0" maxversion="999" title="Ethnic Units" />
+    <Mod id="8670da15-d435-44ea-9758-7438cb321411" minversion="0" maxversion="999" title="R.E.D. Modpack" />
+    <Mod id="1153b26a-69fd-4cd5-899c-a8ba8e0e5e5d" minversion="0" maxversion="999" title="Civ IV Leader Traits in Civ V" />
+    <Mod id="d99bf7aa-51ac-4bef-bd88-d765b28e260e" minversion="0" maxversion="999" title="JFD’s Sovereignty" />
+    <Mod id="a19351c5-c0b3-4b07-8695-4affaa199949" minversion="0" maxversion="999" title="JFD’s and Pouakai’s Mercenaries" />
+    <Mod id="10e9728f-d61c-4317-be4f-7d52d6bae6f4" minversion="0" maxversion="999" title="JFD’s CCCHP" />
+    <Mod id="ce8aa614-7ef7-4a45-a179-5329869e8d6d" minversion="0" maxversion="999" title="Enlightenment Era" />
+    <Mod id="8411a7a8-dad3-4622-a18e-fcc18324c799" minversion="0" maxversion="999" title="Community Balance Patch" />
+    <Mod id="d1b6328c-ff44-4b0d-aad7-c657f83610cd" minversion="0" maxversion="999" title="Community Patch" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="59A561715B8830E66E01A1ABE6FD18A2" import="1">Art/Diplomacy/VictorII_Diplo.dds</File>
+    <File md5="A1406A177299DA2B5BADB4FA7C8594A5" import="1">Art/Diplomacy/VictorII_Scene.xml</File>
+    <File md5="6F2C1950699F1EA9CC1263EDCCB6AA42" import="1">Art/Graphics/Bersaglieri/itagw1.dds</File>
+    <File md5="220B1D27702406C652664021F3497638" import="1">Art/Graphics/Bersaglieri/itagw1.fxsxml</File>
+    <File md5="80F5EAED20953254A4B215756CE5A43A" import="1">Art/Graphics/Bersaglieri/itagw1.gr2</File>
+    <File md5="0C759F1CED95795CCFBE40C6BD9A963C" import="1">Art/Graphics/Bersaglieri/no_gloss.dds</File>
+    <File md5="0A5874916AF32B57BBC5A02B6590869D" import="1">Art/Graphics/Bersaglieri/sv_Bersaglieri.dds</File>
+    <File md5="DA673E67299D666A626C98FBA09C23E3" import="1">Art/Graphics/Garibaldino/garibaldino.dds</File>
+    <File md5="02B960C3BD3F66C3AF81E08E3EFB0421" import="1">Art/Graphics/Garibaldino/garibaldino.fxsxml</File>
+    <File md5="59EA11874B9C318DEE4B7B2365E4B3B1" import="1">Art/Graphics/Garibaldino/garibaldino.gr2</File>
+    <File md5="096BB94812E7022A0AF38802E4A3D2CA" import="1">Art/Graphics/Garibaldino/sv_Garibaldino.dds</File>
+    <File md5="71148D91181AC3DD3A15285FA91A5375" import="1">Art/IconAtlas/JFD_BersaglieriUnitFlag_32.dds</File>
+    <File md5="6FAEF72411AF82523DA4C523146EF682" import="1">Art/IconAtlas/JFD_GaribaldinoUnitFlag_32.dds</File>
+    <File md5="C5FF4CE0157855DA5944093EA6766762" import="1">Art/IconAtlas/JFD_SardiniaAlphaAtlas_128.dds</File>
+    <File md5="102642354A648FF142D1E357D6D0BBBD" import="1">Art/IconAtlas/JFD_SardiniaAlphaAtlas_16.dds</File>
+    <File md5="43E668B4FF270E7ED5C69163E41D8A7E" import="1">Art/IconAtlas/JFD_SardiniaAlphaAtlas_22.dds</File>
+    <File md5="EC9C29585A998A1FDE7A4CEC07A1DC0E" import="1">Art/IconAtlas/JFD_SardiniaAlphaAtlas_24.dds</File>
+    <File md5="7ED3E7DC88918508161F33F26AB1C6AC" import="1">Art/IconAtlas/JFD_SardiniaAlphaAtlas_32.dds</File>
+    <File md5="CF706ECA7F16840C3B5237369FDFB034" import="1">Art/IconAtlas/JFD_SardiniaAlphaAtlas_45.dds</File>
+    <File md5="D2626500C0787C97B7AABE61D137AEE8" import="1">Art/IconAtlas/JFD_SardiniaAlphaAtlas_48.dds</File>
+    <File md5="55D8B5D5FA2F54B3874186CD0D2350DB" import="1">Art/IconAtlas/JFD_SardiniaAlphaAtlas_64.dds</File>
+    <File md5="72A699D366C8BEBFB6B24CA3C612A919" import="1">Art/IconAtlas/JFD_SardiniaAlphaAtlas_80.dds</File>
+    <File md5="DD4279759D6E529A5A6B6BFA903641A4" import="1">Art/IconAtlas/JFD_SardiniaAtlas2_128.dds</File>
+    <File md5="52F49AB7526B31547695332792B01953" import="1">Art/IconAtlas/JFD_SardiniaAtlas2_256.dds</File>
+    <File md5="DFFF254A97F8B62CF364791779728641" import="1">Art/IconAtlas/JFD_SardiniaAtlas2_45.dds</File>
+    <File md5="E59A803B61ABEC80BAF782D6730BAF9F" import="1">Art/IconAtlas/JFD_SardiniaAtlas2_64.dds</File>
+    <File md5="33A2A2F5B3B9A052CE3C3E2AF133A2CE" import="1">Art/IconAtlas/JFD_SardiniaAtlas2_80.dds</File>
+    <File md5="17AB5199DB1128E19D139261E99E64CF" import="1">Art/IconAtlas/JFD_SardiniaAtlas_128.dds</File>
+    <File md5="858F2614EFC1EF1B74720AE47755DAD7" import="1">Art/IconAtlas/JFD_SardiniaAtlas_256.dds</File>
+    <File md5="796FBA9F0372A07908D7AE6D263F66E2" import="1">Art/IconAtlas/JFD_SardiniaAtlas_32.dds</File>
+    <File md5="B02595F5E621E648EDA7ADBF874F7197" import="1">Art/IconAtlas/JFD_SardiniaAtlas_45.dds</File>
+    <File md5="78F0CF30731FF4183B9FDDAAB49E70EE" import="1">Art/IconAtlas/JFD_SardiniaAtlas_64.dds</File>
+    <File md5="19A6D17FAEC52C4EB4E355A1CAB657A0" import="1">Art/IconAtlas/JFD_SardiniaAtlas_80.dds</File>
+    <File md5="BF30048F8D20A1466DA9D98344010BA2" import="1">Art/Images/Event_Sardinia_ShroudOfTurin.dds</File>
+    <File md5="0CC4A25468F992B1815D45AB66B0D69E" import="1">Art/Images/Event_Sardinia_Verdi.dds</File>
+    <File md5="DAA750944BD41557D9538B950A587DC9" import="1">Art/Map/MapSardiniaPiedmont512.dds</File>
+    <File md5="2CA792C40BC63139723FF96B09F43B4E" import="1">Art/Map/DOM_VictorEmmanuelII.dds</File>
+    <File md5="2EAE220CE7A75927FC03A6288938E8AA" import="1">Audio/Piazza.mp3</File>
+    <File md5="C8FC77A02AF3014B9CEA52114A20F53E" import="1">Audio/VictorII_Peace.mp3</File>
+    <File md5="161ED7E7AB3990F47C063C6573789F3F" import="1">Audio/VictorII_War.mp3</File>
+    <File md5="9881993CF1EAE86F9ECB6A3B7B18B87C" import="0">Core/Sardinia_ArtDefines.sql</File>
+    <File md5="FC504430CA54DF7907E1A03366DF11FB" import="0">Core/Sardinia_GameDefines.sql</File>
+    <File md5="B17123F47D584C34AF71B00376599FEF" import="0">Core/Sardinia_GameDefines_Diplomacy.sql</File>
+    <File md5="5B112C14828D4CF2EDBAA2A478ACC128" import="0">Core/Sardinia_GameDefines_ModSupport.sql</File>
+    <File md5="1415157BF57178D837563A562BC61E73" import="0">Core/Sardinia_GameText.xml</File>
+    <File md5="6E5726CD889773F33517A68DDD4ADFB5" import="0">Core/Sardinia_GameText_Diplomacy.xml</File>
+    <File md5="7697232054BA4C99C4E39A01687C04B6" import="0">Core/Sardinia_GameText_ModSupport.xml</File>
+    <File md5="3665EA7314EC7714D3F5520365D7702A" import="0">DeleteMissingReferences.xml</File>
+    <File md5="7DB1DB3B0198AAEEEB248C1B9F3708AE" import="0">Lua/JFD_Sardinia_Functions.lua</File>
+    <File md5="B63A7A61887807D49CF50CADF04158AB" import="1">Lua/JFD_Sardinia_Decisions.lua</File>
+    <File md5="977B05F7FFC48E07DC91074ED2BD0EB8" import="0">Lua/JFD_Sardinia_Decisions_VineyardPopup.lua</File>
+    <File md5="AA6F30BFBC8E4E3448E6C1D527850E6C" import="0">Lua/JFD_Sardinia_Decisions_VineyardPopup.xml</File>
+    <File md5="03B65E182BB54D14856AD9B13BFAA29E" import="1">Lua/JFD_Sardinia_Events.lua</File>
+    <File md5="3B7B1EE92949FC3B7B9308074F036BEB" import="1">Lua/NewSaveUtils.lua</File>
+    <File md5="D63DC8BB6AA0F310DD55B264DB49C7E2" import="1">Lua/Utilities/PlotIterators.lua</File>
+    <File md5="86C1C3EDCE4699DE320A932C4E70E22C" import="0">Lua/Utilities/Sukritact MCIS/CityInfoStack.lua</File>
+    <File md5="120EB71025973A8A48B38314241DD0B3" import="0">Lua/Utilities/Sukritact MCIS/CityInfoStack.xml</File>
+    <File md5="B9B95040E46276962378EBC6569CB0A8" import="0">Lua/Utilities/Sukritact MCIS/JFD_SardiniaVineyard_CityInfo.lua</File>
+    <File md5="61905006F30569D9B65EF53468F5DC94" import="0">Lua/Utilities/Sukritact MCIS/JFD_SardiniaVineyard_CityInfo.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Core/Sardinia_ArtDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Sardinia_GameDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Sardinia_GameDefines_Diplomacy.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Sardinia_GameDefines_ModSupport.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Sardinia_GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Sardinia_GameText_Diplomacy.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Sardinia_GameText_ModSupport.xml</UpdateDatabase>
+      <UpdateDatabase>DeleteMissingReferences.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/JFD_Sardinia_Functions.lua">
+      <Name>JFD_Sardinia_Functions</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/JFD_Sardinia_Decisions_VineyardPopup.lua">
+      <Name>JFD_Sardinia_Decisions_VineyardPopup</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/Utilities/Sukritact MCIS/JFD_SardiniaVineyard_CityInfo.lua">
+      <Name>JFD_Sardinia_DecisionsVineyard_CityInfo</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/Utilities/Sukritact MCIS/CityInfoStack.lua">
+      <Name>Sukritact MCIS</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

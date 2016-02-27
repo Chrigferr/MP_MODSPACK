@@ -1,0 +1,139 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="db9baa74-732a-41bf-8947-7db9f50bbdec" version="1">
+  <Properties>
+    <Name>JFD's The Kingdom of Egypt (Djoser)</Name>
+    <Teaser>Adds the [COLOR_POSITIVE_TEXT]The Kingdom of Egypt[ENDCOLOR] with Djoser to the game.</Teaser>
+    <Description>See CivFanatics or Steam Workshop for details.</Description>
+    <Authors>JFD, Janboruta, Tarciscio, Sukritact, Regalman</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>1</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References>
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="JFD's Cultural Diversity (Core)" />
+    <Mod id="eea66053-7579-481a-bb8d-2f3959b59974" minversion="0" maxversion="999" title="JFD’s Piety" />
+    <Mod id="d99bf7aa-51ac-4bef-bd88-d765b28e260e" minversion="0" maxversion="999" title="JFD’s Sovereignty" />
+    <Mod id="6676902b-b907-45f1-8db5-32dcb2135eee" minversion="0" maxversion="999" title="JFD's Exploration Continued Expanded" />
+    <Mod id="6010e6f6-918e-48b8-9332-d60783bd8fb5" minversion="0" maxversion="999" title="Historical Religions Complete" />
+    <Mod id="8670da15-d435-44ea-9758-7438cb321411" minversion="0" maxversion="999" title="R.E.D. Modpack" />
+    <Mod id="7fdd72a5-d4ae-441c-bc4e-2e3d2a26cff4" minversion="0" maxversion="999" title="Ethnic Units" />
+    <Mod id="e576894a-ed2b-4033-be14-ed1c8ceb81d3" minversion="0" maxversion="999" title="Map Labels" />
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="Yet (not) Another Earth Map Pack" />
+    <Mod id="1153b26a-69fd-4cd5-899c-a8ba8e0e5e5d" minversion="0" maxversion="999" title="Civ IV Leader Traits in Civ V" />
+    <Mod id="d1b6328c-ff44-4b0d-aad7-c657f83610cd" minversion="0" maxversion="999" title="Community Patch" />
+    <Mod id="8411a7a8-dad3-4622-a18e-fcc18324c799" minversion="0" maxversion="999" title="Community Balance Patch" />
+    <Mod id="a19351c5-c0b3-4b07-8695-4affaa199949" minversion="0" maxversion="999" title="JFD's and Pouakai's Mercenaries" />
+    <Mod id="bc987abc-83bc-450a-991b-e28ae64e9c1a" minversion="0" maxversion="999" title="More Pantheons - Addon" />
+    <Mod id="10e9728f-d61c-4317-be4f-7d52d6bae6f4" minversion="0" maxversion="999" title="JFD's Claims and Colonies" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="1EC194AF027FD53197EAC60F7F70EBE5" import="1">Art/Diplomacy/Diplo_Djoser.dds</File>
+    <File md5="CC2662992DCE373148B56D4CDF8BAE1C" import="1">Art/Diplomacy/Djoser_Scene.xml</File>
+    <File md5="F5F606F7305221AA6E3D7DB681F767E0" import="1">Art/FontIcons/JFD_LimestoneFontIcon_22.ggxml</File>
+    <File md5="8D45A590798BE8E364C5A2720AC4D5D9" import="1">Art/FontIcons/Limestone_FontIcon.dds</File>
+    <File md5="419F65DE38F8C7CFE5B687118F44FD07" import="1">Art/Graphics/Limestone/anc_limestone_quarry.fxsxml</File>
+    <File md5="F28D054A945357E8BF1DE3136D4A1A93" import="1">Art/Graphics/Limestone/anc_limestone_quarry.gr2</File>
+    <File md5="54A5ACD5A27DCEFB1493951F0876DEE5" import="1">Art/Graphics/Limestone/anc_limestone_quarry.indiedefs</File>
+    <File md5="BFDF9C5CC14F11955E5EF1362DF1FAF6" import="1">Art/Graphics/Limestone/hb_anc_limestone_quarry.fxsxml</File>
+    <File md5="EA69F2CB79D70E19547366F1609C62C5" import="1">Art/Graphics/Limestone/hb_anc_limestone_quarry.gr2</File>
+    <File md5="1250685690F5AD9A91EAEEB61B7A289C" import="1">Art/Graphics/Limestone/hb_anc_limestone_quarry.indiedefs</File>
+    <File md5="A96C04256B5B9251EF77F74F246F8093" import="1">Art/Graphics/Limestone/hb_ind_limestone_quarry.fxsxml</File>
+    <File md5="BBDFE26C3DF3EA1917190FEA00B44D11" import="1">Art/Graphics/Limestone/hb_ind_limestone_quarry.gr2</File>
+    <File md5="54A5ACD5A27DCEFB1493951F0876DEE5" import="1">Art/Graphics/Limestone/hb_ind_limestone_quarry.indiedefs</File>
+    <File md5="D273708D1E78D5F72B35212C1903108E" import="1">Art/Graphics/Limestone/ind_limestone_quarry.fxsxml</File>
+    <File md5="885E5B4F81784FF790DA9FAEA690DEBC" import="1">Art/Graphics/Limestone/ind_limestone_quarry.gr2</File>
+    <File md5="1250685690F5AD9A91EAEEB61B7A289C" import="1">Art/Graphics/Limestone/ind_limestone_quarry.indiedefs</File>
+    <File md5="390F6B634DB1A83872A2FEB1FCB5750A" import="1">Art/Graphics/Limestone/limestone.fxsxml</File>
+    <File md5="698ECEFF7EE62E60B3AE5A7673EBE5A5" import="1">Art/Graphics/Limestone/limestone.gr2</File>
+    <File md5="54A5ACD5A27DCEFB1493951F0876DEE5" import="1">Art/Graphics/Limestone/limestone.indiedefs</File>
+    <File md5="4D33AA35E743BBA87545673EBC032806" import="1">Art/Graphics/Limestone/limestone_decal_diff.dds</File>
+    <File md5="2B3FCA1534CA5599A1116ABB93BDD118" import="1">Art/Graphics/Limestone/limestone_decal_h.dds</File>
+    <File md5="5FE2E8CCB61AA8E36E5745C7551B9592" import="1">Art/Graphics/Limestone/limestone_diff.dds</File>
+    <File md5="4C7B210EDFAE4A7E950BD153084494E4" import="1">Art/Graphics/Limestone/limestone_ore_decal_h.dds</File>
+    <File md5="6F45D4EC8C716EE9A798D19B84F327BA" import="1">Art/Graphics/Limestone/limestone_ore_diff.dds</File>
+    <File md5="D4932840DF8953C74CCA77BAD78E147B" import="1">Art/Graphics/Limestone/limestone_ore_sref.dds</File>
+    <File md5="82D74B33121FEFBD9375E88C2400128F" import="1">Art/Graphics/Limestone/limestone_quarry_decal_d.dds</File>
+    <File md5="CA2CA09675248E8BEFE7F02F648F7522" import="1">Art/Graphics/Limestone/limestone_quarry_decal_h.dds</File>
+    <File md5="DDBCB5FBD0C0FA444821F74C238F86B7" import="1">Art/Graphics/Limestone/limestone_quarry_rock_d.dds</File>
+    <File md5="98FF3577DA9D23BF5555ABF6A34D8907" import="1">Art/Graphics/Limestone/limestone_quarry_rock_s.dds</File>
+    <File md5="EBD952F2EE9C8BBEED95F92EA8F9E50F" import="1">Art/Graphics/Limestone/sv_Limestone.dds</File>
+    <File md5="A5266B447FAA7D55D1D5EB84A693C7FC" import="1">Art/Graphics/Vizier/Vizier.fxsxml</File>
+    <File md5="3C0CE006145E8A949E34A7D7E541591A" import="1">Art/Graphics/Vizier/slaveworker.gr2</File>
+    <File md5="D61D52671C468249200DC4A8F70C0BF3" import="1">Art/Graphics/Vizier/slaveworker_diff.dds</File>
+    <File md5="93A0D84BEE80A3464A28279A38CBC265" import="1">Art/Graphics/Vizier/slaveworker_sref.dds</File>
+    <File md5="46D825FCF6E430EFCCC676DB2CF02D5A" import="1">Art/Graphics/Vizier/sv_Vizier.dds</File>
+    <File md5="AE22C369CCB45F0C7DB0FBA379128712" import="1">Art/IconAtlas/JFD_EgyptDjoserAlphaAtlas_128.dds</File>
+    <File md5="8D61A199780931C7C744E0EED5125A9C" import="1">Art/IconAtlas/JFD_EgyptDjoserAlphaAtlas_16.dds</File>
+    <File md5="804B9E59892BB2A1D06C008A3F393793" import="1">Art/IconAtlas/JFD_EgyptDjoserAlphaAtlas_22.dds</File>
+    <File md5="98C1F3EAF95E962C9C5A31E12A3BFE8A" import="1">Art/IconAtlas/JFD_EgyptDjoserAlphaAtlas_24.dds</File>
+    <File md5="DE4C6AC4D944B1FA798E76A803E95903" import="1">Art/IconAtlas/JFD_EgyptDjoserAlphaAtlas_256.dds</File>
+    <File md5="C1F439040417E9F6F2B94BA341521FFC" import="1">Art/IconAtlas/JFD_EgyptDjoserAlphaAtlas_32.dds</File>
+    <File md5="CE40A8CFB2177F64ABCDCBD4C97C1F18" import="1">Art/IconAtlas/JFD_EgyptDjoserAlphaAtlas_45.dds</File>
+    <File md5="56823C6BA2892A5591A36C4F651F8C33" import="1">Art/IconAtlas/JFD_EgyptDjoserAlphaAtlas_48.dds</File>
+    <File md5="0FA6D5608F33CE4759E9417E1698B9BD" import="1">Art/IconAtlas/JFD_EgyptDjoserAlphaAtlas_64.dds</File>
+    <File md5="32773D3B21F3AA890078EA524EEC3CE6" import="1">Art/IconAtlas/JFD_EgyptDjoserAlphaAtlas_80.dds</File>
+    <File md5="58798732DDA2FB3682330629EAD60716" import="1">Art/IconAtlas/JFD_EgyptDjoserAtlas_128.dds</File>
+    <File md5="AC508FFE611B61E771A8FE68650AC7F9" import="1">Art/IconAtlas/JFD_EgyptDjoserAtlas_256.dds</File>
+    <File md5="9C19639DFBC498A34BC808C709F31DA9" import="1">Art/IconAtlas/JFD_EgyptDjoserAtlas_32.dds</File>
+    <File md5="11672A6D546AF6745193B1E07840233C" import="1">Art/IconAtlas/JFD_EgyptDjoserAtlas_45.dds</File>
+    <File md5="17A1A50E17B22543A993D0E8364791A3" import="1">Art/IconAtlas/JFD_EgyptDjoserAtlas_64.dds</File>
+    <File md5="502E4C52451E43D22D3ADF81AA3ABC32" import="1">Art/IconAtlas/JFD_EgyptDjoserAtlas_80.dds</File>
+    <File md5="151F0DA0AB2E4A438FF432942A8D49DA" import="1">Art/IconAtlas/JFD_EgyptDjoserResourceAtlas_128.dds</File>
+    <File md5="8AEB0A4C1842EE34D0BD5A8DFD5E9A15" import="1">Art/IconAtlas/JFD_EgyptDjoserResourceAtlas_256.dds</File>
+    <File md5="9805FECE7ECAD053BED2F7B87B7ADCB2" import="1">Art/IconAtlas/JFD_EgyptDjoserResourceAtlas_45.dds</File>
+    <File md5="FD213DA2B0224F8F995CDC070D9542BC" import="1">Art/IconAtlas/JFD_EgyptDjoserResourceAtlas_64.dds</File>
+    <File md5="23676DEA49A9609C96E9257580D69622" import="1">Art/IconAtlas/JFD_EgyptDjoserResourceAtlas_80.dds</File>
+    <File md5="FFCD53C21CD38568AFC77E68426F5FB8" import="1">Art/IconAtlas/JFD_VizierUnitFlag_32.dds</File>
+    <File md5="2ABEC987626F62AD1D0C913DBD530F8A" import="1">Art/Images/Event_Egypt_ExceptionalCourtier.dds</File>
+    <File md5="1896BAC8774AC1BAF9DD2E6983B880E9" import="1">Art/Images/Event_Egypt_Hebsed.dds</File>
+    <File md5="EA97ED73741EAA8123220822BEFDAF7C" import="1">Art/Images/Event_Egypt_Khnum.dds</File>
+    <File md5="15907D0448D120C4A6F7D00704FD21B1" import="1">Art/Map/DOM_Djoser.dds</File>
+    <File md5="552FF4EBFA488EB34BC658C8ED456ACC" import="1">Art/Map/MapEgyptDjoser512.dds</File>
+    <File md5="DF00EB85275A828C8761ECD51A542C70" import="1">Audio/DiscoveredBonus.mp3</File>
+    <File md5="BB9927F8DFEAE11E7EDF09E7008E4D2B" import="1">Audio/Djoser_Peace.mp3</File>
+    <File md5="7ADC69A9A819F305A63193F398F9DFCC" import="1">Audio/Djoser_War.mp3</File>
+    <File md5="F8E26EAA1A930F074B6B5CDA98629AFD" import="0">Core/EgyptDjoser_ArtDefines.sql</File>
+    <File md5="5F7A94126E38D0D52BED1DC42C5F0E60" import="0">Core/EgyptDjoser_GameDefines.sql</File>
+    <File md5="DE433A897733F42C79B70F979E4C7092" import="0">Core/EgyptDjoser_GameDefines_Diplomacy.sql</File>
+    <File md5="686085FF6C467985112A844D5530CBD1" import="0">Core/EgyptDjoser_GameDefines_ModSupport.sql</File>
+    <File md5="2AD451ADAFB85FA86F6E6BE7B0BA3EC9" import="0">Core/EgyptDjoser_GameText.xml</File>
+    <File md5="9AA578F74DB65E9C9E4393AB590F6DA0" import="0">Core/EgyptDjoser_GameText_Diplomacy.xml</File>
+    <File md5="43213B392EBA94A81A93DC1EF6521022" import="0">Core/EgyptDjoser_GameText_ModSupport.xml</File>
+    <File md5="FC6E117C75835973F759656BB4F6EF97" import="0">DeleteMissingReferences.xml</File>
+    <File md5="32A5F8B28EA1C2B0B536A98979B67346" import="0">JFD_EgyptDjoser_UserSettings.sql</File>
+    <File md5="C008F0E1B951A447836957F5C7A1D65F" import="1">Lua/JFD_EgyptDjoser_Decisions.lua</File>
+    <File md5="5BACEC581C9D5B650012DCF92CC944DC" import="1">Lua/JFD_EgyptDjoser_Events.lua</File>
+    <File md5="8DFBDAE4781011412B3DC1DDFB51E6E4" import="0">Lua/JFD_EgyptDjoser_Functions.lua</File>
+    <File md5="7BD2FBE46D0E789BDFF45CAC065DB4E4" import="1">Lua/Utilities/PlotIterators.lua</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>JFD_EgyptDjoser_UserSettings.sql</UpdateDatabase>
+      <UpdateDatabase>Core/EgyptDjoser_ArtDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Core/EgyptDjoser_GameDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Core/EgyptDjoser_GameDefines_Diplomacy.sql</UpdateDatabase>
+      <UpdateDatabase>Core/EgyptDjoser_GameDefines_ModSupport.sql</UpdateDatabase>
+      <UpdateDatabase>Core/EgyptDjoser_GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/EgyptDjoser_GameText_Diplomacy.xml</UpdateDatabase>
+      <UpdateDatabase>Core/EgyptDjoser_GameText_ModSupport.xml</UpdateDatabase>
+      <UpdateDatabase>DeleteMissingReferences.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/JFD_EgyptDjoser_Functions.lua">
+      <Name>JFD_EgyptDjoser_Functions</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

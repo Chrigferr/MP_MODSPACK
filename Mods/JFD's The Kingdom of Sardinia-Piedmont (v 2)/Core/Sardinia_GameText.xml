@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 11/23/2013 1:27:25 PM -->
+<GameData>
+	<Language_en_US>
+		<!--SARDINIA-->
+		<Row Tag="TXT_KEY_CIV_JFD_SARDINIA_ADJECTIVE">
+			<Text>Sardinian-Piedmontese</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_JFD_SARDINIA_DESC">
+			<Text>Sardinian-Piedmontese Empire</Text>
+		</Row>
+		<Replace Tag="TXT_KEY_JFD_TAL_ITALIAN_STATES">
+			<Text>Italy</Text>
+		</Replace>
+		<Row Tag="TXT_KEY_CIV_JFD_SARDINIA_SHORT_DESC">
+			<Text>Sardinia-Piedmont</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_SARDINIA_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_SARDINIA_TEXT_1">
+			<Text>The Kingdom of Sardinia was a state in Europe from the early 14th until the mid-19th century. It was the predecessor state of today's Italy. A small state with weak institutions when it was acquired by the Duke of Savoy in 1720, the Savoyards united their insular and continental domains and built Sardinia—often called Piedmont-Sardinia in this period—into one of the great powers by the time of the Crimean War (1853–56). Its final capital was Turin, the centre of Savoyard power since the Middle Ages.[NEWLINE][NEWLINE]The kingdom initially consisted of the islands of Corsica and Sardinia, sovereignty over both of which was claimed by the Papacy, which granted them as a fief, the regnum Sardiniae et Corsicae ("kingdom of Sardinia and Corsica"), to King James II of Aragon in 1297. Beginning in 1324, James and his successors conquered the island of Sardinia and established de facto their de jure authority. In 1420 the last competing claim to the island was bought out. After the union of the crowns of Aragon and Castile, Sardinia became a part of the burgeoning Spanish Empire. In 1720 it was ceded by the Habsburg and Bourbon claimants to the Spanish throne to Duke Victor Amadeus II of Savoy. The kingdom of Sardinia came to be progressively identified with the entire domain ruled by the House of Savoy, which included, besides Savoy and Aosta, dynastic possessions since the 11th century, the Principality of Piedmont (a possession built up in the 13th century), and the County of Nice (a possession since 1388). While the traditional capital of the island of Sardinia and seat of its viceroys was Cagliari, the Piedmontese city of Turin was the de facto capital of the House of Savoy.[NEWLINE][NEWLINE]When the mainland domains of the House of Savoy were occupied and eventually annexed by Napoleonic France, the king of Sardinia made his permanent residence on the island for the first time in its history. The Congress of Vienna (1814–15), which restructured Europe after Napoleon's defeat, returned to Savoy its mainland possessions and augmented them with Liguria, taken from the Republic of Genoa. In 1847–48, in a "perfect fusion", the various Savoyard states were unified under one legal system, with the capital in Turin, and granted a constitution, the Statuto Albertino. There followed the annexation of Lombardy (1859), the central Italian states and the Two Sicilies (1860), Venetia (1866), and the Papal States (1870). On 17 March 1861, to more accurately reflect its new geographic extent, the Kingdom of Sardinia changed its name to the Kingdom of Italy, and its capital was eventually moved first to Florence and then to Rome.</Text>
+		</Row>
+		<!--Cities-->
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_SARDINIA_1">
+			<Text>Turin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_SARDINIA_2">
+			<Text>Cagliari</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_SARDINIA_3">
+			<Text>Chambéry</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_SARDINIA_4">
+			<Text>Cuneo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_SARDINIA_5">
+			<Text>Nice</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_SARDINIA_6">
+			<Text>Thonon-les-Bains</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_SARDINIA_7">
+			<Text>Alessandria</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_SARDINIA_8">
+			<Text>Sassari</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_SARDINIA_9">
+			<Text>Novara</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_SARDINIA_10">
+			<Text>Bonneville</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_SARDINIA_11">
+			<Text>Olbia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_SARDINIA_12">
+			<Text>Asti</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_SARDINIA_13">
+			<Text>Moûtiers</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_SARDINIA_14">
+			<Text>Tempio Pausania</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_SARDINIA_15">
+			<Text>Saint-Jean-de-Maurienne</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_SARDINIA_16">
+			<Text>Biella</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_SARDINIA_17">
+			<Text>Nuoro</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_SARDINIA_18">
+			<Text>Vercelli</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_SARDINIA_19">
+			<Text>Oristano</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_SARDINIA_20">
+			<Text>Annecy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_SARDINIA_21">
+			<Text>Verbania</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_SARDINIA_22">
+			<Text>Carbonia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_SARDINIA_23">
+			<Text>Iglesias</Text>
+		</Row>
+		<!--Spies-->
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_SARDINIA_0">
+			<Text>Dante</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_SARDINIA_1">
+			<Text>Niccolo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_SARDINIA_2">
+			<Text>Matteo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_SARDINIA_3">
+			<Text>Lucrezia</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_SARDINIA_4">
+			<Text>Catherine</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_SARDINIA_5">
+			<Text>Giulietta</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_SARDINIA_6">
+			<Text>Benito</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_SARDINIA_7">
+			<Text>Galieo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_SARDINIA_8">
+			<Text>Donatella</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_SARDINIA_9">
+			<Text>Renata</Text>
+		</Row>
+		<!--VICTOR EMMANUEL II-->
+		<Row Tag="TXT_KEY_LEADER_JFD_VICTOR_II">
+			<Text>Victor Emmanuel II</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_VICTOR_II_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_VICTOR_II_TEXT_1">
+			<Text>Victor Emmanuel II was King of Sardinia from 1849 until 17 March 1861, when he assumed the title King of Italy to become the first king of a united Italy since the 6th century, a title he held until his death in 1878. The Italians gave him the epithet Father of the Fatherland (Italian: Padre della Patria).</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_VICTOR_II_HEADING_2">
+			<Text>Early Life</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_VICTOR_II_TEXT_2">
+			<Text>
+				Victor Emmanuel was born the eldest son of Charles Albert, Prince of Carignano, and Maria Theresa of Austria. His father succeeded a distant cousin as King of Sardinia-Piedmont in 1831. He lived for some years of his youth in Florence and showed an early interest in politics, the military, and sports. In 1842, he married his cousin Adelaide of Austria. He was styled as the Duke of Savoy prior to becoming King of Sardinia-Piedmont.[NEWLINE][NEWLINE]He took part in the First Italian War of Independence (1848-1849) under his father King Charles Albert, fighting in the front line at the battles of Pastrengo, Santa Lucia, Goito and Custoza.[NEWLINE][NEWLINE]He became King of Sardinia-Piedmont in 1849 when his father abdicated the throne after a humiliating military defeat by the Austrians at the Battle of Novara. Victor Emmanuel was immediately able to obtain a rather favorable armistice at Vignale by the Austrian imperial army commander Radetzky. The treaty, however, was not ratified by the Piedmontese lower parliamentary house, the Chamber of Deputies, and Victor Emmanuel retaliated by firing his Prime Minister Claudio Gabriele de Launay, replacing him with Massimo D'Azeglio. After new elections, the peace with Austria was accepted by the new Chamber of Deputies. In 1849 Victor Emmanuel also fiercely suppressed a revolt in Genoa, defining the rebels as a "vile and infected race of canailles." In 1852, he appointed Count Camillo Benso of Cavour ("Count Cavour") as Prime Minister of Piedmont-Sardinia. This turned out to be a wise choice, since Cavour was a political mastermind and a major player in the Italian unification in his own right. Victor Emmanuel II soon became the symbol of the "Risorgimento", the Italian unification movement of the 1850s and early 60s. He was especially popular in the Kingdom of Sardinia-Piedmont because of his respect for the new constitution and his liberal reforms.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_VICTOR_II_HEADING_3">
+			<Text>Crimean War</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_VICTOR_II_TEXT_3">
+			<Text>Following Victor Emmanuel's advice, Cavour joined Britain and France in the Crimean War against Russia. Cavour was reluctant to go to war due to the power of Russia at the time and the expense of doing so. Victor Emmanuel, however, was convinced of the rewards to be gained from the alliance created with Britain and, more importantly, France.[NEWLINE][NEWLINE]After successfully seeking British support and ingratiating himself with France and Napoleon III at the Congress of Paris in 1856 at the end of the war, Count Cavour arranged a secret meeting with the French emperor. In 1858, they met at Plombières-les-Bains (in Lorraine), where they agreed that if the French were to help Piedmont combat Austria, which still occupied the Kingdom of Lombardy-Venetia in northern Italy, France would be awarded Nice and Savoy.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_VICTOR_II_HEADING_4">
+			<Text>Wars of Italian Unification</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_VICTOR_II_TEXT_4">
+			<Text>The Italo-French campaign against Austria in 1859 started successfully. However, sickened by the casualties of the war and worried about the mobilisation of Prussian troops, Napoleon III secretly made a treaty with Franz Joseph of Austria at Villafranca whereby Piedmont would only gain Lombardy. France did not as a result receive the promised Nice and Savoy, but Austria did keep Venetia, a major setback for the Piedmontese, in no small part because the treaty had been prepared without their knowledge. After several quarrels about the outcome of the war, Cavour resigned, and the king had to find other advisors. France indeed only gained Nice and Savoy after the Treaty of Turin was signed in March 1860, after Cavour had been reinstalled as Prime Minister, and a deal with the French was struck for plebiscites to take place in the Central Italian Duchies.[NEWLINE][NEWLINE]Later that same year, Victor Emmanuel II sent his forces to fight the papal army at Castelfidardo and drove the Pope into Vatican City. His success at these goals led him to be excommunicated from the Catholic Church. Then, Giuseppe Garibaldi conquered Sicily and Naples, and Sardinia-Piedmont grew even larger. On 17 March 1861 the Kingdom of Italy was officially established and Victor Emmanuel II became its king.[NEWLINE][NEWLINE]Victor Emmanuel supported Giuseppe Garibaldi's Expedition of the Thousand (1860–1861), which resulted in the rapid fall of the Kingdom of the Two Sicilies in southern Italy. However, the king halted Garibaldi when he appeared ready to attack Rome, still under the Papal States, as it was under French protection. In 1860, through local plebiscites, Tuscany, Modena, Parma and Romagna decided to side with Sardinia-Piedmont. Victor Emmanuel then marched victoriously in the Marche and Umbria after the victorious battle of Castelfidardo (1860) over the Papal forces.[NEWLINE][NEWLINE]The king subsequently met with Garibaldi at Teano, receiving from him the control of southern Italy. Another series of plebiscites in the occupied lands resulted in the proclamation of Victor Emmanuel as the first King of Italy by the new Parliament of unified Italy, on 17 March 1861. He did not renumber himself after assuming the new royal title, however. Turin became the capital of the new state. Only Rome, Veneto, and Trentino remained to be conquered.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_VICTOR_II_HEADING_5">
+			<Text>Completion of the unification</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_VICTOR_II_TEXT_5">
+			<Text>In 1866 Victor Emmanuel allied himself with Prussia in the Third Italian War of Independence. Although not victorious in the Italian theater, he managed anyway to receive Veneto after the Austrian defeat in Germany.[NEWLINE][NEWLINE]In 1870, after two failed attempts by Garibaldi, he also took advantage of the Prussian victory over France in the Franco-Prussian War to capture Rome after the French withdrew. He entered Rome on 20 September 1870 and set up the new capital there on 2 July 1871, after a temporary move to Florence in 1864. The new Royal residence was the Quirinal Palace.[NEWLINE][NEWLINE]The rest of Victor Emmanuel II’s reign was much quieter. After the Kingdom of Italy was established he decided to continue on as King Victor Emmanuel II instead of Victor Emmanuel I of Italy. This was a terrible move as far as public relations went as it was not indicative of the fresh start that the Italian people wanted and suggested that Sardinia-Piedmont had taken over the Italian Peninsula, rather than unifying it. Despite this mishap, the remainder of Victor Emmanuel II’s reign was consumed by wrapping up loose ends and dealing with economic and cultural issues.[NEWLINE][NEWLINE]Victor Emmanuel died in Rome in 1878, after refusing to meet with Pope Pius IX's envoys, who could have reversed the excommunication. He was buried in the Pantheon. His successor was his son Umberto I.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_VICTOR_II_NAME">
+			<Text>Victor Emmanuel II</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_VICTOR_II_SUBTITLE">
+			<Text>Leader of Sardinia-Piedmont</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_VICTOR_II_TITLES_1">
+			<Text>King of Sardinia-Piedmont[NEWLINE][NEWLINE]King of Italy[NEWLINE][NEWLINE]Duke of Savoy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_VICTOR_II_LIVED">
+			<Text>1820 - 1878</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DAWN_SARDINIA_TEXT">
+			<Text>Esteemed King, Victor Emmanuel II of the illustrious and great House of Savoy, the people of Sardinia-Piedmont call your name. Though destined to be King of Italy, you would first inherit the northern Kingdom of Sardinia-Piedmont from your father in 1849. With wise regard for the liberal reforms of your Prime Minister, Count Cavour, you quickly became the symbol of the Italian unifitication, and in your name Sardinia-Piedmont, and the expedition of Guiseppe Garibaldi, would embark upon the unification of Italy's sons and daughters. In 1861, the risorgimento would be complete, and you would be crowned as the Father of the Fatherland; first King of Italy.[NEWLINE][NEWLINE]O' prestigious Victor Emmanuel II, the people of Sardinia-Piedmont call your name to service. They seek from you a leader by whom to unite the Italian peoples as one, under one nation, once more. Can you seek out this glory for your people? Can you build a civilization that will stand the test of time?</Text>
+		</Row>
+		<!--RISORGIMENTO-->
+		<Row Tag="TXT_KEY_TRAIT_JFD_SARDINIA_SHORT">
+			<Text>Risorgimento</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_JFD_SARDINIA">
+			<Text>[ICON_TOURISM] Tourism is added to [ICON_PRODUCTION] Production when building Units. City-States under siege may surrender without incurring a warmonger penalty from their capture.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WORLD_EVENTS_JFD_SARDINIA_TRAIT">
+			<Text>Rocked by nationalistic fervour, the City-State of {1_CityName} has surrendered their sovereignty to the unity of an Italian state!</Text>
+		</Row>
+		<!--GARIBALDINO-->
+		<Row Tag="TXT_KEY_UNIT_JFD_GARIBALDINO">
+			<Text>Garibaldino</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_GARIBALDINO_STRATEGY">
+			<Text>The Garibaldino is an upgrade to the unique Sardinian-Piedmontese Bersaglieri with a large bonus vs cities. The Garibaldino can journey to a city-state and perform a "trade mission" which produces gobs of [ICON_GOLD] Gold and garners many Influence Points with the city-state. A Garibaldino can also travel to another civilization and perform a Tour, which will give you a one-time boost in [ICON_TOURISM] Tourism in that territory. The Garibaldino is expended when used in either of these ways.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_GARIBALDINO_TEXT">
+			<Text>Redshirts (Italian Camicie rosse) or Red coats (Italian Giubbe Rosse) is the name given to the volunteers who followed Giuseppe Garibaldi in southern Italy during his Mille expedition to southern Italy, but sometimes extended to other campaigns of his. The name derived from the color of their shirts (complete uniforms were beyond the finances of the Italian patriots).</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_GARIBALDINO_UPGRADE">
+			<Text>Expedition of the Thousand</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_GARIBALDINO_UPGRADE_HELP">
+			<Text>Upgrades this unit into a Garibaldno unit.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_GARIBALDINO">
+			<Text>Camicie rosse</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_GARIBALDINO_HELP">
+			<Text>Doubles the chance of the City-State surrendering if within two tiles.</Text>
+		</Row>
+		<Replace Tag="TXT_KEY_MISSION_ONE_SHOT_TOURISM">
+			<Text>Perform Tour</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_UPANEL_TOURISM_STRENGTH_TT">
+			<Text>This indicates the strength of the unit when performing a tour. The strength is based on the [ICON_TOURISM] Tourism output of the civilization when the unit was born.</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_MISSION_ONE_SHOT_TOURISM_HELP">
+			<Text>This order will consume the Great Person and will spread a large quantity of [ICON_TOURISM] Tourism to the civilization where the unit is located. Other civs in the game also receive 20% of this [ICON_TOURISM] Tourism.</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_MISSION_CONDUCT_TRADE_MISSION_HELP">
+			<Text>If the unit is inside a City State's territory that you're not at war with, this order will have the unit conduct a trade mission, giving you a large amount of [ICON_GOLD] Gold and improving relations with the City State. It consumes the Great Person.</Text>
+		</Replace>
+		<!--Unit Names-->
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_GARIBALDINO_01">
+			<Text>Giuseppe Garibaldi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_GARIBALDINO_02">
+			<Text>Giuseppe Mazzini</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_GARIBALDINO_03">
+			<Text>Guglielmo Cenni</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_GARIBALDINO_04">
+			<Text>Stefano Turr</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_GARIBALDINO_05">
+			<Text>Daniele Manin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_GARIBALDINO_06">
+			<Text>Camillo Benso</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_GARIBALDINO_07">
+			<Text>Francesco Montanari</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_GARIBALDINO_08">
+			<Text>Gerolamo Bixio</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_GARIBALDINO_09">
+			<Text>Vincenzo Giordano Orsini</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_GARIBALDINO_10">
+			<Text>Francesco Crispi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_GARIBALDINO_11">
+			<Text>Giovan Battista Basso</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_GARIBALDINO_12">
+			<Text>Giuseppe Sirtori</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_GARIBALDINO_13">
+			<Text>Giorgio Manin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_GARIBALDINO_14">
+			<Text>Salvatore Calvino</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_GARIBALDINO_15">
+			<Text>Achille Majocchi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_GARIBALDINO_16">
+			<Text>Giacomo Griziotti</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_GARIBALDINO_17">
+			<Text>Bocchette</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_GARIBALDINO_18">
+			<Text>Giacinto Bruzzesi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_GARIBALDINO_19">
+			<Text>Giuseppe Bandi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_GARIBALDINO_20">
+			<Text>Pietro Stagnetti</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_GARIBALDINO_21">
+			<Text>Giovanni Acerbi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_GARIBALDINO_22">
+			<Text>Paolo Bovi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_GARIBALDINO_23">
+			<Text>Francesco Maestri</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_GARIBALDINO_24">
+			<Text>Carlo Rodi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_GARIBALDINO_25">
+			<Text>Pietro Antonio Ripari</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_GARIBALDINO_26">
+			<Text>Francesco Stocco</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_GARIBALDINO_27">
+			<Text>Giuseppe La Masa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_GARIBALDINO_28">
+			<Text>Francesco Anfossi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_GARIBALDINO_29">
+			<Text>Giacinto Carini</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_GARIBALDINO_30">
+			<Text>Benedetto Angelo Francesco Cairoli</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_GARIBALDINO_31">
+			<Text>Antonio Mosto</Text>
+		</Row>
+		<!--BERSAGLIERI-->
+		<Row Tag="TXT_KEY_UNIT_JFD_BERSAGLIERI">
+			<Text>Bersaglieri</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_JFD_BERSAGLIERI">
+			<Text>Rifleman replacement for Sardinia-Piedmont that moves quickly and fights effectively in owned territory.[NEWLINE][NEWLINE]This unit may be promoted to a Garibaldino Unit at level 5.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_BERSAGLIERI_STRATEGY">
+			<Text>The Bersaglieri is the unique unit for Sardinia-Piedmont. This unit has an additional [ICON_MOVES] Movement and begins with a combat bonus in friendly territory, unlike the Rifleman that it replaces, though it is slightly weaker. After this unit earns at least 5 levels, you may choose to promote it into a Garibaldino unit, which doubles the chance of a City-State surrendering and which may be expended for [ICON_TOURISM] Tourism when in another civilization's borders, or for [ICON_INFLUENCE] Influence when in a City-State's borders.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_BERSAGLIERI_TEXT">
+			<Text>The Bersaglieri are a corps of the Italian Army originally created by General Alessandro La Marmora on 18 June 1836 to serve in the Army of the Kingdom of Sardinia, later to become the Royal Italian Army. They have always been a high-mobility light infantry unit, and can still be recognized by the distinctive wide brimmed hat that they wear (only in dress uniform in modern times), decorated with black capercaillie feathers. The feathers are usually applied to their combat helmets. Another distinctive trait of the Bersaglieri is the fast jog pace they keep on parades, instead of marching.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_BERSAGLIERI">
+			<Text>Nationalism</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_BERSAGLIERI_HELP">
+			<Text>+15% attack bonus when fighting in friendly territory.</Text>
+		</Row>
+		<!--PIAZZA-->
+		<Row Tag="TXT_KEY_BUILDING_JFD_PIAZZA">
+			<Text>Piazza</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_PIAZZA_HELP">
+			<Text>15% of the [ICON_CULTURE] Culture from World Wonders, Natural Wonders, and Improvements is added to the [ICON_TOURISM] Tourism output of the city. Yields +2 [ICON_TOURISM] Tourism.[NEWLINE][NEWLINE]It cannot provide more [ICON_HAPPINESS_1] Happiness than there are [ICON_CITIZEN] Citizens in a city. City must have a Colosseum.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_PIAZZA_STRATEGY">
+			<Text>The Piazza is a unique Zoo replacement only avaliable to Sardinia-Piedmont. This building increases the amount of [ICON_CULTURE] Culture and [ICON_TOURISM] Tourism generated by the city, in addition to the [ICON_HAPPINESS_1] Happiness that it provides.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_PIAZZA_TEXT">
+			<Text>A piazza is a city square in Italy, Malta, along the Dalmatian coast, and in surrounding regions. The term is roughly equivalent to the Spanish plaza. A piazza is commonly found at the meeting of two or more streets. Most Italian cities have several piazzas with streets radiating from the center. Shops and other small businesses are found on piazzas as it is an ideal place to set up a business. Many metro stations and bus stops are found on piazzas as they are key point in a city.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

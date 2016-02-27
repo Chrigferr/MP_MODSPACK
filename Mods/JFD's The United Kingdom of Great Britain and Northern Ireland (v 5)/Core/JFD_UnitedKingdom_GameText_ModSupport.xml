@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 11/23/2013 1:27:25 PM -->
+<GameData>
+	<Language_en_US>
+		<!-- JFD's EXPLORATION CONTINUED EXPANDED -->
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_UNITED_KINGDOM_01">
+			<Text>Jamestown</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_UNITED_KINGDOM_02">
+			<Text>Kingston</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_UNITED_KINGDOM_03">
+			<Text>Sydney</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_UNITED_KINGDOM_04">
+			<Text>Gibraltar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_UNITED_KINGDOM_05">
+			<Text>Nelson</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_UNITED_KINGDOM_06">
+			<Text>Russel</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_UNITED_KINGDOM_07">
+			<Text>Freetown</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_UNITED_KINGDOM_08">
+			<Text>Plymouth</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_UNITED_KINGDOM_09">
+			<Text>Roanoke</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_UNITED_KINGDOM_10">
+			<Text>St. George</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_UNITED_KINGDOM_11">
+			<Text>St. John</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_UNITED_KINGDOM_12">
+			<Text>Salem</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_UNITED_KINGDOM_13">
+			<Text>Boston</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_UNITED_KINGDOM_14">
+			<Text>Windsor</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_UNITED_KINGDOM_15">
+			<Text>Abidjan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_UNITED_KINGDOM_16">
+			<Text>Libreville</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_UNITED_KINGDOM_17">
+			<Text>Saybrook</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_UNITED_KINGDOM_18">
+			<Text>Providence</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_UNITED_KINGDOM_19">
+			<Text>Cape Town</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_UNITED_KINGDOM_20">
+			<Text>Accra</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_UNITED_KINGDOM_21">
+			<Text>Lagos</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_UNITED_KINGDOM_22">
+			<Text>Victoria</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_UNITED_KINGDOM_23">
+			<Text>Mombasa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_UNITED_KINGDOM_24">
+			<Text>Maseru</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_UNITED_KINGDOM_25">
+			<Text>Wellington</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_UNITED_KINGDOM_26">
+			<Text>Natal</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_UNITED_KINGDOM_27">
+			<Text>Pretoria</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_UNITED_KINGDOM_28">
+			<Text>Bloemfontein</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_UNITED_KINGDOM_29">
+			<Text>Codrington</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_UNITED_KINGDOM_30">
+			<Text>Kuching</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_UNITED_KINGDOM_31">
+			<Text>Rangoon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_UNITED_KINGDOM_32">
+			<Text>Colombo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_UNITED_KINGDOM_33">
+			<Text>Stanley</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_UNITED_KINGDOM_34">
+			<Text>Jesselton</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_UNITED_KINGDOM_35">
+			<Text>Singapore</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_UNITED_KINGDOM_36">
+			<Text>Sandakan</Text>
+		</Row>
+		<!-- RYOGA's UNIQUE CULTURAL INFLUENCE -->
+		<Row Tag="TXT_KEY_GENERIC_JFD_UNITED_KINGDOM_INFLUENTIAL_ON_AI_1">
+			<Text>Our people are now invariably stopping for tea at four O'clock. I worry the rest of the world will also succumb to the influence of your culture.</Text>
+		</Row>
+		<!-- SUKRITACT's DECISIONS -->
+		<!--Address the British Nation-->
+		<Row Tag="TXT_KEY_DECISIONS_JFD_UNITED_KINGDOM_ADDRESS_THE_NATION">
+			<Text>Address the British Nation</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JFD_UNITED_KINGDOM_ADDRESS_THE_NATION_DESC">
+			<Text>
+				Dark days encroach upon these British territories, but we shall never surrender! We shall fight on the beaches! We shall fight in the hills! We shall fight in the streets! By His Majesty's Grace and By God, We shall never surrender our British Empire![NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be the United Kingdom
+				[NEWLINE][ICON_BULLET]Player must have at War with a Major Civilization
+				[NEWLINE][ICON_BULLET]May only be enacted from the beginning of the Industrial Era
+				[NEWLINE][ICON_BULLET]May only be enacted once per era
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Culture} [ICON_CULTURE] Culture
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]All Military Units gain a 25% [ICON_STRENGTH] Combat Bonus for the next 15 turns
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JFD_UNITED_KINGDOM_ADDRESS_THE_NATION_ENACTED_DESC">
+			<Text>
+				Dark days encroach upon these British territories, but we shall never surrender! We shall fight on the beaches! We shall fight in the hills! We shall fight in the streets! By His Majesty's Grace and By God, We shall never surrender our British Empire![NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]All Military Units gain a 25% [ICON_STRENGTH] Combat Bonus for the next 15 turns
+			</Text>
+		</Row>
+		<!--Promote a Special Relationship-->
+		<Row Tag="TXT_KEY_DECISIONS_JFD_UNITED_KINGDOM_SPECIAL_RELATIONSHIP">
+			<Text>Promote a Special Relationship</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JFD_UNITED_KINGDOM_SPECIAL_RELATIONSHIP_DESC">
+			<Text>
+				It is a privilege to be an ally to the United Kingdom, but the bonds of friendship are stronger and more valueable. If we can foster a special relationship with another civilization, then it should come with it certain benefits.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be the United Kingdom
+				[NEWLINE][ICON_BULLET]Player must have at least one Declaration of Friendship
+				[NEWLINE][ICON_BULLET]May only be enacted from the beginning of the Medieval Era
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Gold} [ICON_GOLD] Gold
+				[NEWLINE][ICON_BULLET]1 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Gain two additional Trade Routes whilst you have a Declaration of Friendship with any Civilization
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JFD_UNITED_KINGDOM_SPECIAL_RELATIONSHIP_ENACTED_DESC">
+			<Text>
+				It is a privilege to be an ally to the United Kingdom, but the bonds of friendship are stronger and more valueable. If we can foster a special relationship with another civilization, then it should come with it certain benefits.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Gain two additional Trade Routes whilst you have a Declaration of Friendship with any Civilization
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_SPECIAL_RELATIONSHIP">
+			<Text>JFD: Special Relationship</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_SPECIAL_RELATIONSHIP_HELP">
+			<Text>+2 Trade Routes</Text>
+		</Row>
+		<!-- SUKRITACT's EVENTS -->
+		<!-- Anti-Imperialists -->
+		<Row Tag="TXT_KEY_EVENT_JFD_UNITED_KINGDOM_ANTI_IMPERIALISTS">
+			<Text>Anti-Imperialists</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_UNITED_KINGDOM_ANTI_IMPERIALISTS_DESC">
+			<Text>
+				A number of upstart politicians within HM's government have begun parading under the banner of an "anti-imperialist" movement, and demand that we return those cities which "do not belong to us" to their former owners. These demands are absolutely not possible, and we must communicate this to the public before this ridiculous movement catches on.[NEWLINE]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_UNITED_KINGDOM_ANTI_IMPERIALISTS_OUTCOME_1">
+			<Text>Let us stir the nation in support of our empire!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_UNITED_KINGDOM_ANTI_IMPERIALISTS_OUTCOME_RESULT_1">
+			<Text>[ICON_BULLET][COLOR_POSITIVE_TEXT]Gain two free Settlers[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_UNITED_KINGDOM_ANTI_IMPERIALISTS_OUTCOME_RESULT_1_NOTIFICATION">
+			<Text>We have inspired the nation to the cause of our great British empire.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_UNITED_KINGDOM_ANTI_IMPERIALISTS_OUTCOME_2">
+			<Text>Throw garble at the public! They'll have to support us then.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_UNITED_KINGDOM_ANTI_IMPERIALISTS_OUTCOME_RESULT_2">
+			<Text>[ICON_BULLET][COLOR_POSITIVE_TEXT]Gain {1_Num} [ICON_CULTURE] Culture and a [ICON_GOLDEN_AGE] Golden Age begins[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_UNITED_KINGDOM_ANTI_IMPERIALISTS_OUTCOME_RESULT_2_NOTIFICATION">
+			<Text>We have confused the public as to the purpose of our great British empire, but they have decided to support us nonetheless.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_WORLD_EVENT_UNITED_KINGDOM_ANTI_IMPERIALISTS_1">
+			<Text>Anti-Imperialist demonstrations have begun in the United Kingdom.</Text>
+		</Row>
+		<!-- First Lord of the Admiralty -->
+		<Row Tag="TXT_KEY_EVENT_JFD_UNITED_KINGDOM_ADMIRALTY">
+			<Text>First Lord of the Admiralty</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_UNITED_KINGDOM_ADMIRALTY_DESC">
+			<Text>
+				By their good graces, HM has seen fit to appoint us First Lord of the Admiralty, and with it, the trust that the future of the British navy will be safeguarded and respected in HM's good government.[NEWLINE]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_UNITED_KINGDOM_ADMIRALTY_OUTCOME_1">
+			<Text>A tremendous honour, indeed.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_UNITED_KINGDOM_ADMIRALTY_OUTCOME_RESULT_1">
+			<Text>[ICON_BULLET][COLOR_POSITIVE_TEXT]All current Great Admirals gain +1 Sight and the Medic promotion[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_UNITED_KINGDOM_ADMIRALTY_OUTCOME_RESULT_1_NOTIFICATION">
+			<Text>We have been appointed First Lord of the Admiralty.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

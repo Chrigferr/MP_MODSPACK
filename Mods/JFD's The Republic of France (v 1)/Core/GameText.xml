@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 1/16/2014 11:54:41 PM -->
+<GameData>
+  <Language_en_US>
+		<!--FRANCE (De Gaulle)-->
+		<Row Tag="TXT_KEY_JFD_FRANCE_DEGAULLE_DESC">
+			<Text>French Republic</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_FRANCE_DEGAULLE_SHORT_DESC">
+			<Text>France</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_FRANCE_DEGAULLE_ADJ">
+			<Text>French</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_FRANCE_DEGAULLE_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_FRANCE_DEGAULLE_TEXT_1">
+			<Text>In 1870, the Franco-Prussian War was coming to a close, a decisive defeat for the Second French Empire on the horizon. Humiliated, France threw out Napoleon III’s imperial regime and installed a new order, which fought the war to its bitter end in 1871. With the loss to the upstart German Empire, France was no longer in a position to retain dominance in Europe, instead turning its eye to the rest of the world that it had begun the colonisation of. In the National Assembly, debate raged as to what this new republic should be like, with a mix of republicans, constitutional monarchists and absolutionalists. In the end, the republicans won out after winning control of the senate in 1879, bringing all debate about France’s system of government to a close. Slowly, France rebuilt, and managed to retain its empire well, not willing to back down to Germany again. In 1910, France joined the Triple Entente, an alliance of the United Kingdom, France and Russia, in opposition to the Central Powers’ Triple Alliance. French nationalism had been on the rise since the loss of the Alsace-Lorraine province to Germany, and they were desperate to get it back, so much so that schools taught that the region rightfully belonged to France, so any thought of getting an advantage over Germany seemed reasonable.[NEWLINE][NEWLINE]In 1914, the First World War broke out, with the majority of the Western Front fighting going on around the Franco-German border. After initial defeats, the French re-enforced, and after four treacherous years of fighting in the trenches, Germany had been pushed to breaking point. As part of the peace treaty for the war, France regained Alsace-Lorraine. [NEWLINE][NEWLINE]Despite this success, France was always cautious of another attack from Germany, so the government embarked on a massive project to build a fortified line along the border with Germany, the so-called Maginot Line. This was armed to the teeth with forts, artillery and a railway system, well able to defend against any German attack for a good while. War with Germany broke out again in 1939, the French confident they could hold them off. However, the war took around half a year to actually start the fighting. In May 1940, Germany bypassed the Maginot Line by invading Belgium, and pushed out the Allied soldiers at Dunkirk. By June the same year, Paris had fallen and the government in the south had surrendered, leaving only a government-in-exile in London, headed by Charles de Gaulle. Through the French Resistance movement, control of Occupied France was made harder for Germany, one of the most vital parts of the Second World War. In June 1944, the Allies were confident they could liberate France - and so they did, at D-Day. With the Liberation of Paris in August, France was able to become a state once more, revived as the Fourth French Republic. </Text>
+		</Row>
+		<!-- Spy Names -->
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_FRANCE_DEGAULLE_9">
+			<Text>Albert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_FRANCE_DEGAULLE_8">
+			<Text>Nancy</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_FRANCE_DEGAULLE_7">
+			<Text>Louis</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_FRANCE_DEGAULLE_6">
+			<Text>Henri</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_FRANCE_DEGAULLE_5">
+			<Text>Jacques</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_FRANCE_DEGAULLE_4">
+			<Text>Pierre</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_FRANCE_DEGAULLE_3">
+			 <Text>Odette</Text>
+			 <Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_FRANCE_DEGAULLE_2">
+			<Text>Violette</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_FRANCE_DEGAULLE_1">
+			<Text>Marie</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_FRANCE_DEGAULLE_0">
+			<Text>Josef</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_FRANCE_DEGAULLE_10">
+			<Text>Edith</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<!--City List-->
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_FRANCE_DEGAULLE_01">
+			  <Text>Paris</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_FRANCE_DEGAULLE_02">
+			  <Text>Marseille</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_FRANCE_DEGAULLE_03">
+			<Text>Lyon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_FRANCE_DEGAULLE_04">
+			<Text>Algiers</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_FRANCE_DEGAULLE_05">
+			<Text>Oran</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_FRANCE_DEGAULLE_06">
+			<Text>Toulouse</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_FRANCE_DEGAULLE_07">
+			<Text>Bordeaux</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_FRANCE_DEGAULLE_08">
+			<Text>Nice</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_FRANCE_DEGAULLE_09">
+			<Text>Constantine</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_FRANCE_DEGAULLE_10">
+			<Text>Nantes</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_FRANCE_DEGAULLE_11">
+			<Text>Strasbourg</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_FRANCE_DEGAULLE_12">
+			<Text>Annaba</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_FRANCE_DEGAULLE_13">
+			<Text>Montpellier</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_FRANCE_DEGAULLE_14">
+			<Text>Lille</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_FRANCE_DEGAULLE_15">
+			<Text>Bilda</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_FRANCE_DEGAULLE_16">
+			<Text>Rennes</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_FRANCE_DEGAULLE_17">
+			<Text>Reims</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_FRANCE_DEGAULLE_18">
+			<Text>Le Havre</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_FRANCE_DEGAULLE_19">
+			<Text>Saint-Étienne</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_FRANCE_DEGAULLE_20">
+			<Text>Toulon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_FRANCE_DEGAULLE_21">
+			<Text>Batna</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_FRANCE_DEGAULLE_22">
+			<Text>Grenoble</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_FRANCE_DEGAULLE_23">
+			<Text>Dijon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_FRANCE_DEGAULLE_24">
+			<Text>Angers</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_FRANCE_DEGAULLE_25">
+			<Text>Djelfa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_FRANCE_DEGAULLE_26">
+			<Text>Villeurbanne</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_FRANCE_DEGAULLE_27">
+			<Text>Sétif</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_FRANCE_DEGAULLE_28">
+			<Text>Sidi Bel Abbès</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_FRANCE_DEGAULLE_29">
+			<Text>Saint-Denis</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_FRANCE_DEGAULLE_30">
+			<Text>Le Mans</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_FRANCE_DEGAULLE_31">
+			<Text>Biskra</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_FRANCE_DEGAULLE_32">
+			<Text>Nîmes</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_FRANCE_DEGAULLE_33">
+			<Text>Tébessa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_FRANCE_DEGAULLE_34">
+			<Text>Aix-en-Provence</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_FRANCE_DEGAULLE_35">
+			<Text>Breast</Text>
+		</Row>
+		<!--DEGAULLE-->
+		<Row Tag="TXT_KEY_LEADER_JFD_DEGAULLE">
+			<Text>Charles de Gaulle</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_DEGAULLE_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_DEGAULLE_TEXT_1">
+			<Text>Charles de Gaulle was President of the French Fifth Republic, Prime Minister of France and leader of the French resistance during World War II. Born in Lille, France, de Gaulle would fight in both World Wars and guide his country through reconstruction before his death in 1970. [NEWLINE][NEWLINE]As a young man, Charles de Gaulle was drawn to the life of a soldier. In 1912, de Gaulle graduated from Saint-Cyr, the premier military academy in France. Two years later the precocious, young soldier found himself in the midst of the carnage of World War I. Captured by the Germans after the Battle of Verdun in 1916, de Gaulle was held for nearly two years before being released when the War to End All Wars finally came to a close.[NEWLINE][NEWLINE]After a brief stint fighting with the Polish during the Polish-Soviet War, de Gaulle returned to France and began publishing numerous papers on the state of modern warfare. His most prophetic, "The Army of the Future," published in 1934, argued that the static defenses of the Maginot Line, France's key protection against another German invasion, would not last in the face of a modern mobile assault.[NEWLINE][NEWLINE]His words would go unheeded.[NEWLINE][NEWLINE]With the German invasion of France and the capitulation of French leadership, de Gaulle escaped to Great Britain, firm in his belief that while the government had folded, France was not defeated. From England, de Gaulle broadcast a message of resistance back to his homeland, stating "France has lost a battle, but France has not lost the war." Leaving Great Britain, de Gaulle traveled towards the French colonies in Africa, now under the control of the Nazi-sympathizing Vichy government. Creating the new base for his "Free French" movement in the Congo, de Gaulle won a series of key victories against the Vichy and German forces, steadily increasing his strength and renown.[NEWLINE][NEWLINE]When France was finally liberated by the Allies, the Free French forces were there to take control of the country. De Gaulle became the interim Prime Minister as the Fourth Republic was created, but disagreements with the nascent government ended in de Gaulle's resignation.[NEWLINE][NEWLINE]In 1958, economic struggles and political infighting in the Fourth Republic drew de Gaulle back into power and would mark the beginning of the French Fifth Republic. With a strong hand, de Gaulle began a period of driven, some would say bullheaded, modernization and redirection of the French state. Ushering in France's nuclear age and breaking ties with the problematic French colony of Algeria, de Gaulle ensured that France would remain among the premier nations of the world. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_DEGAULLE_LIVED">
+			<Text>1890 - 1970 AD</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_DEGAULLE_NAME">
+			<Text>Charles de Gaulle</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_DEGAULLE_SUBTITLE">
+			<Text>Leader of France</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_DEGAULLE_TITLES_1">
+			<Text>President of France, Co-Prince of Andorra</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DAWN_JFD_DEGAULLE_TEXT">
+			<Text>Bienvenue, Charles de Gaulle, President of France and leader of the free French peoples. A veteran of the Great War, you were the leader of the French resistence during the German occupation of France in the second World War. From your base in the French Congo, you embarked upon a series of battles which would win back control of the French colonies from the occupation. Following France's liberation at the end of the war, you would use your sturdy military career to carve out a political legacy from which would be created the state of the modern French Fifth Republic.[NEWLINE][NEWLINE]Stern general, France yearns for a leader with the strength and stamina to uphold her cultural and military legacy once more. Can you be champion of her armies and liberator of her people? Can you build a civilization that will stand the test of time?</Text>
+		</Row>
+		<!--LA FRANCE LIBRE-->
+		<Row Tag="TXT_KEY_TRAIT_JFD_FRANCE_DEGAULLE">
+			<Text>Great Generals grant the Amphibious promotion to adjacent Units and may be expended for [ICON_CULTURE] Culture. +10% Great General generation for every original French city captured by an enemy (up to 50%).</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_JFD_FRANCE_DEGAULLE_SHORT">
+			<Text>La France Libre</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_FRENCH_RESISTANCE">
+			<Text>JFD: French Resistance</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_FRENCH_RESISTANCE_HELP">
+			<Text>+10% [ICON_GREA_GENERAL] Great General generation</Text>
+		</Row>
+		<!--CHAR B1-->
+		<Row Tag="TXT_KEY_UNIT_JFD_CHAR_B1">
+			<Text>Char B1</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_CHAR_B1_TEXT">
+			<Text>The Char B1 was a specialised heavy break-through vehicle, originally conceived as a self-propelled gun with a 75 mm howitzer in the hull; later a 47 mm gun in a turret was added, to allow it to function also as a Char de Bataille, a "battle tank" fighting enemy armour, equipping the armoured divisions of the Infantry Arm. Starting in the early twenties, its development and production were repeatedly delayed, resulting in a vehicle that was both technologically complex and expensive, and already obsolescent when real mass-production of a derived version, the Char B1 "bis", started in the late thirties. Although a second uparmoured version, the Char B1 "ter", was developed, only two prototypes were built.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_CHAR_B1_STRATEGY">
+			<Text>The Char B1 is a unique Landship replacement for de Gaulle's France. Unlike the Landship, this unit possesses a 20% bonus when [ICON_STRENGTH] Defending. It also possesses a ranged attack, allowing it to attack from a safe distance.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_JFD_CHAR_B1">
+			<Text>Heavy tank-unit avaliable only to de Gaulle's France. Begins with +20% [ICON_STRENGTH] Defense and possesses a ranged attack.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_CHAR_B1">
+			<Text>Heavily Armoured</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_CHAR_B1_HELP">
+			<Text>+20% [ICON_STRENGTH] Defense.</Text>
+		</Row>
+		<!--CAFE-->
+		<Row Tag="TXT_KEY_BUILDING_JFD_CAFE">
+			<Text>Café</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_CAFE_TEXT">
+			<Text>France is world famous for its cuisine, whether that be in a fancy Parisian restaurant or in a local shop in the French countryside. In the 17th century, as coffee entered Europe from the Arab world, it became very popular for recreational activity - very soon, coffeehouses developed, especially in Vienna. Back in France, the traditional coffeehouses (known in France as "Cafés", simply the French for "Coffee") slowly became more all-purpose, functioning as a place to go for a cheaper and quicker meal than a restaurant. Cafés soon became widespread across France in this form, soon spreading to the rest of Europe as well. To this day, Cafés remain part of French society and culture, though their popularity around the world makes them less distinctly French.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_CAFE_STRATEGY">
+			<Text>The Café is a late-game building which increases [ICON_CULTURE] Culture and [ICON_TOURISM] Tourism, avaliable only to de Gaulle's France. Unlike the Broadcast Tower which it replaces, the Café possess two Great Works of Music slots. When both of these slots are filled, any Infantry unit trained in the city begins with a promotion which grants them +1 Sight and allows them to earn 20% more experience from combat. In addition, if the Café is in a city under the possession of another civilization, all tiles adjacent to that city will be revealed.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_CAFE_HELP">
+			<Text>When both Great Work slots are filled, Infantry Units trained in this city gain +1 Sight and earn 20% more experience from combat. Reveals tiles adjacent to the city if under the control of another civilization.[NEWLINE][NEWLINE]+33% [ICON_CULTURE] Culture in this City.[NEWLINE][NEWLINE]City must have a Museum.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_THEMING_BONUS_JFD_CAFE">
+			<Text>French Café</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_CAFE_THEMING_BONUS_HELP">
+		  <Text>To maximize your bonus, make sure the Great Work Slots are all filled with Music from the same Civilization.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_CAFE">
+		  <Text>French Nationalist</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_CAFE_HELP">
+		  <Text>+20% XP from combat and +1 Sight.</Text>
+		</Row>
+  </Language_en_US>
+</GameData>

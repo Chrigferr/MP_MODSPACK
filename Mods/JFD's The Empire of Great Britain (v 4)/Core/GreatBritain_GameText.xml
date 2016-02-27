@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 1/4/2014 8:45:16 AM -->
+<GameData>
+	<Language_en_US>
+		<!--GREAT BRITAIN-->
+		<Row Tag="TXT_KEY_CIV_JFD_GREAT_BRITAIN_ADJECTIVE">
+			<Text>British</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_JFD_GREAT_BRITAIN_DESC">
+			<Text>British Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_JFD_GREAT_BRITAIN_SHORT_DESC">
+			<Text>Great Britain</Text>
+		</Row>
+		<!--Cities-->
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GREAT_BRITAIN_1">
+			<Text>Birmingham</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GREAT_BRITAIN_2">
+			<Text>Leeds</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GREAT_BRITAIN_3">
+			<Text>Manchester</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GREAT_BRITAIN_4">
+			<Text>Edinburgh</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GREAT_BRITAIN_5">
+			<Text>Dublin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GREAT_BRITAIN_6">
+			<Text>Cardiff</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GREAT_BRITAIN_7">
+			<Text>Belfast</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GREAT_BRITAIN_8">
+			<Text>Glasgow</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GREAT_BRITAIN_9">
+			<Text>Liverpool</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GREAT_BRITAIN_10">
+			<Text>Newcastle</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GREAT_BRITAIN_11">
+			<Text>Oxford</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GREAT_BRITAIN_12">
+			<Text>Bristol</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GREAT_BRITAIN_13">
+			<Text>Aberdeen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GREAT_BRITAIN_14">
+			<Text>Sheffield</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GREAT_BRITAIN_15">
+			<Text>Southampton</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GREAT_BRITAIN_16">
+			<Text>Portsmouth</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GREAT_BRITAIN_17">
+			<Text>Leicester</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GREAT_BRITAIN_18">
+			<Text>Coventry</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GREAT_BRITAIN_19">
+			<Text>Brighton</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GREAT_BRITAIN_20">
+			<Text>Swansea</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GREAT_BRITAIN_21">
+			<Text>Dundee</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GREAT_BRITAIN_22">
+			<Text>Canterburg</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GREAT_BRITAIN_23">
+			<Text>Cambridge</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GREAT_BRITAIN_24">
+			<Text>Plymouth</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GREAT_BRITAIN_25">
+			<Text>York</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GREAT_BRITAIN_26">
+			<Text>Derby</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GREAT_BRITAIN_27">
+			<Text>Norwich</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GREAT_BRITAIN_28">
+			<Text>Exeter</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GREAT_BRITAIN_29">
+			<Text>Bath</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GREAT_BRITAIN_30">
+			<Text>Inverness</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GREAT_BRITAIN_31">
+			<Text>Newport</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GREAT_BRITAIN_32">
+			<Text>Londonderry</Text>
+		</Row>
+		<!--Spies-->
+		<Row Tag="TXT_KEY_SPY_NAME_CIVILIZATION_JFD_GREAT_BRITAIN_0">
+			<Text>Gaby</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CIVILIZATION_JFD_GREAT_BRITAIN_1">
+			<Text>Arthur Owens</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CIVILIZATION_JFD_GREAT_BRITAIN_2">
+			<Text>Artist</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CIVILIZATION_JFD_GREAT_BRITAIN_3">
+			<Text>Mariette</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CIVILIZATION_JFD_GREAT_BRITAIN_4">
+			<Text>Baron de Ropp</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CIVILIZATION_JFD_GREAT_BRITAIN_5">
+			<Text>Tate</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CIVILIZATION_JFD_GREAT_BRITAIN_6">
+			<Text>Edward</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CIVILIZATION_JFD_GREAT_BRITAIN_7">
+			<Text>Eddie</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CIVILIZATION_JFD_GREAT_BRITAIN_8">
+			<Text>Tubbs</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CIVILIZATION_JFD_GREAT_BRITAIN_9">
+			<Text>Count Manfred</Text>
+		</Row>
+		<!--VICTORIA-->
+		<Row Tag="TXT_KEY_LEADER_JFD_VICTORIA">
+			<Text>Victoria</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_VICTORIA_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_VICTORIA_TEXT_1">
+			<Text>Victoria served as English monarch for 64 years - the longest reign in English history. She took the throne at 18, after the death of her uncle, King William IV. At 20 she married Prince Albert, to whom she bore nine children. The couple was very much in love and co-ruled for twenty years. She and Albert were quite interested in science, and in 1851 they inspired the hugely successful Great Exhibition in the Crystal Palace, the proceeds going to establish a number of public museums, including the Albert and Victoria museum; which remains one of the world's finest museums even today.[NEWLINE][NEWLINE]During the early years of her reign Victoria was a quite active monarch, and she won the hearts of her people with her modesty and practicality. It was during this period that she performed her greatest service to the British people: she oversaw the transition of the British throne to a constitutional monarchy.[NEWLINE][NEWLINE]When Albert died in 1861, Victoria was devastated. She went into permanent mourning, retiring from the day-to-day rule of her country and secluding herself on the Isle of Wight, where she was increasingly involved in somewhat dubious spiritual exploration. Her self-pity was legendary - a remarkable change from her youthful modesty and enthusiasm.[NEWLINE][NEWLINE]Victoria's isolation and indifference to the management of her country left room for extremely talented prime ministers, such as Gladstone and Disraeli, to guide Great Britain into a golden age of prosperity and expansion. During this period the Empire came to dominate half of the world's area and population - including India and much of the Orient, as well as large chunks of Africa, Asia, North America and a goodly portion of the Pacific islands.[NEWLINE][NEWLINE]Victoria believed that Great Britain had a mandate from heaven to bring the ignorant peoples of the world beneath the protection of the British flag. She felt that she personally had a duty to these untutored people, to educate and clothe them, and most importantly, to bring them to the church.[NEWLINE][NEWLINE]During her reign, Great Britain grew from a moderate European power into the greatest empire the world has ever known, an Empire on which "the sun never set," far overshadowing Imperial Rome in size and might. The Diamond Jubilee, celebrating Victoria's 60th year as monarch, dwarfed in pomp and majesty anything that a puny Caesar could have ever mustered.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_VICTORIA_LIVED">
+			<Text>1819 - 1901</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_VICTORIA_NAME">
+			<Text>Victoria</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_VICTORIA_SUBTITLE">
+			<Text>Leader of Great Britain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_VICTORIA_TITLES_1">
+			<Text>Queen of Great Britain[NEWLINE][NEWLINE]Empress of India</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_JFD_VICTORIA_DAWN">
+			<Text>By the Grace of God, we bow in humble service to Her Majesty Queen Victoria, sovereign and protector to the British Empire! Taking the throne at 18, you would serve Great Britain as one of her longest and most prestigious monarchs. You oversaw the spread of its imperial might across the globe and its rapid transformation into an industrial power. As Queen, you would maintain yourself with dignity and modesty, and you would embolden the fondness of your subjects to their great nation, leaving in your wake an age of resounding pride.[NEWLINE][NEWLINE]Most gracious Queen, long has Great Britain yearned for the power and wealth that it once knew. Can you bear your duty as sovereign of the empire where the sun is forever shining? Can you bring civilization to the barbarous peoples of the earth and with it glory and greatness to the hearts of your subjects? Can you build a civilization that stands the test of time?</Text>
+		</Row>
+		<!--SUN NEVER SETS-->
+		<Row Tag="TXT_KEY_TRAIT_JFD_GREAT_BRITAIN">
+			<Text>Gain [ICON_GOLD] Gold from settling cities. The amount received is greater the further the city is from your capital. Each city increases the [ICON_RESEARCH] Science rate in your capital by 10% of their [ICON_PRODUCTION] Production.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_JFD_GREAT_BRITAIN_SHORT">
+			<Text>Sun Never Sets</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_JFD_GREAT_BRITAIN_MSG">
+			<Text>[COLOR_YELLOW]+{1_Num} [ICON_GOLD][ENDCOLOR] from settling {2_CityName}.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_GREAT_BRITAIN">
+			<Text>JFD: Great Britain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_GREAT_BRITAIN_HELP">
+			<Text>+1% [ICON_RESEARCH] Science</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_GREAT_BRITAIN_CITY_VIEW_HELP">
+			<Text>[NEWLINE][ICON_RESEARCH] Science from [ICON_PRODUCTION] nation-wide:[NEWLINE]----------------------{1_ScienceList}----------------------[NEWLINE][COLOR_POSITIVE_TEXT]+{2_Total}% [ICON_RESEARCH] Science Total[ENDCOLOR]</Text>
+		</Row>
+		<!--REDCOAT-->
+		<Row Tag="TXT_KEY_UNIT_JFD_REDCOAT">
+			<Text>Redcoat</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_JFD_REDCOAT">
+			<Text>Rifleman replacement that ignores terrain cost when moving and may enter rival territory. Offsets [ICON_PRODUCTION] Production penalties from [ICON_HAPPINESS_4] Unhappiness when garrisoned. Only the British may build it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_REDCOAT_STRATEGY">
+			<Text>The Redcoat is the unique Rifleman replacement for Great Britain. It ignores terrain cost when moving and may enter rival territory without Open Borders, making it effective at reaching your distant cities quickly. This unit may be garrisoned in a city where production is being impacted by global unhappiness to offset those penalties.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_REDCOAT_TEXT">
+			<Text>A soldier of the British Army. The usual uniform of British soldiers during the 18th and 19th centuries (prior to the introduction of khaki) was a red (or scarlet) coat and white breeches. The epithet "Redcoats" was used throughout the world, but is particularly associated with the American colonists. The term is still used in Ireland to refer to the British Army, and sometimes to all British people.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_REDCOAT">
+			<Text>JFD: Redcoat</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_REDCOAT_HELP">
+			<Text>+1% [ICON_PRODUCTION] Production.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_REDCOAT">
+			<Text>British Garrison</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_REDCOAT_HELP">
+			<Text>Garrison this unit in a city to offset [ICON_PRODUCTION] Production penalties from [ICON_HAPPINESS_4] Unhappiness.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_REDCOAT_CITY_VIEW_HELP">
+			<Text>+{1_Num}% [ICON_PRODUCTION] Production whilst this city is affected by [ICON_HAPPINESS_4] Unhappiness penalties.</Text>
+		</Row>
+		<!--FIRST RATE-->
+		<Row Tag="TXT_KEY_UNIT_JFD_FIRST_RATE">
+			<Text>First Rate</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_JFD_FIRST_RATE">
+			<Text>Powerful Naval Unit of the mid-game. Benefits the [ICON_STRENGTH] Defensive Strength of adjacent Naval Units and begins with additional Sight. Only the British may build it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_FIRST_RATE_STRATEGY">
+			<Text>Stronger than the Frigate that it replaces, the First-Rate is more expensive to produce and slightly slower, however, it grants additional Defense to adjacent Naval Units and possesses additional Sight itself. It is unique to Great Britain. First Rates make excellent frontline ships.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_FIRST_RATE_TEXT">
+			<Text>'First-rate' is the classification used for the largest ships of the line maintained by the British Royal Navy. Throughout the existence of the rating system, the threshold armament and crew for a ship to be considered first-rate changed. However, it was established in the early 1700s that a first-rate ship loaded for wartime carried at least 100 guns. First-rates were very expensive, heavy, and slow, in exchange for their massive firepower. As a result, few were maintained at any given time, and they often served as flagships. HMS Victory, Admiral Nelson's famous flagship from the Battle of Trafalgar, is the only surviving first-rate.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_FIRST_RATE">
+			<Text>Flagship</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_FIRST_RATE_HELP">
+			<Text>Naval Units beginning [COLOR_POSITIVE_TEXT]adjacent[ENDCOLOR] to a unit with this promotion have +20% [ICON_STRENGTH] Defense.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_FIRST_RATE_DEFENSE">
+			<Text>Adjacent Flagship</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_FIRST_RATE_DEFENSE_HELP">
+			<Text>+20% [ICON_STRENGTH] Defense.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

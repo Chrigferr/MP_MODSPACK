@@ -1,0 +1,145 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="dd97178d-7b36-4cf8-b4da-5ddcf9b7fab3" version="1">
+  <Properties>
+    <Name>JFD's The County of Flanders</Name>
+    <Teaser>Adds the [COLOR_POSITIVE_TEXT]The County of Flanders[ENDCOLOR] with Robrecht III to the game.</Teaser>
+    <Description>See Steam Workshop or CivFanatics for full details if you so dare.</Description>
+    <Authors>JFD, Janboruta, Moriboe, Viregel</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies>
+    <Dlc id="6DA07636-4123-4018-B643-6575B4EC336B" minversion="0" maxversion="999" />
+  </Dependencies>
+  <References>
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="JFD's Cultural Diversity (Core)" />
+    <Mod id="eea66053-7579-481a-bb8d-2f3959b59974" minversion="0" maxversion="999" title="JFD’s Piety &amp; Prestige" />
+    <Mod id="1f941088-b185-4159-865c-472df81247b2" minversion="0" maxversion="999" title="Sukritact’s Events &amp; Decisions" />
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="Yet (not) Another Earth Map Pack" />
+    <Mod id="e576894a-ed2b-4033-be14-ed1c8ceb81d3" minversion="0" maxversion="999" title="Map Labels    " />
+    <Mod id="7fdd72a5-d4ae-441c-bc4e-2e3d2a26cff4" minversion="0" maxversion="999" title="Ethnic Units" />
+    <Mod id="8670da15-d435-44ea-9758-7438cb321411" minversion="0" maxversion="999" title="R.E.D. Modpack    " />
+    <Mod id="1153b26a-69fd-4cd5-899c-a8ba8e0e5e5d" minversion="0" maxversion="999" title="Civ IV Leader Traits in Civ V" />
+    <Mod id="43868e8d-de88-48a1-a8d9-ce144e07f5e0" minversion="0" maxversion="999" title="JFD's Exploration Continued Expanded " />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="C7E6608BA25377BD5403A6A6EE4109A7" import="0">Art/ArtDefines.sql</File>
+    <File md5="BFB834A1BE41F107DA10CE8414FCD7AF" import="1">Art/Diplomacy/Flanders_Scene.xml</File>
+    <File md5="B618D9E6B042C31E34F4A557598D0E89" import="1">Art/Diplomacy/Robrecht_Diplo.dds</File>
+    <File md5="C45A2E1C04D7E6EF9110EA2489ACB02E" import="1">Art/Diplomacy/Robrecht_Scene.xml</File>
+    <File md5="11FD65A4A87D3F137045A64F94E1F839" import="1">Art/Graphics/Maceman.fxsxml</File>
+    <File md5="EFD79F783DDE85981C98E9F460967078" import="1">Art/Graphics/Maceman.gr2</File>
+    <File md5="3F0A8A4223FB7E25551E93171585A124" import="1">Art/Graphics/Maceman_diff512.dds</File>
+    <File md5="3A0746745503128823EC521B3691E59F" import="1">Art/Graphics/Maceman_sref512.dds</File>
+    <File md5="5AC2B10BB8E6DAE06EDBB6F2E295F1E8" import="1">Art/Graphics/sv_Goedendag.dds</File>
+    <File md5="B89E560753666538E9EAD724614B8EF9" import="1">Art/Great Works/ElevationOfTheCross-Rubens.dds</File>
+    <File md5="FA0EAE5BE6B6FE24DD73E39BCC15B3CB" import="1">Art/Great Works/TheKingDrinks-Jordaens.dds</File>
+    <File md5="143CA2EA039644407B64F7ABCE670559" import="1">Art/Great Works/TripleCharlesI-VanDyck.dds</File>
+    <File md5="1FA55BB6A701E53192B1995D5781D4AA" import="1">Art/Icon Atlas/JFD_FlandersAlphaAtlas_128.dds</File>
+    <File md5="D1CA5D4AA2E078FD88472BA3EE407072" import="1">Art/Icon Atlas/JFD_FlandersAlphaAtlas_16.dds</File>
+    <File md5="D6C6842758FAB7153676AFAC3FB6FC7B" import="1">Art/Icon Atlas/JFD_FlandersAlphaAtlas_22.dds</File>
+    <File md5="3AB78C37F972CFC3D98417C7BCA6FA4D" import="1">Art/Icon Atlas/JFD_FlandersAlphaAtlas_24.dds</File>
+    <File md5="0ACC1A7748B8582500BBBD0E7CD80E8F" import="1">Art/Icon Atlas/JFD_FlandersAlphaAtlas_256.dds</File>
+    <File md5="79D7DE2D45604DD1C09CD0935B2E2FA3" import="1">Art/Icon Atlas/JFD_FlandersAlphaAtlas_32.dds</File>
+    <File md5="2438E58637B8E908891641036BA19452" import="1">Art/Icon Atlas/JFD_FlandersAlphaAtlas_45.dds</File>
+    <File md5="01966B4EAADBAC4156717767B4D5E82C" import="1">Art/Icon Atlas/JFD_FlandersAlphaAtlas_48.dds</File>
+    <File md5="ACDA3F3E096A35232472927B0729F02A" import="1">Art/Icon Atlas/JFD_FlandersAlphaAtlas_64.dds</File>
+    <File md5="7740078A16E28A6B8A6066C3D92A6EC1" import="1">Art/Icon Atlas/JFD_FlandersAlphaAtlas_80.dds</File>
+    <File md5="5E9D39894A49E0EA821B9774EC57E71C" import="1">Art/Icon Atlas/JFD_FlandersAtlas2_128.dds</File>
+    <File md5="7D859D71D1E27DDABB9342ACFF97F9DA" import="1">Art/Icon Atlas/JFD_FlandersAtlas2_256.dds</File>
+    <File md5="4D051B82011354B8BE1822DA8EA0AD57" import="1">Art/Icon Atlas/JFD_FlandersAtlas2_64.dds</File>
+    <File md5="714D5909CD713F5EB2DFEEEE4EBE14B6" import="1">Art/Icon Atlas/JFD_FlandersAtlas_128.dds</File>
+    <File md5="3FDCE4EFB11D8B0CA5EDB7C9B4F39348" import="1">Art/Icon Atlas/JFD_FlandersAtlas_256.dds</File>
+    <File md5="343B814C2DDA0DE54CC084752EED3BE9" import="1">Art/Icon Atlas/JFD_FlandersAtlas_32.dds</File>
+    <File md5="129820701353E03DEE651E5111E0EB26" import="1">Art/Icon Atlas/JFD_FlandersAtlas_45.dds</File>
+    <File md5="8300AC19D5EE944ECE93459FFBB877BD" import="1">Art/Icon Atlas/JFD_FlandersAtlas_64.dds</File>
+    <File md5="64EC0567754221FB43FF162F4EB9BEBD" import="1">Art/Icon Atlas/JFD_FlandersAtlas_80.dds</File>
+    <File md5="33D880C442C2A1EB556DCABD45F70873" import="1">Art/Icon Atlas/JFD_GoedendagUnitFlag_32.dds</File>
+    <File md5="AAF762819CB86ADD62674B84D677A5F7" import="1">Art/Map/DOM_Robrecht.dds</File>
+    <File md5="E54E626D4CE2C04263F7C23745238051" import="1">Art/Map/FlandersMap512.dds</File>
+    <File md5="E9C6403C6D27FFCA3FC13C9FD04D2BEB" import="0">Audio/Audio.sql</File>
+    <File md5="C9FE6CBFA1F2961F5062A4D25C41025C" import="1">Audio/Flanders_Peace.mp3</File>
+    <File md5="C9FE6CBFA1F2961F5062A4D25C41025C" import="1">Audio/Flanders_War.mp3</File>
+    <File md5="6F62ABF2E8AA85A36E6301AEFBD2B123" import="1">Audio/Robrecht_Peace.mp3</File>
+    <File md5="6128B417A11A1E3E97D0FA2B30BCC87B" import="1">Audio/Robrecht_War.mp3</File>
+    <File md5="12A0F1BE47CA29FE0A3D2E4A0F3B2A73" import="0">Core/Buildings.sql</File>
+    <File md5="C6C5E7255FDC2215A560E68F37137A35" import="0">Core/Civilization.sql</File>
+    <File md5="A25A6A4DAF1E1AA5D908416B106F25EC" import="0">Core/Diplomacy.sql</File>
+    <File md5="6B20E9618B15A5218FF2B7DF92D5E950" import="0">Core/DiplomacyText.xml</File>
+    <File md5="5E667DABF7ABE39091286A98660C453F" import="0">Core/GameText.xml</File>
+    <File md5="45ACDFBCC987D4FADCB67621B578FB92" import="0">Core/Leaderhead.sql</File>
+    <File md5="F21CE7D968E5F797C1E7F3D5B1FA017C" import="0">Core/Mod Support/Core.sql</File>
+    <File md5="3C92858F4F10239BDCA5090490B6517A" import="0">Core/Mod Support/GameText.xml</File>
+    <File md5="4D393E18C48D8E0611EE82C087DFF539" import="0">Core/Mod Support/Gedemon's YnAEMP Support/CivilizationStartPos.sql</File>
+    <File md5="836052103A67952E7E393F4CC8D5571D" import="0">Core/Mod Support/Sukritact's Decisions Support/Decisions.sql</File>
+    <File md5="B5D229A63B4DFF33EDB821774F9E3E94" import="0">Core/Mod Support/Sukritact's Decisions Support/GameText.xml</File>
+    <File md5="D8E9B9C2FDD224D3A795C2D26E07EAFD" import="0">Core/Mod Support/Sukritact's Events Support/Events.sql</File>
+    <File md5="C1F5D137ACA814D2E8ACD69C89F545E0" import="0">Core/Mod Support/Sukritact's Events Support/GameText.xml</File>
+    <File md5="CB6D55D4E22A76EB07B6C7481EF6CAE5" import="0">Core/PlayerColours.sql</File>
+    <File md5="6A38687C3B055190563C2C9B26D15AEF" import="0">Core/Promotions.sql</File>
+    <File md5="5527173EAA4F1FE4A81584BDCF28070A" import="0">Core/Traits.sql</File>
+    <File md5="43422C03253E7E06FB731E58AB59CF3E" import="0">Core/Units.sql</File>
+    <File md5="3665EA7314EC7714D3F5520365D7702A" import="0">DeleteMissingReferences.xml</File>
+    <File md5="AE199DD1522170FFAE08F34E84381555" import="0">Lua/JFD_FlandersFunctions.lua</File>
+    <File md5="BCE3061A155668AF5D155AE02F0F3A53" import="0">Lua/JFD_FlandersFunctions.xml</File>
+    <File md5="86C1C3EDCE4699DE320A932C4E70E22C" import="0">Lua/Sukritact's Modular City Info Stack/CityInfoStack.lua</File>
+    <File md5="120EB71025973A8A48B38314241DD0B3" import="0">Lua/Sukritact's Modular City Info Stack/CityInfoStack.xml</File>
+    <File md5="797810BA99AB78FE285BE75C6E8B96F8" import="0">Lua/Sukritact's Modular City Info Stack/JFD_FlandersCityInfo.lua</File>
+    <File md5="1F0DBC919AED7D8A54EC5AAE320E6B6A" import="0">Lua/Sukritact's Modular City Info Stack/JFD_FlandersCityInfo.xml</File>
+    <File md5="C07AF013B5F93B9C1E61F2A4792BB88E" import="1">Lua/Sukritact's Decisions Support/JFD_FlandersDecisions.lua</File>
+    <File md5="CDFD9B12235F8EE8D419811E5BD576B1" import="1">Lua/Sukritact's Events Support/JFD_FlandersEvents.lua</File>
+    <File md5="3B7B1EE92949FC3B7B9308074F036BEB" import="1">Lua/Utilities/NewSaveUtils.lua</File>
+    <File md5="00650B1FF67713C4C601031ECECBE0D9" import="1">Lua/Utilities/PlotIterators.lua</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Art/ArtDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Audio/Audio.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Buildings.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Civilization.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Diplomacy.sql</UpdateDatabase>
+      <UpdateDatabase>Core/DiplomacyText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Leaderhead.sql</UpdateDatabase>
+      <UpdateDatabase>Core/PlayerColours.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Promotions.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Traits.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Units.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Mod Support/Core.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Mod Support/GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Mod Support/Gedemon's YnAEMP Support/CivilizationStartPos.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Mod Support/Sukritact's Decisions Support/Decisions.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Mod Support/Sukritact's Decisions Support/GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Mod Support/Sukritact's Events Support/Events.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Mod Support/Sukritact's Events Support/GameText.xml</UpdateDatabase>
+      <UpdateDatabase>DeleteMissingReferences.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/JFD_FlandersFunctions.lua">
+      <Name>JFD_FlandersFunctions</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/Sukritact's Modular City Info Stack/CityInfoStack.lua">
+      <Name>Sukritact's City Info Stack</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/Sukritact's Modular City Info Stack/JFD_FlandersCityInfo.lua">
+      <Name>JFD_FlandersCityInfo</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="975ffe33-ab4f-4668-8058-92dd836fe746" version="6">
+  <Properties>
+    <Name>JFD's The Kingdom of the Vandals</Name>
+    <Teaser>Adds the [COLOR_POSITIVE_TEXT]The Kingdom of the Vandals[ENDCOLOR] with Genseric to the game.</Teaser>
+    <Description>See CivFanatics or Steam Workshop for full details.</Description>
+    <Authors>JFD, Janboruta</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References>
+    <Mod id="7fdd72a5-d4ae-441c-bc4e-2e3d2a26cff4" minversion="0" maxversion="999" title="Ethnic Units" />
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="JFD's Cultural Diversity (Core)" />
+    <Mod id="eea66053-7579-481a-bb8d-2f3959b59974" minversion="0" maxversion="999" title="JFD’s Piety" />
+    <Mod id="1f941088-b185-4159-865c-472df81247b2" minversion="0" maxversion="999" title="Sukritact’s Events &amp; Decisions" />
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="Yet (not) Another Earth Map Pack" />
+    <Mod id="e576894a-ed2b-4033-be14-ed1c8ceb81d3" minversion="0" maxversion="999" title="Map Labels" />
+    <Mod id="8670da15-d435-44ea-9758-7438cb321411" minversion="0" maxversion="999" title="R.E.D. Modpack" />
+    <Mod id="1153b26a-69fd-4cd5-899c-a8ba8e0e5e5d" minversion="0" maxversion="999" title="Civ IV Leader Traits in Civ V" />
+    <Mod id="6010e6f6-918e-48b8-9332-d60783bd8fb5" minversion="0" maxversion="999" title="Historical Religions Complete" />
+    <Mod id="8411a7a8-dad3-4622-a18e-fcc18324c799" minversion="0" maxversion="999" title="Community Balance Patch" />
+    <Mod id="a19351c5-c0b3-4b07-8695-4affaa199949" minversion="0" maxversion="999" title="JFD’s and Pouakai’s Mercenaries" />
+    <Mod id="d99bf7aa-51ac-4bef-bd88-d765b28e260e" minversion="0" maxversion="999" title="JFD’s Sovereignty" />
+    <Mod id="10e9728f-d61c-4317-be4f-7d52d6bae6f4" minversion="0" maxversion="999" title="JFD's CCCHP" />
+    <Mod id="43868e8d-de88-48a1-a8d9-ce144e07f5e0" minversion="0" maxversion="999" title="JFD's Exploration Continued Expanded" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="4A8F282CC54C9F2BEFD175086D29E204" import="1">Art/Diplomacy/Genseric_Diplo.dds</File>
+    <File md5="C3589BE11A7C2380F91ABCDA8CEDD83E" import="1">Art/Diplomacy/Genseric_Scene.xml</File>
+    <File md5="3498CC92A8BD3F34540BF5EB8E40A4BD" import="1">Art/Graphics/Alan Cavalry/Horseman_Turkey.dds</File>
+    <File md5="F38D19328D14A38612E5CCFE5554A480" import="1">Art/Graphics/Alan Cavalry/Horseman_Turkey.fxsxml</File>
+    <File md5="F5A9C1A3C0A23E8C0929E2D43805FEE7" import="1">Art/Graphics/Alan Cavalry/Horseman_Turkey.gr2</File>
+    <File md5="B520BF3F53768555638871DC646E4096" import="1">Art/Graphics/Alan Cavalry/Horseman_Turkey_gloss.dds</File>
+    <File md5="651AD041BBB81FA07E533C347AB2382D" import="1">Art/Graphics/Alan Cavalry/Horseman_Turkey_Horse.dds</File>
+    <File md5="AC41C06BA721315512F26433220FEDF7" import="1">Art/Graphics/Alan Cavalry/no_gloss.dds</File>
+    <File md5="F47A753774AC0A76C6DFF81E1192FF1A" import="1">Art/Graphics/Alan Cavalry/sv_AlanCavalry.dds</File>
+    <File md5="8BEEAC3592A0F6BF066AE558D2574667" import="1">Art/Graphics/Trihemiolia/sv_Trihemiolia.dds</File>
+    <File md5="E2C8B3F64BE8688FB49B31953E23D6C0" import="1">Art/Icon Atlas/JFD_AlanCavalryUnitFlag_32.dds</File>
+    <File md5="10F0222576413D233C45D95B137DA6CB" import="1">Art/Icon Atlas/JFD_TrihemioliaUnitFlag_32.dds</File>
+    <File md5="BB36399BA6FE6AE539282CB8FC2E7EE5" import="1">Art/Icon Atlas/JFD_VandalsAlphaAtlas_128.dds</File>
+    <File md5="842D7C30643EFD3E8DB89A9F51AF2307" import="1">Art/Icon Atlas/JFD_VandalsAlphaAtlas_16.dds</File>
+    <File md5="9EA0370120DBE17E7C05CCD72B72A0B2" import="1">Art/Icon Atlas/JFD_VandalsAlphaAtlas_22.dds</File>
+    <File md5="666D923C6A535C38C02EEBFAFF10C145" import="1">Art/Icon Atlas/JFD_VandalsAlphaAtlas_24.dds</File>
+    <File md5="F555DDB397900B0BCDF0EA432F57064D" import="1">Art/Icon Atlas/JFD_VandalsAlphaAtlas_256.dds</File>
+    <File md5="735E325656F98BA55AF6B26D8A08BF45" import="1">Art/Icon Atlas/JFD_VandalsAlphaAtlas_32.dds</File>
+    <File md5="D9B5BF31ECA03604044A93228BFEF85F" import="1">Art/Icon Atlas/JFD_VandalsAlphaAtlas_45.dds</File>
+    <File md5="DE90292F30FAB05135D407292BE5A968" import="1">Art/Icon Atlas/JFD_VandalsAlphaAtlas_48.dds</File>
+    <File md5="E1CAD4E4FA2B4133C32D0748058533DA" import="1">Art/Icon Atlas/JFD_VandalsAlphaAtlas_64.dds</File>
+    <File md5="4C21CE6761D64FEF042A635EC7AC7CDF" import="1">Art/Icon Atlas/JFD_VandalsAlphaAtlas_80.dds</File>
+    <File md5="470F1A91165E902677BD8330191700D7" import="1">Art/Icon Atlas/JFD_VandalsAtlas_128.dds</File>
+    <File md5="4C005A0DF0BEC768FF853C89A399289C" import="1">Art/Icon Atlas/JFD_VandalsAtlas_256.dds</File>
+    <File md5="F62D312649CB261A166F782BD0AFB780" import="1">Art/Icon Atlas/JFD_VandalsAtlas_32.dds</File>
+    <File md5="FA7D3BCDC4A335636AE7AA1164DA53B2" import="1">Art/Icon Atlas/JFD_VandalsAtlas_45.dds</File>
+    <File md5="309F38B26EACC0CE825CFCA14DFC0EBC" import="1">Art/Icon Atlas/JFD_VandalsAtlas_64.dds</File>
+    <File md5="78BB0BC1F2F47DDBFEBCA18B430818D1" import="1">Art/Icon Atlas/JFD_VandalsAtlas_80.dds</File>
+    <File md5="A9A6DD36B2B30B8B8DC8B6D4A6591897" import="1">Art/Images/Event_Vandals_ArianHeresy.dds</File>
+    <File md5="E69179557C1D43F889450A41E446B3AF" import="1">Art/Images/Event_Vandals_StAugustine.dds</File>
+    <File md5="7284BE6C3BA51D6884ECB66D5B59104C" import="1">Art/Map/DOM_Genseric.dds</File>
+    <File md5="8107FC8976C20AC31DD7F863D255844D" import="1">Art/Map/MapVandals512.dds</File>
+    <File md5="CAF064BEE1BAD59ED7E6B93D9EAAFD8A" import="1">Audio/Genseric_Peace.mp3</File>
+    <File md5="74C09CA0D01941412E05785B386471F9" import="1">Audio/Genseric_War.mp3</File>
+    <File md5="87B5A7B5604849E9EC974DA5650DA8BB" import="0">Core/Vandals_ArtDefines.sql</File>
+    <File md5="664BA17A9DCD8BC1E97B34029E5D77A7" import="0">Core/Vandals_GameDefines.sql</File>
+    <File md5="7A4F9B31DE8399D8D1C834C22C71B36C" import="0">Core/Vandals_GameDefines_Diplomacy.sql</File>
+    <File md5="5CEC6EB74B0DCE30B2EA9EA699BE102D" import="0">Core/Vandals_GameDefines_ModSupport.sql</File>
+    <File md5="33CCEFF044D48EE17EE67FB7C9D3449D" import="0">Core/Vandals_GameText.xml</File>
+    <File md5="89E72445C0A97EEBE47C563D686E4427" import="0">Core/Vandals_GameText_Diplomacy.xml</File>
+    <File md5="B9355A397A60BDB5B42B414DEDBBB9B6" import="0">Core/Vandals_GameText_ModSupport.xml</File>
+    <File md5="3665EA7314EC7714D3F5520365D7702A" import="0">DeleteMissingReferences.xml</File>
+    <File md5="FA03072D9134FC005BFBE9C391E41990" import="1">Lua/JFD_Vandals_Decisions.lua</File>
+    <File md5="A79609706BD156EC191E0A5227275B36" import="1">Lua/JFD_Vandals_Events.lua</File>
+    <File md5="F5F6A1D1DC9717BAB4508A6C73E1BCE4" import="0">Lua/JFD_Vandals_Functions.lua</File>
+    <File md5="D63DC8BB6AA0F310DD55B264DB49C7E2" import="1">Lua/Utilities/PlotIterators.lua</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Core/Vandals_ArtDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Vandals_GameDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Vandals_GameDefines_Diplomacy.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Vandals_GameDefines_ModSupport.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Vandals_GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Vandals_GameText_Diplomacy.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Vandals_GameText_ModSupport.xml</UpdateDatabase>
+      <UpdateDatabase>DeleteMissingReferences.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/JFD_Vandals_Functions.lua">
+      <Name>JFD_VandalsFunctions</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="050699d3-0d9d-4c03-8563-e97e46ee52f3" version="1">
+  <Properties>
+    <Name>JFD's The Kingdom of England (Henry VIII)</Name>
+    <Teaser>Adds the [COLOR_POSITIVE_TEXT]The Kingdom of England[ENDCOLOR] with Henry VIII to the game.</Teaser>
+    <Description>See Steam Workshop or CivFanatics for details full.</Description>
+    <Authors>JFD, Sukritact, Janboruta, Viregel</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References>
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="JFD's Cultural Diversity (Core)" />
+    <Mod id="eea66053-7579-481a-bb8d-2f3959b59974" minversion="0" maxversion="999" title="JFD’s Piety &amp; Prestige " />
+    <Mod id="1f941088-b185-4159-865c-472df81247b2" minversion="0" maxversion="999" title="Sukritact’s Events &amp; Decisions" />
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="Yet (not) Another Earth Map Pack" />
+    <Mod id="e576894a-ed2b-4033-be14-ed1c8ceb81d3" minversion="0" maxversion="999" title="Map Labels" />
+    <Mod id="7fdd72a5-d4ae-441c-bc4e-2e3d2a26cff4" minversion="0" maxversion="999" title="Ethnic Units" />
+    <Mod id="8670da15-d435-44ea-9758-7438cb321411" minversion="0" maxversion="999" title="R.E.D. Modpack" />
+    <Mod id="1153b26a-69fd-4cd5-899c-a8ba8e0e5e5d" minversion="0" maxversion="999" title="Civ IV Leader Traits in Civ V" />
+    <Mod id="43868e8d-de88-48a1-a8d9-ce144e07f5e0" minversion="0" maxversion="999" title="JFD's Exploration Continued Expanded" />
+    <Mod id="6010e6f6-918e-48b8-9332-d60783bd8fb5" minversion="0" maxversion="999" title="Historical Religions Complete" />
+    <Mod id="8411a7a8-dad3-4622-a18e-fcc18324c799" minversion="0" maxversion="999" title="Community Balance Patch" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="CA1FDCE37B5C9B93723EA4D7A0F8E51D" import="1">Art/Diplomacy/Henry_Diplo.dds</File>
+    <File md5="1640CD8C8CD8F0CF0A9FC185CAE2A253" import="1">Art/Diplomacy/Henry_Scene.xml</File>
+    <File md5="854A0939C226E0A013F84BC18919A117" import="1">Art/IconAtlas/JFD_EnglandHenryAlphaAtlas_16.dds</File>
+    <File md5="DC292E8F344F8B3AF0EF4451F2E7D3CB" import="1">Art/IconAtlas/JFD_EnglandHenryAlphaAtlas_24.dds</File>
+    <File md5="DA10145A086952A4337F3A5BE4F54E23" import="1">Art/IconAtlas/JFD_EnglandHenryAlphaAtlas_32.dds</File>
+    <File md5="E7B03284312B0432B55F66D74114B505" import="1">Art/IconAtlas/JFD_EnglandHenryAlphaAtlas_45.dds</File>
+    <File md5="6DFE8DF8D728618F1B7D013AB9361960" import="1">Art/IconAtlas/JFD_EnglandHenryAlphaAtlas_48.dds</File>
+    <File md5="02F8C67A87541ABBC0BC2960110B9FA8" import="1">Art/IconAtlas/JFD_EnglandHenryAlphaAtlas_64.dds</File>
+    <File md5="364634328FDB8DCD035FB1C0D1555C52" import="1">Art/IconAtlas/JFD_EnglandHenryAlphaAtlas_80.dds</File>
+    <File md5="9C9ADEAD66F829E6413D98D26144381C" import="1">Art/IconAtlas/JFD_EnglandHenryAtlas_128.dds</File>
+    <File md5="7AA57C01A21CADA2307436AEA9DB17EA" import="1">Art/IconAtlas/JFD_EnglandHenryAtlas_256.dds</File>
+    <File md5="E14A168FDB60E28C1C4900D54EB9312F" import="1">Art/IconAtlas/JFD_EnglandHenryAtlas_32.dds</File>
+    <File md5="70CB0C69BC3BCEF94C1933C8D4F71F4C" import="1">Art/IconAtlas/JFD_EnglandHenryAtlas_45.dds</File>
+    <File md5="D957CFEDFBD65BB073CF5684FD23BDE9" import="1">Art/IconAtlas/JFD_EnglandHenryAtlas_64.dds</File>
+    <File md5="C2020746569753E141D82F05E78A6B01" import="1">Art/IconAtlas/JFD_EnglandHenryAtlas_80.dds</File>
+    <File md5="980F57C54A757BEFEDC497360F134B74" import="1">Art/Map/HenryEnglandMap512.dds</File>
+    <File md5="B028A25D83CE29BAAC8624076BBF6E6A" import="1">Art/Map/Henry_DOM.dds</File>
+    <File md5="73ACE10D8EBAE6D4227431C4B5EB8BC1" import="1">Audio/Henry_Peace.mp3</File>
+    <File md5="6B859AD8457C42425C15D9A1B9CC5E4C" import="1">Audio/Henry_War.mp3</File>
+    <File md5="26440079327FED58A87344213B11C688" import="0">Core/ArtDefines.sql</File>
+    <File md5="100D83AF01830560EA60D2DA013ADE31" import="0">Core/GameDefines.sql</File>
+    <File md5="7EBEFD52F3CEA3E977DFA26CAEADB4B6" import="0">Core/GameDefines_Diplomacy.sql</File>
+    <File md5="403C87CDC1B3E0FD258877BE7178218C" import="0">Core/GameDefines_ModSupport.sql</File>
+    <File md5="11437BA64F847FB5B05EA582B286F326" import="0">Core/GameText.xml</File>
+    <File md5="587339737BBB8013652F4021ADFDD716" import="0">Core/GameText_Diplomacy.xml</File>
+    <File md5="FF7F6581C27C54041144BF942FF98C08" import="0">Core/GameText_ModSupport.xml</File>
+    <File md5="FC6E117C75835973F759656BB4F6EF97" import="0">DeleteMissingReferences.xml</File>
+    <File md5="FCDB3C4866F76CA2E03AE19D2634C883" import="1">Lua/JFD_EnglandHenryVIIIDecisions.lua</File>
+    <File md5="351745FE5D6F0B03AF23D84E571ED4EB" import="1">Lua/JFD_EnglandHenryVIIIEvents.lua</File>
+    <File md5="D94E65EAE718DC47DECF0F05E37169B4" import="0">Lua/JFD_EnglandHenryVIIIFunctions.lua</File>
+    <File md5="86C1C3EDCE4699DE320A932C4E70E22C" import="0">Lua/Sukritact's MCIS/CityInfoStack.lua</File>
+    <File md5="120EB71025973A8A48B38314241DD0B3" import="0">Lua/Sukritact's MCIS/CityInfoStack.xml</File>
+    <File md5="549FCDA0EA19B2BA447ACD177DC8E66B" import="0">Lua/Sukritact's MCIS/JFD_HenryEnglandCityInfo.lua</File>
+    <File md5="53E9EC920D7772F41036540220DF848C" import="0">Lua/Sukritact's MCIS/JFD_HenryEnglandCityInfo.xml</File>
+    <File md5="4486E05E92C6A1829D1BD4FC8EAB80DE" import="1">Lua/UI/InGame/Popups/CultureOverview.lua</File>
+    <File md5="BF85D174CA9D4F2EC2AD7E3FBB6C0D6D" import="1">Lua/UI/InGame/Popups/CultureOverview.xml</File>
+    <File md5="3B7B1EE92949FC3B7B9308074F036BEB" import="1">Lua/Utilities/NewSaveUtils.lua</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Core/ArtDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Core/GameDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Core/GameDefines_Diplomacy.sql</UpdateDatabase>
+      <UpdateDatabase>Core/GameDefines_ModSupport.sql</UpdateDatabase>
+      <UpdateDatabase>Core/GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/GameText_Diplomacy.xml</UpdateDatabase>
+      <UpdateDatabase>Core/GameText_ModSupport.xml</UpdateDatabase>
+      <UpdateDatabase>DeleteMissingReferences.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/Sukritact's MCIS/CityInfoStack.lua">
+      <Name>Sukritact's MCIS</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/Sukritact's MCIS/JFD_HenryEnglandCityInfo.lua">
+      <Name>JFD_HenryEnglandCityInfo</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/JFD_EnglandHenryVIIIFunctions.lua">
+      <Name>JFD_EnglandHenryVIIIFunctions</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

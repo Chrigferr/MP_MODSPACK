@@ -1,0 +1,11 @@
+<LeaderScene lights="catherine_lights.gr2" camera="ethiopia_selassie_camera.fxsxml" 
+             ColorKey="askia_COLORKEY.tga"  cubemap_prefix ="askia" FallbackImage="Hitler_Diplo.dds">
+
+<HackLightSettings color="255,255,255" direction="0.4,-1.0,-0.4" intensity="1.0" />
+
+<DOFSettings max_width="6.25" blur_distance="1500" ramp_distance="1000" ></DOFSettings>
+
+  <LeaderObject  model="Hitler.fxsxml"></LeaderObject>
+  <BackgroundObject model="Hitler_Scene.fxsxml" ></BackgroundObject>
+
+</LeaderScene>

@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 11/20/2013 3:43:32 AM -->
+<GameData>
+	<Language_en_US>
+		<!--BOHEMIA-->
+		<Row Tag="TXT_KEY_CIV_JFD_BOHEMIA_ADJECTIVE">
+			<Text>Bohemian</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_JFD_BOHEMIA_DESC">
+			<Text>Bohemian Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_JFD_BOHEMIA_SHORT_DESC">
+			<Text>Bohemia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_BOHEMIA_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_BOHEMIA_TEXT_1">
+			<Text>The Kingdom of Bohemia, sometimes also referred to as the Czech Kingdom, was a state located in the region of Bohemia in Central Europe, whose territory is currently included in the modern-day Czech Republic. During its height, it also had parts of present Austria, Germany, Hungary, Italy, Poland, Slovakia, Slovenia and Ukraine (For Zakarpatskaya Oblast). It was a kingdom in the Holy Roman Empire, and the King was a Prince-Elector of the empire until its dissolution in 1806. Many Kings of Bohemia were also elected Holy Roman Emperors. Its capital Prague was effectively the centre of the Holy Roman Empire in the late 14th century, and at the end of the 16th and beginning of the 17th centuries. From 1526, the kingdom was continuously ruled by the House of Habsburg and its successor house Habsburg-Lorraine.[NEWLINE][NEWLINE]After the dissolution of the Holy Roman Empire, the territory became part of the Habsburg's larger Austrian Empire, and subsequently the Austro-Hungarian Empire from 1867. Bohemia retained formal status as a separate kingdom, known as a crown land within the Austro-Hungarian Empire, and its capital Prague was one of the empire's leading cities. In the last years of Austria-Hungary, Bohemia was the empire's most advanced and economically prosperous crown land. The Czech language (called the Bohemian language in English usage until the 19th century) was the main language of the Diet and the nobility until 1627. German was then formally made equal with Czech and eventually prevailed as the language of the Diet until the Czech national revival in the 19th century. German was also widely used as the language of administration in many towns after Germans immigrated and populated some areas of the country in the 13th century. The royal court used the Czech, Latin, and German languages, depending on the ruler and period.</Text>
+		</Row>
+		<!--City List-->
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_BOHEMIA_01">
+			<Text>Prague</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_BOHEMIA_02">
+			<Text>Plzen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_BOHEMIA_03">
+			<Text>Litomerice</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_BOHEMIA_04">
+			<Text>Brno</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_BOHEMIA_05">
+			<Text>Budejovice</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_BOHEMIA_06">
+			<Text>Podebrady</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_BOHEMIA_07">
+			<Text>Hradec Kralove</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_BOHEMIA_08">
+			<Text>Pardubice</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_BOHEMIA_09">
+			<Text>Olomouc</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_BOHEMIA_10">
+			<Text>Ustí</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_BOHEMIA_11">
+			<Text>Ostrava</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_BOHEMIA_12">
+			<Text>Kutna Hora</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_BOHEMIA_13">
+			<Text>Domazlice</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_BOHEMIA_14">
+			<Text>Znojmo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_BOHEMIA_15">
+			<Text>Rokycany</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_BOHEMIA_16">
+			<Text>Prerov</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_BOHEMIA_17">
+			<Text>Zatec</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_BOHEMIA_18">
+			<Text>Zlín</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_BOHEMIA_19">
+			<Text>Pernstejn</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_BOHEMIA_20">
+			<Text>Breclav</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_BOHEMIA_21">
+			<Text>Karlstejn</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_BOHEMIA_22">
+			<Text>Tachov</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_BOHEMIA_23">
+			<Text>Pisek</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_BOHEMIA_24">
+			<Text>Jihlava</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_BOHEMIA_25">
+			<Text>Sudomer</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_BOHEMIA_26">
+			<Text>Prostejov</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_BOHEMIA_27">
+			<Text>Konopiste</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_BOHEMIA_28">
+			<Text>Litomysl</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_BOHEMIA_29">
+			<Text>Karlovy Vary</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_BOHEMIA_30">
+			<Text>Liberec</Text>
+		</Row>
+		<!-- Spy Names -->
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_BOHEMIA_0">
+			<Text>Dobroslava</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_BOHEMIA_1">
+			<Text>Cymbarka</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_BOHEMIA_2">
+			<Text>Elizabeth</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_BOHEMIA_3">
+			<Text>Manka</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_BOHEMIA_4">
+			<Text>Mullerova</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_BOHEMIA_5">
+			<Text>Navrátek</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_BOHEMIA_6">
+			<Text>Rumcajs</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_BOHEMIA_7">
+			<Text>Lt. Lukás</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_BOHEMIA_8">
+			<Text>Baloun</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_BOHEMIA_9">
+			<Text>Svejk</Text>
+		</Row>
+		<!--VACLAV II-->
+		<Row Tag="TXT_KEY_LEADER_JFD_VACLAV">
+			<Text>Vaclav II</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_VACLAV_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_VACLAV_TEXT_1">
+			<Text>Wenceslaus II Premyslid was King of Bohemia (1278–1305), Duke of Cracow (1291–1305), and King of Poland (1300–1305). He was the only son of King Ottokar II of Bohemia and Ottokar's second wife Kunigunda. He was born in 1271, ten years after the marriage of his parents. Kunigunda was the daughter of Rostislav Mikhailovich, lord of Slavonia, son of a Grand Prince of Kiev, and Anna of Hungary, daughter of Béla IV of Hungary. His great-grandfather was the German king Philip of Swabia. Wenceslaus II was the grandfather of the Holy Roman Emperor, Charles IV. He was a member of the Přemyslid dynasty.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_VACLAV_HEADING_2">
+			<Text>Early Years</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_VACLAV_TEXT_2">
+			<Text>In 1276 Rudolf I, King of the Romans, placed Ottokar under the ban of the empire and besieged Vienna. This compelled Ottokar in November 1276 to sign a new treaty by which he gave up all claims to Austria and the neighbouring duchies, retaining for himself only Bohemia and Moravia. Ottokar's son Wenceslaus was also betrothed to Rudolph's daughter Judith. It was an uneasy peace. Wenceslaus's father died on 26 August 1278 in the Battle on the Marchfeld shortly before Wenceslaus' seventh birthday.[NEWLINE][NEWLINE]Before Wenceslaus became of age, the government was handled by Otto V, Margrave of Brandenburg, who is said to have held Wenceslaus captive in several locations. He returned to Bohemia in 1283, at the age of twelve. His mother's second husband, Záviš of Falkenštejn, ruled instead of him for a few years.[NEWLINE][NEWLINE]On 24 January 1285, Wenceslaus married Judith of Habsburg, daughter of Rudolf I, to whom he had been betrothed since 1276. In 1290, Wenceslaus had Záviš beheaded for alleged treason and began ruling independently.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_VACLAV_HEADING_3">
+			<Text>Legacy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_VACLAV_TEXT_3">
+			<Text>Wenceslaus II is considered as one of the most important Czech Kings. He built a great empire stretching from the Baltic Sea to the Danube river and established numerous cities, such as Plzeň in 1295. He won for his family three royal crowns (Bohemia, Hungary and Poland). The Kingdom of Bohemia was the largest producer of silver in Europe in his time. He created the penny of Prague, which was an important European currency for centuries.[NEWLINE][NEWLINE]During his reign, there was great urban development. He planned to build the first university in Central Europe. The power and wealth of the Kingdom of Bohemia gave rise to great respect, but also to the hostility of European royal families. His son King Wenceslaus III was unable to maintain a mighty empire, and soon after the untimely death of Wenceslaus II, his empire began to crumble.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_VACLAV_LIVED">
+			<Text>1271-1305</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_VACLAV_NAME">
+			<Text>Vaclav II</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_VACLAV_SUBTITLE">
+			<Text>Leader of Bohemia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_VACLAV_TITLES_1">
+			<Text>King of Bohemia, King of Poland</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DOM_JFD_VACLAV_TEXT">
+			<Text>Hail the mighty King Vaclav II, ruler of the lands of the Crown of Saint Wenceslas. The Kingdom of Bohemia lies within the conclaves of European power, between the Holy Roman Empire in the west and the Kingdom of Poland in the east. An important elector to the Holy Roman Emperors and champion of the Hussite cause, Bohemian history espouses a nation of great and fierce pride, and serves as a reminder of the once noble Kingdom which lay at the crossroads of Europe's east and west.[NEWLINE][NEWLINE]Proud monarch, a resurgance of Czech identity has instilled in your people their desire for a sovereign nation once more. Can you restore the Crown Lands of Bohemia? Where once rose great castles and Kings of great character. Can you build a civilization to stand the test of time?</Text>
+		</Row>
+		<!--THE HUSSITE WARS-->
+		<Row Tag="TXT_KEY_TRAIT_JFD_BOHEMIA_SHORT">
+			<Text>The Hussite Wars</Text>s
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_JFD_BOHEMIA">
+			<Text>City-States following your major religion provide a Delegate to the World Congress and have doubled Religious Pressure. Religious Units beginning their turn in Bohemian lands have a chance to become Military Units for Bohemia.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_JFD_BOHEMIA_CITY_VIEW_HELP">
+			<Text>+{1_Num} [ICON_DIPLOMAT] Delegates provided by City-States following {3_ReligionIcon} {2_ReligionDesc}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_BOHEMIA_CONVERTED_DESC">
+			<Text>An enemy {1_UnitName} has been proselytised to our cause and has taken up arms!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_BOHEMIAN_DELEGATES">
+			<Text>JFD: Bohemian Delegates</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_BOHEMIAN_DELEGATES_HELP">
+			<Text>+1 Delegate</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_BOHEMIAN_PRESSURE">
+			<Text>JFD: Bohemian Pressure</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_BOHEMIAN_PRESSURE_HELP">
+			<Text>+100% Religious Pressure</Text>
+		</Row>
+		<Update>
+			<Set Text="[NEWLINE][ICON_BULLET]{1_NumVotes} from Buildings and World Wonders."/>
+			<Where Tag="TXT_KEY_LEAGUE_OVERVIEW_MEMBER_DETAILS_WONDER_VOTES" />
+		</Update>
+		<!--HRAD-->
+		<Row Tag="TXT_KEY_BUILDING_JFD_HRAD">
+			<Text>Hrad</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_HRAD_HELP">
+			<Text>+1 [ICON_GOLD] Gold on [ICON_RES_COW] [ICON_RES_SHEEP] [ICON_RES_STONE] and [ICON_RES_WHEAT], and +5% [ICON_GOLD] Gold for each type of these resources improved and worked by the city.[NEWLINE][NEWLINE]City must have walls.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_HRAD_STRATEGY">
+			<Text>The Hrad is the unique Bohemian replacement for the Castle. In addition to the defensive bonuses a Castle normally provides, the Hrad increases the [ICON_GOLD] Gold output of all sources of [ICON_RES_COW] [ICON_RES_SHEEP] [ICON_RES_STONE] and [ICON_RES_WHEAT] by +1, and it further increases a city's [ICON_GOLD] Gold output by 5% for each type of these resources improved and worked by a city.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_HRAD_TEXT">
+			<Text>Hrad is the Czech and Slovak word for Castle, which is often used to form the castle name - Prazsky hrad (Prague Castle) for instance. Bohemia is well known for its many castles. Among the most famous is the aforementioned Prague Castle; the largest castle in the world. Prague Castle has been home to Kings, Holy Roman Emperors and, underwhelmingly, Presidents. Presently, it is the official residence of the President of the Czech Republic. However, the castle is also home to the ancient Bohemian Crown Jewels, locked in secret, and held safe for the return of the Bohemian monarchy.</Text>
+		</Row>
+		<!--TABOR-->
+		<Row Tag="TXT_KEY_UNIT_JFD_TABOR">
+			<Text>Tabor</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_TABOR_HELP">
+			<Text>Unique Bohemian Great General that increases the [ICON_STRENGTH] Defensive Strength of Military units beginning on the same tile and allows Ranged Units beginning on the same tile to attack twice in one turn. This only applies within your borders, however.[NEWLINE][NEWLINE]May be purchased with [ICON_GOLD] Gold after Metal Casting. +1 [ICON_STRENGTH] Defense for adjacent cities. Costs 1 [ICON_GOLD] Gold maintenance.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_TABOR_STRATEGY">
+			<Text>The Tabor is the unique Great General for Bohemia. This unit is unlike the Great General in that it cannot be used to create Citadels. Instead, the Tabor increases the [ICON_STRENGTH] Defensive Strength of any Military unit beginning on the same tile by 100% and if that unit is a Ranged Unit, the Tabor allows that unit to attack twice in one turn. In addition, if beginning adjacent to a city, this unit increases the city's [ICON_STRENGTH] Defense by +1. This effect may stack.[NEWLINE][NEWLINE]The Tabor may be purchased with [ICON_GOLD] Gold upon the discovery of Metal Casting.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_UNITS_JFD_TABOR_TEXT">
+			<Text>A Tabor is a kind of mobile fortification; a horse-drawn wagon composed of a mix of soldiers used to form an impenetrable square defense - practically invulnerable to cavalry charges. The Bohemian Hussites were famous for their use of tabors. In the 15th century, during the Hussite Wars, the Hussites first began using tabors in order to face numerically superior forces.[NEWLINE][NEWLINE]The word tabor is likely derived from the Hussite fortress which itself likely derives its name from the biblical Jezreel mountan Tavor.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_TABOR_CITY_VIEW_HELP">
+			<Text>+{1_Num} [ICON_STRENGTH] Defense from Tabor(s)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_TABOR_DEFENSE_OTHER">
+			<Text>Circle the Wagons</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_TABOR_DEFENSE">
+			<Text>Circle the Wagons</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_TABOR_DEFENSE_OTHER_HELP">
+			<Text>+100% [ICON_STRENGTH] Defensive Strength whilst this unit is stationed on the same tile as a Tabor.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_TABOR_DEFENSE_HELP">
+			<Text>+100% [ICON_STRENGTH] Defensive Strength for Military units beginning on the same tile and Ranged Units on the same tile may attack twice in one turn. +1 [ICON_STRENGTH] Defense for adjacent cities.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_BOHEMIAN_DEFENSE">
+			<Text>JFD: Boehmian Tabor Defense</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_BOHEMIAN_DEFENSE_HELP">
+			<Text>+1 [ICON_STRENGTH] Defense</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_TABOR_RANGED">
+			<Text>May Attack Twice</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_TABOR_RANGED_HELP">
+			<Text>May Attack Twice</Text>
+		</Row>
+		<!--CITY-STATES-->
+		<!--Padua-->
+		<Row Tag="TXT_KEY_CITYSTATE_JFD_PADUA_DESC">
+			<Text>Padua</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_JFD_PADUA_SHORT_DESC">
+			<Text>Padua</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_JFD_PADUA_ADJECTIVE">
+			<Text>Paduan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_PADUA_TEXT_1">
+			<Text>Padua is a city and comune in the Veneto, northern Italy. It is the capital of the province of Padua and the economic and communications hub of the area. Padua's population is 214,000 (as of 2011). The city is sometimes included, with Venice (Italian Venezia) and Treviso, in the Padua-Treviso-Venice Metropolitan Area, having a population of c. 1,600,000.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

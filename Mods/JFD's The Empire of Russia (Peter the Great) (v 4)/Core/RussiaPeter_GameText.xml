@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 11/23/2013 1:27:25 PM -->
+<GameData>
+	<Language_en_US>
+		<!--RUSSIA-->
+		<Row Tag="TXT_KEY_JFD_RUSSIA_PETER_ADJ">
+			<Text>Petrine</Text>
+		</Row>
+		<!--Cities-->
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_RUSSIA_PETER_01">
+			<Text>St. Petersburg</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_RUSSIA_PETER_02">
+			<Text>Moscow</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_RUSSIA_PETER_03">
+			<Text>Kiev</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_RUSSIA_PETER_04">
+			<Text>Novgorod</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_RUSSIA_PETER_05">
+			<Text>Vladimir</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_RUSSIA_PETER_06">
+			<Text>Rostov</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_RUSSIA_PETER_07">
+			<Text>Smolensk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_RUSSIA_PETER_08">
+			<Text>Yaroslavl</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_RUSSIA_PETER_09">
+			<Text>Taganrog</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_RUSSIA_PETER_10">
+			<Text>Kronstadt</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_RUSSIA_PETER_11">
+			<Text>Azov</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_RUSSIA_PETER_12">
+			<Text>Poltava</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_RUSSIA_PETER_13">
+			<Text>Voronezh</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_RUSSIA_PETER_14">
+			<Text>Arkhangelsk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_RUSSIA_PETER_15">
+			<Text>Nöteburg</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_RUSSIA_PETER_16">
+			<Text>Tver</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_RUSSIA_PETER_17">
+			<Text>Kazan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_RUSSIA_PETER_18">
+			<Text>Tula</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_RUSSIA_PETER_19">
+			<Text>Murom</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_RUSSIA_PETER_20">
+			<Text>Ohotsk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_RUSSIA_PETER_21">
+			<Text>Irkustk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_RUSSIA_PETER_22">
+			<Text>Krasnoyarsk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_RUSSIA_PETER_23">
+			<Text>Yakutsk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_RUSSIA_PETER_24">
+			<Text>Obdorsk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_RUSSIA_PETER_25">
+			<Text>Kostroma</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_RUSSIA_PETER_26">
+			<Text>Tomsk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_RUSSIA_PETER_27">
+			<Text>Narva</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_RUSSIA_PETER_28">
+			<Text>Revel</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_RUSSIA_PETER_29">
+			<Text>Astrakhan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_RUSSIA_PETER_30">
+			<Text>Vologda</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_RUSSIA_PETER_31">
+			<Text>Derbent</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_RUSSIA_PETER_32">
+			<Text>Saratov</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_RUSSIA_PETER_33">
+			<Text>Ufa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_RUSSIA_PETER_34">
+			<Text>Samara</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_RUSSIA_PETER_35">
+			<Text>Tambov</Text>
+		</Row>
+		<!--PETER-->
+		<Row Tag="TXT_KEY_LEADER_JFD_PETER">
+			<Text>Peter</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_PETER_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_PETER_TEXT_1">
+			<Text>Peter was born the fourth son of the Tsar Alexey I. After the death of his father and older brother, at the age of 10 he became co-tsar with his sickly half-brother, Ivan, under the regency of their sister Sophia Alexeevna. Apparently Peter was quite the terror in his teens. He had utter contempt for religious and political ceremony, combined with almost limitless energy and a capacity for alcohol. At 17 he had the regent (his elder sister) arrested on charges of conspiring against him and had her locked in a convent, where she would stay for the rest of her life. He took total control of the empire, his brother Ivan no more than a figurehead.[NEWLINE][NEWLINE]In addition to drinking, carousing, and political intrigue, young Peter was also fascinated by military affairs. In 1695, he ordered the army to move against the Turks. Astonishingly, he didn't command his forces in the field, instead choosing to act as an lowly artilleryman. The Russian forces emerged victorious and within a year had captured the vital port of Azov.[NEWLINE][NEWLINE]Several years later, Peter set off on a tour of Europe. He spent 16 months traveling incognito through Germany, Holland, England and Austria, at one time working as a shipwright in England and Holland. Peter learned a lot during his trip, and he later hired many western craftsmen, engineers, soldiers, sailors, architects and artists to help modernize Russia. Once home, Peter adopted many European customs, including a mandate that beards were to be shaved off at court, which was a great controversy that nearly caused a revolt with the Boyars.[NEWLINE][NEWLINE]Despite his love of European culture, Peter remained a drunken, overbearing bully, whose practical jokes stopped just short of outright torture. (Or perhaps went a little over the line.) Foreign observers noted with horror that at a state dinner Peter had one of his cronies hold another tight, pinning his arms and forcing his mouth open. The victim was known to hate salads and especially vinegar; Peter jammed salad into his mouth and down his throat and then poured vinegar up his nose until it bled.[NEWLINE][NEWLINE]Peter liked to force his guests - including foreign diplomats - to drink until they passed out, then wake them up an hour later and force them to drink more. He once woke a group of extremely inebriated men up in the middle of the night, gave them axes and demanded that they help him cut down trees to make a path to the seashore.[NEWLINE][NEWLINE]In 1700 Russia went to war against Sweden. But, Gustavus Aldolphus, the Swedish King, proved more cunning to him, striking Peter's army before it was prepared, capturing much of the Russian artillery in the process. In response Peter demanded that all of the bells in Moscow (including church bells) be melted down to make cannons. He also confiscated church treasure to fuel the war effort. The war dragged on, but in 1709 the Swedish forces were decisively defeated, and Russia gained parts of Finland, Estonia, and Latvia.[NEWLINE][NEWLINE]Peter's home life did not go particularly well. In 1698 his wife was implicated in a plot to overthrow him; he divorced her and sent her off to yet another convent. In 1712 he married his mistress, Martha Skavronsky, a former Lithuanian servant and previously the mistress of a bevey of other Russian nobles. She gave him four children. In 1718 the tsar's oldest son Alexey was imprisoned for suspected treason and died under torture.[NEWLINE][NEWLINE]Upon his death Peter was buried in Saint Petersburg, the vital port and Russian capital, which he established in 1703, in the Peter and Paul Cathedral. Presumably under the heaviest rock they could find.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_PETER_NAME">
+			<Text>Peter</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_PETER_SUBTITLE">
+			<Text>Leader of Russia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_PETER_TITLES_1">
+			<Text>Emperor of All Russia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_PETER_LIVED">
+			<Text>1672 - 1725</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DOM_JFD_PETER_TEXT">
+			<Text>Exciting days await Russia, for upon her throne lies your imperial gaze, O' wise and excellent Peter the Great. Ascending to the Tsarist kingdom at the age of ten, you beheld the vision of an empire that would be both great and powerful, and a pillar of the Enlightenment. Declaring yourself emperor in 1721, you embarked upon sweeping reforms to modernize the country. Although your territorial ambitions would see you clash with Sweden in the Great Northern War, you would nonetheless emerge victorious and with the magnum opus of your reign: the city of Saint Petersburg.[NEWLINE][NEWLINE]Noble emperor, your life has been one devoted to the elevation of Russia to the heights of power and culture. Can you once more fulfill this duty? Can you embolden the people with a wealth of enlightenment and might? Can you build a civilisation that can stand the test of time?</Text>
+		</Row>
+		<!--PETRINE REFORMATION-->
+		<Row Tag="TXT_KEY_TRAIT_JFD_RUSSIA_PETER_SHORT">
+			<Text>Petrine Reformation</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_JFD_RUSSIA_PETER">
+			<Text>Research [ICON_RESEARCH] technologies known by civilizations with whom you are friends faster. New cities increase [ICON_CULTURE] Social Policy costs by 50% less.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_RUSSIA_PETER_SCIENCE_FROM_DOF">
+			<Text>[COLOR_POSITIVE_TEXT]+{1_Num}[ENDCOLOR] from Declarations of Friendship with Civilizations that already know this Technology.</Text>
+		</Row>
+		<!--TWO-DECKER-->
+		<Row Tag="TXT_KEY_UNIT_JFD_TWO_DECKER">
+			<Text>Two-Decker</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_TWO_DECKER_TEXT">
+			<Text>A two-decker is a sail warship which carried her guns on two fully armed decks. Usually additional guns were carried on the upper works (forecastle and quarterdeck), but this was not a continuous battery, so were not counted. Two-deckers ranged all the way from the small 40-gun Fifth rate up to 80- or even 90-gun ships, with the third-rate or "seventy-four" being the archetype.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_JFD_TWO_DECKER">
+			<Text>Powerful Naval Unit used to secure your coastal borders. Begins with additional XP for each Declaration of Friendship active. Bonus vs. Land Units. Only Russia may build it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_TWO_DECKER_STRATEGY">
+			<Text>The Two-Decker is the unique Frigate replacement for Peter's Russia. It begins with +5 XP for every Declaration of Friendship that you have with another civilization (up to 20XP). It also gains a 25% combat bonus vs. Land Units. Use Two-Deckers to secure your coastlines.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_TWO_DECKER">
+			<Text>Second Hand</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_TWO_DECKER_HELP">
+			<Text>+25% Bonus vs. Land Units</Text>
+		</Row>
+		<!--KREPOST-->
+		<Row Tag="TXT_KEY_BUILDING_JFD_KREPOST_HELP">
+			<Text>Reduces [ICON_CULTURE] Culture costs of acquiring new Tiles based upon the city's distance from the [ICON_CAPITAL] Capital.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDINGS_JFD_KREPOST_STRATEGY">
+			<Text>The Krepost is the Russian unique building for Peter I, replacing the Arsenal. The Krepost increases the Defensive Strength of the city. In addition, the Krepost reduces the [ICON_CULTURE] Culture cost of acquiring new Tiles, based upon its distance from the [ICON_STRENGTH] Capital. It's quite worthwhile to construct these useful buildings in all Russian cities, but especially in cities on the civilization's frontiers; far from your capital. Unlike the Arsenal, the Krepost has no building prerequisite.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_KREPOST_TILES">
+			<Text>JFD: Krepost Tiles</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_KREPOST_TILES_HELP">
+			<Text>-1% to the [ICON_CULTURE] Culture cost of acquiring tiles.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_KREPOST_CITY_VIEW_HELP">
+			<Text>[NEWLINE][ICON_CULTURE] Culture cost of acquiring new tiles is reduced by {1_Num}% in this city.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

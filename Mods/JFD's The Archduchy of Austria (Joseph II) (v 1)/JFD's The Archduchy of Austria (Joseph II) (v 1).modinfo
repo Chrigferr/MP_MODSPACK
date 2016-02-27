@@ -1,0 +1,112 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="93cca26b-2c9a-4fa6-b182-2251e6a66fc4" version="1">
+  <Properties>
+    <Name>JFD's The Archduchy of Austria (Joseph II)</Name>
+    <Stability>Alpha</Stability>
+    <Teaser>Adds the [COLOR_POSITIVE_TEXT]The Archduchy of Austria[ENDCOLOR] with Joseph II to the game.</Teaser>
+    <Description>Please see CivFanatics or Steam Workshop for full details.</Description>
+    <Authors>JFD, Janboruta</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References>
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="JFD's Cultural Diversity (Core)" />
+    <Mod id="eea66053-7579-481a-bb8d-2f3959b59974" minversion="0" maxversion="999" title="JFD’s Piety" />
+    <Mod id="d99bf7aa-51ac-4bef-bd88-d765b28e260e" minversion="0" maxversion="999" title="JFD’s Sovereignty" />
+    <Mod id="1f941088-b185-4159-865c-472df81247b2" minversion="0" maxversion="999" title="Sukritact’s Events &amp; Decisions" />
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="Yet (not) Another Earth Map Pack" />
+    <Mod id="e576894a-ed2b-4033-be14-ed1c8ceb81d3" minversion="0" maxversion="999" title="Map Labels" />
+    <Mod id="7fdd72a5-d4ae-441c-bc4e-2e3d2a26cff4" minversion="0" maxversion="999" title="Ethnic Units" />
+    <Mod id="8670da15-d435-44ea-9758-7438cb321411" minversion="0" maxversion="999" title="R.E.D. Modpack" />
+    <Mod id="d1b6328c-ff44-4b0d-aad7-c657f83610cd" minversion="0" maxversion="999" title="Community Patch" />
+    <Mod id="8411a7a8-dad3-4622-a18e-fcc18324c799" minversion="0" maxversion="999" title="Community Balance Patch" />
+    <Mod id="1153b26a-69fd-4cd5-899c-a8ba8e0e5e5d" minversion="0" maxversion="999" title="Civ IV Leader Traits in Civ V" />
+    <Mod id="6676902b-b907-45f1-8db5-32dcb2135eee" minversion="0" maxversion="999" title="JFD's Exploration Continued Expanded" />
+    <Mod id="ce8aa614-7ef7-4a45-a179-5329869e8d6d" minversion="0" maxversion="999" title="Enlightenment Era" />
+    <Mod id="a19351c5-c0b3-4b07-8695-4affaa199949" minversion="0" maxversion="999" title="JFD’s and Pouakai’s Mercenaries" />
+    <Mod id="10e9728f-d61c-4317-be4f-7d52d6bae6f4" minversion="0" maxversion="999" title="JFD's Claims and Colonies" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="8BA942FB243680AC5494B93A8921DBAC" import="1">Art/Diplomacy/JosephII_Diplo.dds</File>
+    <File md5="0B40E389910FB5DB6AFA09E35CC2A6A9" import="1">Art/Diplomacy/JosephII_Scene.xml</File>
+    <File md5="DDB99E2E4F40925170585CF62BAF5736" import="1">Art/Graphics/Grenadier/ausmm2.dds</File>
+    <File md5="5A7BA1CECA897A255D11FACE3C1079E5" import="1">Art/Graphics/Grenadier/ausmm2_sref.dds</File>
+    <File md5="B6103B25E64ACD63FC6792DC7FBCE1B3" import="1">Art/Graphics/Grenadier/civ5_ausmm2.gr2</File>
+    <File md5="7DD28671AA86A89A72163C4B3673BE73" import="1">Art/Graphics/Grenadier/Grenadier.fxsxml</File>
+    <File md5="02F95930FF7DA933E88B35E8F539BCD7" import="1">Art/Graphics/Grenadier/sv_AustrianGrenadier.dds</File>
+    <File md5="A2FB2886D02409A195F5A6A25B7B5855" import="1">Art/IconAtlas/JFD_AustriaJosephIIAlphaAtlas_128.dds</File>
+    <File md5="6DAFC19F631E0828383F64A6F401D39F" import="1">Art/IconAtlas/JFD_AustriaJosephIIAlphaAtlas_16.dds</File>
+    <File md5="402432A6FE370097A706CA2F1238F930" import="1">Art/IconAtlas/JFD_AustriaJosephIIAlphaAtlas_22.dds</File>
+    <File md5="EEE6A596D37A65E845C8CFF76435972A" import="1">Art/IconAtlas/JFD_AustriaJosephIIAlphaAtlas_24.dds</File>
+    <File md5="519010AEE3F35BBA021949A99F8B96AE" import="1">Art/IconAtlas/JFD_AustriaJosephIIAlphaAtlas_256.dds</File>
+    <File md5="4FDBBCF030C3388ED1A07F4A5CD0EE13" import="1">Art/IconAtlas/JFD_AustriaJosephIIAlphaAtlas_32.dds</File>
+    <File md5="4C3E03DE82CD87101DEBDD89E9851E07" import="1">Art/IconAtlas/JFD_AustriaJosephIIAlphaAtlas_45.dds</File>
+    <File md5="1B3BEF6F076FEC652CE8091C6B2237A2" import="1">Art/IconAtlas/JFD_AustriaJosephIIAlphaAtlas_48.dds</File>
+    <File md5="5BCC06748434D5789CF5EA3D44D635C2" import="1">Art/IconAtlas/JFD_AustriaJosephIIAlphaAtlas_64.dds</File>
+    <File md5="E93609B7F7FB3E546D88492DDD4D7243" import="1">Art/IconAtlas/JFD_AustriaJosephIIAlphaAtlas_80.dds</File>
+    <File md5="7D27E545595587F9066986D245A981D7" import="1">Art/IconAtlas/JFD_AustriaJosephIIAtlas_128.dds</File>
+    <File md5="30DCD65E166F2F117A57C80CC9E27A29" import="1">Art/IconAtlas/JFD_AustriaJosephIIAtlas_256.dds</File>
+    <File md5="8576E032CC20C952021B80DFC0F0251D" import="1">Art/IconAtlas/JFD_AustriaJosephIIAtlas_32.dds</File>
+    <File md5="BB547BC7150AD2669F6796CC744A4F7A" import="1">Art/IconAtlas/JFD_AustriaJosephIIAtlas_45.dds</File>
+    <File md5="F10F346A35426C7B939434D4CCD8086A" import="1">Art/IconAtlas/JFD_AustriaJosephIIAtlas_64.dds</File>
+    <File md5="47408278960E5614538907CF1953C7BD" import="1">Art/IconAtlas/JFD_AustriaJosephIIAtlas_80.dds</File>
+    <File md5="27371F8445E14CED8A953E10E13CF380" import="1">Art/IconAtlas/JFD_AustrianGrenadierUnitFlag_32.dds</File>
+    <File md5="1ED4747660CF42150B5F60A9DF3CEBC0" import="1">Art/Images/Event_AustriaJosephII_DeathPenalty.dds</File>
+    <File md5="0F2CDBCB6CB5379A76926B0E97E3DB6B" import="1">Art/Images/Event_AustriaJosephII_Mozart.dds</File>
+    <File md5="D7C162D92074ED905182AEA4DA59F73E" import="1">Art/Map/MapAustriaJosephII512.dds</File>
+    <File md5="A76109F2FE374BEC17F5F6725798068E" import="1">Art/Map/DOM_JosephII.dds</File>
+    <File md5="7060CA1A1D8C830E130728780E2FBA15" import="1">Audio/GW_MozartMagicFlute.mp3</File>
+    <File md5="7F163A2C15268022C2D05B3CCD4E08FC" import="1">Audio/Joseph_Peace.mp3</File>
+    <File md5="5A6C9B2F3D380FE9767052349E94D26F" import="1">Audio/Joseph_War.mp3</File>
+    <File md5="3E030A20F73E6DCCC9E24D2D37CBDB6B" import="0">Core/AustriaJosephII_ArtDefines.sql</File>
+    <File md5="6CFB57D19C441695B88E45506F6E98BA" import="0">Core/AustriaJosephII_GameDefines.sql</File>
+    <File md5="7D32A56102EA956DA65975DDAC25F41C" import="0">Core/AustriaJosephII_GameDefines_Diplomacy.sql</File>
+    <File md5="68FCDDC2BC296B06F5CD147957565EAB" import="0">Core/AustriaJosephII_GameDefines_ModSupport.sql</File>
+    <File md5="653CC763CF4CAABC261E58EEBF3648BF" import="0">Core/AustriaJosephII_GameText.xml</File>
+    <File md5="2936846CC5DBD911ED0E4C341904CE3D" import="0">Core/AustriaJosephII_GameText_Diplomacy.xml</File>
+    <File md5="6DAEC406472D12329353CD30C423B762" import="0">Core/AustriaJosephII_GameText_ModSupport.xml</File>
+    <File md5="FC6E117C75835973F759656BB4F6EF97" import="0">DeleteMissingReferences.xml</File>
+    <File md5="4D9D7BF16536EEAEC88CB12AFF1F3298" import="1">Lua/JFD_AustriaJosephII_Decisions.lua</File>
+    <File md5="22944C6FA71B03DD05B44E3C5D817D0B" import="1">Lua/JFD_AustriaJosephII_Events.lua</File>
+    <File md5="F125B48EFB26081C84A1DED3E3ABF0F2" import="0">Lua/JFD_AustriaJosephII_Functions.lua</File>
+    <File md5="E177041D6A56FAF4817922096D752E8A" import="1">Lua/Utilities/JFD DTP/JFD_AustriaJosephII_DTP.lua</File>
+    <File md5="709E9DE68C2B0C5A37F62F525432EB61" import="0">Lua/Utilities/JFD DTP/JFD_TopPanelUpdated.lua</File>
+    <File md5="7BD2FBE46D0E789BDFF45CAC065DB4E4" import="0">Lua/Utilities/PlotIterators.lua</File>
+    <File md5="A4759D7B62448C31C908D01635EC0FB7" import="1">Lua/Utilities/UniqueDiplomacyUtilsV2.lua</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Core/AustriaJosephII_ArtDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Core/AustriaJosephII_GameDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Core/AustriaJosephII_GameDefines_Diplomacy.sql</UpdateDatabase>
+      <UpdateDatabase>Core/AustriaJosephII_GameDefines_ModSupport.sql</UpdateDatabase>
+      <UpdateDatabase>Core/AustriaJosephII_GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/AustriaJosephII_GameText_Diplomacy.xml</UpdateDatabase>
+      <UpdateDatabase>Core/AustriaJosephII_GameText_ModSupport.xml</UpdateDatabase>
+      <UpdateDatabase>DeleteMissingReferences.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/JFD_AustriaJosephII_Functions.lua">
+      <Name>JFD_AustriaJosephII_Functions.</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/Utilities/JFD DTP/JFD_TopPanelUpdated.lua">
+      <Name>JFD_TopPanelUpdated</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

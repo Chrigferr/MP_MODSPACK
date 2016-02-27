@@ -1,0 +1,444 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 11/20/2013 3:43:32 AM -->
+<GameData>
+	<Language_en_US>
+		<!--POLAND-LITHUANIA-->
+		<Row Tag="TXT_KEY_CIV_JFD_POLAND_LITHUANIA_ADJECTIVE">
+			<Text>Polish-Lithuanian</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_JFD_POLAND_LITHUANIA_DESC">
+			<Text>Polish-Lithuanian Commonwealth</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_JFD_POLAND_LITHUANIA_SHORT_DESC">
+			<Text>Poland-Lithuania</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_POLAND_LITHUANIA_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_POLAND_LITHUANIA_TEXT_1">
+			<Text>The Polish–Lithuanian Commonwealth, Poland, Kingdom of Poland, after 1791 officially the Commonwealth of Poland (Polish: Rzeczpospolita Polska; Latin: Res Publica Polona), was a dualistic state, a bi-confederation, of Poland and Lithuania ruled by a common monarch, who was both the king of Poland and the grand duke of Lithuania. It was one of the largest and one of the most populous countries of 16th- and 17th-century Europe, with some 390,000 square miles (1,000,000 km2) and a multi-ethnic population of 11 million at its peak in the early 17th century. It was established at the Union of Lublin in July 1569, but the actual personal union between the Crown of the Kingdom of Poland and the Grand Duchy of Lithuania had begun when Lithuania's Grand Duke Jogaila married Queen regnant Jadwiga of Poland and was crowned King jure uxoris Władysław II Jagiełło of Poland, in 1386. The Commonwealth was reduced in the First Partition of Poland in 1772 and disappeared as an independent state after the Third Partition of Poland in 1795.</Text>
+		</Row>
+		<!--City List-->
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_POLAND_LITHUANIA_01">
+			<Text>Warsaw</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_POLAND_LITHUANIA_02">
+			<Text>Vilnius</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_POLAND_LITHUANIA_03">
+			<Text>Krakow</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_POLAND_LITHUANIA_04">
+			<Text>Poznan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_POLAND_LITHUANIA_05">
+			<Text>Lwow</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_POLAND_LITHUANIA_06">
+			<Text>Gdansk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_POLAND_LITHUANIA_07">
+			<Text>Grodno</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_POLAND_LITHUANIA_08">
+			<Text>Kiev</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_POLAND_LITHUANIA_09">
+			<Text>Kalisz</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_POLAND_LITHUANIA_10">
+			<Text>Rzeszow</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_POLAND_LITHUANIA_11">
+			<Text>Gniezno</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_POLAND_LITHUANIA_12">
+			<Text>Lublin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_POLAND_LITHUANIA_13">
+			<Text>Zamosc</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_POLAND_LITHUANIA_14">
+			<Text>Brest-Litovsk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_POLAND_LITHUANIA_15">
+			<Text>Kielce</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_POLAND_LITHUANIA_16">
+			<Text>Troki</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_POLAND_LITHUANIA_17">
+			<Text>Pinsk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_POLAND_LITHUANIA_18">
+			<Text>Tarnow</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_POLAND_LITHUANIA_19">
+			<Text>Sandomierz</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_POLAND_LITHUANIA_20">
+			<Text>Radom</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_POLAND_LITHUANIA_21">
+			<Text>Przemysl</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_POLAND_LITHUANIA_22">
+			<Text>Nieswiez</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_POLAND_LITHUANIA_23">
+			<Text>Nowogrodek</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_POLAND_LITHUANIA_24">
+			<Text>Konin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_POLAND_LITHUANIA_25">
+			<Text>Kamieniec</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_POLAND_LITHUANIA_26">
+			<Text>Zbaraz</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_POLAND_LITHUANIA_27">
+			<Text>Turov</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_POLAND_LITHUANIA_28">
+			<Text>Belz</Text>
+		</Row>
+		<!-- Spy Names -->
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_POLAND_LITHUANIA_9">
+			<Text>Kmicic</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_POLAND_LITHUANIA_8">
+			<Text>Ketling</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_POLAND_LITHUANIA_7">
+			<Text>Sir Michael</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_POLAND_LITHUANIA_6">
+			<Text>Longinus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_POLAND_LITHUANIA_5">
+			<Text>Zagloba</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_POLAND_LITHUANIA_4">
+			<Text>Bohun</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_POLAND_LITHUANIA_3">
+			<Text>Horpyna</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_POLAND_LITHUANIA_2">
+			<Text>Izabela</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_POLAND_LITHUANIA_1">
+			<Text>Maria Luiza</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_POLAND_LITHUANIA_0">
+			<Text>Olenka</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<!--POLAND-->
+		<!--City List-->
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_POLAND_01">
+			<Text>Krakow</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_POLAND_02">
+			<Text>Poznan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_POLAND_03">
+			<Text>Gniezno</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_POLAND_04">
+			<Text>Kalisz</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_POLAND_05">
+			<Text>Sandomierz</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_POLAND_06">
+			<Text>Przemysl</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_POLAND_07">
+			<Text>Leczyca</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_POLAND_08">
+			<Text>Plock</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_POLAND_09">
+			<Text>Wroclaw</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_POLAND_10">
+			<Text>Legnica</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_POLAND_11">
+			<Text>Lublin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_POLAND_12">
+			<Text>Opole</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_POLAND_13">
+			<Text>Sacz</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_POLAND_14">
+			<Text>Warsaw</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_POLAND_15">
+			<Text>Tarnow</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_POLAND_16">
+			<Text>Wieliczka</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_POLAND_17">
+			<Text>Radom</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_POLAND_18">
+			<Text>Czestochowa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_POLAND_19">
+			<Text>Wojnicz</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_POLAND_20">
+			<Text>Rzeszow</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_POLAND_21">
+			<Text>Cieszyn</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_POLAND_22">
+			<Text>Lwow</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_POLAND_23">
+			<Text>Czerwien</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_POLAND_24">
+			<Text>Cedynia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_POLAND_25">
+			<Text>Pilzno</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_POLAND_26">
+			<Text>Kazimierz</Text>
+		</Row>
+		<!-- Spy Names -->
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_POLAND_9">
+			<Text>Spicymir</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_POLAND_8">
+			<Text>Mieszko</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_POLAND_7">
+			<Text>Zawisza</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_POLAND_6">
+			<Text>Wierzynek</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_POLAND_5">
+			<Text>Boleslaw</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_POLAND_4">
+			<Text>Jurand</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_POLAND_3">
+			<Text>Jadwiga</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_POLAND_2">
+			<Text>Jagna</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_POLAND_1">
+			<Text>Kinga</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_POLAND_0">
+			<Text>Dobrawa</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<!--SIGISMUND II-->
+		<Row Tag="TXT_KEY_LEADER_JFD_SIGISMUND">
+			<Text>Sigismund II</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_SIGISMUND_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_SIGISMUND_TEXT_1">
+			<Text>Sigismund II Augustus I (1 August 1520 – 7 July 1572) was King of Poland and Grand Duke of Lithuania, the only son of Sigismund I the Old, whom Sigismund II succeeded in 1548. Married three times, the last of the Jagiellons remained childless, and through the Union of Lublin introduced an elective monarchy.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_SIGISMUND_LIVED">
+			<Text>1520-1572</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_SIGISMUND_NAME">
+			<Text>Sigismund II</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_SIGISMUND_SUBTITLE">
+			<Text>Leader of Poland-Lithuania</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_SIGISMUND_TITLES_1">
+			<Text>King of Poland, Grand Duke of Lithuania</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DOM_JFD_SIGISMUND_TEXT">
+			<Text>
+				All hail Sigismund II, by the grace of God the King of Poland and Grand Duke of Lithuania! You ascended to the throne in 1548 AD, after nearly two decades of sharing rule with your ageing father. Desiring to continue the work of you predecessor, you sought to secure a proper place for Poland and Lithuania within Europe. Your wise and ample patronage brought about a golden age of arts and sciences, while your internal policies and religious tolerance ushered in a period of stability not witnessed before. Truly has Poland become a beacon of the Renaissance! In 1569 AD, in the wake of Russian westward expansion, you oversaw the unification of your two dominons into a single political entity, which became known as the Polish-Luthuanian Commonwealth. A union that would endure invasions, civil wars and uprisings for more than two hundred years, before finally succumbing to its three unsatiable neighbours and their superior armies.[NEWLINE][NEWLINE]Oh illustrious King, the people of both Poland and Lithuania look back to their common past. Will you answer their sentiments and bring the Commonwealth back to its former splendour? Will you lead it through adversity and opposition, both foreign and internal? Can you build a civilization that will stand the test of time?
+			</Text>
+		</Row>
+		<!--NOBLE REPUBLIC-->
+		<Row Tag="TXT_KEY_TRAIT_JFD_POLAND_LITHUANIA">
+			<Text>[ICON_HAPPINESS_1] Happiness contributes 33% more toward [ICON_GOLDEN_AGE] Golden Age progress. During [ICON_GOLDEN_AGE] Golden Ages, City-State [ICON_INFLUENCE] Influence gained from gifting [ICON_GOLD] Gold or from completing quests are doubled.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_JFD_POLAND_LITHUANIA_SHORT">
+			<Text>Noble Republic</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_GOLDEN_AGE_FROM_HAPPINESS">
+			<Text>{1_Num} is added per turn from 33% of your excess [ICON_HAPPINESS_1] Happiness.</Text>
+		</Row>
+		<!--ESTATE-->
+		<Row Tag="TXT_KEY_CIV5_JFD_ESTATE_TEXT">
+			<Text>An Estate is a type of rural residence, often big, expensive and lavishly decorated. As a seat of the local noble, an estate was a measure of his, or hers, personal wealth and social standing. In Poland-Lithuania, estates followed Western architectural trends, and were often small masterpieces of Renaissance, Mannerist and Baroque art. The further east - where lands were more sparsely populated - the bigger the estates were, and rivalled royal palaces in size and wealth. An estate would often also encompass large swathes of arable land, meadows and pastures. Produce and livestock from those lands was the primary source of income for the estate. The richest magnates often employed private armies to secure their possessions against Cossack and Tartar raids - or even against royal forces, if a noble was at odds with the king. [NEWLINE][NEWLINE]After World War I, noble titles in the Republic of Poland were abolished and by the end of World War II a large portion of the old nobility fled the country. A new communist government redistributed the remaining estates, but many of them fell into disrepair. In recent years, numerous old residences across the country were renovated and turned into museums, open to general public.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_ESTATE">
+			<Text>Estate</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_ESTATE_HELP">
+			<Text>Each source of [ICON_RES_HORSE] Horses [ICON_RES_SHEEP] Sheep and [ICON_RES_COW] Cattle worked by this City produce +1 [ICON_GOLD] Gold. +1 [ICON_HAPPINESS_1] Local Happiness for each different type of these resources improved and worked by the city.[NEWLINE][NEWLINE]City must have a Market. Trade routes other players make to a city with an Estate will generate an extra 1 [ICON_GOLD] Gold for the city owner and the trade route owner gains an additional 1 [ICON_GOLD] Gold for the trade route.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_ESTATE_STRATEGY">
+			<Text>The Estate is the unique Bank for Poland-Lithuania. Like a Bank, the Estate increases the city's [ICON_GOLD] Gold output. In addition, however, it increases the [ICON_GOLD] Gold output on sources of [ICON_RES_HORSE] Horses [ICON_RES_SHEEP] Sheep and [ICON_RES_COW] Cattle, and provides +1 [ICON_HAPPINESS_1] Local Happiness for the city for every different type of Pasture-based resource improved and worked. Ensure there is plenty of pastured land for your Estates to work to reap the benefits of a content nobility.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_POLAND_LITHUANIA_HAPPINESS">
+			<Text>JFD: Estate Happiness</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_POLAND_LITHUANIA_HAPPINESS_HELP">
+			<Text>+1 [ICON_HAPPINESS_1] Local Happiness</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_ESTATE_CITY_VIEW_HELP">
+			<Text>+{1_Num} [ICON_HAPPINESS_1] Local Happiness from worked resources.</Text>
+		</Row>
+		<!--VOIVODE-->
+		<Row Tag="TXT_KEY_UNIT_JFD_VOIVODE">
+			<Text>Voivode</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_UNITS_JFD_VOIVODE_TEXT">
+			<Text>Voivode (Old Slavic, literally "warlord") is a Slavic title that originally denoted the principal commander of a military force (warlord). It derives from the word vojevoda, which in early Slavic meant the bellidux, i.e. the military commander of an area, but it usually had a greater meaning. In Byzantine times it was used to refer to mainly military commanders of Slavic populations, especially in the Balkans. In medieval Serbia it meant a high-ranking official and before the Ottoman occupation the commander of a military area. During Ottoman times, Voivode was the title borne by the ruler of a province, whose powers included the administration, security and tax collection under a special regime. According to the chronicle of the Voutsas monastery, the Slavic title of “voivode”, which prevailed in certain areas of Epirus and Thessaly before the Ottoman occupation, used to denote the leader of a Vlach community or family. The same title was borne by the Ottoman official who oversaw the “Chora Metzovo” each time. The word gradually came to denote the governor of a province.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_VOIVODE_STRATEGY">
+			<Text>The Voivode is the unique Polish replacement for the Great General. When this unit is stationed in an occupied city, it increases the amount of [ICON_FOOD] Food stored after a new [ICON_CITIZEN] Citizen is born by 20%. This effect stacks with the Aqueduct and the Hospital. In addition, it may repair pillaged tiles, making the Voivode especially effective at restoring conquered cities to their full functionality. Whenever a Voivode is born, Poland gains a small increase to its [ICON_CULTURE] Culture.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_VOIVODE_HELP">
+			<Text>Unique Polish Great General. Station in an occupied city to increase the amount of [ICON_FOOD] Food carried over in that city when a new [ICON_CITIZEN] Citizen is born. Grants a boost of [ICON_CULTURE] Culture when born and may repair pillaged tiles.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_POLAND_VOIVODE_GROWTH">
+			<Text>JFD: Voivode Growth</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_POLAND_VOIVODE_GROWTH_HELP">
+			<Text>+20% [ICON_FOOD] Food is stored after a new [ICON_CITIZEN] Citizen is born.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_VOIVODE_GROWTH">
+			<Text>Voivode</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_VOIVODE_GROWTH_HELP">
+			<Text>Station this unit in an occupied city to increase the amount of [ICON_FOOD] Food stored after a new [ICON_CITIZEN] Citizen is born.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_VOIVODE_CITY_VIEW_HELP">
+			<Text>+20% [ICON_FOOD] Food is stored after a new [ICON_CITIZEN] Citizen is born from the Voivode stationed here.</Text>
+		</Row>
+		<!--Unique Names-->
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_VOIVODE_01">
+			<Text>Jan z Tarnowa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_VOIVODE_02">
+			<Text>Goworek</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_VOIVODE_03">
+			<Text>Piotr Bogoria</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_VOIVODE_04">
+			<Text>Piotr Kmita</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_VOIVODE_05">
+			<Text>Spytko z Melsztyna</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_VOIVODE_06">
+			<Text>Jerzy Mniszech</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_VOIVODE_07">
+			<Text>Skarbimir</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_VOIVODE_08">
+			<Text>Sieciech</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_VOIVODE_09">
+			<Text>Wojslaw Powala</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_VOIVODE_10">
+			<Text>Piotr Kmita</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_VOIVODE_11">
+			<Text>Piotr Firlej</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_VOIVODE_12">
+			<Text>Spytek Jaroslawski</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_VOIVODE_13">
+			<Text>Piotr Odrowaz</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_VOIVODE_14">
+			<Text>Jakub Koniecpolski</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_VOIVODE_15">
+			<Text>Dobrogost z Szamotul</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_VOIVODE_16">
+			<Text>Przedpelek</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_VOIVODE_17">
+			<Text>Przybyslaw</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_VOIVODE_18">
+			<Text>Maciej Borkowic</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_VOIVODE_19">
+			<Text>Stanislaw Ostrorog</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_VOIVODE_20">
+			<Text>Wszebor</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_VOIVODE_21">
+			<Text>Jan Ciolek</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_VOIVODE_22">
+			<Text>Wawrzyniec Zaremba</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_VOIVODE_23">
+			<Text>Dzierslaw Rytwianski</Text>
+		</Row>
+		<!--DUCAL STABLES-->
+		<Row Tag="TXT_KEY_BUILDING_JFD_DUCAL_STABLES_HELP">
+			<Text>Unique Polish Stable replacement. +15% [ICON_PRODUCTION] Production for Mounted Units (+30% if at war). Newly trained Mounted Units increase the rate at which Great Generals are generated by 50%.[NEWLINE][NEWLINE]+1 [ICON_PRODUCTION] Production on [ICON_RES_COW] Cow, [ICON_RES_HORSE] Horse, and [ICON_RES_SHEEP] Sheep.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_DUCAL_STABLES_STRATEGY">
+			<Text>In addition to the regular abilities of the Stable, the Ducal Stable grants newly trained Mounted Units a promotion that increases the rate at which Great Generals are spawned from combat by 50%. It also increases [ICON_PRODUCTION] Production toward Mounted Units by an additional 15% when the player is at war. Only the Polish may build it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_POLAND_MILITARY_PRODUCTION">
+			<Text>JFD: Ducal Production</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_POLAND_MILITARY_PRODUCTION_HELP">
+			<Text>+15% [ICON_PRODUCTION] Production toward Military Units.</Text>
+		</Row>
+		<!--MINOR CIVS-->
+		<!-- Jelgava -->
+		<Row Tag="TXT_KEY_CITYSTATE_JFD_JELGAVA">
+			<Text>Jelgava</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_JFD_JELGAVA_DESC">
+			<Text>Jelgava</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_JFD_JELGAVA_SHORT_DESC">
+			<Text>Jelgava</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_JFD_JELGAVA_ADJECTIVE">
+			<Text>Jelgavan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_JELGAVA_TEXT_1">
+			<Text>Jelgava is a city in central Latvia about 41 kilometres (25 miles) southwest of Riga with about 63,000 inhabitants. It is the largest town in the region of Zemgale (Semigalia). Jelgava was the capital of the united Duchy of Courland and Semigallia (1578-1795) and the administrative center of the Courland Governorate (1795-1918).</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

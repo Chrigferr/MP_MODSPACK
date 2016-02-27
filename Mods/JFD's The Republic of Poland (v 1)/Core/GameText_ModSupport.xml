@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 11/23/2013 1:27:25 PM -->
+<GameData>
+	<Language_en_US>
+		<!-- RYOGA's UNIQUE CULTURAL INFLUENCE -->
+		<Row Tag="TXT_KEY_GENERIC_JFD_POLAND_PILSUDSKI_INFLUENTIAL_ON_AI_1">
+			<Text>Our people now prefer your bison grass vodka over water and lose their minds over your actresses. I'm afraid that the rest of the world will soon follow suit and degenerate into a degenerate clique of half-cultured drunks.</Text>
+		</Row>
+		<!-- SUKRITACT's DECISIONS -->
+		<!--Create the Central Industrial District-->
+		<Row Tag="TXT_KEY_DECISIONS_JFD_POLAND_PILSUDSKI_INDUSTRIAL_DISTRICT">
+			<Text>Create the Central Industrial District</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JFD_POLAND_PILSUDSKI_INDUSTRIAL_DISTRICT_DESC">
+			<Text>
+				To strengthen the Polish economy, and to protect her precious industry from foreign belligerents, an enclaved industrial district should be created. This shall ensure the mobility of our capital even should our borders be flayed by war, and it moreover shall create jobs for countless thousands.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Poland (Pilsudski)
+				[NEWLINE][ICON_BULLET]May only be enacted from the beginning of the Industrial Era
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_GoldCost} [ICON_GOLD] Gold
+				[NEWLINE][ICON_BULLET]1 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]+1 [ICON_GOLD] Gold and +1 [ICON_PRODUCTION] Production on Worker-built Manufactories and Customs Houses, respectively.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JFD_POLAND_PILSUDSKI_INDUSTRIAL_DISTRICT_ENACTED_DESC">
+			<Text>
+				To strengthen the Polish economy, and to protect her precious industry from foreign belligerents, an enclaved industrial district should be created. This shall ensure the mobility of our capital even should our borders be flayed by war, and it moreover shall create jobs for countless thousands.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]+1 [ICON_GOLD] Gold and +1 [ICON_PRODUCTION] Production on Worker-built Manufactories and Customs Houses, respectively.
+			</Text>
+		</Row>
+		<!--Enact Currency Reform-->
+		<Row Tag="TXT_KEY_DECISIONS_JFD_POLAND_PILSUDSKI_MONATERY_REFORM">
+			<Text>Enact Currency Reform</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JFD_POLAND_PILSUDSKI_MONATERY_REFORM_DESC">
+			<Text>
+				The greatest achievement of Wladyslaw Grabski, the twice Prime Minister of Poland, was his creation of the Bank of Poland and his subsequent introduction of the zioty as the nation's standard currency. His reformation is upon which the modern Polish currency stands today.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Poland (Pilsudski)
+				[NEWLINE][ICON_BULLET]May only be enacted from the beginning of the Industrial Era
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_CultureCost} [ICON_CULTURE] Culture
+				[NEWLINE][ICON_BULLET]1 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]+15% [ICON_GOLD] Gold from Banks
+				[NEWLINE][NEWLINE][COLOR_WARNING_TEXT]Note: The [ICON_CULTURE] Culture cost is approxmiately that of your next Social Policy
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JFD_POLAND_PILSUDSKI_MONATERY_REFORM_ENACTED_DESC">
+			<Text>
+				The greatest achievement of Wladyslaw Grabski, the twice Prime Minister of Poland, was his creation of the Bank of Poland and his subsequent introduction of the zioty as the nation's standard currency. His reformation is upon which the modern Polish currency stands today.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]+15% [ICON_GOLD] Gold from Banks
+				[NEWLINE][NEWLINE][COLOR_WARNING_TEXT]Note: The [ICON_CULTURE] Culture cost is approxmiately that of your next Social Policy
+			</Text>
+		</Row>
+		<!-- SUKRITACT's EVENTS -->
+		<!-- May Coup -->
+		<Row Tag="TXT_KEY_EVENT_JFD_POLAND_PILSUDSKI_MAY_COUP">
+			<Text>May Coup</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_POLAND_PILSUDSKI_MAY_COUP_DESC">
+			<Text>
+				The Parliament is divided and unable to form a working cabinet. This is not the first situation of that sort, but this time the risk of civil disorder is high. It is clear that our country with its liberal constitution will not function properly if this situation is allowed to go on. We must take action, and assume direct and personal control of the course of action of our politics.[NEWLINE]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_POLAND_PILSUDSKI_MAY_COUP_OUTCOME_1">
+			<Text>Tell the President to meet the Marshal on the Warsaw bridge.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_POLAND_PILSUDSKI_MAY_COUP_OUTCOME_RESULT_1">
+			<Text>[ICON_BULLET][COLOR_NEGATIVE_TEXT]The [ICON_CAPITAL] Capital undergoes three turns of [ICON_RESISTANCE] Resistance[NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]Gain a free Social Policy[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_POLAND_PILSUDSKI_MAY_COUP_OUTCOME_RESULT_1_NOTIFICATION">
+			<Text>Following a coup, we have assumed total control of the {1_CivName}.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_WORLD_EVENT_POLAND_PILSUDSKI_MAY_COUP">
+			<Text>A coup in the {1_CivName} has seen the dissolution of the government and the assumption of First Marshal Pidsulski as total comander of the nation.</Text>
+		</Row>
+		<!-- Enigma Code Cracked! -->
+		<Row Tag="TXT_KEY_EVENT_JFD_POLAND_PILSUDSKI_ENIGMA_CODE">
+			<Text>Enigma Code Cracked!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_POLAND_PILSUDSKI_ENIGMA_CODE_DESC">
+			<Text>
+				A team of leading mathematicians have been employed by our military forces with the task of deciphering the secret code used by one of our neighbours’ army. The machine which is responsible for encrypting messages happens to have a civilian variant, a unit of which was duly obtained by a fake company run by our intelligence. After months of work, the team presented us with the results - the algorithm behind the code. Cracking the code of a military variant of the machine is only a matter of time.[NEWLINE]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_POLAND_PILSUDSKI_ENIGMA_CODE_OUTCOME_1">
+			<Text>Excellent. This'll be something to tell the people!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_POLAND_PILSUDSKI_ENIGMA_CODE_OUTCOME_RESULT_1">
+			<Text>[ICON_BULLET][COLOR_POSITIVE_TEXT]Gain a free Spy[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_POLAND_PILSUDSKI_ENIGMA_CODE_OUTCOME_RESULT_1_NOTIFICATION">
+			<Text>We managed to crack the Enigma Code! Pity we were too drunk to remember how we did it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_PILSUDSKI_ENIGMA_CODE">
+			<Text>JFD: Poland Enigma Code</Text>
+		</Row>
+		<!-- Va Banque -->
+		<Row Tag="TXT_KEY_EVENT_JFD_POLAND_PILSUDSKI_VA_BANQUE">
+			<Text>Va Banque</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_POLAND_PILSUDSKI_VA_BANQUE_DESC">
+			<Text>A large sum of money has been stolen from a seemingly impenetrable vault at the bank of certain Mr Kramer. A group of criminals, one of them being a renowned jazz-band trumpeteer, have executed a carefully-co-ordinated and well-timed plan, and approached the vault from the bellows of the building. The robbers have fled via airplane to a neutral country, far beyond the reach of our jurisdiction, leaving behind papers proving the banker’s past and ongoing frauds. Shall we take action?[NEWLINE]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_POLAND_PILSUDSKI_VA_BANQUE_OUTCOME_1">
+			<Text>Pursue the robbers anyway.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_POLAND_PILSUDSKI_VA_BANQUE_OUTCOME_RESULT_1">
+			<Text>[ICON_BULLET][COLOR_POSITIVE_TEXT]Gain {1_Num} [ICON_GOLD] Gold[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_POLAND_PILSUDSKI_VA_BANQUE_OUTCOME_RESULT_1_NOTIFICATION">
+			<Text>We have sent our best judges on foot to chase down the robbers of a prestigious bank.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_POLAND_PILSUDSKI_VA_BANQUE_OUTCOME_2">
+			<Text>Put the bank owner on trial.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_POLAND_PILSUDSKI_VA_BANQUE_OUTCOME_RESULT_2">
+			<Text>[ICON_BULLET][COLOR_POSITIVE_TEXT]Gain {1_Num} [ICON_CULTURE] Culture[NEWLINE][ICON_BULLET]A {2_Num}-turn 'We Love the King Day' begins in the [ICON_CAPITAL] Capital[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_POLAND_PILSUDSKI_VA_BANQUE_OUTCOME_RESULT_2_NOTIFICATION">
+			<Text>We have put the owner of a recently burgled bank on trial, because this is Poland, dammit!</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

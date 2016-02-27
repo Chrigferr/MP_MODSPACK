@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 11/20/2013 3:43:32 AM -->
+<GameData>
+	<Language_en_US>
+		<!-- LONGBOAT -->
+		<Replace Tag="TXT_KEY_UNIT_JFD_LONGBOAT">
+			<Text>Longboat</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_UNIT_JFD_LONGBOAT_HELP">
+			<Text>Fast Danish Naval Unit that benefits Land Units and can cross oceans immediately. It is available much earlier.</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_UNIT_JFD_LONGBOAT_STRATEGY">
+			<Text>The Longboat is an early naval unit unique to Denmark, replacing the Galleass. Unlike the Galleass, the Longboat is available at Optics and, though it is slightly weaker, it confers the Coastal Raider promotion to Land Units within two tiles, benefiting them when attacking Cities. It also may cross oceans immediately, allowing it to scout the waters long before other civilizations.</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_UNIT_JFD_LONGBOAT_TEXT">
+			<Text>Longboats (or Longships) were sea vessels made and used by the Vikings from the Nordic countries for trade, commerce, exploration, and warfare during the Viking Age. The longship is characterized as a graceful, long, narrow, light, wooden boat with a shallow-draft hull designed for speed. The ship's shallow draft allowed navigation in waters only one metre deep and permitted beach landings. Longships were fitted with oars along almost the entire length of the boat itself. Later versions sported a rectangular sail on a single mast which was used to replace or augment the effort of the rowers.</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_PROMOTION_JFD_LONGBOAT">
+			<Text>Viking Raiders</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_PROMOTION_JFD_LONGBOAT_HELP">
+			<Text>+20% [ICON_STRENGTH] Combat Strength when attacking Cities and steal [ICON_GOLD] Gold equal to 33% of the damage inflicted on a city to Land Units beginning within two tiles of this unit.</Text>
+		</Replace>
+	</Language_en_US>
+</GameData>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_en_US>	
+		<!--Establish the Carolingian Empire-->
+		<Row Tag="TXT_KEY_DECISIONS_JFD_FRANKS_CAROLINGIAN_EMPIRE">
+			<Text>Establish the Carolingian Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JFD_FRANKS_CAROLINGIAN_EMPIRE_DESC">
+			<Text>
+				A new era dawns upon this earth; an era of great enlightenment brought forth by the conquests of the ancient and noble Carolingian dynasty. It is time that we claim this era as our own, and turn our humble Francian nation into the empire of the Carolingians.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be the Franks
+				[NEWLINE][ICON_BULLET]Must own at least one former Capital
+				[NEWLINE][ICON_BULLET]Must own at least three other conquered cities
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Faith} [ICON_PEACE] Faith
+				[NEWLINE][ICON_BULLET]1 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]You become Charles Augustus
+				[NEWLINE][ICON_BULLET]The empire becomes known as the Carolingian Empire
+				[NEWLINE][ICON_BULLET]A [ICON_GOLDEN_AGE] Golden Age begins
+				[NEWLINE][ICON_BULLET]Build Courthouses 25% faster and Courthouses yield +2 [ICON_HAPPINESS_1] Happiness
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JFD_FRANKS_CAROLINGIAN_EMPIRE_ENACTED_DESC">
+			<Text>
+				A new era dawns upon this earth; an era of great enlightenment brought forth by the conquests of the ancient and noble Carolingian dynasty. It is time that we claim this era as our own, and turn our humble Francian nation into the empire of the Carolingians.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]You become known as Charles Augustus
+				[NEWLINE][ICON_BULLET]The empire becomes known as the Carolingian Empire
+				[NEWLINE][ICON_BULLET]A [ICON_GOLDEN_AGE] Golden Age begins
+				[NEWLINE][ICON_BULLET]Build Courthouses 25% faster and Courthouses yield +2 [ICON_HAPPINESS_1] Happiness
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_CHARLES_AUGUSTUS">
+			<Text>Charles Augustus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_CAROLINGIAN_EMPIRE_DESC">
+			<Text>Carolingian Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_CAROLINGIAN">
+			<Text>Carolingian</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WORLD_EVENT_JFD_FRANKS_CAROLINGIAN_EMPIRE">
+			<Text>Charlemagne has declared the Carolingian Empire and has adopted the name Charles Augustus.</Text>
+		</Row>
+		<!--Create a March-->
+		<Row Tag="TXT_KEY_DECISIONS_JFD_FRANKS_MARCH">
+			<Text>Create a March</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JFD_FRANKS_MARCH_DESC">
+			<Text>
+				The borders of our empire lie upon the most uncivilized and barbaric of lands upon all this earth. In order to ensure their protection, they must be bolstered with the utmost of strength, for we are only as strong as our weakest point.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be the Franks
+				[NEWLINE][ICON_BULLET]Player must have researched Chivalry and Steel
+				[NEWLINE][ICON_BULLET]May only be enacted once per era
+				[NEWLINE][ICON_BULLET]May not be enacted from the beginning of the Industrial Era
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Num} [ICON_GOLD] Gold
+				[NEWLINE][ICON_BULLET]1 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Grants a Barracks, Armory, Walls and Castle in a city of your choice
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JFD_FRANKS_MARCH_ENACTED_DESC">
+			<Text>
+				The borders of our empire lie upon the most uncivilized and barbaric of lands upon all this earth. In order to ensure their protection, they must be bolstered with the utmost of strength, for we are only as strong as our weakest point.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Grants a Barracks, Armory, Walls and Castle in a city of your choice
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_CHOOSE_MARCH_MENU">
+			<Text>Create a March</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_CHOOSE_MARCH_BUTTON">
+			<Text>Create</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_CHOOSE_MARCH_BUTTON_TT">
+			<Text>Select a city out of which to create a March</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_CHOOSE_MARCH_MENU_TOOLTIP">
+			<Text>This will establish {1_CityName} as a March</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

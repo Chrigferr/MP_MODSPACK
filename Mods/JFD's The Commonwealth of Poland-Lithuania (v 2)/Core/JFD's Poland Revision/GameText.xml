@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 11/20/2013 3:43:32 AM -->
+<GameData>
+	<Language_en_US>
+		<!----------------------------------------------------------------
+						From Wood to Brick
+		------------------------------------------------------------------>
+		<Row Tag="TXT_KEY_TRAIT_JFD_POLAND">
+			<Text>After adopting a new Social Policy, you may choose to hurry [ICON_PRODUCTION] Production in a city of your choice. Receive a free Voivode at Chivalry.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_JFD_POLAND_SHORT">
+			<Text>From Wood to Brick</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_CHOOSE_PRODUCTION_CITY_MENU">
+			<Text>Hurry Production</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_CHOOSE_PRODUCTION_CITY_BUTTON">
+			<Text>Select</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_CHOOSE_PRODUCTION_CITY_BUTTON_TT">
+			<Text>Select a city where to hurry [ICON_PRODUCTION] Production</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_CHOOSE_PRODUCTION_CITY_MENU_TOOLTIP">
+			<Text>This will hurry the {1_Production} being produced in this city by {2_Num} [ICON_PRODUCTION] Production</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

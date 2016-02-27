@@ -1,0 +1,205 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="d4319e2d-cb0e-42f0-9b54-8e16d3a02800" version="1">
+  <Properties>
+    <Name>JFD's The Republic of Poland</Name>
+    <Teaser>Adds the [COLOR_POSITIVE_TEXT]The Republic of Poland[ENDCOLOR] with Pilsudski to the game.</Teaser>
+    <Description>See Steam Workshop or CivFanatics for some details.</Description>
+    <Authors>Janboruta, Viregel, JFD, LastSword</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References>
+    <Mod id="7fdd72a5-d4ae-441c-bc4e-2e3d2a26cff4" minversion="0" maxversion="999" title="Ethnic Units" />
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="Yet (not) Another Earth Maps Pack" />
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="JFD's Cultural Diversity (Core)" />
+    <Mod id="eea66053-7579-481a-bb8d-2f3959b59974" minversion="0" maxversion="999" title="JFD’s Piety &amp;amp; Prestige" />
+    <Mod id="1f941088-b185-4159-865c-472df81247b2" minversion="0" maxversion="999" title="Sukritact’s Events &amp;amp; Decisions" />
+    <Mod id="e576894a-ed2b-4033-be14-ed1c8ceb81d3" minversion="0" maxversion="999" title="Map Labels" />
+    <Mod id="8670da15-d435-44ea-9758-7438cb321411" minversion="0" maxversion="999" title="R.E.D. Modpack" />
+    <Mod id="43868e8d-de88-48a1-a8d9-ce144e07f5e0" minversion="0" maxversion="999" title="JFD's Exploration Continued Expanded" />
+    <Mod id="8411a7a8-dad3-4622-a18e-fcc18324c799" minversion="0" maxversion="999" title="Community Balance Patch" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="B3E8EF95C86A86440925317C4E60FBC1" import="1">Art/Diplomacy/Pilsudski_diplo.dds</File>
+    <File md5="E26D3FB83BDB039DAC546DFE33BEF68A" import="1">Art/Diplomacy/Pilsudski_Scene.xml</File>
+    <File md5="74B55B3C96723A68EEDEA8B083D50DBC" import="1">Art/Graphics/Animations and Effects/civ5artdefines_viseffects.xml</File>
+    <File md5="9309774C33232FFC6E47E09F56BDD3C5" import="1">Art/Graphics/Animations and Effects/Edited_Animations/edited_aim_attack_city_to_run.dge</File>
+    <File md5="FA9CE373BB700CFCD8F0FA3A955B1E69" import="1">Art/Graphics/Animations and Effects/Edited_Animations/edited_aim_attack_to_run_graph.dge</File>
+    <File md5="BA4F6AEB27527AB47CC284B27C8288A8" import="1">Art/Graphics/Animations and Effects/Edited_Animations/edited_aim_bombard_defend_loop_graph.dge</File>
+    <File md5="933E4A224EFE615D537517EFE06B34BC" import="1">Art/Graphics/Animations and Effects/Edited_Animations/edited_aim_civilian_activate_captured.dge</File>
+    <File md5="87476FD4384999BCCBF43AEEF9B3A652" import="1">Art/Graphics/Animations and Effects/Edited_Animations/edited_aim_civilian_death_final.dge</File>
+    <File md5="9AB143ED19D8B61A7794C90D5D65EE97" import="1">Art/Graphics/Animations and Effects/Edited_Animations/edited_aim_civilian_enter_bombard_defend.dge</File>
+    <File md5="7BCAF33AE57FA6E4F56F767E1799955E" import="1">Art/Graphics/Animations and Effects/Edited_Animations/edited_aim_civilian_state_01.fsmxml</File>
+    <File md5="CD02EC91E73F396297C2B3434A8BA034" import="1">Art/Graphics/Animations and Effects/Edited_Animations/edited_aim_combat_ready_graph.dge</File>
+    <File md5="6B4338103039DFBD431A44C89DA198D6" import="1">Art/Graphics/Animations and Effects/Edited_Animations/edited_aim_death_final_graph.dge</File>
+    <File md5="F9F109E1E43FD75DFC765D9B3A43CE48" import="1">Art/Graphics/Animations and Effects/Edited_Animations/edited_aim_death_graph.dge</File>
+    <File md5="014FBFBCB17012BEC0B32D9FFDBF721E" import="1">Art/Graphics/Animations and Effects/Edited_Animations/edited_aim_enter_bombard_defend_graph.dge</File>
+    <File md5="7A5A0ADFBBB05D6E4FB126383988B264" import="1">Art/Graphics/Animations and Effects/Edited_Animations/edited_aim_enter_combat_ready_graph.dge</File>
+    <File md5="34488A641F9D948D865BBECF8B3878DF" import="1">Art/Graphics/Animations and Effects/Edited_Animations/edited_aim_enter_fortify.dge</File>
+    <File md5="ADAECB630FF73EEFBBE3EE3661F1819C" import="1">Art/Graphics/Animations and Effects/Edited_Animations/edited_aim_enter_sleep_civilian.dge</File>
+    <File md5="F245B80AAC985C0011FEE5CBF3FB25DF" import="1">Art/Graphics/Animations and Effects/Edited_Animations/edited_aim_fidgets_graph.dge</File>
+    <File md5="65FED4E2E20D7512D6B5E92C1CD37EF7" import="1">Art/Graphics/Animations and Effects/Edited_Animations/edited_aim_fortify_fidget_graph.dge</File>
+    <File md5="F758D65157483D32C6763F817B216937" import="1">Art/Graphics/Animations and Effects/Edited_Animations/edited_aim_fortify_graph.dge</File>
+    <File md5="C2C8D0ADFA388980A03E814BF2B335F5" import="1">Art/Graphics/Animations and Effects/Edited_Animations/edited_aim_fortify_leave_graph.dge</File>
+    <File md5="AD4E2A013238410D8FCE2666AEB1DC08" import="1">Art/Graphics/Animations and Effects/Edited_Animations/edited_aim_fortify_to_idle_a.dge</File>
+    <File md5="EF6168FF0903555EDCBB9FD626CFB00F" import="1">Art/Graphics/Animations and Effects/Edited_Animations/edited_aim_idle_graph.dge</File>
+    <File md5="268797759660DA55A0F792A966EB586B" import="1">Art/Graphics/Animations and Effects/Edited_Animations/edited_aim_idle_offset_continue_true_graph.dge</File>
+    <File md5="C4D8B3EB164B5525B92514645521D0C3" import="1">Art/Graphics/Animations and Effects/Edited_Animations/edited_aim_leave_bombard_defend_trans_idle_a_graph.dge</File>
+    <File md5="189E34C23C7A19F2C190E1ACB4212C91" import="1">Art/Graphics/Animations and Effects/Edited_Animations/edited_aim_leave_combat_ready.dge</File>
+    <File md5="225D164523FE1270306005CCD71B075A" import="1">Art/Graphics/Animations and Effects/Edited_Animations/edited_aim_melee_attacks.dge</File>
+    <File md5="71E511A38054110B5D9A23B311AC0104" import="1">Art/Graphics/Animations and Effects/Edited_Animations/edited_aim_modern_ship_attacks.dge</File>
+    <File md5="BA0D234DE017F5CEB6DEF37CE7DFE384" import="1">Art/Graphics/Animations and Effects/Edited_Animations/edited_aim_ms_attack_city_to_run.dge</File>
+    <File md5="75D8FBC3A2C4D56B1089F20A2E9D9DA1" import="1">Art/Graphics/Animations and Effects/Edited_Animations/edited_aim_ms_attack_to_run_graph.dge</File>
+    <File md5="82C3CE94F7827159DEA80CCF8AAF5D9E" import="1">Art/Graphics/Animations and Effects/Edited_Animations/edited_aim_ms_bombard_defend_loop_graph.dge</File>
+    <File md5="FF8A929D15C8ECE5089A806AFBC80C8E" import="1">Art/Graphics/Animations and Effects/Edited_Animations/edited_aim_ms_civilian_activate_captured.dge</File>
+    <File md5="1AE83D5303F9671277D4FEC7F327A2BB" import="1">Art/Graphics/Animations and Effects/Edited_Animations/edited_aim_ms_civilian_death_final.dge</File>
+    <File md5="0021307C276C3516A57BBADDAC07ACE7" import="1">Art/Graphics/Animations and Effects/Edited_Animations/edited_aim_ms_civilian_enter_bombard_defend.dge</File>
+    <File md5="C3686411D2E96A715267F9A5C72A5EB1" import="1">Art/Graphics/Animations and Effects/Edited_Animations/edited_aim_ms_combat_ready_graph.dge</File>
+    <File md5="FE5B902745DEE0860ECEE5BA421D141F" import="1">Art/Graphics/Animations and Effects/Edited_Animations/edited_aim_ms_death_final_graph.dge</File>
+    <File md5="21659FCED7A08D6FB464A693D0E82597" import="1">Art/Graphics/Animations and Effects/Edited_Animations/edited_aim_ms_death_graph.dge</File>
+    <File md5="B66FF4B10706BE666A916B917D14AC83" import="1">Art/Graphics/Animations and Effects/Edited_Animations/edited_aim_ms_enter_bombard_defend_graph.dge</File>
+    <File md5="9B18015ACB470CD66C3294FDA203C27E" import="1">Art/Graphics/Animations and Effects/Edited_Animations/edited_aim_ms_enter_combat_ready_graph.dge</File>
+    <File md5="FD1B5EABA624344B944CD37BD71DE110" import="1">Art/Graphics/Animations and Effects/Edited_Animations/edited_aim_ms_enter_fortify.dge</File>
+    <File md5="2470ABA98F462C27DD3C1AC013BD3AC6" import="1">Art/Graphics/Animations and Effects/Edited_Animations/edited_aim_ms_enter_sleep_civilian.dge</File>
+    <File md5="04680D47D3519A5FFB950F1147D7B1D4" import="1">Art/Graphics/Animations and Effects/Edited_Animations/edited_aim_ms_fidgets_graph.dge</File>
+    <File md5="327CB90C3BCF5BAC71F77DA677997631" import="1">Art/Graphics/Animations and Effects/Edited_Animations/edited_aim_ms_fortify_fidget_graph.dge</File>
+    <File md5="998F9D5F9FCAFE31E97022C5C50C67E8" import="1">Art/Graphics/Animations and Effects/Edited_Animations/edited_aim_ms_fortify_graph.dge</File>
+    <File md5="39370F05801D7D017D605CE224EE11E7" import="1">Art/Graphics/Animations and Effects/Edited_Animations/edited_aim_ms_fortify_leave_graph.dge</File>
+    <File md5="7BC464D9DF686D87145362DEE0F68A04" import="1">Art/Graphics/Animations and Effects/Edited_Animations/edited_aim_ms_fortify_to_idle_a.dge</File>
+    <File md5="EF3E7C919600B18CDC0D6F1BCDD45F64" import="1">Art/Graphics/Animations and Effects/Edited_Animations/edited_aim_ms_idle_graph.dge</File>
+    <File md5="2F7C2570D10BD4E5879F105F9BB3BC53" import="1">Art/Graphics/Animations and Effects/Edited_Animations/edited_aim_ms_idle_offset_continue_true_graph.dge</File>
+    <File md5="7AAA31587E2E15A0B887A31C861D4B45" import="1">Art/Graphics/Animations and Effects/Edited_Animations/edited_aim_ms_leave_bombard_defend_trans_idle_a_graph.dge</File>
+    <File md5="4BB9881AAB8B9F3571AA787BB89B4FF1" import="1">Art/Graphics/Animations and Effects/Edited_Animations/edited_aim_ms_leave_combat_ready.dge</File>
+    <File md5="2937CE1A002CB18C85FA2E3E63221139" import="1">Art/Graphics/Animations and Effects/Edited_Animations/edited_aim_ms_melee_attacks.dge</File>
+    <File md5="E538938BAD81B88082C8DF076514653E" import="1">Art/Graphics/Animations and Effects/Edited_Animations/edited_aim_ms_modern_ship_attacks.dge</File>
+    <File md5="DBFC96AE4406957395EC439CEFF8584A" import="1">Art/Graphics/Animations and Effects/Edited_Animations/edited_aim_ms_running_loop.dge</File>
+    <File md5="BD96EBE9953A41BD78D450DC26561AFC" import="1">Art/Graphics/Animations and Effects/Edited_Animations/edited_aim_ms_run_no_charge_loop.dge</File>
+    <File md5="91A772D3D07C64329ED801632EB689C7" import="1">Art/Graphics/Animations and Effects/Edited_Animations/edited_aim_ms_run_start_civilian.dge</File>
+    <File md5="C017AA3F2D83AAB3B6B939B6418071A3" import="1">Art/Graphics/Animations and Effects/Edited_Animations/edited_aim_ms_start_running.dge</File>
+    <File md5="34D584D857E6CBA51D87EE2FD6950EC6" import="1">Art/Graphics/Animations and Effects/Edited_Animations/edited_aim_ms_stop_running.dge</File>
+    <File md5="8D3450B63AF23F48CF9DEDC3B586B022" import="1">Art/Graphics/Animations and Effects/Edited_Animations/edited_aim_ms_stop_running_civilian.dge</File>
+    <File md5="500F6DEDBDB767CAE8C964DBEE647459" import="1">Art/Graphics/Animations and Effects/Edited_Animations/edited_aim_ms_transitions_for_idles.dge</File>
+    <File md5="A64E86033B61613B4F39979D5603E65F" import="1">Art/Graphics/Animations and Effects/Edited_Animations/edited_aim_running_loop.dge</File>
+    <File md5="E38EAF3E95C835B93C7E7849A7F4F23B" import="1">Art/Graphics/Animations and Effects/Edited_Animations/edited_aim_run_no_charge_loop.dge</File>
+    <File md5="9432853873B222F5AEF1CE53C1CD98DA" import="1">Art/Graphics/Animations and Effects/Edited_Animations/edited_aim_run_start_civilian.dge</File>
+    <File md5="BCF1F945C0CBE7A1C9F62E5B46F84F99" import="1">Art/Graphics/Animations and Effects/Edited_Animations/edited_aim_start_running.dge</File>
+    <File md5="7B0232A8BE345EB899FF221FBD7BDCFB" import="1">Art/Graphics/Animations and Effects/Edited_Animations/edited_aim_stop_running.dge</File>
+    <File md5="38B813F99CCD01B77FB798D2AFE91571" import="1">Art/Graphics/Animations and Effects/Edited_Animations/edited_aim_stop_running_civilian.dge</File>
+    <File md5="2506D6C118D6A9FB915723F731C95FD4" import="1">Art/Graphics/Animations and Effects/Edited_Animations/edited_aim_transitions_for_idles.dge</File>
+    <File md5="E38F763EEDD8E5CA2320278CC1641F42" import="1">Art/Graphics/Animations and Effects/Edited_Animations/edited_fx_triggers_antiair_vehicle_1gun.ftsxml</File>
+    <File md5="1091C411BFCA66D5EE74CEFFD6EE64DC" import="1">Art/Graphics/Animations and Effects/Edited_Animations/edited_fx_triggers_antiair_vehicle_2gun.ftsxml</File>
+    <File md5="948F20768997973457FAD6CF0F58645E" import="1">Art/Graphics/Animations and Effects/Edited_Animations/edited_fx_triggers_antiair_vehicle_3gun.ftsxml</File>
+    <File md5="76CCDC691B5CBE0C4F3A85BF0E796AA5" import="1">Art/Graphics/Animations and Effects/Edited_Animations/edited_fx_triggers_antiair_vehicle_4gun.ftsxml</File>
+    <File md5="EDA5989385F1C83D85AD44E2B8028A1E" import="1">Art/Graphics/Animations and Effects/Edited_Animations/edited_fx_triggers_artillery.ftsxml</File>
+    <File md5="AB180DC6BFF8E18757D23D554F80784A" import="1">Art/Graphics/Animations and Effects/Edited_Animations/edited_fx_triggers_battleship.ftsxml</File>
+    <File md5="15D16F16B2DA12C59E1DB7565EBAC0ED" import="1">Art/Graphics/Animations and Effects/Edited_Animations/edited_fx_triggers_battleship_4turret.ftsxml</File>
+    <File md5="57B853C5D7F32E9A1000E2F1341916A0" import="1">Art/Graphics/Animations and Effects/Edited_Animations/edited_fx_triggers_Cruiser.ftsxml</File>
+    <File md5="6E0AFDF33543EE37A4770E8903EF3DCB" import="1">Art/Graphics/Animations and Effects/Edited_Animations/edited_fx_triggers_destroyer.ftsxml</File>
+    <File md5="206D2B57E712C46A9B2B06BC024BA5F4" import="1">Art/Graphics/Animations and Effects/Edited_Animations/edited_fx_triggers_EarlyJet.ftsxml</File>
+    <File md5="DE8146AC44DE6C704F0728782C1AE500" import="1">Art/Graphics/Animations and Effects/Edited_Animations/edited_fx_triggers_EarlyTank_1gun.ftsxml</File>
+    <File md5="609CE0B64FB4B5781695009F0D913A51" import="1">Art/Graphics/Animations and Effects/Edited_Animations/edited_fx_triggers_EarlyTank_2gun.ftsxml</File>
+    <File md5="6903919CC91F1C38BC07B661FDCF73AB" import="1">Art/Graphics/Animations and Effects/Edited_Animations/edited_fx_triggers_fighter_2Propellers.ftsxml</File>
+    <File md5="57E688AF2606E958CA088BD229D43F5B" import="1">Art/Graphics/Animations and Effects/Edited_Animations/edited_fx_triggers_infantry.ftsxml</File>
+    <File md5="5B811AF5596286D7B6DAD0FE8E8FA53B" import="1">Art/Graphics/Animations and Effects/Edited_Animations/edited_fx_triggers_jetfighter.ftsxml</File>
+    <File md5="DD04F56BC976D1CC6D925C1677DCF2A2" import="1">Art/Graphics/Animations and Effects/Edited_Animations/edited_fx_triggers_Katyusha.ftsxml</File>
+    <File md5="A08730646EFA18C9E3385EE7D59EA9DC" import="1">Art/Graphics/Animations and Effects/Edited_Animations/edited_fx_triggers_modernarmor.ftsxml</File>
+    <File md5="6E33E758B853E1114BB487111B8FA075" import="1">Art/Graphics/Animations and Effects/Edited_Animations/edited_fx_triggers_paratrooper.ftsxml</File>
+    <File md5="212745C0D1059F32FAC334A46B790713" import="1">Art/Graphics/Animations and Effects/Edited_Animations/edited_fx_triggers_paratrooper_mg.ftsxml</File>
+    <File md5="108FD3B4BAAB4A605BF70CCD44F20E8B" import="1">Art/Graphics/Animations and Effects/Edited_Animations/edited_fx_triggers_tank.ftsxml</File>
+    <File md5="2B8DD37B99816431055263F820529E18" import="1">Art/Graphics/Animations and Effects/Edited_Animations/edited_fx_triggers_tank_lightfire.ftsxml</File>
+    <File md5="2C9B80EF7FD70EFAA250F616A4316DC2" import="1">Art/Graphics/Animations and Effects/Edited_Animations/edited_fx_triggers_tank_mg_1gun.ftsxml</File>
+    <File md5="CCEE19B5A0E7AE186838E1A5A0EE0D33" import="1">Art/Graphics/Animations and Effects/Edited_Animations/edited_fx_triggers_tank_mg_2gun.ftsxml</File>
+    <File md5="B233D27FC1FA1DB1127E263DC20D30DB" import="1">Art/Graphics/Animations and Effects/Edited_Animations/edited_mechanized_aim_state_01.fsmxml</File>
+    <File md5="75C5BA4CEC139C9EAFA47AE912EAB3EC" import="1">Art/Graphics/Animations and Effects/Edited_Animations/edited_modern_ship_aim_state_01.fsmxml</File>
+    <File md5="6DE978A414F244E9C869A692EE90D61B" import="0">Art/Graphics/Animations and Effects/[Readme].txt</File>
+    <File md5="9B286FD233E534E5D8BBF6E57CF07A3A" import="1">Art/Graphics/LegUhlan/LegUhlan.fxsxml</File>
+    <File md5="182D105BA3E5D1D7E131049A82AEFF11" import="1">Art/Graphics/LegUhlan/LegUhlan.gr2</File>
+    <File md5="1250685690F5AD9A91EAEEB61B7A289C" import="1">Art/Graphics/LegUhlan/LegUhlan.indiedefs</File>
+    <File md5="0522E315EA7D74B562400D0F9855DE74" import="1">Art/Graphics/LegUhlan/LegUhlan_diff.dds</File>
+    <File md5="E534838432164458A7D437E5BE3AC4F0" import="1">Art/Graphics/LegUhlan/LegUhlan_sref.dds</File>
+    <File md5="5895A8DBC8CB30FDEA335AE341BCE831" import="1">Art/Graphics/LegUhlan/sv_LegUhlan.dds</File>
+    <File md5="BB0485CA529E93BA2C40A94453652F85" import="1">Art/Graphics/PZL_P.23_Karas/PZL_P.23_Karas.dds</File>
+    <File md5="D58F7F4B49C42F4533A8247600A3B415" import="1">Art/Graphics/PZL_P.23_Karas/PZL_P.23_Karas.fxsxml</File>
+    <File md5="3365AA88BE89516C6EA8628EA00293D9" import="1">Art/Graphics/PZL_P.23_Karas/PZL_P.23_Karas.gr2</File>
+    <File md5="C51D95D858C7892A61516E396FB59FCE" import="1">Art/Graphics/PZL_P.23_Karas/PZL_P.23_Karas_2.dds</File>
+    <File md5="24CF5004E9FB0E1D93CF6BEE2A5771E6" import="1">Art/Graphics/PZL_P.23_Karas/PZL_P.23_Karas_gloss.dds</File>
+    <File md5="29C2B84A76F2D1C06EBDE7FE86C9FFC7" import="1">Art/Graphics/PZL_P.23_Karas/sv_PZL23.dds</File>
+    <File md5="4FA7D754E0CA9ACFC09A8051A4984A1B" import="1">Art/IconAtlas/JFD_LegUhlanUnitFlag_32.dds</File>
+    <File md5="CC7170BEE220F776D3320B09FD214C42" import="1">Art/IconAtlas/JFD_PolandPilsudskiAlphaAtlas_128.dds</File>
+    <File md5="C1E9868E8134E1722A0FF29F1CB34715" import="1">Art/IconAtlas/JFD_PolandPilsudskiAlphaAtlas_16.dds</File>
+    <File md5="062B03259C50B2B3FF3EB758020A6DC4" import="1">Art/IconAtlas/JFD_PolandPilsudskiAlphaAtlas_22.dds</File>
+    <File md5="F816527E9E418D130B254D3BCC9705BA" import="1">Art/IconAtlas/JFD_PolandPilsudskiAlphaAtlas_24.dds</File>
+    <File md5="82F62DD0A95FED84FBCA6FF50E1DE306" import="1">Art/IconAtlas/JFD_PolandPilsudskiAlphaAtlas_256.dds</File>
+    <File md5="F48D7C1B32B13C01301D8BFEF0E59C9E" import="1">Art/IconAtlas/JFD_PolandPilsudskiAlphaAtlas_32.dds</File>
+    <File md5="61ACA48D771EC135C080C42D53ACC7B6" import="1">Art/IconAtlas/JFD_PolandPilsudskiAlphaAtlas_45.dds</File>
+    <File md5="0C3DCB375BE9E07E7DE98D98BDB65B32" import="1">Art/IconAtlas/JFD_PolandPilsudskiAlphaAtlas_48.dds</File>
+    <File md5="4F848F080B86B9E00CF2C7B1251B3359" import="1">Art/IconAtlas/JFD_PolandPilsudskiAlphaAtlas_64.dds</File>
+    <File md5="7F94FEE50BDB9DD69AF2617CD3407502" import="1">Art/IconAtlas/JFD_PolandPilsudskiAlphaAtlas_80.dds</File>
+    <File md5="DD638F97805F487D955D4F1540B5128C" import="1">Art/IconAtlas/JFD_PolandPilsudskiAtlas_128.dds</File>
+    <File md5="291FA9753EB6A63CF90C6AC484B0BE04" import="1">Art/IconAtlas/JFD_PolandPilsudskiAtlas_256.dds</File>
+    <File md5="3B570ACB91607208E78EAE3B702BB080" import="1">Art/IconAtlas/JFD_PolandPilsudskiAtlas_32.dds</File>
+    <File md5="3585D7AD12A187993EA1C9941B86E711" import="1">Art/IconAtlas/JFD_PolandPilsudskiAtlas_45.dds</File>
+    <File md5="7F201CE2C5B470522503BFB259E8BED1" import="1">Art/IconAtlas/JFD_PolandPilsudskiAtlas_64.dds</File>
+    <File md5="7AEAB959143376B6DB03BFB70C9DE07B" import="1">Art/IconAtlas/JFD_PolandPilsudskiAtlas_80.dds</File>
+    <File md5="AB38579707D1265C5A369EAB1DF60ADC" import="1">Art/IconAtlas/JFD_PZL23UnitFlag_32.dds</File>
+    <File md5="378327659DFACCC49AF33A08AB2E304B" import="1">Art/Map/Pilsudski_DOM.dds</File>
+    <File md5="60B953D1895ABF2537F6E669F33511FC" import="1">Art/Map/PolandPilsudskiMap512.dds</File>
+    <File md5="096A6224302FDE973ACA2C036F3C0BE6" import="1">Audio/Pilsudski_Peace.mp3</File>
+    <File md5="184488C4581D4F492E96797AC876CF8B" import="1">Audio/Pilsudski_War.mp3</File>
+    <File md5="FF9C56D406598D64BFB296CF5E02B6A0" import="0">Core/ArtDefines.sql</File>
+    <File md5="463F66187056FB397DEC6FE463E18CED" import="0">Core/GameDefines.sql</File>
+    <File md5="2B5E60C41D27AD398BBA06E71CAD849C" import="0">Core/GameDefines_Diplomacy.sql</File>
+    <File md5="894E62BAD5759EE9E13D813D122B411A" import="0">Core/GameDefines_ModSupport.sql</File>
+    <File md5="ADD55D19924A35B62C509A08E32CCE04" import="0">Core/GameText.xml</File>
+    <File md5="1F4B49A31A2CC47894BC8261A131BC65" import="0">Core/GameText_Diplomacy.xml</File>
+    <File md5="C2847FECB815018EE3CE0F3630A59217" import="0">Core/GameText_ModSupport.xml</File>
+    <File md5="3665EA7314EC7714D3F5520365D7702A" import="0">DeleteMissingReferences.xml</File>
+    <File md5="47BC6D6F9CCDB4B66676190A8908674A" import="1">Lua/JFD_PolandPilsudskiDecisions.lua</File>
+    <File md5="969201D3A9CFA159C17A4E8DBAC0E3BD" import="1">Lua/JFD_PolandPilsudskiEvents.lua</File>
+    <File md5="47AE16343499B652E3B9017B5E9AAD2D" import="0">Lua/JFD_PolandPilsudskiFunctions.lua</File>
+    <File md5="86C1C3EDCE4699DE320A932C4E70E22C" import="0">Lua/Sukritact's MCIS/CityInfoStack.lua</File>
+    <File md5="120EB71025973A8A48B38314241DD0B3" import="0">Lua/Sukritact's MCIS/CityInfoStack.xml</File>
+    <File md5="188AD416B094AFF01361CC68FA88DA9A" import="0">Lua/Sukritact's MCIS/JFD_PolandPilsudskiCityInfo.lua</File>
+    <File md5="BA275E749F0F6E2712FA5F683CEB9288" import="0">Lua/Sukritact's MCIS/JFD_PolandPilsudskiCityInfo.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Core/ArtDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Core/GameDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Core/GameDefines_Diplomacy.sql</UpdateDatabase>
+      <UpdateDatabase>Core/GameDefines_ModSupport.sql</UpdateDatabase>
+      <UpdateDatabase>Core/GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/GameText_Diplomacy.xml</UpdateDatabase>
+      <UpdateDatabase>Core/GameText_ModSupport.xml</UpdateDatabase>
+      <UpdateDatabase>DeleteMissingReferences.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/Sukritact's MCIS/CityInfoStack.lua">
+      <Name>Sukritact's MCIS</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/Sukritact's MCIS/JFD_PolandPilsudskiCityInfo.lua">
+      <Name>JFD_PolandPilsudskiCityInfo</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/JFD_PolandPilsudskiFunctions.lua">
+      <Name>JFD_PolandPilsudskiFunctions</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

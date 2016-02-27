@@ -1,0 +1,121 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="1cf92123-3e7f-4239-82a7-9efd4cd3e521" version="3">
+  <Properties>
+    <Name>JFD's The Kingdom of Bohemia</Name>
+    <Teaser>Adds the [COLOR_POSITIVE_TEXT]The Kingdom of Bohemia[ENDCOLOR] with Vaclav II to the game.</Teaser>
+    <Description>See CivFanatics or Steam Workshop for full details.</Description>
+    <Authors>JFD, Janboruta, Leugi</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References>
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="JFD's Cultural Diversity (Core)" />
+    <Mod id="eea66053-7579-481a-bb8d-2f3959b59974" minversion="0" maxversion="999" title="JFD’s Piety" />
+    <Mod id="1f941088-b185-4159-865c-472df81247b2" minversion="0" maxversion="999" title="Sukritact’s Events &amp; Decisions" />
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="Yet (not) Another Earth Map Pack" />
+    <Mod id="e576894a-ed2b-4033-be14-ed1c8ceb81d3" minversion="0" maxversion="999" title="Map Labels" />
+    <Mod id="7fdd72a5-d4ae-441c-bc4e-2e3d2a26cff4" minversion="0" maxversion="999" title="Ethnic Units" />
+    <Mod id="8670da15-d435-44ea-9758-7438cb321411" minversion="0" maxversion="999" title="R.E.D. Modpack" />
+    <Mod id="1153b26a-69fd-4cd5-899c-a8ba8e0e5e5d" minversion="0" maxversion="999" title="Civ IV Leader Traits in Civ V" />
+    <Mod id="a19351c5-c0b3-4b07-8695-4affaa199949" minversion="0" maxversion="999" title="JFD’s and Pouakai’s Mercenaries" />
+    <Mod id="6676902b-b907-45f1-8db5-32dcb2135eee" minversion="0" maxversion="999" title="JFD's Exploration Continued Expanded" />
+    <Mod id="8411a7a8-dad3-4622-a18e-fcc18324c799" minversion="0" maxversion="999" title="Community Balance Patch" />
+    <Mod id="d1b6328c-ff44-4b0d-aad7-c657f83610cd" minversion="0" maxversion="999" title="Community Patch" />
+    <Mod id="10e9728f-d61c-4317-be4f-7d52d6bae6f4" minversion="0" maxversion="999" title="JFD's Cities in Development" />
+    <Mod id="6010e6f6-918e-48b8-9332-d60783bd8fb5" minversion="0" maxversion="999" title="Historical Religions Complete (BNW or GK)" />
+    <Mod id="20dd5230-df95-4722-9043-385fe8b90de6" minversion="0" maxversion="999" title="Medieval Heresies" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="497EE2703E240B5F0D20A6E7E0BEEB1E" import="1">Art/Diplomacy/Vaclav_diplo.dds</File>
+    <File md5="3D227DE55D766B9B668F6190D6F75ADA" import="1">Art/Diplomacy/Vaclav_Scene.xml</File>
+    <File md5="B3EE62E3AEA1E542A65CEFC326960855" import="1">Art/Graphics/Tabor/bohemian_tabor.gr2</File>
+    <File md5="D48CE0162A6C5D1A3E9BF6EDFA2C142E" import="1">Art/Graphics/Tabor/flag_Tabor_32.dds</File>
+    <File md5="B2E09E60F5919541A01AA828FC047498" import="1">Art/Graphics/Tabor/sv_Tabor.dds</File>
+    <File md5="69653871B5A873178EDA982CC2BE075F" import="1">Art/Graphics/Tabor/tabor.fxsxml</File>
+    <File md5="61EA5CD8EF74B5F295B812C3434D2335" import="1">Art/Graphics/Tabor/tabor_diff.dds</File>
+    <File md5="CF9EC3E076BB29AE0D0D94BF5A5761F2" import="1">Art/Graphics/Tabor/tabor_sref.dds</File>
+    <File md5="A9C9644D9F5929513BCC12D0D3024ABF" import="1">Art/Icon Atlas/JFD_BohemiaAlphaAtlas_128.dds</File>
+    <File md5="6229A9C3E1F5977FE7BEA2BF2F32C307" import="1">Art/Icon Atlas/JFD_BohemiaAlphaAtlas_16.dds</File>
+    <File md5="83C6086EBF440232DF14FC916BB71A3D" import="1">Art/Icon Atlas/JFD_BohemiaAlphaAtlas_24.dds</File>
+    <File md5="947A9CD079B47CD84F9F9A10B0DE6A78" import="1">Art/Icon Atlas/JFD_BohemiaAlphaAtlas_32.dds</File>
+    <File md5="9929AD5D6646D07FADD4726FC7E94750" import="1">Art/Icon Atlas/JFD_BohemiaAlphaAtlas_45.dds</File>
+    <File md5="AB63C0948B88B4B28B59C4DED812A3BD" import="1">Art/Icon Atlas/JFD_BohemiaAlphaAtlas_48.dds</File>
+    <File md5="E494431507EAE6880E5EB8CE828E96AE" import="1">Art/Icon Atlas/JFD_BohemiaAlphaAtlas_64.dds</File>
+    <File md5="16BA779B64BE117A064D7F571E5689A9" import="1">Art/Icon Atlas/JFD_BohemiaAlphaAtlas_80.dds</File>
+    <File md5="48F2C146405855126FA79616BDCF7DB8" import="1">Art/Icon Atlas/JFD_BohemiaAtlas_128.dds</File>
+    <File md5="96EDAE7B97B67C9307D457D9AD8B162E" import="1">Art/Icon Atlas/JFD_BohemiaAtlas_256.dds</File>
+    <File md5="26BCB06D65B2A25010E2A2FCABA30EFC" import="1">Art/Icon Atlas/JFD_BohemiaAtlas_32.dds</File>
+    <File md5="92B0F4509BF2F486426F23447034BD82" import="1">Art/Icon Atlas/JFD_BohemiaAtlas_45.dds</File>
+    <File md5="DB8F6F2ED7CD662335C8220C87FCC76A" import="1">Art/Icon Atlas/JFD_BohemiaAtlas_64.dds</File>
+    <File md5="5EB6F0E79A8848446CB1DD691628302F" import="1">Art/Icon Atlas/JFD_BohemiaAtlas_80.dds</File>
+    <File md5="79526C7D508CE31778DD20EB5EDFD888" import="1">Art/Images/Event_Bohemia_CzechLanguage.dds</File>
+    <File md5="2CB995698590B918072B3FE4C0164918" import="1">Art/Images/Event_Bohemia_Defenestration.dds</File>
+    <File md5="AD7E6510A50876A26CA740D89F105201" import="1">Art/Map/DOM_Vaclav.dds</File>
+    <File md5="FB630D02B2B87789EB1A4357D56459CA" import="1">Art/Map/MapBohemia512.dds</File>
+    <File md5="DAEC12D39992216C93C17ED07A4DC2F2" import="1">Audio/Vaclav_Peace.mp3</File>
+    <File md5="AE792596519C2EEA5F2B6820260ADA09" import="1">Audio/Vaclav_War.mp3</File>
+    <File md5="C86C10CDA735EAF2E319939FDA76047F" import="0">Core/Bohemia_ArtDefines.sql</File>
+    <File md5="B7574AE349846EC173F18C21E04C0A12" import="0">Core/Bohemia_GameDefines.sql</File>
+    <File md5="0AD909CC1887BCCFBA6A2D2142E6D70A" import="0">Core/Bohemia_GameDefines_Diplomacy.sql</File>
+    <File md5="4D1D2E1F42E3ACE9C8C9123B405996C6" import="0">Core/Bohemia_GameDefines_ModSupport.sql</File>
+    <File md5="4ADF12ED5C29C95A0056BF5D4055CAD4" import="0">Core/Bohemia_GameText.xml</File>
+    <File md5="0F31106128B1749E08EDBD51F4BE52D9" import="0">Core/Bohemia_GameText_Diplomacy.xml</File>
+    <File md5="A7FA5BB0CDCD9337DFEFF59B9C78C728" import="0">Core/Bohemia_GameText_ModSupport.xml</File>
+    <File md5="3665EA7314EC7714D3F5520365D7702A" import="0">DeleteMissingReferences.xml</File>
+    <File md5="843FA263ABB8461D8F7AC7862BAA96D3" import="1">Lua/JFD_Bohemia_Decisions.lua</File>
+    <File md5="E2C1406A6341218729501FF83F1D97B2" import="1">Lua/JFD_Bohemia_Events.lua</File>
+    <File md5="D415CC2EB2569A6943A520AF5D287DE2" import="0">Lua/JFD_Bohemia_Functions.lua</File>
+    <File md5="5244308719C5B41D37E35BCE6F354D41" import="1">Lua/Utilities/PlotIterators.lua</File>
+    <File md5="86C1C3EDCE4699DE320A932C4E70E22C" import="0">Lua/Utilities/Sukritact MCIS/CityInfoStack.lua</File>
+    <File md5="120EB71025973A8A48B38314241DD0B3" import="0">Lua/Utilities/Sukritact MCIS/CityInfoStack.xml</File>
+    <File md5="E6FD1EB2B02360FB5585242F8929589E" import="0">Lua/Utilities/Sukritact MCIS/JFD_Bohemia_CityInfo.lua</File>
+    <File md5="73DD2B07D1C5319E819B0F866C3BEDC2" import="0">Lua/Utilities/Sukritact MCIS/JFD_Bohemia_CityInfo.xml</File>
+    <File md5="39F271A6F4B6A745B8CD9B97FF819FE5" import="0">Lua/Utilities/Sukritact MCIS/JFD_Bohemia_Tabor_CityInfo.lua</File>
+    <File md5="0BCFFCF467336AAFEAA329EBA1139E57" import="0">Lua/Utilities/Sukritact MCIS/JFD_Bohemia_Tabor_CityInfo.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Core/Bohemia_ArtDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Bohemia_GameDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Bohemia_GameDefines_Diplomacy.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Bohemia_GameDefines_ModSupport.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Bohemia_GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Bohemia_GameText_Diplomacy.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Bohemia_GameText_ModSupport.xml</UpdateDatabase>
+      <UpdateDatabase>DeleteMissingReferences.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/JFD_Bohemia_Functions.lua">
+      <Name>JFD_Bohemia_Functions</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/Utilities/Sukritact MCIS/CityInfoStack.lua">
+      <Name>Sukritact MCIS</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/Utilities/Sukritact MCIS/JFD_Bohemia_CityInfo.lua">
+      <Name>JFD_Bohemia_CityInfo</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/Utilities/Sukritact MCIS/JFD_Bohemia_Tabor_CityInfo.lua">
+      <Name>JFD_BohemiaTabor_CityInfo</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

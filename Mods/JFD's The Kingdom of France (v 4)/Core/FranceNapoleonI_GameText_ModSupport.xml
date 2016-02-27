@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 11/23/2013 1:27:25 PM -->
+<GameData>
+	<Language_en_US>
+		<!--POUAKAI ENLIGHTENMENT ERA-->
+		<Row Tag="TXT_KEY_UNIT_JFD_IMPERIAL_GUARD_STRATEGY_EE">
+			<Text>The Imperial Guard is the Napoleonic replacement for the Line Infantry. Unlike the regular Line Infantry, the Imperial Guard is stronger, though it also takes longer to build. It increases the amount of points generated toward Great Generals from combat. It also begins with additional XP if trained in a city with a Courthouse.</Text>
+		</Row>
+		<!--RYOGA UNIQUE CULTURAL INFLUENCE-->
+		<Row Tag="TXT_KEY_GENERIC_JFD_FRANCE_NAPOLEON_INFLUENTIAL_ON_AI_1">
+			<Text>Our people are now demanding that their civil liberties be held and their merits honoured. I worry the rest of the world will also succumb to the influence of your culture.</Text>
+		</Row>
+		<!--SUKRITACT's DECISIONS-->
+		<!--Compile Code Civil de Francais-->
+		<Row Tag="TXT_KEY_DECISIONS_JFD_FRANCE_NAPOLEON_CIVIL_CODE">
+			<Text>Compile the Code Civil de Francais</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JFD_FRANCE_NAPOLEON_CIVIL_CODE_DESC">
+			<Text>
+				Now that we have asserted over dominance over France, it is time to overturn its outdated law codes. No man should be privileged by birth. No man should be prohibited from practicing what religion he wills. And the government should be a matter of merit, not popularity or wealth.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be France
+				[NEWLINE][ICON_BULLET]Player must have enacted the "Codify Laws" decision
+				[NEWLINE][ICON_BULLET]May only be enacted from the beginning of the Renaissance Era
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Num} [ICON_CULTURE] Culture
+				[NEWLINE][ICON_BULLET]1 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]+1 [ICON_HAPPINESS_1] Happiness and +2 [ICON_CULTURE] Culture from Courthouses
+				[NEWLINE][NEWLINE][COLOR_NEGATIVE_TEXT]Note: The [ICON_CULTURE] Culture cost increases for every Courthouse in the empire[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JFD_FRANCE_NAPOLEON_CIVIL_CODE_ENACTED_DESC">
+			<Text>
+				Now that we have asserted over dominance over France, it is time to overturn its outdated law codes. No man should be privileged by birth. No man should be prohibited from practicing what religion he wills. And the government should be a matter of merit, not popularity or wealth.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]+1 [ICON_HAPPINESS_1] Happiness and +2 [ICON_CULTURE] Culture from Courthouses
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WORLD_EVENTS_JFD_FRANCE_NAPOLEON_CIVIL_CODE">
+			<Text>{1_LeaderName} of {2_CivName} has compiled the Code Civil de Francais, advocating a system of meritocracy over a system of peerage.</Text>
+		</Row>
+		<!-- SUKRITACT's EVENTS -->
+		<!-- Vendée Rebellion -->
+		<Row Tag="TXT_KEY_EVENT_JFD_FRANCE_NAPOLEON_VENDEE">
+			<Text>Vendée Rebellion</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_FRANCE_NAPOLEON_VENDEE_DESC">
+			<Text>
+				Rebellion has broken out in the city of {1_CityName}. The rebellion, calling itself a "counter-revolution" and decrying the legitimacy of our rule, seeks to displace our leadership and install a King in our place.[NEWLINE]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_FRANCE_NAPOLEON_VENDEE_OUTCOME_1">
+			<Text>We must crush this rebellion swiftly.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_FRANCE_NAPOLEON_VENDEE_OUTCOME_RESULT_1">
+			<Text>[ICON_BULLET][COLOR_NEGATIVE_TEXT]{1_CityName} comes under rebel control[ENDCOLOR][NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]3 free Military Units spawn in the [ICON_CAPITAL] Capital[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_FRANCE_NAPOLEON_VENDEE_OUTCOME_RESULT_1_NOTIFICATION">
+			<Text>A rebellion has begun in the city of {1_CityName}.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WORLD_EVENT_JFD_FRANCE_NAPOLEON_VENDEE">
+			<Text>A rebellion has broken out in the French city of {1_CityName}, where royalists seek to displace {2_LeaderName} with a King of their own.</Text>
+		</Row>
+		<!-- Turncoat Diplomat -->
+		<Row Tag="TXT_KEY_EVENT_JFD_FRANCE_NAPOLEON_FOREIGN_AFFAIRS">
+			<Text>Turncoat Diplomat</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_FRANCE_NAPOLEON_FOREIGN_AFFAIRS_DESC">
+			<Text>
+				Our minister of Foreign Affairs, Charles-Maurice de Talleyrand, has traded in his loyalties to us for a lofty title in the court of {1_LeaderName}. This is perhaps for the best, as Talleyrand is a well-known snake, with a personality as pleasant as manure in silk stockings. But this does mean we must choose a new Minister.[NEWLINE]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_FRANCE_NAPOLEON_FOREIGN_AFFAIRS_OUTCOME_1">
+			<Text>Appoint the Duke of Richelleu as the new minister.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_FRANCE_NAPOLEON_FOREIGN_AFFAIRS_OUTCOME_RESULT_1">
+			<Text>[ICON_BULLET][COLOR_POSITIVE_TEXT]+10% [ICON_PRODUCTION] Production of Mounted Units in the empire[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_FRANCE_NAPOLEON_FOREIGN_AFFAIRS_OUTCOME_RESULT_1_NOTIFICATION">
+			<Text>We have chosen the Duke of Richelleu as the new minister of Foreign Affairs.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_FRANCE_NAPOLEON_FOREIGN_AFFAIRS_OUTCOME_2">
+			<Text>Appoint the Duke of Vicenza as the new minister.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_FRANCE_NAPOLEON_FOREIGN_AFFAIRS_OUTCOME_RESULT_2">
+			<Text>[ICON_BULLET][COLOR_POSITIVE_TEXT]+10% [ICON_PRODUCTION] Production of Gun Units in the empire[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_FRANCE_NAPOLEON_NAPOLEON_AFFAIRS_OUTCOME_RESULT_2_NOTIFICATION">
+			<Text>We have chosen the Duke of Vicenza as the new minister of Foreign Affairs.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_FRANCE_NAPOLEON_FOREIGN_AFFAIRS_OUTCOME_3">
+			<Text>Appoint Admiral de Champagny as the new minister.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_FRANCE_NAPOLEON_FOREIGN_AFFAIRS_OUTCOME_RESULT_3">
+			<Text>[ICON_BULLET][COLOR_POSITIVE_TEXT]+10% [ICON_PRODUCTION] Production of Naval Units in the empire[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_FRANCE_NAPOLEON_NAPOLEON_AFFAIRS_OUTCOME_RESULT_3_NOTIFICATION">
+			<Text>We have chosen Admiral de Champagny as the new minister of Foreign Affairs.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_FRANCE_NAPOLEON_FOREIGN_AFFAIRS_OUTCOME_4">
+			<Text>Appoint Charles-Frédéric Reinhard as the new minister.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_FRANCE_NAPOLEON_FOREIGN_AFFAIRS_OUTCOME_RESULT_4">
+			<Text>[ICON_BULLET][COLOR_POSITIVE_TEXT]+5% [ICON_PRODUCTION] Production of Buildings in the empire[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_FRANCE_NAPOLEON_FOREIGN_AFFAIRS_OUTCOME_RESULT_4_NOTIFICATION">
+			<Text>We have chosen Charles-Frédéric Reinhard as the new minister of Foreign Affairs.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

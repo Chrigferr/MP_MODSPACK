@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 11/23/2013 1:27:25 PM -->
+<GameData>
+	<Language_en_US>
+		<!-- JFD's EXPLORATION CONTINUED EXPANDED -->
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_PAPAL_STATES_01">
+			<Text>Roma Nova</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_PAPAL_STATES_02">
+			<Text>Fidelitas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_PAPAL_STATES_03">
+			<Text>Misericordia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_PAPAL_STATES_04">
+			<Text>Mons Palatinus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_PAPAL_STATES_05">
+			<Text>Hierosolyma</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_PAPAL_STATES_06">
+			<Text>Transfiguratio</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_PAPAL_STATES_07">
+			<Text>Salvatio</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_PAPAL_STATES_08">
+			<Text>Confidentio</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_PAPAL_STATES_09">
+			<Text>Veritas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_PAPAL_STATES_10">
+			<Text>Fides</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_PAPAL_STATES_11">
+			<Text>Resurrectio</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_PAPAL_STATES_12">
+			<Text>Missio</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_PAPAL_STATES_13">
+			<Text>Corpus Christi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_PAPAL_STATES_14">
+			<Text>Redemptio</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_PAPAL_STATES_15">
+			<Text>Gloria</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_PAPAL_STATES_16">
+			<Text>Fatima</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_PAPAL_STATES_17">
+			<Text>Paenitentia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_PAPAL_STATES_18">
+			<Text>Confessio</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_PAPAL_STATES_19">
+			<Text>Malleus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_PAPAL_STATES_20">
+			<Text>Opus Dei</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_PAPAL_STATES_21">
+			<Text>Campus Mariorum</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_PAPAL_STATES_22">
+			<Text>Sanctus Petrus</Text>
+		</Row>
+		<!--RYOGA'S UNIQUE CULTURAL INFLUENCE-->
+		<Row Tag="TXT_KEY_GENERIC_JFD_PAPAL_STATES_INFLUENTIAL_ON_AI_1">
+			<Text>Our people are now practicing your liturgies and donating their money to your Church. I worry the rest of the world will also succumb to the influence of your culture.</Text>
+		</Row>
+		<!-- SUKRITACT's DECISIONS -->
+		<!--Declare the Kingdom of God-->
+		<Row Tag="TXT_KEY_DECISIONS_JFD_PAPAL_STATES_KINGDOM_OF_GOD">
+			<Text>Declare the Kingdom of God</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JFD_PAPAL_STATES_KINGDOM_OF_GOD_DESC">
+			<Text>
+				Ours is a state conceived of piety and virtue, and for ages past the Papal States have maintained its God-fearing reverence. It is time that we declare ourselves the Kingdom of God on Earth, and truly make our authority on matters of faith known throughout the world.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be the Papal States
+				[NEWLINE][ICON_BULLET]Player must have founded a religion
+				[NEWLINE][ICON_BULLET]Religious unity must be at least 90% (religious unity is currently {1_Unity}%)
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{2_Gold} [ICON_GOLD] Gold
+				[NEWLINE][ICON_BULLET]{3_Faith} [ICON_PEACE] Faith
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Receive +2 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE][ICON_BULLET]Receive two free Disciples
+				[NEWLINE][ICON_BULLET]Your empire becomes known as the Kingdom of God
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JFD_PAPAL_STATES_KINGDOM_OF_GOD_ENACTED_DESC">
+			<Text>
+				Ours is a state conceived of piety and virtue, and for ages past the Papal States have maintained it's God-fearing reverence. It is time that we declare ourselves the Kingdom of God on Earth, and truly make our authority on matters of faith known throughout the world.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Receive +2 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE][ICON_BULLET]Receive two free Disciples
+				[NEWLINE][ICON_BULLET]Your empire becomes known as the Kingdom of God
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_PAPAL_STATES_KINGDOM_OF_GOD_DESC">
+			<Text>The Kingdom of God</Text>
+			<Plurality>2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_WORLD_EVENT_JFD_PAPAL_KINGDOM_OF_GOD">
+			<Text>Pius IX has declared the Papal States to be the Kingdom of God on Earth.</Text>
+		</Row>
+		<!--Institute the Societas Jesu-->
+		<Row Tag="TXT_KEY_DECISIONS_JFD_PAPAL_STATES_SOCIETAS_JESU">
+			<Text>Institute the Societas Jesu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JFD_PAPAL_STATES_SOCIETAS_JESU_DESC">
+			<Text>
+				Heretics and Heathens, Infidels and Blasphemers! These wretches infest this world like a plague, and have diluted the message of our Holy Mother Church. Let us make it our active mission to counter the false words being spread throughout the world by institutionalising the Society of Jesus and its members; the Jesuits.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be the Papal States
+				[NEWLINE][ICON_BULLET]Player must have founded a religion
+				[NEWLINE][ICON_BULLET]All religions must have been founded
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Faith} [ICON_PEACE] Faith
+				[NEWLINE][ICON_BULLET]1 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]50% of your [ICON_CITIZEN] Population is converted to your {2_ReligionType} each turn
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JFD_PAPAL_STATES_SOCIETAS_JESU_ENACTED_DESC">
+			<Text>
+				Heretics and Heathens, Infidels and Blasphemers! These wretches infest this world like a plague, and have diluted the message of our Holy Mother Church. Let us make it our active mission to counter the false words being spread throughout the world by institutionalising the Society of Jesus and its members; the Jesuits[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]50% of your [ICON_CITIZEN] Population is converted to your {2_ReligionType} each turn
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WORLD_EVENT_JFD_PAPAL_JESUITS">
+			<Text>Pius IX of the Papal States has instituted the Society of Jesus to counter mass heresies throughout the world.</Text>
+		</Row>
+		<!-- SUKRITACT's EVENTS -->
+		<!-- Banquet of Chestnuts -->
+		<Row Tag="TXT_KEY_EVENT_JFD_PAPAL_STATES_BANQUET_CHESTNUTS">
+			<Text>Banquet of Chestnuts</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_PAPAL_STATES_BANQUET_CHESTNUTS_DESC">
+			<Text>
+				High-ranking members of our faith have begun to fall into discord with the Holy Mother Church, and their loyalty to Our Papal ring have been put to question. One of our - ahem - good friends has put to us a novel idea that would ensure the loyalty of our elite. It shall be a great banquet of debachuery, and all acts of sin and vice committed by the clergy shall be recorded for the good keeping of Our Holy Office.[NEWLINE]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_PAPAL_STATES_BANQUET_CHESTNUTS_OUTCOME_1">
+			<Text>Spare no expense.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_PAPAL_STATES_BANQUET_CHESTNUTS_OUTCOME_RESULT_1">
+			<Text>[ICON_BULLET][COLOR_NEGATIVE_TEXT]Lose {1_Num} [ICON_GOLD] Gold[NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]Gain {1_Num} [ICON_GOLDEN_AGE] Golden Age points[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_PAPAL_STATES_BANQUET_CHESTNUTS_OUTCOME_RESULT_1_NOTIFICATION">
+			<Text>We have funded the Banquet of Chestnuts, and have tallied the sins of our religious elite. Should they ever think of crossing us, their sins will be made public, and their family name permanently scarred.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_PAPAL_STATES_BANQUET_CHESTNUTS_OUTCOME_2">
+			<Text>This is a foolish idea.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_PAPAL_STATES_BANQUET_CHESTNUTS_OUTCOME_RESULT_2">
+			<Text>[ICON_BULLET][COLOR_POSITIVE_TEXT]Gain {1_Num} [ICON_PEACE] Faith[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_PAPAL_STATES_BANQUET_CHESTNUTS_OUTCOME_RESULT_2_NOTIFICATION">
+			<Text>We have decided against funding the Banquet of Chestnuts.</Text>
+		</Row>
+		<!-- Inqusition -->
+		<Row Tag="TXT_KEY_EVENT_JFD_PAPAL_STATES_INQUSITION">
+			<Text>Inqusition</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_PAPAL_STATES_INQUSITION_DESC">
+			<Text>
+				Foul blasphemies permeate {1_CityName} like a plague and it weakens the image of our Holy Mother Church. One of our religious elite have proposed an inqusition upon the city, to cleasnse away the vestiges of filth and sin that riddle that befoul it.[NEWLINE]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_PAPAL_STATES_INQUSITION_OUTCOME_1">
+			<Text>I cannot spare Church funds on this Inqusition.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_PAPAL_STATES_INQUSITION_OUTCOME_2">
+			<Text>Yes, this city must be cleansed.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_PAPAL_STATES_INQUSITION_OUTCOME_RESULT_1">
+			<Text>[ICON_BULLET][COLOR_NEGATIVE_TEXT]Nothing[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_PAPAL_STATES_INQUSITION_OUTCOME_RESULT_2">
+			<Text>[ICON_BULLET][COLOR_NEGATIVE_TEXT]Lose {1_Num} [ICON_GOLD] Gold[ENDCOLOR][NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]All [ICON_CITIZEN] Citizens of {2_CityName} are converted to {3_ReligionName}[NEWLINE][ICON_BULLET]Gain {4_Num} {5_YieldType}[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_PAPAL_STATES_INQUSITION_OUTCOME_RESULT_1_NOTIFICATION">
+			<Text>We have declined to fund an inqusition into the city of {1_CityName}.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_PAPAL_STATES_INQUSITION_OUTCOME_RESULT_2_NOTIFICATION">
+			<Text>We have agreed to fund an inqusition into the city of {1_CityName}, and have cleansed the city of its heresies.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

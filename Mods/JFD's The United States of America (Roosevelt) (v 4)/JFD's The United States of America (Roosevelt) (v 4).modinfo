@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="5ec025ba-0f14-46f8-8f01-375dfaf7d027" version="4">
+  <Properties>
+    <Name>JFD's The United States of America (Roosevelt)</Name>
+    <Teaser>Adds the [COLOR_POSITIVE_TEXT]the United States of America[ENDCOLOR] with Franklin D. Roosevelt to the game.</Teaser>
+    <Description>See Steam Workshop or CivFanatics for full details.</Description>
+    <Authors>JFD, Janboruta, Leugi</Authors>
+    <SpecialThanks>TheLaughingCat2, DonStamos</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies>
+    <Dlc id="6DA07636-4123-4018-B643-6575B4EC336B" minversion="0" maxversion="999" />
+  </Dependencies>
+  <References>
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="Yet (not) Another Earth Maps Pack" />
+    <Mod id="1f941088-b185-4159-865c-472df81247b2" minversion="0" maxversion="999" title="Events and Decisions" />
+    <Mod id="7fdd72a5-d4ae-441c-bc4e-2e3d2a26cff4" minversion="0" maxversion="999" title="Ethnic Units" />
+    <Mod id="d60c32bd-6826-4ca3-8161-2e37ebab5883" minversion="0" maxversion="999" title="Protestant Denominations" />
+    <Mod id="2f0b6cd7-3bf5-4197-96f6-96c00787ef18" minversion="0" maxversion="999" title="Christianity Merge" />
+    <Mod id="6bc3cb6e-a697-491e-9347-5e3e02640f00" minversion="0" maxversion="999" title="Historical Religions Edit" />
+    <Mod id="8c101299-95c5-4b28-b7ed-4e0f774857ef" minversion="0" maxversion="999" title="Historical Religions" />
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="JFD's Cultural Diversity (Core)" />
+    <Mod id="eea66053-7579-481a-bb8d-2f3959b59974" minversion="0" maxversion="999" title="JFD’s Piety &amp; Prestige" />
+    <Mod id="8670da15-d435-44ea-9758-7438cb321411" minversion="0" maxversion="999" title="R.E.D. Modpack" />
+    <Mod id="43868e8d-de88-48a1-a8d9-ce144e07f5e0" minversion="0" maxversion="999" title="JFD's Exploration Continued Expanded" />
+    <Mod id="8411a7a8-dad3-4622-a18e-fcc18324c799" minversion="0" maxversion="999" title="Community Balance Patch" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="C155B34E5888980A6B9BE3BE5A08DBD0" import="1">Art/Diplomacy/Roosevelt_diplo.dds</File>
+    <File md5="0BA67FA7FB35A31345D24FF0DC8DCF98" import="1">Art/Diplomacy/Roosevelt_Scene.xml</File>
+    <File md5="687C44D8570D889355BC7D421CC414C9" import="1">Art/IconAtlas/JFD_AmericaRooseveltAlphaAtlas_128.dds</File>
+    <File md5="FD8928A46156BC9A937C40F9A5CBF4EE" import="1">Art/IconAtlas/JFD_AmericaRooseveltAlphaAtlas_16.dds</File>
+    <File md5="47DBE4C816B66B8791ED344665079213" import="1">Art/IconAtlas/JFD_AmericaRooseveltAlphaAtlas_22.dds</File>
+    <File md5="4CF69EF5673CDFBA089CA60D7A29E0E7" import="1">Art/IconAtlas/JFD_AmericaRooseveltAlphaAtlas_24.dds</File>
+    <File md5="080F8E2ED68A2F25A245125347FDDBF0" import="1">Art/IconAtlas/JFD_AmericaRooseveltAlphaAtlas_32.dds</File>
+    <File md5="FA49C3914AEF10A26C35E1FAC82A76D0" import="1">Art/IconAtlas/JFD_AmericaRooseveltAlphaAtlas_45.dds</File>
+    <File md5="528940E84F38AF9C5FA4A3D7539BA0DE" import="1">Art/IconAtlas/JFD_AmericaRooseveltAlphaAtlas_48.dds</File>
+    <File md5="A6538E8FC3A64EDF14423DDC4C9047BD" import="1">Art/IconAtlas/JFD_AmericaRooseveltAlphaAtlas_64.dds</File>
+    <File md5="4B7FE6D65A5CCD61B98FB6CE72B701D7" import="1">Art/IconAtlas/JFD_AmericaRooseveltAlphaAtlas_80.dds</File>
+    <File md5="6237390163C7738B5C2AADEBCA36EEC4" import="1">Art/IconAtlas/JFD_AmericaRooseveltAtlas_128.dds</File>
+    <File md5="15037170DCCB5062E469B7077DCDF50C" import="1">Art/IconAtlas/JFD_AmericaRooseveltAtlas_256.dds</File>
+    <File md5="4B05062C05B84081C58A02E66AD60775" import="1">Art/IconAtlas/JFD_AmericaRooseveltAtlas_32.dds</File>
+    <File md5="588A2910C97778586248FD810424BFA7" import="1">Art/IconAtlas/JFD_AmericaRooseveltAtlas_45.dds</File>
+    <File md5="A8F381316231F154F1ADF02FCD18E1F8" import="1">Art/IconAtlas/JFD_AmericaRooseveltAtlas_64.dds</File>
+    <File md5="B0682804C00AA82CF6DAB7EF9DFF31A7" import="1">Art/IconAtlas/JFD_AmericaRooseveltAtlas_80.dds</File>
+    <File md5="51F090B992D116DFE6B54881284B37CA" import="1">Art/Map/AmericaRooseveltMap512.dds</File>
+    <File md5="76E5AA8E3BA7D9FAA3CADFAE3CB3B948" import="1">Art/Map/DOM_Roosevelt.dds</File>
+    <File md5="DA56AF66B12514BE2B9F7871A9BBE82A" import="1">Audio/Roosevelt_Peace.mp3</File>
+    <File md5="87CECBE9F07B33DCA8F126C9FF885385" import="1">Audio/Roosevelt_War.mp3</File>
+    <File md5="CA38DFC4240F292A634CB50F629BA0E7" import="0">Core/JFD_AmericaRoosevelt_ArtDefines.sql</File>
+    <File md5="83D8658DFE4F9BF25065011B83EDC771" import="0">Core/JFD_AmericaRoosevelt_GameDefines.sql</File>
+    <File md5="02252A9B87CFABB7575E5158EFD8F400" import="0">Core/JFD_AmericaRoosevelt_GameDefines_Diplomacy.sql</File>
+    <File md5="EB7095692F287B8D17E0C49F2FDB927E" import="0">Core/JFD_AmericaRoosevelt_GameDefines_ModSupport.sql</File>
+    <File md5="FE47CE96519F8AF5F7D0DA88451AC653" import="0">Core/JFD_AmericaRoosevelt_GameText.xml</File>
+    <File md5="7242630F1FA891E313ACB9D7B64805F7" import="0">Core/JFD_AmericaRoosevelt_GameText_Diplomacy.xml</File>
+    <File md5="CCF012CC2A1F9517778382A41F9A7696" import="0">Core/JFD_AmericaRoosevelt_GameText_ModSupport.xml</File>
+    <File md5="FC6E117C75835973F759656BB4F6EF97" import="0">DeleteMissingReferences.xml</File>
+    <File md5="E42EC4BFE92000099D2ECD8D17CAA90E" import="1">Lua/JFD_AmericaRoosevelt_Decisions.lua</File>
+    <File md5="33B367B6004DF5245ECC31F824D99C01" import="1">Lua/JFD_AmericaRoosevelt_Events.lua</File>
+    <File md5="F882C1C8290DFD57F8B88B7E253D5FF8" import="0">Lua/JFD_AmericaRoosevelt_Functions.lua</File>
+    <File md5="0258CDE9ECFD36311CAB103B16360226" import="0">Lua/JFD_AmericaRoosevelt_Functions.xml</File>
+    <File md5="74BE6213FD367CAD8D1B0E72E389B7C1" import="0">Lua/JFD_AmericaRoosevelt_ChooseEmergencyReliefFunding.lua</File>
+    <File md5="C12E5EAA1F46551BC866BBEA8903729D" import="0">Lua/JFD_AmericaRoosevelt_ChooseEmergencyReliefFunding.xml</File>
+    <File md5="3B7B1EE92949FC3B7B9308074F036BEB" import="1">Lua/Utilities/NewSaveUtils.lua</File>
+    <File md5="2A233964EFA3D46B1EB267785E5C8E1A" import="1">Lua/Utilities/PlotIterators.lua</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Core/JFD_AmericaRoosevelt_ArtDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Core/JFD_AmericaRoosevelt_GameDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Core/JFD_AmericaRoosevelt_GameDefines_Diplomacy.sql</UpdateDatabase>
+      <UpdateDatabase>Core/JFD_AmericaRoosevelt_GameDefines_ModSupport.sql</UpdateDatabase>
+      <UpdateDatabase>Core/JFD_AmericaRoosevelt_GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/JFD_AmericaRoosevelt_GameText_Diplomacy.xml</UpdateDatabase>
+      <UpdateDatabase>Core/JFD_AmericaRoosevelt_GameText_ModSupport.xml</UpdateDatabase>
+      <UpdateDatabase>DeleteMissingReferences.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/JFD_AmericaRoosevelt_Functions.lua">
+      <Name>JFD_AmericaRoosevelt_Functions</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/JFD_AmericaRoosevelt_ChooseEmergencyReliefFunding.lua">
+      <Name>JFD_AmericaRoosevelt_ChooseEmergencyReliefFunding</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

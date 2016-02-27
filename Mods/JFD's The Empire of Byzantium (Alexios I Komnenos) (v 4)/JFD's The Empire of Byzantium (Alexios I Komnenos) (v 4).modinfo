@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="d1e937da-b7d4-437f-84f2-22ce0a475016" version="4">
+  <Properties>
+    <Name>JFD's The Empire of Byzantium (Alexios I Komnenos)</Name>
+    <Teaser>Adds the [COLOR_POSITIVE_TEXT]The Empire of Byzantium[ENDCOLOR] with Alexios I Komnenons to the game.</Teaser>
+    <Description>See CivFanatics or Steam Workshop for full details.</Description>
+    <Authors>JFD, Janboruta, Regalman, Tarcisio</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies>
+    <Dlc id="6DA07636-4123-4018-B643-6575B4EC336B" minversion="0" maxversion="999" />
+    <Dlc id="0E3751A1-F840-4e1b-9706-519BF484E59D" minversion="0" maxversion="999" />
+  </Dependencies>
+  <References>
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="JFD's Cultural Diversity (Core)" />
+    <Mod id="eea66053-7579-481a-bb8d-2f3959b59974" minversion="0" maxversion="999" title="JFD’s Piety" />
+    <Mod id="d99bf7aa-51ac-4bef-bd88-d765b28e260e" minversion="0" maxversion="999" title="JFD’s Prestige" />
+    <Mod id="6676902b-b907-45f1-8db5-32dcb2135eee" minversion="0" maxversion="999" title="JFD's Exploration Continued Expanded" />
+    <Mod id="1f941088-b185-4159-865c-472df81247b2" minversion="0" maxversion="999" title="Sukritact’s Events &amp; Decisions" />
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="Yet (not) Another Earth Map Pack" />
+    <Mod id="e576894a-ed2b-4033-be14-ed1c8ceb81d3" minversion="0" maxversion="999" title="Map Labels" />
+    <Mod id="7fdd72a5-d4ae-441c-bc4e-2e3d2a26cff4" minversion="0" maxversion="999" title="Ethnic Units" />
+    <Mod id="d1b6328c-ff44-4b0d-aad7-c657f83610cd" minversion="0" maxversion="999" title="Community Patch" />
+    <Mod id="8411a7a8-dad3-4622-a18e-fcc18324c799" minversion="0" maxversion="999" title="Community Balance Patch" />
+    <Mod id="1153b26a-69fd-4cd5-899c-a8ba8e0e5e5d" minversion="0" maxversion="999" title="Civ IV Leader Traits in Civ V" />
+    <Mod id="8670da15-d435-44ea-9758-7438cb321411" minversion="0" maxversion="999" title="R.E.D. Modpack" />
+    <Mod id="10e9728f-d61c-4317-be4f-7d52d6bae6f4" minversion="0" maxversion="999" title="JFD's Cities in Development" />
+    <Mod id="a19351c5-c0b3-4b07-8695-4affaa199949" minversion="0" maxversion="999" title="JFD's and Pouakai's Mercenaries" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="949283C2BCB8B58EE59E38319A800F87" import="1">Art/Diplomacy/AlexiosI_Diplo.dds</File>
+    <File md5="3A01CD43480EC02714A01747B80E3B75" import="1">Art/Diplomacy/AlexiosI_Scene.xml</File>
+    <File md5="E37D004AC406F0CE1871185C14A47229" import="1">Art/Graphics/lanternas.fxsxml</File>
+    <File md5="A9D518724C9FC15CACB08E110959DE0A" import="1">Art/Graphics/lanternas.gr2</File>
+    <File md5="609291F867AC7D8CF68D56126FA65107" import="1">Art/Graphics/lanternas_diff.dds</File>
+    <File md5="4CF262ECBE533E8507109B3E46F6AD52" import="1">Art/Graphics/lanternas_dmg_diff.dds</File>
+    <File md5="564ABE4E77FBAD33E9D508A27B0AE4C2" import="1">Art/Graphics/lanternas_sref.dds</File>
+    <File md5="77F7A9E163C398C89B23B4FD2832854A" import="1">Art/Graphics/sv_Lanternas.dds</File>
+    <File md5="971BC908151CB69C6319574098B375D1" import="1">Art/IconAtlas/JFD_ByzantiumAlexiusAlphaAtlas_128.dds</File>
+    <File md5="DDE6B833E334182170D1099EC04A5247" import="1">Art/IconAtlas/JFD_ByzantiumAlexiusAlphaAtlas_16.dds</File>
+    <File md5="D335A7CB27F42B9EF07B84910D499D37" import="1">Art/IconAtlas/JFD_ByzantiumAlexiusAlphaAtlas_22.dds</File>
+    <File md5="495A089F5C8130AD948DD1E0D61FA645" import="1">Art/IconAtlas/JFD_ByzantiumAlexiusAlphaAtlas_24.dds</File>
+    <File md5="3349CF8C1F827C9DDE461E4A542438B3" import="1">Art/IconAtlas/JFD_ByzantiumAlexiusAlphaAtlas_256.dds</File>
+    <File md5="5F652B0EB74B9FE386EA8E856F85E39E" import="1">Art/IconAtlas/JFD_ByzantiumAlexiusAlphaAtlas_32.dds</File>
+    <File md5="412C06B2FC723F56A311E2971F3E6E4C" import="1">Art/IconAtlas/JFD_ByzantiumAlexiusAlphaAtlas_45.dds</File>
+    <File md5="0453612F996A39409C613DCE722D96F9" import="1">Art/IconAtlas/JFD_ByzantiumAlexiusAlphaAtlas_48.dds</File>
+    <File md5="B59BAE24B72F14CC30043C24BDEB3CBA" import="1">Art/IconAtlas/JFD_ByzantiumAlexiusAlphaAtlas_64.dds</File>
+    <File md5="661A096CB68C237F6CFF072DB48F117E" import="1">Art/IconAtlas/JFD_ByzantiumAlexiusAlphaAtlas_80.dds</File>
+    <File md5="708DAF1F14224F3C8BABE03696AD8647" import="1">Art/IconAtlas/JFD_ByzantiumAlexiusAtlas_128.dds</File>
+    <File md5="1C5F04608B434F0C9CB645C21AC987C9" import="1">Art/IconAtlas/JFD_ByzantiumAlexiusAtlas_256.dds</File>
+    <File md5="4BD583D8FA666C1E62BCD7CF78D05395" import="1">Art/IconAtlas/JFD_ByzantiumAlexiusAtlas_32.dds</File>
+    <File md5="BC90A046F3C004607DE256011230F4F8" import="1">Art/IconAtlas/JFD_ByzantiumAlexiusAtlas_45.dds</File>
+    <File md5="A027C81D739BCCF40C4837DBD373C01D" import="1">Art/IconAtlas/JFD_ByzantiumAlexiusAtlas_64.dds</File>
+    <File md5="A2F67C17E8738C55E7317DA7761FA3C8" import="1">Art/IconAtlas/JFD_ByzantiumAlexiusAtlas_80.dds</File>
+    <File md5="34E7E2F412956CADAC08F40D98B46782" import="1">Art/IconAtlas/JFD_LanternasUnitFlag_32.dds</File>
+    <File md5="A574FAE89DFEDF03F88FBEB666C304C2" import="1">Art/Images/Event_ByzantiumAlexios_Alexiad.dds</File>
+    <File md5="89CEBE8AB2BDCA39851D589CC5690242" import="1">Art/Images/Event_ByzantiumAlexios_TzykanionTournament.dds</File>
+    <File md5="C4FE17CFC11633F1C2E1CF5BE16CBBAF" import="1">Art/Map/DOM_AlexiosI.dds</File>
+    <File md5="91AF7C5E567817E030F16EBC04F6AB25" import="1">Art/Map/MapByzantium512.dds</File>
+    <File md5="C1C29EF0811430FE297DEB2F22276DC0" import="1">Art/Map/MapByzantiumAlexios512.dds</File>
+    <File md5="94D6A25F08AAD27380359E42DAE9853A" import="1">Audio/Alexios_Peace.mp3</File>
+    <File md5="521C0CA1A7619D901CDCA0715D040FAA" import="1">Audio/Alexios_War.mp3</File>
+    <File md5="030371F3E8ADD7CDE82366403E8699A9" import="0">Core/ByzantiumTheodora_GameDefines.sql</File>
+    <File md5="A0EFFD8B08344EBCA9CA62C2E035DC08" import="0">Core/ByzantiumTheodora_GameDefines_ModSupport.sql</File>
+    <File md5="042BD66FDF7943E63B43BA12BF71C36D" import="0">Core/ByzantiumTheodora_GameText.xml</File>
+    <File md5="92528A82547D18ED6BC9083E09EA9734" import="0">Core/ByzantiumAlexios_ArtDefines.sql</File>
+    <File md5="05DA0DCDD2356F34687D9539A5D7F54F" import="0">Core/ByzantiumAlexios_GameDefines.sql</File>
+    <File md5="57F9FA02615DCDAFD7202C748868A69A" import="0">Core/ByzantiumAlexios_GameDefines_Diplomacy.sql</File>
+    <File md5="5D2AD8EA7AF46D3660FFFDC4F2280B42" import="0">Core/ByzantiumAlexios_GameDefines_ModSupport.sql</File>
+    <File md5="AFE82141AF5862E46BBE812542F0A8C6" import="0">Core/ByzantiumAlexios_GameText.xml</File>
+    <File md5="A2B953B770A536DC90A7723EE53EE5B5" import="0">Core/ByzantiumAlexios_GameText_Diplomacy.xml</File>
+    <File md5="0BE1D3D886040F890E37F01243CABE45" import="0">Core/ByzantiumAlexios_GameText_ModSupport.xml</File>
+    <File md5="0C8B3C5C4A3F90295CED1F047AC05A1E" import="0">Core/ByzantiumTheodora_GameText_ModSupport.xml</File>
+    <File md5="3665EA7314EC7714D3F5520365D7702A" import="0">DeleteMissingReferences.xml</File>
+    <File md5="EA2500CD3D6CE27D8DAA80EE75FD711D" import="0">JFD_ByzantiumAlexios_UserSettings.sql</File>
+    <File md5="4D46989B91D2FB28CDDFE2FB0316AAB7" import="1">Lua/JFD_ByzantiumTheodora_Decisions.lua</File>
+    <File md5="382A9D10809F0ACF02A59307D9494738" import="1">Lua/JFD_ByzantiumAlexios_Decisions.lua</File>
+    <File md5="052BCC962A9890C3DFDC65A8D8937D7C" import="1">Lua/JFD_ByzantiumAlexios_Events.lua</File>
+    <File md5="8291C44124329DA6C572DD15BEB0DC4F" import="0">Lua/JFD_ByzantiumAlexios_Functions.lua</File>
+    <File md5="B3EBE6E2FD7CAA811D4D45A7CAB2DA32" import="0">Lua/JFD_ByzantiumTheodora_Functions.lua</File>
+    <File md5="D26B68238289375A10E49818FD2CD0C8" import="1">Lua/Utilities/UniqueDiplomacyUtils.lua</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>JFD_ByzantiumAlexios_UserSettings.sql</UpdateDatabase>
+      <UpdateDatabase>Core/ByzantiumAlexios_ArtDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Core/ByzantiumAlexios_GameDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Core/ByzantiumAlexios_GameDefines_Diplomacy.sql</UpdateDatabase>
+      <UpdateDatabase>Core/ByzantiumAlexios_GameDefines_ModSupport.sql</UpdateDatabase>
+      <UpdateDatabase>Core/ByzantiumAlexios_GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/ByzantiumAlexios_GameText_Diplomacy.xml</UpdateDatabase>
+      <UpdateDatabase>Core/ByzantiumAlexios_GameText_ModSupport.xml</UpdateDatabase>
+      <UpdateDatabase>Core/ByzantiumTheodora_GameDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Core/ByzantiumTheodora_GameDefines_ModSupport.sql</UpdateDatabase>
+      <UpdateDatabase>Core/ByzantiumTheodora_GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/ByzantiumTheodora_GameText_ModSupport.xml</UpdateDatabase>
+      <UpdateDatabase>DeleteMissingReferences.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/JFD_ByzantiumAlexios_Functions.lua">
+      <Name>JFD_ByzantiumAlexios_Functions</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/JFD_ByzantiumTheodora_Functions.lua">
+      <Name>JFD_ByzantiumTheodora_Functions</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

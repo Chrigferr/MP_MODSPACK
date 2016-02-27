@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Context>
+	<Box ID="FranceBox" Hidden="1" Anchor="C,B" Size="280,35" Offset="15,40" Color="0,0,0,0" ConsumeMouse="1">
+		<Grid Size="1,1" Anchor="C,C" Offset="0,0" ConsumeMouse="1">
+			<Stack Padding="35" StackGrowth="Right"  Offset="-190,0">
+				<GridButton ID="ArtistButton" Size="125,35" Anchor="C,C" Style="BaseButton">
+					<Image ID="ArtistImage" Anchor="C,C" Offset="-70,0" Size="64,64">
+					</Image>
+				</GridButton>
+				<GridButton ID="MusicianButton" Size="125,35" Anchor="C,C" Style="BaseButton">
+					<Image ID="MusicianImage" Anchor="C,C" Offset="-70,0" Size="64,64">
+					</Image>
+				</GridButton>
+				<GridButton ID="WriterButton" Size="125,35" Anchor="C,C" Style="BaseButton">
+					<Image ID="WriterImage" Anchor="C,C" Offset="-70,0" Size="64,64">
+					</Image>
+				</GridButton>				
+			</Stack>
+		</Grid>
+	</Box>
+</Context>

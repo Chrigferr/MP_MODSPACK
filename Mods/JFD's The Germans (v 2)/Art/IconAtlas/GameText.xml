@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 11/23/2013 1:27:25 PM -->
+<GameData>
+	<Language_en_US>
+		<!-- GERMANS -->
+		<Row Tag="TXT_KEY_CIV_JFD_GERMANS_ADJECTIVE">
+			<Text>Germanic</Text>
+			<Plurality>2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_JFD_GERMANS_DESC">
+			<Text>Germanic Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_JFD_GERMANS_SHORT_DESC">
+			<Text>The Germans</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_GERMANS_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_GERMANS_TEXT_1">
+			<Text>The Germanic peoples are a historical ethno-linguistic group originating in Northern Europe. A deteriorating climate in Scandinavia around 850 to 760 BC and a later and more rapid one around 650 BC might have triggered migrations to the coast of Eastern Germany and further towards the Vistula. At about 250 BC, some further expansion to the south had occurred and five general groups can be distinguished: North Germanic in southern Scandinavia, excluding Jutland; North Sea Germanic, along the North Sea and in Jutland; Rhine-Weser Germanic, along the middle Rhine and Weser; Elbe Germanic, along the middle Elbe; and East Germanic, between the middle Oder and the Vistula. The early Germanic tribes are assumed to have spoken mutually intelligible dialects, in the sense that Germanic languages derive from a single earlier parent language. No written records of such a parent language exist. In the absence of large-scale political unification, the various tribes remained free, led by their own hereditary or chosen leaders.[NEWLINE][NEWLINE]By the late 2nd century BC, Roman authors recount, Gaul, Italy and Hispania were invaded by migrating Germanic tribes. This culminated in military conflict with the armies of the Roman Republic. As Rome expanded to the Rhine and Danube rivers, it incorporated many Celtic societies into the Empire. The tribal homelands to the north and east emerged collectively in the records as Germania. The peoples of this area were sometimes at war with Rome, but also engaged in complex and long-term trade relations, military alliances, and cultural exchanges with Rome as well. The Cimbri and Teutoni incursions into Roman Italy were thrust back in 101 BC. These invasions were written up by Caesar and others as presaging of a Northern danger for the Roman Republic, a danger that should be controlled. Caesar's wars helped establish the term "Germania" and roman border on the Elbe river. In 9 AD a revolt headed by Arminius, along with his decisive defeat of Publius Quinctilius Varus and the destruction of 3 Roman legions in the surprise attack on the Romans at the Battle of the Teutoburg Forest, ended in the withdrawal of the Roman frontier to the Rhine. At the end of the 1st century two provinces west of the Rhine called Germania inferior and Germania superior were established.[NEWLINE][NEWLINE]During the 5th century, as the Western Roman Empire lost military strength and political cohesion, numerous Germanic peoples, under pressure from population growth and invading Asian groups, began migrating in far and diverse directions, taking them to Great Britain and far south through present day Continental Europe to the Mediterranean and northern Africa. Over time, this wandering meant intrusions into other tribal territories, and the ensuing wars for land escalated with the dwindling amount of unoccupied territory. Wandering tribes then began staking out permanent homes as a means of protection. Much of this resulted in fixed settlements from which many, under a powerful leader, expanded outwards. A defeat meant either scattering or merging with the dominant tribe, and this continual process of assimilation was how nations were formed. In Denmark the Jutes merged with the Danes, in Sweden the Geats and Gutes merged with the Swedes. In England, the Angles merged with the Saxons and other groups, as well as absorbing some natives, to form the Anglo-Saxons.[NEWLINE][NEWLINE]The transition of the Migration period to the Middle Ages proper takes place over the course of the second half of the 1st millennium. It is marked by the Christianization of the Germanic peoples and the formation of stable kingdoms replacing the mostly tribal structures of the Migration period. The various Germanic tribal cultures begin their transformation into the larger nations of later history, English, Norse and German, and in the case of Burgundy, Lombardy and Normandy blending into a Romano-Germanic culture.</Text>
+		</Row>
+		<!--City List-->
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GERMANS_01">
+			<Text>Lupfurdum</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GERMANS_02">
+			<Text>Tulifurdum</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GERMANS_03">
+			<Text>Uburzis</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GERMANS_04">
+			<Text>Casurgis</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GERMANS_05">
+			<Text>Rhougion</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GERMANS_06">
+			<Text>Teotoburgum</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GERMANS_07">
+			<Text>Tulisurgium</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GERMANS_08">
+			<Text>Budorgis</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GERMANS_09">
+			<Text>Ascaucalis</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GERMANS_10">
+			<Text>Carrodunum</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GERMANS_11">
+			<Text>Gothiscandza</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GERMANS_12">
+			<Text>Phabiranum</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GERMANS_13">
+			<Text>Hafnia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GERMANS_14">
+			<Text>Coridorgis</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GERMANS_15">
+			<Text>Valhagarum</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GERMANS_16">
+			<Text>Mattium</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GERMANS_17">
+			<Text>Calancorum</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GERMANS_18">
+			<Text>Mattiacum</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GERMANS_19">
+			<Text>Locoritum</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GERMANS_20">
+			<Text>Bergium</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GERMANS_21">
+			<Text>Melocabus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GERMANS_22">
+			<Text>Galaegia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GERMANS_23">
+			<Text>Susudata</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GERMANS_24">
+			<Text>Leuphana</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GERMANS_25">
+			<Text>Pheugarum</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GERMANS_26">
+			<Text>Treva</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GERMANS_27">
+			<Text>Bibacum</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GERMANS_28">
+			<Text>Setuacatum</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GERMANS_29">
+			<Text>Calisia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GERMANS_30">
+			<Text>Meliodunum</Text>
+		</Row>
+		<!--Tribe List-->
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GERMANS_TRIBE_01">
+			<Text>Suebi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GERMANS_TRIBE_02">
+			<Text>Cimbri</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GERMANS_TRIBE_03">
+			<Text>Cherusci</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GERMANS_TRIBE_04">
+			<Text>Chatti</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GERMANS_TRIBE_05">
+			<Text>Marcomanni</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GERMANS_TRIBE_06">
+			<Text>Saxones</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GERMANS_TRIBE_07">
+			<Text>Gothi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GERMANS_TRIBE_08">
+			<Text>Semnones</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GERMANS_TRIBE_09">
+			<Text>Hermunduri</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GERMANS_TRIBE_10">
+			<Text>Thuringii</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GERMANS_TRIBE_11">
+			<Text>Langobardes</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GERMANS_TRIBE_12">
+			<Text>Rugii</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GERMANS_TRIBE_13">
+			<Text>Teutones</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GERMANS_TRIBE_14">
+			<Text>Burgundiones</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GERMANS_TRIBE_15">
+			<Text>Chauci</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GERMANS_TRIBE_16">
+			<Text>Lugii</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GERMANS_TRIBE_17">
+			<Text>Quadi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GERMANS_TRIBE_18">
+			<Text>Buri</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GERMANS_TRIBE_19">
+			<Text>Brisgavi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GERMANS_TRIBE_20">
+			<Text>Gepidae</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GERMANS_TRIBE_21">
+			<Text>Iutae</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GERMANS_TRIBE_22">
+			<Text>Lugii</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GERMANS_TRIBE_23">
+			<Text>Vandali</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GERMANS_TRIBE_24">
+			<Text>Ampsivari</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GERMANS_TRIBE_25">
+			<Text>Frisii</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GERMANS_TRIBE_26">
+			<Text>Suiones</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GERMANS_TRIBE_27">
+			<Text>Batavi</Text>
+		</Row>
+		<!-- Spy Names -->
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_GERMANS_9">
+			<Text>Ekkehart</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_GERMANS_8">
+			<Text>Ariovistus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_GERMANS_7">
+			<Text>Hildibrand</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_GERMANS_6">
+			<Text>Sigmar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_GERMANS_5">
+			<Text>Burkhart</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_GERMANS_4">
+			<Text>Theobald</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_GERMANS_3">
+			<Text>Brunhild</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_GERMANS_2">
+			<Text>Hildegard</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_GERMANS_1">
+			<Text>Hedwig</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_GERMANS_0">
+			<Text>Liutgard</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<!-- ARMINIUS -->
+		<Row Tag="TXT_KEY_LEADER_JFD_ARMINIUS">
+			<Text>Arminius</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_ARMINIUS_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_ARMINIUS_TEXT_1">
+			<Text>Arminius, also known as Armin or Hermann, was a chieftain of the Germanic Cherusci who defeated a Roman army in the Battle of the Teutoburg Forest. Son of the Cheruscan war chief Segimerus, Arminius was trained as a Roman military commander and attained Roman citizenship and the status of "equestrian" before returning to Germania and driving the Romans out.[NEWLINE][NEWLINE]Around the 4 AD, Arminius assumed command of a Cheruscan detachment of Roman auxiliary forces, probably fighting in the Pannonian wars on the Balkan peninsula. He returned to northern Germania in 7 AD, where the Roman Empire had established secure control of the territories just east of the Rhine, along the Lippe and Main rivers, and now sought to extend its hegemony eastward towards the Weser and Elbe rivers, under Publius Quinctilius Varus, a high-ranking administrative official appointed by Augustus as governor. Arminius soon began plotting to unite various Germanic tribes and to thwart Roman efforts to incorporate their territories into the empire. In the fall of AD 9, in the Battle of the Teutoburg Forest, Arminius, 25 years old, and his alliance of Germanic tribes ambushed and annihilated a Roman army totalling around 20,000 men commanded by Varus. When defeat was certain, Varus committed suicide by falling upon his sword.[NEWLINE][NEWLINE]After his victory, Arminius tried for several years to bring about a more permanent union of the northern Germanic tribes so as to resist the inevitable Imperial counter-offensive. After the Teutoburg Forest disaster, other Germanic tribes did become more openly hostile to Rome. Tiberius, successor of Augustus, established that Germania, inhospitable and poor land, was not currently relevant to the Roman cause. He was therefore inclined to use diplomacy in the Germanic territories, to manipulate the tribes into fighting each other, but an immediate action was necessary to terrorize the Germanic enemy and to discourage new and possible future invasions of the Roman soil by the Germanic tribes. Tiberius was able to employ an army of eight legions during these campaigns, leaded by his nephew and adoptive son Germanicus.[NEWLINE][NEWLINE]The Romans Armies quickly penetrated into the Germanic territory where they made horrendous massacres. After achieved these initial military successes, Germanicus wanted to see the places where Varus legions were massacred. Once buried the remains of those mangled bodies, he decided to pursue Arminius. In the decisive battle the Roman victory was great, with relatively few Roman casualties; instead dead Germans covered the plain for at least ten thousand paces. The soldiers of Germanicus erected a mound, on which lay the weapons of the defeated, like a trophy, and an inscription with the names of the defeated peoples. The Germans were already fleeing beyond the Weser, but decided to fight again, despite the massacre, when they saw the Romans were raising a mound with their weapons. Arminius enlisted everyone who could fight. The battle was terrible, but the Romans prevailed once again.[NEWLINE][NEWLINE]Arminius was informed that his wife, Thusnelda, and his son had been captured by the Romans. He also faced serious difficulties at home from the family of his wife and other pro-Roman leaders. In AD 19, his formidable opponent Germanicus suddenly died in Antioch, under circumstances which led many to believe he had been murdered by his opponents. Arminius suffered this fate two years later, at the hands of opponents within his own tribe, who felt he was becoming too powerful. Tiberius had purportedly refused an earlier offer to poison Arminius, declaring that Rome did not employ such dishonorable methods.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_ARMINIUS_NAME">
+			<Text>Arminius</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_ARMINIUS_SUBTITLE">
+			<Text>Leader of the Germanic Tribes</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_ARMINIUS_TITLES_1">
+			<Text>Chieftain of the Cherusci Tribe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_ARMINIUS_LIVED">
+			<Text>18/17 BC - 21 AD</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DAWN_GERMANS_TEXT">
+			<Text>Hail Arminius, Chieftain of the Cherusci Tribe and repulsor of Rome! You are the leader of the Germanic people; a hardy and war-like folk hailing from the heartlands of central europe. Trained from youth in the style of a Roman commander, your legacy as a great warrior and capable leader precedes the unlikely alliance of German tribes with which you repulsed the Roman Empire from your lands. At the Battle of Teutoburg Forest, the German tribes under your leadership proved their ferocity and devastated the Roman armies, and Rome would never again lay her claim to the lands of Germania.[NEWLINE][NEWLINE]Mighty war chief, [NEWLINE][NEWLINE]O' great and learned monarch, the wisdom of your ancestors beckon your reign to once more invigorate the minds and souls of your people. Can you usher a golden age of truth and nobility to reign over your Kingdom? Can you defend your empire in all times of great strife and warfare? Can you build a civilization that can stand the test of time?</Text>
+		</Row>
+		<!-- LEGACY OF TEUTOBOURG FOREST -->
+		<Row Tag="TXT_KEY_TRAIT_JFD_GERMANS_SHORT">
+			<Text>Legacy of Teutoburg Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_JFD_GERMANS">
+			<Text>Barbarians are at peace with you and nearby Barbarians generate [ICON_GOLD] Gold from kills for you. When war is declared against you, Barbarians born from a Tribal Encampment come under your control.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_GERMAN_BARB">
+			<Text>Germanic Barbarian</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_JFD_GERMANS_SHORT">
+			<Text>This unit is a Germanic Barbarian</Text>
+		</Row>
+		<!-- SLAGANZ -->
+		<Row Tag="TXT_KEY_UNIT_JFD_SLAGANZ">
+			<Text>Slaganz</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_SLAGANZ_TEXT">
+			<Text>The German Slaganz were ferocious warriors who would bludgeon their enemies to death using a club or other such blunt object. These weapons might have been supplemented with bone spikes in order to make them even more deadly. Slaganz were common throughout German socities as warriors due to Germania's natural lack of resources which could match the weaponry of their foes. They relied upon strength and brute force in order to crush enemy soldiers beneath their armour.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_SLAGANZ_HELP">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_SLAGANZ_STRATEGY">
+			<Text>The Slaganz is the unique Warrior replacement which only the Germans can train.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_SLAGANZ">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_SLAGANZ_HELP">
+			<Text>+33% [ICON_STRENGTH] Defense whilst this unit is adjacent to a coastal tile.</Text>
+		</Row>
+		<!-- ENCAMPMENT -->
+		<Row Tag="TXT_KEY_BUILD_JFD_ENCAMPMENT_REC">
+			<Text>It will grant [ICON_GREAT_PEOPLE] Great Musician points to the [ICON_CAPITAL] Capital when completed, equal to three times your current [ICON_CULTURE] Culture output. It yields +1 [ICON_CULTURE] Culture per adjacent Mountain.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_ENCAMPMENT">
+			<Text>Construct a Tribal Encampment</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_JFD_ENCAMPMENT_HELP">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_JFD_ENCAMPMENT">
+			<Text>Tribal Encampment</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

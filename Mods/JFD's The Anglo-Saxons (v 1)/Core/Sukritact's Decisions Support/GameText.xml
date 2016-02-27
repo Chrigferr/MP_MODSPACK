@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_en_US>	
+		<!--Issue the Domboc-->
+		<Row Tag="TXT_KEY_DECISIONS_JFD_ANGLO_SAXONS_DOMBOC">
+			<Text>Issue the Domboc</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JFD_ANGLO_SAXONS_DOMBOC_DESC">
+			<Text>
+				Our empire's law codes are scattered and inharmonious with those established in the capital. This creates uncertainty as to our authority over all Anglo-Saxons, and it produces great inefficiencies without our empire. Let us issue a law code that would combine all laws of sovereigns past and present, to dictate henceforth the laws of this empire in unison.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be the Anglo-Saxons
+				[NEWLINE][ICON_BULLET]Player must have at least four cities
+				[NEWLINE][ICON_BULLET]May only be enacted from the beginning of the Medieval Era
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Num} [ICON_CULTURE] Culture
+				[NEWLINE][ICON_BULLET]1 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]+1 [ICON_HAPPINESS_1] Happiness from [ICON_CONNECTED] City Connections
+				[NEWLINE][ICON_BULLET]A [ICON_GOLDEN_AGE] Golden Age begins
+				[NEWLINE][NEWLINE][COLOR_NEGATIVE_TEXT]Note: The [ICON_CULTURE] Culture cost increases with the number of Social Policies you possess
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JFD_ANGLO_SAXONS_DOMBOC_ENACTED_DESC">
+			<Text>
+				Our empire's law codes are scattered and inharmonious with those established in the capital. This creates uncertainty as to our authority over all Anglo-Saxons, and it produces great inefficiencies without our empire. Let us issue a law code that would combine all laws of sovereigns past and present, to dictate henceforth the laws of this empire in unison.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]+1 [ICON_HAPPINESS_1] Happiness for each city you own [ICON_CONNECTED] Connected to the [ICON_CAPITAL] Captial
+				[NEWLINE][ICON_BULLET]A [ICON_GOLDEN_AGE] Golden Age begins
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WORLD_EVENT_JFD_ANGLO_SAXONS_DOMBOC">
+			<Text>Alfred of the Anglo-Saxons has issued the Domboc, collecting together the laws of the Anglo-Saxon people.</Text>
+		</Row>
+		<!--Create the Burghal System-->
+		<Row Tag="TXT_KEY_DECISIONS_JFD_ANGLO_SAXONS_BURGHAL_SYSTEM">
+			<Text>Create the Burghal System</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JFD_ANGLO_SAXONS_BURGHAL_SYSTEM_DESC">
+			<Text>
+				Enemies plague us at every border, and the defense of our empire is only as good as the weakest of our cities. Though it will demand much of our aristocracy, let us create a system of burhs to bolster the defenses of our empire, so that we might never again fear our foes.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be the Anglo-Saxons
+				[NEWLINE][ICON_BULLET]Player must have at least three cities
+				[NEWLINE][ICON_BULLET]May only be enacted from the beginning of the Medieval Era
+				[NEWLINE][ICON_BULLET]May not be enacted from the beginning of the Industrial Era
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Num} [ICON_GOLD] Gold
+				[NEWLINE][ICON_BULLET]1 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]All current cities receive free Walls
+				[NEWLINE][ICON_BULLET]All current cities gain +3 [ICON_STRENGTH] Defense and +10 Hit Points
+				[NEWLINE][NEWLINE][COLOR_NEGATIVE_TEXT]Note: The [ICON_GOLD] Gold cost increases with the number of cities that do not have Walls[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JFD_ANGLO_SAXONS_BURGHAL_SYSTEM_ENACTED_DESC">
+			<Text>
+				Enemies plague us at every border, and the defense of our empire is only as good as the weakest of our cities. Though it will demand much of our aristocracy, let us create a system of burhs to bolster the defenses of our empire, so that we might never again fear our foes.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]All current cities receive free Walls
+				[NEWLINE][ICON_BULLET]All current cities gain +3 [ICON_STRENGTH] Defense and +10 Hit Points	
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_BURGHAL">
+			<Text>JFD: Burghal System</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_BURGHAL_HELP">
+			<Text>+3 [ICON_STRENGTH] Defense and +10 HP</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WORLD_EVENT_JFD_ANGLO_SAXONS_BURGHAL_SYSTEM">
+			<Text>Alfred of the Anglo-Saxons has created a burghal system in the Anglo-Saxon nation.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

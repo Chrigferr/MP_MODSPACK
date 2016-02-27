@@ -1,0 +1,131 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="fbac25ab-1e98-4a4a-ad61-42839229f769" version="1">
+  <Properties>
+    <Name>JFD's The Nri Kingdom</Name>
+    <Teaser>Adds the [COLOR_POSITIVE_TEXT]The Nri Kingdom[ENDCOLOR] with Eri to the game.</Teaser>
+    <Description>See Steam Workshop or CivFanatics for full details.</Description>
+    <Authors>JFD, Janboruta, Moriboe, Leugi, Tomatekh</Authors>
+    <SpecialThanks>Gedemon</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References>
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="JFD's Cultural Diversity (Core)" />
+    <Mod id="eea66053-7579-481a-bb8d-2f3959b59974" minversion="0" maxversion="999" title="JFD’s Piety &amp; Prestige     " />
+    <Mod id="1f941088-b185-4159-865c-472df81247b2" minversion="0" maxversion="999" title="Sukritact’s Events &amp; Decisions" />
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="Yet (not) Another Earth Map Pack" />
+    <Mod id="e576894a-ed2b-4033-be14-ed1c8ceb81d3" minversion="0" maxversion="999" title="Map Labels" />
+    <Mod id="7fdd72a5-d4ae-441c-bc4e-2e3d2a26cff4" minversion="0" maxversion="999" title="Ethnic Units" />
+    <Mod id="d1b6328c-ff44-4b0d-aad7-c657f83610cd" minversion="0" maxversion="999" title="DLL - Various Mod Components" />
+    <Mod id="1153b26a-69fd-4cd5-899c-a8ba8e0e5e5d" minversion="0" maxversion="999" title="Civ IV Leader Traits in Civ V" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="632AC00A2C8001F0FEF0F234EB0A1473" import="0">Art/ArtDefines.sql</File>
+    <File md5="992ADADCEC002EE55B0434935996FE62" import="1">Art/Diplomacy/Eri_Diplo.dds</File>
+    <File md5="CF2EB91D9543EE4932C390D6C3B135E1" import="1">Art/Diplomacy/Eri_Scene.xml</File>
+    <File md5="AD12ED11A7668CF216173F950AE558FA" import="1">Art/FontIcons/JFD_ReligionOdinaniFontIcons_22.dds</File>
+    <File md5="3519A9196592DFC225B9E715895CEF9D" import="1">Art/FontIcons/JFD_ReligionOdinaniFontIcons_22.ggxml</File>
+    <File md5="D2C5AE5A78D818F607F6EEECB451453D" import="1">Art/Graphics/Mburichi.fxsxml</File>
+    <File md5="3ED73EA75C8E7DCA50D2440ED71F5BA5" import="1">Art/Graphics/Mburichi.gr2</File>
+    <File md5="22349EA2FEE07F5968384BEE80366B25" import="1">Art/Graphics/Mburichi_diff.dds</File>
+    <File md5="35057209ACA27FEA6099BF60786182A0" import="1">Art/Graphics/Mburichi_sref.dds</File>
+    <File md5="7E8FF0A8440C44D5CD5DFCB8D36C8670" import="1">Art/Graphics/sv_Mburichi.dds</File>
+    <File md5="C27D75CA71410D59CA680FF464F1AFA0" import="1">Art/Icon Atlas/JFD_MburichiUnitFlag_32.dds</File>
+    <File md5="947D3E6F94C67D23F87A0682EFE01A93" import="1">Art/Icon Atlas/JFD_NriAlphaAtlas_128.dds</File>
+    <File md5="5ED3610AB830FB98E471FEDEEF234DC8" import="1">Art/Icon Atlas/JFD_NriAlphaAtlas_16.dds</File>
+    <File md5="1F8130EF36F8E2E8CF84A4321F687DC1" import="1">Art/Icon Atlas/JFD_NriAlphaAtlas_24.dds</File>
+    <File md5="1A22E70ACC23D0C711865BB1DDFF3A92" import="1">Art/Icon Atlas/JFD_NriAlphaAtlas_32.dds</File>
+    <File md5="2031244D32FFF4FECA6FF2A9085A8135" import="1">Art/Icon Atlas/JFD_NriAlphaAtlas_45.dds</File>
+    <File md5="B0FC666EE1C7873C3031600D04270DF5" import="1">Art/Icon Atlas/JFD_NriAlphaAtlas_48.dds</File>
+    <File md5="F8C258E31F928306DAC7D3283F249D5E" import="1">Art/Icon Atlas/JFD_NriAlphaAtlas_64.dds</File>
+    <File md5="25B8371B5ADADD119EC26FBB96B7534C" import="1">Art/Icon Atlas/JFD_NriAlphaAtlas_80.dds</File>
+    <File md5="5B7EB89C88EC7778C4D19132F3007678" import="1">Art/Icon Atlas/JFD_NriAtlas_128.dds</File>
+    <File md5="969049D572811B9C2DF65F26A7983EDD" import="1">Art/Icon Atlas/JFD_NriAtlas_256.dds</File>
+    <File md5="9D6C8FB4486D4AA5A6CEB7D135F24188" import="1">Art/Icon Atlas/JFD_NriAtlas_32.dds</File>
+    <File md5="8AE87780969E2BC1234C23E7A403BA34" import="1">Art/Icon Atlas/JFD_NriAtlas_45.dds</File>
+    <File md5="1340A3441C05C1C176528944517DF519" import="1">Art/Icon Atlas/JFD_NriAtlas_64.dds</File>
+    <File md5="BD157DA41BDDE3F19E20659811C3AF34" import="1">Art/Icon Atlas/JFD_NriAtlas_80.dds</File>
+    <File md5="636407D5FDCE17D353DCB63B6BB0A5B0" import="1">Art/Icon Atlas/JFD_NriReligionAtlas_128.dds</File>
+    <File md5="770538D7E9CCF809A983150697BE3718" import="1">Art/Icon Atlas/JFD_NriReligionAtlas_16.dds</File>
+    <File md5="EB3E2A9421D67F6E8482F4DBA18F1115" import="1">Art/Icon Atlas/JFD_NriReligionAtlas_214.dds</File>
+    <File md5="FA46C3D01367FE6DDCA08F4822C30038" import="1">Art/Icon Atlas/JFD_NriReligionAtlas_24.dds</File>
+    <File md5="45807C98598EC50FADD32DD846BE7446" import="1">Art/Icon Atlas/JFD_NriReligionAtlas_256.dds</File>
+    <File md5="957D5CE68012039EAD4D849257E5C379" import="1">Art/Icon Atlas/JFD_NriReligionAtlas_32.dds</File>
+    <File md5="E755446EABE655F9494BF2BF08C4F7A6" import="1">Art/Icon Atlas/JFD_NriReligionAtlas_45.dds</File>
+    <File md5="25A29E66B754F5D8BEDCD4694F7D49B6" import="1">Art/Icon Atlas/JFD_NriReligionAtlas_48.dds</File>
+    <File md5="E7C0DCDED165FCBB53C6710922C54A39" import="1">Art/Icon Atlas/JFD_NriReligionAtlas_64.dds</File>
+    <File md5="D6CC0778B2DCE141B0055E44977096EB" import="1">Art/Icon Atlas/JFD_NriReligionAtlas_80.dds</File>
+    <File md5="44BDF60AA06973BD9C83529559D782FB" import="1">Art/Map/Eri_DOM.dds</File>
+    <File md5="FED637A9D1360E4EBE4B3CD42A12FE2D" import="1">Art/Map/NriMap512.dds</File>
+    <File md5="8BC4167F21A4D19934C478ADF96864E4" import="0">Audio/Audio.sql</File>
+    <File md5="1272F8F3F9734CE0C00223BB15B126DA" import="1">Audio/Eri_Peace.mp3</File>
+    <File md5="1E0C8F0A7E65087C5BC58CB9AB29E913" import="1">Audio/Eri_War.mp3</File>
+    <File md5="8666C3D96C303BD4268093CE6893898B" import="0">Core/Buildings.sql</File>
+    <File md5="9F1C92FC0635103D7C62EBC18F996FCF" import="0">Core/Civilization.sql</File>
+    <File md5="65CCBC6DEBFB78580803B5FC35CFE2C8" import="0">Core/Diplomacy.sql</File>
+    <File md5="03176D1A684C2B335B045C8CF6F0E236" import="0">Core/DiplomacyText.xml</File>
+    <File md5="DE770F692293E79F11ED6BC210C65914" import="0">Core/GameText.xml</File>
+    <File md5="74318F97E009496E5D2A8F73948AACA8" import="0">Core/Leaderhead.sql</File>
+    <File md5="F5A055CAAF6DC86E4B72B1ACEBFC4434" import="0">Core/Mod Support/Core.sql</File>
+    <File md5="3C92858F4F10239BDCA5090490B6517A" import="0">Core/Mod Support/GameText.xml</File>
+    <File md5="C9896B6F8F1A76B1C10F85EC30259511" import="0">Core/Mod Support/Gedemon's YnAEMP Support/CivilizationStartPos.sql</File>
+    <File md5="F7AFEDF8C6577650230B2BA514FC3FA8" import="0">Core/Mod Support/Sukritact's Decisions Support/Decisions.sql</File>
+    <File md5="052A97A9592C5FC5F0273E2E2A4CBEB6" import="0">Core/Mod Support/Sukritact's Decisions Support/GameText.xml</File>
+    <File md5="8C389A63BC195F3BAD5696FBC9AF3FF8" import="0">Core/Mod Support/Sukritact's Events Support/Events.sql</File>
+    <File md5="34A97EA008A8DFA9C240A05176948130" import="0">Core/Mod Support/Sukritact's Events Support/GameText.xml</File>
+    <File md5="7CA72E0855651768E238EEFF8B2320DF" import="0">Core/PlayerColours.sql</File>
+    <File md5="89216DC874BA4B91C82955DE6792E794" import="0">Core/Promotions.sql</File>
+    <File md5="9E85C7A9D0A508AF95D8112F48387541" import="0">Core/Religions.sql</File>
+    <File md5="4667164748E2CA8F81A3AB83B605C579" import="0">Core/Traits.sql</File>
+    <File md5="185C1309F4C84FFE10CF865FA054142A" import="0">Core/Units.sql</File>
+    <File md5="3665EA7314EC7714D3F5520365D7702A" import="0">DeleteMissingReferences.xml</File>
+    <File md5="EF2CD8C63CADF9A26BF7B682CC637EF9" import="0">Lua/JFD_NriFunctions.lua</File>
+    <File md5="9DCDFFAD3E7E77D899F33BE5E545B89D" import="0">Lua/JFD_NriFunctions.xml</File>
+    <File md5="D63DC8BB6AA0F310DD55B264DB49C7E2" import="0">Lua/PlotIterators.lua</File>
+    <File md5="B6135BB5160B5098B7AAC790DE0C8089" import="1">Lua/Sukritact's Decisions Support/JFD_NriDecisions.lua</File>
+    <File md5="9A64B4A5E859C2C4147B507AF968EFCB" import="1">Lua/Sukritact's Events Support/JFD_NriEvents.lua</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Art/ArtDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Audio/Audio.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Buildings.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Civilization.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Diplomacy.sql</UpdateDatabase>
+      <UpdateDatabase>Core/DiplomacyText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Leaderhead.sql</UpdateDatabase>
+      <UpdateDatabase>Core/PlayerColours.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Promotions.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Religions.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Traits.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Units.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Mod Support/Core.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Mod Support/GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Mod Support/Gedemon's YnAEMP Support/CivilizationStartPos.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Mod Support/Sukritact's Decisions Support/Decisions.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Mod Support/Sukritact's Decisions Support/GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Mod Support/Sukritact's Events Support/Events.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Mod Support/Sukritact's Events Support/GameText.xml</UpdateDatabase>
+      <UpdateDatabase>DeleteMissingReferences.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/JFD_NriFunctions.lua">
+      <Name>JFD_NriFunctions</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

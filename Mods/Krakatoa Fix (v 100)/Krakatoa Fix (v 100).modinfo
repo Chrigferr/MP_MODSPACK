@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="2efba6c2-7c76-470c-bf57-a5aece4eb6bc" version="100">
+  <Properties>
+    <Name>Krakatoa Fix</Name>
+    <Teaser>Fixes the placement requirements of Krakatoa.</Teaser>
+    <Description>This mod fixes the placement requirements of Krakatoa to increase its chances of being a workable tile.[NEWLINE][NEWLINE]This one has bugged me for a while.  In the default game, Krakatoa usually spawns out in the middle of the vast ocean and wastes a good natural wonder slot for the given map being played (and it spawns often).  Not only that, but it wastes resources as well when they spawn around it in the middle of nowhere.[NEWLINE][NEWLINE]First, the reason it does this is due to an error in the code.  "AdjacentTilesRequireShallowWater" is set to true, yet its parent tag"AdjacentTilesCareAboutTerrainTypes" remains at its default value of false and overrides it.  This is why the wonder spawns out in the middle of the ocean and why, with logging enabled, it lists a ridiculous number of possible candidates for this wonder's placement (it's counting lots of ocean tiles).  The adjacent tiles around Krakatoa are only all shallow water because of "SetAdjacentTilesToShallowWater" which converts them once the wonder is plopped into the ocean.[NEWLINE][NEWLINE]Setting "AdjacentTilesCareAboutTerrainTypes" to true basically fixed that issue alone.  But I went a step further and made the requirements slightly more selective to better ensure that the volcano spawns more often at 2 tiles from land and has a much better chance of becoming a workable tile.[NEWLINE][NEWLINE]So, I added another parameter which only lets Krakatoa spawn on shallow water tiles (coast) instead of just any water tile.  This prevents it from spawning on ocean adjacent to the coast and potentially being unworkable (4 tiles from land).  Also, I increased the required initial number of shallow water tiles from 1 to 4.  This ensures that Krakatoa doesn't spawn way out on the tip of coastal tiles branching out into the deep water and helps keep it closer to land.</Description>
+    <Authors>James Barrows</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>0</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>0</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References />
+  <Blocks />
+  <Files>
+    <File md5="F29EDADA71BC161F20ABF7299C1DAC18" import="0">Krakatoa_Fix.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Krakatoa_Fix.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+</Mod>

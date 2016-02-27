@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 11/23/2013 1:27:25 PM -->
+<GameData>
+	<Language_en_US>
+		<!-- ENGLAND -->
+		<!--City List-->
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HENRY_ENGLAND_01">
+			<Text>London</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HENRY_ENGLAND_02">
+			<Text>York</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HENRY_ENGLAND_03">
+			<Text>Hastings</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HENRY_ENGLAND_04">
+			<Text>Hampton</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HENRY_ENGLAND_05">
+			<Text>Greenwich</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HENRY_ENGLAND_06">
+			<Text>Dover</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HENRY_ENGLAND_07">
+			<Text>Windsor</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HENRY_ENGLAND_08">
+			<Text>Hythe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HENRY_ENGLAND_09">
+			<Text>Dublin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HENRY_ENGLAND_10">
+			<Text>Sandwich</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HENRY_ENGLAND_11">
+			<Text>Norwich</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HENRY_ENGLAND_12">
+			<Text>New Romney</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HENRY_ENGLAND_13">
+			<Text>Canterbury</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HENRY_ENGLAND_14">
+			<Text>Rye</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HENRY_ENGLAND_15">
+			<Text>Cardiff</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HENRY_ENGLAND_16">
+			<Text>Berwick</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HENRY_ENGLAND_17">
+			<Text>Carlisle</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HENRY_ENGLAND_18">
+			<Text>Calais</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HENRY_ENGLAND_19">
+			<Text>Bristol</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HENRY_ENGLAND_20">
+			<Text>Newcastle</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HENRY_ENGLAND_21">
+			<Text>Dunkirk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HENRY_ENGLAND_22">
+			<Text>Dundalk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HENRY_ENGLAND_23">
+			<Text>Llanddewi Brefi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HENRY_ENGLAND_24">
+			<Text>Gravelines</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HENRY_ENGLAND_25">
+			<Text>Hull</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HENRY_ENGLAND_26">
+			<Text>Boston </Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HENRY_ENGLAND_27">
+			<Text>Southampton</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HENRY_ENGLAND_28">
+			<Text>Colchester</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HENRY_ENGLAND_29">
+			<Text>Coventry</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HENRY_ENGLAND_30">
+			<Text>Exeter</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HENRY_ENGLAND_31">
+			<Text>Dalky</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HENRY_ENGLAND_32">
+			<Text>Exeter</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HENRY_ENGLAND_33">
+			<Text>Great Yarmouth</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HENRY_ENGLAND_34">
+			<Text>Swansea</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HENRY_ENGLAND_35">
+			<Text>Maidstone</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HENRY_ENGLAND_36">
+			<Text>Ipswich</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HENRY_ENGLAND_37">
+			<Text>King's Lynn</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HENRY_ENGLAND_38">
+			<Text>Reading</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_HENRY_ENGLAND_39">
+			<Text>Wissant</Text>
+		</Row>
+		<!-- HENRY VIII -->
+		<Row Tag="TXT_KEY_LEADER_JFD_HENRY">
+			<Text>Henry VIII</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_HENRY_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_HENRY_TEXT_1">
+			<Text>Henry VIII (28 June 1491 – 28 January 1547) was King of England from 21 April 1509 until his death. He was Lord, and later assumed the Kingship, of Ireland, and continued the nominal claim by English monarchs to the Kingdom of France. Henry was the second monarch of the Tudor dynasty, succeeding his father, Henry VII.[NEWLINE][NEWLINE]Besides his six marriages, Henry VIII is known for his role in the separation of the Church of England from the Roman Catholic Church. His disagreements with the Pope led to his separation of the Church of England from papal authority, with himself, as King, as the Supreme Head of the Church of England, and to the Dissolution of the Monasteries. Because his principal dispute was with papal authority, rather than with doctrinal matters, he remained a believer in core Catholic theological teachings, despite his excommunication from the Roman Catholic Church. Henry oversaw the legal union of England and Wales with the Laws in Wales Acts 1535 and 1542. He is also well known for a long personal rivalry with both Francis I of France and the Habsburg monarch Emperor Charles V of the Holy Roman Empire (King Charles I of Spain), his contemporaries with whom he frequently warred.[NEWLINE][NEWLINE]Domestically, he is known for his radical changes to the English Constitution, ushering in the theory of the divine right of kings to England. Besides asserting the sovereign's supremacy over the Church of England, thus initiating the English Reformation, he greatly expanded royal power. Charges of treason and heresy were commonly used to quash dissent, and those accused were often executed without a formal trial, by means of bills of attainder. He achieved many of his political aims through the work of his chief ministers, some of whom were banished or executed when they fell out of his favour. Figures such as Thomas Wolsey, Thomas More, Thomas Cromwell, Richard Rich, and Thomas Cranmer figured prominently in Henry's administration. An extravagant spender, he used the proceeds from the Dissolution of the Monasteries and acts of the Reformation Parliament to convert to royal revenue money formerly paid to Rome. Despite the influx of money from these sources, Henry was continually on the verge of financial ruin, due to his personal extravagance, as well as his numerous costly continental wars.[NEWLINE][NEWLINE]His contemporaries considered Henry in his prime to be an attractive, educated and accomplished king, and he has been described as "one of the most charismatic rulers to sit on the English throne". Besides ruling with considerable power, he was also an author and composer. His desire to provide England with a male heir – which stemmed partly from personal vanity and partly from his belief that a daughter would be unable to consolidate Tudor power and maintain the fragile peace that existed following the Wars of the Roses – led to the two things for which Henry is most remembered: his six marriages and his break with the Pope (who would not allow an annulment of Henry's first marriage) and the Roman Catholic Church, leading to the English Reformation. Henry became severely obese and his health suffered, contributing to his death in 1547. He is frequently characterised in his later life as a lustful, egotistical, harsh, and insecure king. He was succeeded by his son Edward VI.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_HENRY_NAME">
+			<Text>Henry VIII</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_HENRY_SUBTITLE">
+			<Text>Leader of England</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_HENRY_TITLES_1">
+			<Text>King of England, King of France, King of Ireland</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_HENRY_LIVED">
+			<Text>1491 - 1547</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DAWN_HENRY_ENGLAND_TEXT">
+			<Text>Hail His Majesty, Henry VIII, King of England, and Ireland, and France, and on this earth Supreme Head of the Church of England. Your legacy as the father of the Queens Elizabeth and Mary is preceded only by your virile quest for a son with whom to continue the prestigious Tudor Dynasty. Your infamous affairs would be the catalyst for England's separation from Rome, and your lifelong rivalry with the Holy Roman Emperor and the King of France would spur your unyielding lust for power and prestige. Your reign would model England into a judicially and spiritually independent power, and your reformation would allow the greatness of your daughter Elizabeth's coming reign.[NEWLINE][NEWLINE]Proud and glorious King, the people of England call for a monarch to whom to give their love. A King of great power and great nobility, who would cast his shadow upon the would-be foes of his realm. Can you continue the reign of the Tudor Dynasty over England? Can you build a civilization that can stand the test of time?</Text>
+		</Row>
+		<!-- DIEU ET MON DROIT -->
+		<Row Tag="TXT_KEY_TRAIT_JFD_HENRY_ENGLAND_SHORT">
+			<Text>Dieu et Mon Droit</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_JFD_HENRY_ENGLAND">
+			<Text>A 'We Love the King Day' begins in all cities whenever you capture an enemy city or adopt a new Social Policy. Cities celebrating 'We Love the King Day' always follow your religion and have increased [ICON_GREAT_PEOPLE] Great People generation.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_HENRY_GPGEN">
+			<Text>JFD: England Henry GP Gen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_HENRY_GPGEN_HELP">
+			<Text>+20% [ICON_GREAT_PEOPLE] GP Gen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_ENGLAND_HENRY_CITY_VIEW_HELP">
+			<Text>[NEWLINE]+20% [ICON_GREAT_PEOPLE] Great People generation during this 'We Love the King Day.'</Text>
+		</Row>
+		<!-- JOUSTING_GROUNDS -->
+		<Row Tag="TXT_KEY_BUILDING_JFD_JOUSTING_GROUNDS">
+			<Text>Jousting Grounds</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_JOUSTING_GROUNDS_TEXT">
+			<Text>Jousting is a martial game or hastilude between two horsemen and using jousting sticks, often as part of a tournament. The primary aim is to strike the opponent with the jousting sticks while riding towards him at high speed, if possible breaking the lance on the opponent's shield or jousting armour, or unhorsing him.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_JOUSTING_GROUNDS_HELP">
+			<Text>+15 XP for all Units and +5XP more for Mounted Units. Gain [ICON_CULTURE] Culture whenever a Mounted Unit is trained in this city, equal to the amount of XP the unit begins with.[NEWLINE][NEWLINE]City must have a Barracks.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_JOUSTING_GROUNDS_STRATEGY">
+			<Text>The Jousting Grounds provides more experience for mounted units than the Armory that it replaces for Henry's England, and is avaliable at Chivalry instead of Steel. It also provides an amount of [ICON_CULTURE] Culture whenever a new Mounted Unit is trained, equal to the amount of XP this unit begins with.</Text>
+		</Row>
+		<!-- PLAYHOUSE -->
+		<Row Tag="TXT_KEY_BUILDING_JFD_PLAYHOUSE">
+			<Text>Playhouse</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_PLAYHOUSE_TEXT">
+			<Text>Playhouse is a common Elizabethan term for a theatre, especially those built in London such as The Globe and The Rose.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_PLAYHOUSE_HELP">
+			<Text>The first three contain a prebuilt Great Work of Writing in the Great Work Slot.[NEWLINE][NEWLINE]City must have a Colosseum.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_PLAYHOUSE_STRATEGY">
+			<Text>The Elizabethan Playhouse is England's unique Zoo. The first three of these constructed comes with a prebuilt Great Work of Writing in its Great Work slot; others thereafter still come with a Great Work of Writing slot. Unlike the Zoo, it costs no maintenance.</Text>
+		</Row>
+		<!--Great Works-->
+		<Row Tag="TXT_KEY_UNIT_JFD_ELIZABETHAN_WRITER">
+			<Text>Great Playwright</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_WILLIAM_SHAKESPEARE_DESC">
+			<Text>William Shakespeare</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_JFD_ELIZABETHAN_1">
+			<Text>Julius Caesar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_JFD_ELIZABETHAN_1">
+			<Text>Men at some time are masters of their fates:[NEWLINE]The fault, dear Brutus, is not in our stars,[NEWLINE]But in ourselves, that we are underlings.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_CHRISTOPHER_MARLOWE_DESC">
+			<Text>Christopher Marlowe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_JFD_ELIZABETHAN_2">
+			<Text>The Tragical History of Doctor Faustus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_JFD_ELIZABETHAN_2">
+			<Text>Hell hath no limits, nor is circumscrib'd[NEWLINE]In one self place; but where we are is hell,[NEWLINE]And where hell is, there must we ever be.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_BEN_JOHNSON_DESC">
+			<Text>Ben Johnson</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_JFD_ELIZABETHAN_3">
+			<Text>Song, To Celia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_JFD_ELIZABETHAN_3">
+			<Text>Drink to me only with thine eyes,[NEWLINE]And I will pledge with mine;[NEWLINE]Or leave a kiss but in the cup[NEWLINE]And I'll not look for wine.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 11/23/2013 1:27:25 PM -->
+<GameData>
+	<Language_en_US>
+		<!--RUSSIA-->
+		<Row Tag="TXT_KEY_CIV_JFD_RUSSIA_PUTIN_ADJECTIVE">
+			<Text>Putine Russia</Text>
+		</Row>
+		<!--Cities-->
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_RUSSIA_PUTIN_1">
+			<Text>Moscow</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_RUSSIA_PUTIN_2">
+			<Text>Saint Petersburg</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_RUSSIA_PUTIN_3">
+			<Text>Novosibirsk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_RUSSIA_PUTIN_4">
+			<Text>Yekaterinburg</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_RUSSIA_PUTIN_5">
+			<Text>Nizhny Novgorod</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_RUSSIA_PUTIN_6">
+			<Text>Samara</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_RUSSIA_PUTIN_7">
+			<Text>Omsk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_RUSSIA_PUTIN_8">
+			<Text>Kazan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_RUSSIA_PUTIN_9">
+			<Text>Chelyabinsk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_RUSSIA_PUTIN_10">
+			<Text>Rostov-on-Don</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_RUSSIA_PUTIN_11">
+			<Text>Ufa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_RUSSIA_PUTIN_12">
+			<Text>Perm</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_RUSSIA_PUTIN_13">
+			<Text>Krasnoyarsk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_RUSSIA_PUTIN_14">
+			<Text>Voronezh</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_RUSSIA_PUTIN_15">
+			<Text>Saratov</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_RUSSIA_PUTIN_16">
+			<Text>Krasnodar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_RUSSIA_PUTIN_17">
+			<Text>Tolyatti</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_RUSSIA_PUTIN_18">
+			<Text>Izhevsk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_RUSSIA_PUTIN_19">
+			<Text>Ulyanovsk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_RUSSIA_PUTIN_20">
+			<Text>Barnaul</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_RUSSIA_PUTIN_21">
+			<Text>Vladivostok</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_RUSSIA_PUTIN_22">
+			<Text>Yaroslavl</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_RUSSIA_PUTIN_23">
+			<Text>Irkutsk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_RUSSIA_PUTIN_24">
+			<Text>Tyumen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_RUSSIA_PUTIN_25">
+			<Text>Khabarovsk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_RUSSIA_PUTIN_26">
+			<Text>Makhachkala</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_RUSSIA_PUTIN_27">
+			<Text>Orenburg</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_RUSSIA_PUTIN_28">
+			<Text>Novokuznetsk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_RUSSIA_PUTIN_29">
+			<Text>Kemerovo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_RUSSIA_PUTIN_30">
+			<Text>Ryazan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_RUSSIA_PUTIN_31">
+			<Text>Tomsk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_RUSSIA_PUTIN_32">
+			<Text>Astrakhan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_RUSSIA_PUTIN_33">
+			<Text>Penza</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_RUSSIA_PUTIN_34">
+			<Text>Naberezhnye Chelny</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_RUSSIA_PUTIN_35">
+			<Text>Lipetsk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_RUSSIA_PUTIN_36">
+			<Text>Tula</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_RUSSIA_PUTIN_37">
+			<Text>Kirov</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_RUSSIA_PUTIN_38">
+			<Text>Putingrad</Text>
+		</Row>
+		<!--Spies-->
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_RUSSIA_PUTIN_1">
+			<Text>Sergey Lavrov</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_RUSSIA_PUTIN_2">
+			<Text>Vladimir Kolokoltsev</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_RUSSIA_PUTIN_3">
+			<Text>Anton Siluanov</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_RUSSIA_PUTIN_4">
+			<Text>Sergei Shoygu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_RUSSIA_PUTIN_5">
+			<Text>Vladimir Puchkov</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_RUSSIA_PUTIN_6">
+			<Text>Alexander Konovalov</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_RUSSIA_PUTIN_7">
+			<Text>Denis Manturov</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_RUSSIA_PUTIN_8">
+			<Text>Alexey Ulyukaev</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_RUSSIA_PUTIN_9">
+			<Text>Veronika Skvortsova</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_RUSSIA_PUTIN_10">
+			<Text>Maxim Topilin</Text>
+		</Row>
+		<!--PUTIN-->
+		<Row Tag="TXT_KEY_LEADER_JFD_PUTIN">
+			<Text>Putin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_PUTIN_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_PUTIN_TEXT_1">
+			<Text>Vladimir Vladimirovich Putin has been the President of Russia since 7 May 2012. Putin previously served as President from 2000 to 2008, and as Prime Minister of Russia from 1999 to 2000 and again from 2008 to 2012. During his last term as Prime Minister, he was also the Chairman of United Russia, the ruling party.[NEWLINE][NEWLINE]For 16 years Putin was an officer in the KGB, rising to the rank of Lieutenant Colonel before he retired to enter politics in his native Saint Petersburg in 1991. He moved to Moscow in 1996 and joined President Boris Yeltsin's administration where he rose quickly, becoming Acting President on 31 December 1999 when Yeltsin unexpectedly resigned. Putin won the subsequent 2000 presidential election, despite widespread accusations of vote-rigging, and was reelected in 2004. Because of constitutionally mandated term limits, Putin was ineligible to run for a third consecutive presidential term in 2008. Dmitry Medvedev won the 2008 presidential election and appointed Putin as Prime Minister, beginning a period of so-called "tandemocracy". In September 2011, following a change in the law extending the presidential term from four years to six, Putin announced that he would seek a third, non-consecutive term as President in the 2012 presidential election, an announcement which led to large-scale protests in many Russian cities. In March 2012 he won the election, which was criticized for procedural irregularities, and is serving a six-year term.[NEWLINE][NEWLINE]Many of Putin's actions are regarded by the domestic opposition and foreign observers as undemocratic. The 2011 Democracy Index stated that Russia was in "a long process of regression [that] culminated in a move from a hybrid to an authoritarian regime" in view of Putin's candidacy and flawed parliamentary elections. In 2014, Russia was temporarily suspended from the G8 group as a result of its annexation of Crimea.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_PUTIN_NAME">
+			<Text>Putin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_PUTIN_SUBTITLE">
+			<Text>Leader of Russia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_PUTIN_TITLES_1">
+			<Text>Let's say 'President' of the Russian Federation</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_PUTIN_LIVED">
+			<Text>1952 - </Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DAWN_RUSSIA_PUTIN_TEXT">
+			<Text>Welcome, Emper-I mean President Putin. You lead the mighty and insurmountable Russian Federation. Rising to politics under the administration of Boris Yeltsin, you quickly assumed command of the largest country in the world. You introduced to Russia a time of prosperity and security, after nearly a century of poverty and threat. Although derided by your international peers and opposed by the democratic ideals of the West, your stern grip and steadfast governance promise to the Russian people a place amongst the superpowers of the world for years to come.[NEWLINE][NEWLINE]Esteemed and manly President, before you lies the great challenge that is taming the Russian nation. Can you direct Russia's future in deference of its once noble past? Can you perservere in the face of conspiracy and adversity? Can you build a civilization that can stand the test of time?</Text>
+		</Row>
+		<!--IMPERIAL LEGACY-->
+		<Row Tag="TXT_KEY_TRAIT_JFD_RUSSIA_PUTIN_SHORT">
+			<Text>Imperial Legacy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_JFD_RUSSIA_PUTIN">
+			<Text>Acquired tiles will claim an additional tile adjacent. +2 [ICON_INFLUENCE] Influence per turn with bordering City-States, which do not enter [ICON_RESISTANCE] Resistance if captured.</Text>
+		</Row>
+		<!--SPETSNAZ-->
+		<Row Tag="TXT_KEY_UNIT_JFD_SPETSNAZ">
+			<Text>Spetsnaz</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_SPETSNAZ_HELP">
+			<Text>Elite Russian Marine especially useful when attacking cities or when fighting within your own borders. When this Unit captures an enemy city, all other cities in the enemy's empire enter a period of [ICON_RESISTANCE] Resistance.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_SPETSNAZ_STRATEGY">
+			<Text>This Russian unique unit replaces the Marine for Putin and is stronger when attacking Cities or when fighting within your own borders. If this unit captures an enemy city, then all other cities in that enemy's empire will go into a period of [ICON_RESISTANCE] Resistance. The period is longer should this unit have captured the enemy's [ICON_CAPITAL] Capital.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_SPETSNAZ_TEXT">
+			<Text>Spetsnaz is an umbrella term for the special forces in Russia and numerous other post-Soviet states. Historically, the term referred to special military units controlled by the military intelligence service GRU (Spetsnaz GRU). It also describes special purpose units, or task forces of other ministries (such as the Ministry of Emergency Situations' special rescue unit) in post-Soviet countries.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_SPETSNAZ">
+			<Text>You Are My Bitch. I [ICON_MOVES] Move You.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_SPETSNAZ_HELP">
+			<Text>+20% [ICON_STRENGTH] Bonus vs. Cities and when in Friendly Territory.[NEWLINE][NEWLINE]When capturing an enemy city, all cities belonging to that civilization go into [ICON_RESISTANCE] Resistance.</Text>
+		</Row>
+		<!--STATE_ASSEMBLY-->
+		<Row Tag="TXT_KEY_BUILDING_JFD_STATE_ASSEMBLY">
+			<Text>State Assembly</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_STATE_ASSEMBLY_HELP">
+			<Text>+1 [ICON_HAPPINESS_1] Local Happiness for every complete ring of owned tiles surrounding the city.[NEWLINE][NEWLINE]Reduces enemy spy stealing rate by 25%.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_STATE_ASSEMBLY_STRATEGY">
+			<Text>The unique State Assembly increases a civilization's [ICON_HAPPINESS_1] Happiness, increasing with each complete ring of owned Tiles the city possesses. It cannot provide more [ICON_HAPPINESS_1] Happiness than there are [ICON_CITIZEN] Citizens in a city.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_STATE_ASSEMBLY_TEXT">
+			<Text>The federal subjects of Russia, also referred to as the subjects of the Russian Federation or simply as the subjects of the federation, are the constituent entities of Russia, its top-level political divisions according to the Constitution of Russia. Since March 18, 2014, the Russian Federation consists of eighty-five federal subjects, although the two most recently added subjects are internationally recognized as part of Ukraine.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_STATE_ASSEMBLY_HAPPINESS">
+			<Text>JFD: State Assembly</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_STATE_ASSEMBLY_HAPPINESS_HELP">
+			<Text>+1 [ICON_HAPPINESS_1] Local Happiness</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_STATE_ASSEMBLY_CITY_VIEW_HELP">
+			<Text>+{1_Num} [ICON_HAPPINESS_1] Local Happiness for each ring of owned tiles surrounding this city.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

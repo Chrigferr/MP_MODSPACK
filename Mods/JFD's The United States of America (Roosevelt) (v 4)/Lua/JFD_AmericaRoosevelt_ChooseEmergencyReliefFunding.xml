@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Context>
+	<Box ID="MainUIBG"  Style="BGBlock_ClearTopBar" Hidden="1"/>
+	<Grid  ID="MainUI" Size="500,260" Anchor="C,C" Offset="0,0" Padding="30,30" Style="Grid9DetailFive140" Hidden="1">
+		<!-- Side treatments -->
+		<Box Style="MenuLeftSideTreatment"/>
+		<Box Style="MenuRightSideTreatment"/>
+
+		<Label  Anchor="C,T" Size="300,24" Offset="0,15" String="TXT_KEY_JFD_EMERGENCY_RELIEF_FUND_SHORT" ID="Title" ColorSet="Beige_Black"  Font="TwCenMT22" Style="MenuTitleCaption"/>
+		<Label Anchor="C,T" Offset="0,60" ColorSet="Beige_Black" Font="TwCenMT20" FontStyle="Shadow" String="TXT_KEY_JFD_EMERGENCY_RELIEF_FUND_MESSAGE" ID="Summary" WrapWidth="450" LeadingOffset="-8"/>
+		<Label Anchor="L,T" Offset="25,125" Font="TwCenMT20" ColorSet="Beige_Black_Alpha" FontStyle="Shadow" String="TXT_KEY_JFD_EMERGENCY_RELIEF_FUND_HEADING"/>
+		<Box Anchor="L,T" Offset="115,120" Size="70,24" Color="Beige,255">
+			<Box Anchor="C,C"  Size="68,22" Color="Black,255" >
+				<EditBox CallOnChar="1" EditMode="1" NumberInput="1" MaxLength="5" Size="64,22" Anchor="C,C" ID="GoldAmount" Font="TwCenMT20" FocusStop="1" />
+			</Box>
+		</Box>
+
+		<GridButton ID="OK" Size="140,36" Anchor="C,B" Offset="0,60" ToolTip="TXT_KEY_JFD_RELIEF_FUND_TT" Style="BaseButton">
+			<Label Anchor="C,C" Offset="0,-2" String="TXT_KEY_JFD_INVEST_BUTTON_OK" Font="TwCenMT22" FontStyle="Shadow" ColorSet="Beige_Black_Alpha" />
+		</GridButton>
+	</Grid>
+</Context>

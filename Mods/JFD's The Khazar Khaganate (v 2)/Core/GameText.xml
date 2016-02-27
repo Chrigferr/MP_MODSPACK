@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 11/23/2013 1:27:25 PM -->
+<GameData>
+	<Language_en_US>
+		<!--KHAZARIA-->
+		<Row Tag="TXT_KEY_CIV_JFD_KHAZARIA_ADJECTIVE">
+			<Text>Khazar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_JFD_KHAZARIA_DESC">
+			<Text>Khazar Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_JFD_KHAZARIA_SHORT_DESC">
+			<Text>Khazaria</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_KHAZARIA_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_KHAZARIA_TEXT_1">
+			<Text>The Khazars were semi-nomadic Turkic people who established one of the largest polities of medieval Eurasia, their territory comprising much of modern-day European Russia, western Kazakhstan, eastern Ukraine and large portions of the Caucasus and beyond. A successor state of the Western Turks, Khazaria was a polyethnic and multifate state with a population of Turkic, Uralic, Slavic, and Palaeo-Caucasian peoples. Khazaria was the first feudal state to be established in Eastern Europe.[NEWLINE][NEWLINE]With the collapse of the Göktürk Empire due to internal conflict in the 6th century, the western half of the empire split into a number of tribal confederations, among whom were the Khazars, led by the Ashina clan, the traditional rulers of the Göktürk Empire. During the 7th and 8th centuries, the Khazar fought a series of wars against the Umayyad Caliphate, which was attempting simultaneously to expand its influence into Transoxiana and the Caucasus. During the 9th and 10th centuries, Khazaria was one of the major arteries of commerce between northern Europe and southwestern Asia, as well as a connection to the Silk Road.</Text>
+		</Row>
+		<!-- City Names -->
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ATIL">
+			<Text>Atil</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_BALANJAR">
+			<Text>Balanjar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_SARKEL">
+			<Text>Sarkel</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_SAMANDAR">
+			<Text>Samandar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_TMUTARAKAN">
+			<Text>Tamantarkha</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_DERBENT">
+			<Text>Derbent</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ASTARKHAN">
+			<Text>Astrakhan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_KIEV">
+			<Text>Kiev</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_SARYCHIN">
+			<Text>Sarychin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_SARATAU">
+			<Text>Saratau</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_KHARKA">
+			<Text>Lharka</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ALBAT">
+			<Text>Albat</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_KHORYSDAN">
+			<Text>Khorysdan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_KHURSA">
+			<Text>Khursa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_SIMBIR">
+			<Text>Simbir</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GUZLIEV">
+			<Text>Guzliev</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_SUDAK">
+			<Text>Sudak</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_KERCH">
+			<Text>Kerch</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_SAMIRAN">
+			<Text>Samiran</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_SAMBALUT">
+			<Text>Sambalut</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_KAZARSKI">
+			<Text>Kazarski</Text>
+		</Row>
+		<!-- Spy Names -->
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_KHAZARIA_9">
+			<Text>Baghatur</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_KHAZARIA_8">
+			<Text>Chorpan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_KHAZARIA_7">
+			<Text>Kundajiq</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_KHAZARIA_6">
+			<Text>Tuzniq</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_KHAZARIA_5">
+			<Text>Yilig</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_KHAZARIA_4">
+			<Text>Hezekiah</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_KHAZARIA_3">
+			<Text>Serakh</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_KHAZARIA_2">
+			<Text>Chichek</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_KHAZARIA_1">
+			<Text>Gostyata</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_KHAZARIA_0">
+			<Text>Zebulun</Text>
+		</Row>
+		<!--BULAN-->
+		<Row Tag="TXT_KEY_LEADER_JFD_BULAN">
+			<Text>Bulan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_BULAN_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_BULAN_TEXT_1">
+			Bulan was a Khazar king who led the conversion of the Khazars to Judaism. His name means "elk" in Old Turkic. In modern Turkish, it means "the one who finds". The date of his reign is unknown, as the date of the conversion is hotly disputed, though it is certain that Bulan reigned some time between the mid-700s and the mid-800s. Nor is it settled whether Bulan was the Bek or the Khagan of the Khazars. Scholars sometimes refer to the king who led the Khazar conversion to Judaism as "Bulan Sabriel", though it is conceivable that they may have been different people.[NEWLINE][NEWLINE]In the Khazar Correspondence, an exchange of letters with the Caliph of Cordoba, King Joseph of Khazaria traces his lineage back to Bulan. He refers to the reforming Khazar ruler Obadiah as being one of "the sons of the sons of Bulan". In the Schechter Letter, the name Sabriel is given for the Khazar king who led the conversion to Judaism. The Schechter Letter also gives Sabriel at least a partial Jewish/Israelite ancestry. Sabriel is described as having waged successful campaigns in the Caucasus and Iranian Azerbaijan, possibly as part of the Khazar-Arab wars.
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_BULAN_HEADING_2">
+			<Text>Conversion to Judaism</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_BULAN_TEXT_2">
+			<Text>Jewish communities had existed in the Greek cities of the Black Sea coast since late classical times. Jews fled from Byzantium to Khazaria as a consequence of persecution under Heraclius, Justinian II, Leo III, and Romanos I. These were joined by other Jews fleeing from Sassanid Persia and later the Islamic world. Jewish merchants such as the Radhanites regularly traded in Khazar territory, and may have wielded significant economic and political influence.[NEWLINE][NEWLINE]Khazar tradition held that before his own conversion, Bulan was religiously unaffiliated. In his quest to discover which of the three Abrahamic religions would shape his own religious beliefs, he invited representatives from each to explain their fundamental tenets. In the end, he chose Judaism. The number of Khazars who converted to Judaism is also hotly contested, with historical accounts ranging from claims that only the King and his retainers had embraced Judaism, to the claim that the majority of the lay population had converted.[NEWLINE][NEWLINE]The Khazars enjoyed close relations with the Jews of the Levant and Persia. The Persian Jews, for example, hoped that the Khazars might succeed in conquering the Caliphate. Likewise, the Khazar rulers viewed themselves as the protectors of international Jewry, and corresponded with foreign Jewish leaders. They were known to retaliate against Muslim or Christian interests in Khazaria for persecution of Jews abroad.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_BULAN_LIVED">
+			<Text>c. 800 CE</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_BULAN_NAME">
+			<Text>Bulan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_BULAN_SUBTITLE">
+			<Text>Leader of Khazaria</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_BULAN_TITLES_1">
+			<Text>Khagan Bek of Khazaria</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DOM_JFD_BULAN_TEXT">
+			<Text>We are yours to command, great and powerful Bulan, Khan of Khans and emperor of these vast steppes. Your empire lies at one of the crossroads of the lucrative Silk Road, between the empire of Byzantium in the west and the Umayyad Caliphate in the south. Conceived from the fall of the Göktürk Empire in the 6th century A.D., the Khazars would rise to become one of the most powerful and organised states of the Eurasian Steppes, accomplishing a civilization that the hordes of the Khans before could never dream. Embattled for centuries by the forces of the Eastern Orthodox Church and the Islamic Caliphate, your reign would finally bring religious settlement, and your empire would become a Jewish state; the only of its kind in the world.[NEWLINE][NEWLINE]O terrible Bulan, the mighty Khazar Empire awaits your leadership to bring its foes to heel once more. Can you seize great wealth and prosperity, and command a force that would shake the surface of the earth? Can you beckon to your empire the enterprising faithful? Can you build a civilization that can stand the test of time?</Text>
+		</Row>
+		<!--KHAZAR CORRESPONDENCE-->
+		<Row Tag="TXT_KEY_TRAIT_JFD_KHAZARIA_SHORT">
+			<Text>Khazar Correspondence</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_JFD_KHAZARIA">
+			<Text>When a city is conquered, the followers of your main religion from that city emigrate to your [ICON_CAPITAL] Capital. Enemy cities with followers from your religion have reduced [ICON_STRENGTH] Combat Strength.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_DIASPORA_DESC_NOTIFICATION">
+			<Text>Followers of {1_ReligionName} have fled {2_CityName} to your [ICON_CAPITAL] Capital granting it {3_Num} [ICON_FOOD] Food towards its next [ICON_CITIZEN] Population.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_DIASPORA_SHORT_DESC_NOTIFICATION">
+			<Text>Followers of {1_ReligionName} flee {2_CivName}!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_NEGATIVE_DEFENSE">
+			<Text>JFD: Negative Defense</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_NEGATIVE_DEFENSE_HELP">
+			<Text>-1 [ICON_COMBAT_STRENGTH] Strength.</Text>
+		</Row>
+		<!--KHAGAN BEK-->
+		<Row Tag="TXT_KEY_UNIT_JFD_KHAGAN_BEK">
+			<Text>Khagan Bek</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_KHAGAN_BEK_TEXT">
+			<Text>Khazar kingship was divided between the khagan and the Bek or Khagan Bek. Contemporary Arab historians related that the Khagan was purely a spiritual ruler or figurehead with limited powers, while the Bek was responsible for administration and military affairs. In the Khazar Correspondence, King Joseph identifies himself as the ruler of the Khazars and makes no reference to a colleague. It has been disputed whether Joseph was a Khagan or a Bek; his description of his military campaigns make the latter probable. A third option is that by the time of the Correspondence (c. 950-960) the Khazars had merged the two positions into a single ruler, or that the Beks had somehow supplanted the Khagans or vice versa.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_KHAGAN_BEK_HELP">
+			<Text>Unique Great General for Khazaria. Enemy cities within two tiles of this unit convert to your main religion. Increases starting experience for Mounted Units when stationed in a city.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_KHAGAN_BEK">
+			<Text>Enemy Conversion</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_KHAGAN_BEK_HELP">
+			<Text>Enemy cities within two tiles of this unit will convert to your main religion.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_KHAGAN_BEK_XP">
+			<Text>Khagan Bek</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_KHAGAN_BEK_XP_HELP">
+			<Text>Station this unit in a city to increase starting XP for Mounted Units.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_KHAGAN_BEK_STRATEGY">
+			<Text>The Khagan Bek is the unique Khazar Great Person, replacing the Great General. Unlike the regular Great General, the Khagan Bek can be used to passively convert nearby enemy cities to your main religion. In addition, when this unit is stationed in a city, any newly trained Mounted Units will begin with an additional 10 XP.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_IBRIS">
+			<Text>Ibris</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_BUSIR">
+			<Text>Busir</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_BIHAR">
+			<Text>Bihar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_PARSBIT">
+			<Text>Parsbit</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_ZACHARIAH">
+			<Text>Zachariah</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_BULAN">
+			<Text>Bulan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_BANJAMIN">
+			<Text>Benjamin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_AARON_II">
+			<Text>Aaron II</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_JOSEPH_BEN_AARON">
+			<Text>Joseph ben Aaron</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_DAVID_OF_TAMAN">
+			<Text>David of Taman</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_GEORGIUS_TZUL">
+			<Text>Georgius Tzul</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_BALGITZIN">
+			<Text>Balgitzin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_BARJIK">
+			<Text>Barjik</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_LEBEDIAS">
+			<Text>Lebedias</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_SERACH">
+			<Text>Serach</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_OBADIAH">
+			<Text>Obadiah</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_BEK_MOUNTED_XP">
+			<Text>JFD: Bek XP</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_BEK_MOUNTED_XP_HELP">
+			<Text>+10 XP for Mounted Units.</Text>
+		</Row>
+		<!--SHUL-->
+		<Row Tag="TXT_KEY_BUILDING_JFD_SHUL">
+			<Text>Shul</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_SHUL_TEXT">
+			<Text>Shul is the Yiddish word for Synagogue used by the Ashkenazi Jews. Synagogues are Jewish houses of prayer. Apart from a large hall for prayer, they can also have smaller rooms for study and sometimes a social hall and offices. Some have a separate room for Torah study, called the "beit midrash".[NEWLINE][NEWLINE]After fighting the Arabs to a standstill in the North Caucasus, Khazars became increasingly interested in replacing their Tengriism with a state religion that would give them equal religious standing with their Abrahamic neighbors. During the 8th century, the Khazar royalty and much of the aristocracy converted to a form of Judaism. By welcoming educated and worldly Jews from both Christian Europe and the Islamic Middle East, Khazars rapidly absorbed many of the arts and technologies of civilization. As a direct result of this cultural infusion, they became one of the very few Asian steppe tribal societies that successfully made the transition from nomad to urbanite.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_SHUL_STRATEGY">
+			<Text>The Shul is the unique Temple replacement for Khazaria. Unlike the Temple, the Synagogue is unlocked at Currency, and generates additional [ICON_GOLD} Gold for your Trade Routes. The Shul increases the [ICON_GOLD] Gold output of outgoing Trade Routes by +1 for every two followers of your main religion in the city. It does not cost any maintenance.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_SHUL_HELP">
+			<Text>+1 [ICON_GOLD] Gold for outgoing Trade Routes for every two followers of your main religion in this city.[NEWLINE][NEWLINE]City must have a Shrine.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_SHUL_GOLD">
+			<Text>JFD: Shul Gold</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_SHUL_GOLD_HELP">
+			<Text>+1 [ICON_GOLD] Gold for outgoing Trade Routes for every 2 followers of your religion in this city.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

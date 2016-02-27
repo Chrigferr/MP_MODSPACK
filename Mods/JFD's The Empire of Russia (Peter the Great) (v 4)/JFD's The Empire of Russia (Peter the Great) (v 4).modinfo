@@ -1,0 +1,127 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="f1189a04-041e-41ef-9aff-5e4f8cea5138" version="4">
+  <Properties>
+    <Name>JFD's The Empire of Russia (Peter the Great)</Name>
+    <Teaser>Adds the [COLOR_POSITIVE_TEXT]The Empire of Russia[ENDCOLOR] with Peter the Great to the game.</Teaser>
+    <Description>See CivFanatics or Steam Workshop for full details.</Description>
+    <Authors>JFD, Janboruta, Regalman</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References>
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="Yet (not) Another Earth Maps Pack" />
+    <Mod id="7fdd72a5-d4ae-441c-bc4e-2e3d2a26cff4" minversion="0" maxversion="999" title="Ethnic Units" />
+    <Mod id="1f941088-b185-4159-865c-472df81247b2" minversion="0" maxversion="999" title="Events and Decisions" />
+    <Mod id="e576894a-ed2b-4033-be14-ed1c8ceb81d3" minversion="0" maxversion="999" title="Map Labels" />
+    <Mod id="8670da15-d435-44ea-9758-7438cb321411" minversion="0" maxversion="999" title="R.E.D. Modpack" />
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="JFD's Cultural Diversity (Core)" />
+    <Mod id="a19351c5-c0b3-4b07-8695-4affaa199949" minversion="0" maxversion="999" title="JFD’s and Pouakai’s Mercenaries" />
+    <Mod id="ce8aa614-7ef7-4a45-a179-5329869e8d6d" minversion="0" maxversion="999" title="Enlightenment Era" />
+    <Mod id="6676902b-b907-45f1-8db5-32dcb2135eee" minversion="0" maxversion="999" title="JFD's Exploration Continued Expanded" />
+    <Mod id="eea66053-7579-481a-bb8d-2f3959b59974" minversion="0" maxversion="999" title="JFD’s Piety" />
+    <Mod id="d99bf7aa-51ac-4bef-bd88-d765b28e260e" minversion="0" maxversion="999" title="JFD’s Sovereignty" />
+    <Mod id="d1b6328c-ff44-4b0d-aad7-c657f83610cd" minversion="0" maxversion="999" title="Community Patch" />
+    <Mod id="8411a7a8-dad3-4622-a18e-fcc18324c799" minversion="0" maxversion="999" title="Community Balance Patch" />
+    <Mod id="10e9728f-d61c-4317-be4f-7d52d6bae6f4" minversion="0" maxversion="999" title="JFD's Claims and Colonies" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="BC6A19A8F4A60B9773C564819D52201C" import="1">Art/Diplomacy/Peter_Diplo.dds</File>
+    <File md5="CB7B9E2B4A2F8D5F356E39D8A8CE11BE" import="1">Art/Diplomacy/Peter_Scene.xml</File>
+    <File md5="E9B24837B727D53B7A5855D08053C8CC" import="1">Art/Graphics/russian_galleon.fxsxml</File>
+    <File md5="A809E53008089AFA378ACBF5BD51CACE" import="1">Art/Graphics/russian_galleon.gr2</File>
+    <File md5="F171EF43BF85F00BBC32CCE30CC9C1E1" import="1">Art/Graphics/russian_galleon_diff.dds</File>
+    <File md5="AFDB51252FE1AB170C54632E501E02C9" import="1">Art/Graphics/sv_Twodecker.dds</File>
+    <File md5="0716EA7C225385D1E05A228E3EFFB31A" import="1">Art/IconAtlas/JFD_RussiaPeterAlphaAtlas_128.dds</File>
+    <File md5="C37C18A37878182C3A8AAD866412A4AD" import="1">Art/IconAtlas/JFD_RussiaPeterAlphaAtlas_16.dds</File>
+    <File md5="7A66E312DFAA884A46D7C9FD937B1AD1" import="1">Art/IconAtlas/JFD_RussiaPeterAlphaAtlas_22.dds</File>
+    <File md5="4F125E571C7973A61646FC42B1E2D111" import="1">Art/IconAtlas/JFD_RussiaPeterAlphaAtlas_24.dds</File>
+    <File md5="E1ABF2B8D4578F4EDC1D3C3251E807D2" import="1">Art/IconAtlas/JFD_RussiaPeterAlphaAtlas_32.dds</File>
+    <File md5="D65496E2360F01EDFD08BC922C21D737" import="1">Art/IconAtlas/JFD_RussiaPeterAlphaAtlas_45.dds</File>
+    <File md5="865901089847F0FB644CF7083A6618E0" import="1">Art/IconAtlas/JFD_RussiaPeterAlphaAtlas_48.dds</File>
+    <File md5="45FA85AE2C8BEE649B3507339F76487D" import="1">Art/IconAtlas/JFD_RussiaPeterAlphaAtlas_64.dds</File>
+    <File md5="9B5836FA91E71F6C0327F17A78F0D420" import="1">Art/IconAtlas/JFD_RussiaPeterAlphaAtlas_80.dds</File>
+    <File md5="B71A81FD836CD5DF68DEF59E1C08AFD3" import="1">Art/IconAtlas/JFD_RussiaPeterAtlas_128.dds</File>
+    <File md5="F823760590A949EA1C03A3239064A295" import="1">Art/IconAtlas/JFD_RussiaPeterAtlas_256.dds</File>
+    <File md5="8C89DB51284373D5732E378EB0D4E670" import="1">Art/IconAtlas/JFD_RussiaPeterAtlas_32.dds</File>
+    <File md5="C5B8F98DD80A0913A8583E125F57896D" import="1">Art/IconAtlas/JFD_RussiaPeterAtlas_45.dds</File>
+    <File md5="576699CA2FEF3AECBF732863E1417521" import="1">Art/IconAtlas/JFD_RussiaPeterAtlas_64.dds</File>
+    <File md5="F7D03556D619C7C934B95B302B5F461A" import="1">Art/IconAtlas/JFD_RussiaPeterAtlas_80.dds</File>
+    <File md5="AADC62E4BDF486A392116EC22A8CBFB4" import="1">Art/IconAtlas/JFD_TwodeckerUnitFlag_32.dds</File>
+    <File md5="BB0CA6464B045668AA56E7F005321500" import="1">Art/Map/DOM_Catherine.dds</File>
+    <File md5="3BBE1B277FD66B899EFA763611666858" import="1">Art/Map/Peter_DOM.dds</File>
+    <File md5="474A926DC5D8327D5855AE815E54FE1D" import="1">Art/Map/PetrineRussiaMap512.dds</File>
+    <File md5="BD4E96892E721697B228229F0B1D8A3D" import="1">Art/Map/MapRussia512.dds</File>
+    <File md5="CF165FC907309F40C6A6536754873208" import="1">Audio/Peter_Peace.mp3</File>
+    <File md5="BDCA77BC820D0A5E580B39E09398E581" import="1">Audio/Peter_War.mp3</File>
+    <File md5="5EDF6D258EE7A7F7CB6F21E52C3B7E63" import="0">Core/RussiaCatherine_ModSupport.sql</File>
+    <File md5="443A00EF37132AD0CBE5AD699E72E8EB" import="0">Core/RussiaPeter_Master_BorderObstacleCity.sql</File>
+    <File md5="71D427490A71F89F4B37CDF60EB8DF9A" import="0">Core/RussiaCatherine_GameDefines.sql</File>
+    <File md5="5972CFA77661EF65544227464ECAE49B" import="0">Core/RussiaCatherine_GameText.xml</File>
+    <File md5="5E903EAAC0903443BCAC54042DA8B007" import="0">Core/RussiaPeter_ArtDefines.sql</File>
+    <File md5="6E2EC3E5790DB8DC0F9C1C65D0A33CA3" import="0">Core/RussiaPeter_GameDefines_Diplomacy.sql</File>
+    <File md5="838F20707A253F1684D2A028840EB5EF" import="0">Core/RussiaPeter_GameText_Diplomacy.xml</File>
+    <File md5="AA6005E0A0CFA8E22CEA303980424315" import="0">Core/RussiaPeter_GameDefines.sql</File>
+    <File md5="F6D4A3269349B1321FF7D816E4FCF792" import="0">Core/RussiaPeter_GameText.xml</File>
+    <File md5="3479659B84E4A453F6A9687C76A41ED5" import="0">Core/RussiaPeter_GameDefines_ModSupport.sql</File>
+    <File md5="2C9CA5341DFB8C8A406D4CA04E4FC6DF" import="0">Core/RussiaPeter_GameText_ModSupport.xml</File>
+    <File md5="3665EA7314EC7714D3F5520365D7702A" import="0">DeleteMissingReferences.xml</File>
+    <File md5="E0BC6A44CF32B9FF464FFE87F332DA47" import="1">Lua/JFD_RussiaPeter_Decisions.lua</File>
+    <File md5="4FC9F9C342AD11A2AE27B36FA69B61B8" import="1">Lua/JFD_RussiaPeter_Events.lua</File>
+    <File md5="22371750C0B3365C76DE3241CFE7A01E" import="0">Lua/JFD_RussiaPeter_Functions.lua</File>
+    <File md5="03373671C99728F8AE324DF0BE2694A3" import="1">Lua/Utilities/JFD DTP/JFD_RussiaPeter_DTP.lua</File>
+    <File md5="709E9DE68C2B0C5A37F62F525432EB61" import="0">Lua/Utilities/JFD DTP/JFD_TopPanelUpdated.lua</File>
+    <File md5="86C1C3EDCE4699DE320A932C4E70E22C" import="0">Lua/Utilities/Sukritact MCIS/CityInfoStack.lua</File>
+    <File md5="120EB71025973A8A48B38314241DD0B3" import="0">Lua/Utilities/Sukritact MCIS/CityInfoStack.xml</File>
+    <File md5="587A34081A5F831E726C0C1CD35014D3" import="0">Lua/Utilities/Sukritact MCIS/JFD_RussiaPeter_Krepost_CityInfo.lua</File>
+    <File md5="8D96B61E1779768DAE56561EF770D256" import="0">Lua/Utilities/Sukritact MCIS/JFD_RussiaPeter_Krepost_CityInfo.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Core/RussiaPeter_Master_BorderObstacleCity.sql</UpdateDatabase>
+      <UpdateDatabase>Core/RussiaPeter_ArtDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Core/RussiaPeter_GameDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Core/RussiaPeter_GameDefines_Diplomacy.sql</UpdateDatabase>
+      <UpdateDatabase>Core/RussiaPeter_GameDefines_ModSupport.sql</UpdateDatabase>
+      <UpdateDatabase>Core/RussiaPeter_GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/RussiaPeter_GameText_Diplomacy.xml</UpdateDatabase>
+      <UpdateDatabase>Core/RussiaPeter_GameText_ModSupport.xml</UpdateDatabase>
+      <UpdateDatabase>Core/RussiaCatherine_GameDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Core/RussiaCatherine_GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/RussiaCatherine_ModSupport.sql</UpdateDatabase>
+      <UpdateDatabase>DeleteMissingReferences.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/JFD_RussiaPeter_Functions.lua">
+      <Name>JFD_RussiaPeter_Functions</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/Utilities/Sukritact MCIS/CityInfoStack.lua">
+      <Name>Sukritact MCIS</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/Utilities/Sukritact MCIS/JFD_RussiaPeter_Krepost_CityInfo.lua">
+      <Name>JFD_RussiaPeteri_Krepost_CityInfo</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/Utilities/JFD DTP/JFD_TopPanelUpdated.lua">
+      <Name>JFD_TopPanelUpdated</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

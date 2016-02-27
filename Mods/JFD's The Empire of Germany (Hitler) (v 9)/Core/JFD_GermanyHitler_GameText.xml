@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 1/16/2014 11:54:41 PM -->
+<GameData>
+	<Language_en_US>
+		<!--NAZI GERMANY-->
+		<Row Tag="TXT_KEY_JFD_NAZI_GERMANY_DESC">
+			<Text>German Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_NAZI_GERMANY_SHORT_DESC">
+			<Text>Germany</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_NAZI_GERMANY_ADJ">
+			<Text>German</Text>
+		</Row>
+		<!-- Spy Names -->
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_NAZI_9">
+			<Text>Dasch</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_NAZI_8">
+			<Text>Lilly</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_NAZI_7">
+			<Text>Grimpel</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_NAZI_6">
+			<Text>Colepaugh</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_NAZI_5">
+			<Text>Othmer</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_NAZI_4">
+			<Text>Guenther</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_NAZI_3">
+			<Text>Dr Griebl</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_NAZI_2">
+			<Text>Hermann</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_NAZI_1">
+			<Text>Guellich</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_NAZI_0">
+			<Text>Josef</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_NAZI_10">
+			<Text>Duquesne</Text>
+		</Row>
+		<!--HITLER-->
+		<Row Tag="TXT_KEY_LEADER_JFD_HITLER">
+			<Text>Hitler</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_HITLER_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_HITLER_TEXT_1">
+			<Text>Adolf Hitler was an Austrian-born German politician and the leader of the Nazi Party (National Socialist German Workers Party). He was chancellor of Germany from 1933 to 1945 and dictator of Nazi Germany (as Führer und Reichskanzler) from 1934 to 1945. Hitler was at the centre of Nazi Germany, World War II in Europe, and the Holocaust.[NEWLINE][NEWLINE]Hitler was a decorated veteran of World War I. He joined the German Workers' Party (precursor of the NSDAP) in 1919, and became leader of the NSDAP in 1921. In 1923, he attempted a coup d'état in Munich, known as the Beer Hall Putsch. The failed coup resulted in Hitler's imprisonment, during which time he wrote his memoir, Mein Kampf (My Struggle). After his release in 1924, Hitler gained popular support by attacking the Treaty of Versailles and promoting Pan-Germanism, antisemitism, and anti-communism with charismatic oratory and Nazi propaganda. After his appointment as chancellor in 1933, he transformed the Weimar Republic into the Third Reich, a single-party dictatorship based on the totalitarian and autocratic ideology of Nazism.[NEWLINE][NEWLINE]Hitler's aim was to establish a New Order of absolute Nazi German hegemony in continental Europe. To this end, his foreign and domestic policies had the aim of seizing Lebensraum ("living space") for the Germanic people. He directed the rearmament of Germany and the invasion of Poland by the Wehrmacht in September 1939, resulting in the outbreak of World War II in Europe. Under Hitler's rule, in 1941 German forces and their European allies occupied most of Europe and North Africa. In June 1941, Hitler ordered an invasion of the Soviet Union. Although initially successful, the Russian campaign turned disastrous. By 1943, Germany was forced onto the defensive and suffered a series of escalating defeats. In the final days of the war, during the Battle of Berlin in 1945, Hitler married his long-time partner, Eva Braun. On 30 April 1945, less than two days later, the two committed suicide to avoid capture by the Red Army, and their corpses were burned.[NEWLINE][NEWLINE]Hitler's aggressive foreign policy is considered to be the primary cause of the outbreak of World War II in Europe. Under Hitler's leadership and racially motivated ideology, the regime was responsible for the genocide of at least 5.5 million Jews, and millions of other people whom he and his followers deemed racially inferior.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_HITLER_LIVED">
+			<Text>1889 - 1945 AD</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_HITLER_NAME">
+			<Text>Adolf Hitler</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_HITLER_SUBTITLE">
+			<Text>Leader of Germany</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_HITLER_TITLES_1">
+			<Text>Führer of Germany, Reichsstatthalter of Prussia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DAWN_JFD_HITLER_TEXT">
+			<Text>Adolf Hitler, grave salutations to you. You are the leader of the third German Empire - successor to those which had been suppressed in their glory by the envious powers that dominate Europe. Yours is culture of art and innovation, of science and industrial power, which need only be directed by the command of your will to forge once more a tremendous might that would have Europe fall to her knees.[NEWLINE][NEWLINE]O' mighty Chancellor, noble Germany yearns for one with such passion as yours to be the light in her darkest hour. Can you raise her armies and march them to the corners of Europe? Can you build a civilization that will stand the test of time?</Text>
+		</Row>
+		<!--DAS VATERLAND-->
+		<Row Tag="TXT_KEY_TRAIT_JFD_NAZI_GERMANY">
+			<Text>Great Generals grant the Blitz promotion to adjacent Infantry Units and may be expended for [ICON_RESEARCH] Science. +10% Great General generation (up to 100%) for each war and denunciation with a major civilization.</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_TRAIT_JFD_NAZI_GERMANY_SHORT">
+			<Text>Das Vaterland</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_NAZI_GERMANY_CITY_VIEW_HELP">
+			<Text>[NEWLINE][ICON_GREAT_GENERAL] Great General rate from wars and denunciations:[NEWLINE]----------------------{1_ProductionList}----------------------[NEWLINE][COLOR_POSITIVE_TEXT]+{2_Total}% [ICON_GREAT_GENERAL] Great General rate Total[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_NAZI_GERMANY">
+			<Text>JFD: Nazi Germany</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_NAZI_GERMANY_HELP">
+			<Text>+10% Great General generation</Text>
+		</Row>
+		<!--PANZER-->
+		<Delete Tag="TXT_KEY_UNIT_HELP_PANZER" />
+		<Delete Tag="TXT_KEY_UNIT_GERMAN_PANZER_STRATEGY" />
+		<Row Tag="TXT_KEY_UNIT_HELP_PANZER">
+			<Text>Fast and powerful late game Unit.[NEWLINE][NEWLINE]Only Hitler's Germany may build it. This Unit has 1 additional movement compared to the Tank, which it replaces, and costs no [ICON_MOVES] Movement to pillage tiles. It can also move after combat.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_GERMAN_PANZER_STRATEGY">
+			<Text>The Panzer is the German unique unit, replacing the tank. It is both stronger and faster than the tank. It also can move after combat, allowing it to blow huge holes in enemy lines and then barrel through before the enemy can repair the gap. Whenever this Unit moves across enemy terrain, there is a 33% chance that it will destroy any enemy tile improvement in its path.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_PANZER">
+			<Text>Free Pillaging</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_PANZER_HELP">
+			<Text>No [ICON_MOVES] Movement cost to pillage.</Text>
+		</Row>
+		<!--WEHRMACHT-->
+		<Row Tag="TXT_KEY_JFD_WEHRMACHT_DESC">
+			<Text>Wehrmacht</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_WEHRMACHT_TEXT">
+			<Text>The Wehrmacht was the name of the armed forces of Germany between 1935 and 1945, meaning Defence Force. Although in English the Wehrmacht is often synonymous with the Heer, the army division of the Wehrmacht, the Wehrmacht actually consists of three individual forces: the Heer (army), the Kriegsmarine (navy) and Luftwaffe (air force).[NEWLINE][NEWLINE]The German term Wehrmacht technically describes any nation's Armed Forces, thus, Britische Wehrmacht denotes “British Armed Forces.” The term Wehrmacht is in Article 47 of the 1919 Weimar Constitution, establishing that: The Reich's President holds supreme command of all armed forces [i.e. the Wehrmacht] of the Reich (“Der Reichspräsident hat den Oberbefehl über die gesamte Wehrmacht des Reiches”). From 1919, Germany’s national defence force was known as the Reichswehr, which name was dropped in favor of Wehrmacht on 16 March 1935. In modern day Germany the name Wehrmacht is considered a proper noun for the 1935-45 armed forces, being replaced by Streitkräfte in its original meaning; however, this was not so even some decades after 1945. In English writing Wehrmacht is often used to refer specifically to the land forces (army); the correct German for this is Heer.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_WEHRMACHT_STRATEGY">
+			<Text>The Wehrmacht is the unique German replacement for the Infantry. This unit is automatically created whenever you capture an enemy city. It increases the rate at which Great Generals are generated from combat.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_WEHRMACHT_HELP">
+			<Text>Gain a free Wehrmacht whenever you capture an enemy city. Helps produce Great Generals more quickly.</Text>
+		</Row>
+		<!--SS-->
+		<Row Tag="TXT_KEY_JFD_SS_DESC">
+			<Text>SS Commander</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_SS_TEXT">
+			<Text>The SS Commander is a flavoured Great General for Nazi Germany. The SS Commander can construct the special Citadel improvement which gives a big defensive bonus to any unit occupying it, damages enemy units moving adjacent, and puts all adjacent tiles into your territory. The SS Commander is consumed when it builds the Citadel. The SS Commander can be expended for a large amount of Science, as if it were a Great Scientist. The SS Commander provides a 15% combat bonus to all player-owned land units within 2 tiles. The SS Commander is NOT consumed when he provides this bonus.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_ULRICH_GREIFELT">
+			<Text>Ulrich Greifelt</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_ERNST_ROBERT_GRAWITZ">
+			<Text>Ernst-Robert Grawitz</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_CURT_VON_GOTTBERG">
+			<Text>Curt von Gottberg</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_HERBERT_OTTO_GILLE">
+			<Text>Herbert Otto Gille</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_AUGUST_FRANK">
+			<Text>August Frank</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_KARL_HERMANN_FRANK">
+			<Text>Karl Hermann Frank</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_ALBERT_FORSTER">
+			<Text>Albert Forster</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_KARL_FIEHLER">
+			<Text>Karl Fiehler</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_THEODOR_EICKE">
+			<Text>Theodor Eicke</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JOACHIM_ALBRECHT_EGGELING">
+			<Text>Joachim Albrecht Eggeling</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_KARL_VON_EBERSTEIN">
+			<Text>Karl von Eberstein</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_OTTO_DIETRICH">
+			<Text>Otto Dietrich</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_KARL_MARIA_DEMELHBUER">
+			<Text>Karl-Maria Demelhuber</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_RICHARD_WALTHER_DARRE">
+			<Text>Richard Walther Darre</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_WALTER_BUCH">
+			<Text>Walter Buch</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_FRANZ_BREITHAUPT">
+			<Text>Franz Breithaupt</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_PHILIPP_BOUHLER">
+			<Text>Philipp Bouhler</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_MARTIN_BORMANN">
+			<Text>Martin Bormann</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_ERNST_WILHELM_BOHLE">
+			<Text>Ernst Wilhelm Bohle</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_WILHELM_BITTRICH">
+			<Text>Wilhelm Bittrich</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_WERNER_BEST">
+			<Text>Werner Best</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_GOTTLOB_BERGER">
+			<Text>Gottlob Berger</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_HERBERT_BACKE">
+			<Text>Herbert Backe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_MAX_AMANN">
+			<Text>Max Amann</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_FRIEDRICH_ALPERS">
+			<Text>Friedrich Alpers</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_FRAZ_XAVER_SCHWARZ">
+			<Text>Fraz Xaver Schwarz</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_PAUL_HAUSSER">
+			<Text>Paul Hausser</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_SEPP_DIETRICH">
+			<Text>Sepp Dietrich</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_KURT_DALUEGE">
+			<Text>Kurt Daluege</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_KARL_HANKE">
+			<Text>Karl Hanke</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_HEINRICH_HIMMLER">
+			<Text>Heinrich Himmler</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JOSEPH_BERCHTOLD">
+			<Text>Joseph Berchtold</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JULIUS_SCHRECK">
+			<Text>Julius Schreck</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_ERHARD_HEIDAN">
+			<Text>Erhard Heidan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JULIUS_SCHREK">
+			<Text>Julius Schrek</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

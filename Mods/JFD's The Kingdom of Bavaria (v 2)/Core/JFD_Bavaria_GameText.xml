@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 11/23/2013 1:27:25 PM -->
+<GameData>
+	<Language_en_US>
+		<!--BAVARIA-->
+		<Row Tag="TXT_KEY_CIV_JFD_BAVARIA_ADJECTIVE">
+			<Text>Bavarian</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_JFD_BAVARIA_DESC">
+			<Text>Bavarian Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_JFD_BAVARIA_SHORT_DESC">
+			<Text>Bavaria</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_BAVARIA_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_BAVARIA_TEXT_1">
+			<Text>Located in the heart of Europe, the Kingdom of Bavaria has a history spanning just over a century, from one of the largest regions in the German Confederacy to forming an integral part of Germany’s cultural and political regions. Born out of the political turmoil that Napoleon left in central Europe, Bavaria was able to claim itself as an independent nation soon after the Napoleonic Wars. Bavaria’s first monarch was Maximilian Joseph I, who was able to steer this nation so that subsequent monarchs would be able to govern effectively over Bavaria’s expanse. For most of the 19th century, a Bavarian culture was created by the rich fairytale-like endeavours that monarchs, Ludwig II in particular, undertook in the form of castles. With a beautiful winter landscape, Bavaria was, and still is a fantastic location for any form of romanticism. After the First World War, Bavaria ceased to exist as a nation and instead as a region of Germany, but the Bavarian culture remains strong to this day. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_BAVARIA_HEADING_2">
+			<Text>Geography</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_BAVARIA_TEXT_2">
+			<Text>The landscape of Bavaria is to many one of the most beautiful in the world. Picturesque winter scenes arise when shown with a snowed-over castle in the background, presumably generating a fair amount of the worth of Bavaria’s tourist industry. Given that Bavaria shares borders with the mountainous Austria and the Czech Republic, one might expect it to have its fair share of hills; indeed, the Bavarian Alps add to its beauty. Two forest ranges, the Bavarian and the Bohemian, span most of the Czech and Austrian borders and contribute further to this majestical nation. The region also has two major rivers that run through it - the Danube and the Main - the former being one of the best known rivers in Europe.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_BAVARIA_HEADING_3">
+			<Text>Holy Rome and Early History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_BAVARIA_TEXT_3">
+			<Text>Prior to the Holy Roman Empire, the Bavarian state had not yet been conceived in the sense we would look at it today. It had rough borders in the south of Germany, but had no real significance besides being located in the centre of Europe. The Duchy of Bavaria was really the initial mention of Bavaria in any form, but at first, Bavaria never looked like it was getting anywhere. One of the first leaders came to the throne at the age of eight, and while he was able to fight wars against the Slavs to the east later in his reign and build monasteries around Bavaria, he was pressured into resigning as Duke, and subsequently deposed by Charlemagne, the Holy Roman Emperor at the time. While these were some setbacks to Bavaria as a state, it managed to endure in several forms until the end of the Holy Roman Empire regardless, and afterwards forming borders far closer to the current ones.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_BAVARIA_HEADING_4">
+			<Text>The Bavarian Electorate</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_BAVARIA_TEXT_4">
+			<Text>In 1623, the Electorate of Bavaria was formed out of a power vacuum in the area due to the Thirty Years’ War, resulting in rough borders that were getting closer to the current Bavarian lands. The former Duchy of Bavaria was the first initiation of the state to use Munich as its capital, but the Electorate used it for its entire history. This state was part of the loosely-confederated Holy Roman Empire, a “patchwork empire” that had established fragile dominance in the heart of Europe. At the time, Bavaria’s crown was essentially independent from Holy Rome in many ways. During the Electorate period, Bavaria only stagnated. The House of Wittelsbach kept Bavaria essentially in the Middle Ages, even into the so-called Enlightenment Era. It was at this time the Illuminati, or “Illuminated Ones”, were founded; an underground organization that aimed to promote equality in the state of Bavaria, and later spread in the form of conspiracy theories. Only a few years after the Illuminati were founded, the French Revolution began; Europe, plunged into turmoil, felt it right at the core.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_BAVARIA_HEADING_5">
+			<Text>Revolution and Kingdom</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_BAVARIA_TEXT_5">
+			<Text>Right at the start of the uprisings in France, Bavaria was overrun by French troops aiming to liberate it from its monarchy. However, given the weak political situation in Bavaria, people found it hard to find a stable political system. In 1806, Napoleon invaded Germany and founded the Confederation of the Rhine, including Bavaria, now more or less independent, as a client state. A lot of present-day Bavaria’s cultural heritage comes from this period, especially the castles dotted around the landscape, notably Neuschwanstein. This iteration of Bavaria spanned around one hundred years, during which it ascended to the German Confederation. The Kingdom of Bavaria saw successive monarchs using their personal wealth to create a legacy in the lands, and during the entire post-revolutionary period, Bavaria prospered as a result of undying patronage and romanticism from the monarchs. The Kingdom fell in 1918, at the end of the First World War. Germany, having lost, deposed all forms of monarchy and founded the new Weimar Republic in the Empire’s place. From that point on, Bavaria ceased to exist as an independent nation, instead simply as a part of Germany. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_BAVARIA_HEADING_6">
+			<Text>Bavaria Today</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_BAVARIA_TEXT_6">
+			<Text>Following the years after the disestablishment of the Kingdom of Bavaria, it became a major political centre of Germany. For example, in 1923, the Nazi Party attempted a coup in Munich to install themselves as Germany’s legitimate party, which ultimately failed. To this day, Bavaria as a whole remains the heart of Germany’s political system, but also its culture. The tales of the Grimm Brothers, while not explicitly set in Bavaria, are often featured there to take advantage of its breathtaking landscape. Today, tourists come to this corner of Germany if only to see the mountains, forests, rivers and lakes, with castles further assuring the fairytale theme. Bavaria’s history makes it far from a fantasy state, though; instead, a vibrant nation, full of culture and exciting history, making it an integral part of the nation of Germany today</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_BAVARIA_FACTOID_HEADING">
+			<Text>Factoids</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_BAVARIA_FACTOID_TEXT">
+			<Text>The main ruling family of Bavaria, the House of Wittelsbach, dominated Bavarian politics for over seven hundred years, having effective control of whatever Bavarian state existed at the time from around 1214 to 1918.[NEWLINE][NEWLINE]Bavaria is the largest region of Germany, and also one of the oldest. With around 12 million people - roughly a fifth of Germany’s total population - Bavaria forms a vital part of the nation.[NEWLINE][NEWLINE]King Ludwig II was one of the first to suggest that Kaiser Wilhelm I should take over the whole of Germany; he accepted at a treaty signed in Versailles, which was then occupied by Germany.</Text>
+		</Row>
+		<!--City List-->
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_BAVARIA_01">
+			<Text>Munich</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_BAVARIA_02">
+			<Text>Regensburg</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_BAVARIA_03">
+			<Text>Ingolstadt</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_BAVARIA_04">
+			<Text>Nuremberg</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_BAVARIA_05">
+			<Text>Straubing</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_BAVARIA_06">
+			<Text>Augsburg</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_BAVARIA_07">
+			<Text>Landshut</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_BAVARIA_08">
+			<Text>Freising</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_BAVARIA_09">
+			<Text>Ansbach</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_BAVARIA_10">
+			<Text>Bayreuth</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_BAVARIA_11">
+			<Text>Wurzburg</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_BAVARIA_12">
+			<Text>Erlangen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_BAVARIA_13">
+			<Text>Bamberg</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_BAVARIA_14">
+			<Text>Friedberg</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_BAVARIA_15">
+			<Text>Altotting</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_BAVARIA_16">
+			<Text>Amberg</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_BAVARIA_17">
+			<Text>Kempten</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_BAVARIA_18">
+			<Text>Muhldorf</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_BAVARIA_19">
+			<Text>Erding</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_BAVARIA_20">
+			<Text>Speyer</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_BAVARIA_21">
+			<Text>Kaiserslautern</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_BAVARIA_22">
+			<Text>Landau</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_BAVARIA_23">
+			<Text>Dingolfing</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_BAVARIA_24">
+			<Text>Frankenthal</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_BAVARIA_25">
+			<Text>Weilheim</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_BAVARIA_26">
+			<Text>Zweibrucken</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_BAVARIA_27">
+			<Text>Eichstatt</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_BAVARIA_28">
+			<Text>Pfarrkirchen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_BAVARIA_29">
+			<Text>Kelheim</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_BAVARIA_30">
+			<Text>Mainburg</Text>
+		</Row>
+		<!-- Spy Names -->
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_BAVARIA_9">
+			<Text>Max Joseph</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_BAVARIA_8">
+			<Text>Jerome</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_BAVARIA_7">
+			<Text>Wassily</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_BAVARIA_6">
+			<Text>Henrik</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_BAVARIA_5">
+			<Text>Kurt</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_BAVARIA_4">
+			<Text>Florian</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_BAVARIA_3">
+			<Text>Adam the Illuminated</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_BAVARIA_2">
+			<Text>Elisabeth</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_BAVARIA_1">
+			<Text>Sophie</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_BAVARIA_0">
+			<Text>Charlotte</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<!--LUDWIG II-->
+		<Row Tag="TXT_KEY_LEADER_JFD_LUDWIG">
+			<Text>Ludwig II</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_LUDWIG_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_LUDWIG_TEXT_1">
+			<Text>One of the most interesting and eccentric monarchs in history, King Ludwig II, nicknamed the “Fairytale King”, was noted for his policies of grandeur within Bavaria. Ludwig came to the throne aged only 18, but subsequently aimed to make his kingdom stand out as a true cultural powerhouse. During his reign, Bavaria fell into political turmoil; it was effectively annexed by Prussia, and later its successor, Germany. However, Ludwig was able to use this to his advantage, and pursued a cultural revival in Bavaria, as he could ignore state affairs to a large extent. With the creation of two palaces in his realm, Ludwig was noted for his intense patronage of the arts; after Richard Wagner’s performances moved him, Ludwig commissioned Neuschwanstein as homage to Wagner, and as a personal retreat. He leaves a legacy as one of Bavaria’s greatest monarchs, despite what critics would describe as a madness - he is still revered as a fantastic leader by many Bavarians today.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_LUDWIG_HEADING_2">
+			<Text>Ascenscion to the Throne</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_LUDWIG_TEXT_2">
+			<Text>Ludwig’s father, Maximilian, had him brought up as a child of royalty to ensure that his throne passed to secure hands. Through brutal tutoring and a rigid education program, Ludwig was brought up as a truly royal child, with none of the household telling him he’d be anything other than king. From an early age, he was certainly more than ready to fulfil the role; and ready he had to be. In 1864, Maximilian died after a short illness, thus forcing the youthful Ludwig to take on his post as King of Bavaria. Aged only 18 at the time of his ascension, Ludwig began to pursue policies of grandeur from an early age. Even at an early age, it was obvious that Ludwig had little intention of governing like his father had hoped for him to do. He very rarely attended formal events, instead preferring to govern by going on long trips of the countryside, chatting to farm labourers and spending his time day-dreaming. While this may not sound like the ingredients for a successful monarch, Bavarians appeared to enjoy this minimalist government stance.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_LUDWIG_HEADING_3">
+			<Text>Prussian Defeat</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_LUDWIG_TEXT_3">
+			<Text>During Ludwig’s early years as monarch, he made many questionable decisions. To start with, when war broke out between the powers of Austria and Prussia, Ludwig backed the former, not realising Prussia’s capabilities. The Austro-Bavarian alliance was defeated in the war, leaving Bavaria as little more than a client state of Prussia. However, many officials in Bavaria aimed to maintain sovereignty in their nation, and Ludwig also protested by refusing to bow to the Prussian’s will. In 1870, Ludwig was forced to cede Bavaria to the German Confederation, but he kept an unusually large amount of powers to himself. Over the years, Bavaria was able to prosper as part of this larger state, but they retained and revered Ludwig as their leader.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_LUDWIG_HEADING_4">
+			<Text>Prussian Defeat</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_LUDWIG_TEXT_4">
+			<Text>Ludwig’s sexuality is something of dispute among scholars; however, one thing that he truly did love was arts and culture. In a letter to his only fiancée, Sophia Charlotte, Ludwig wrote, "The main substance of our relationship has always been ... Richard Wagner's remarkable and deeply moving destiny." This implied that he had little interest in sexual desire, and instead his true love lay in the world of creativity and imagination. However, Ludwig never came out as openly homosexual, though it was not a criminal act in Bavaria. The reasoning was that the Prussians had outlawed it, and being in partial control of their country, Ludwig had no choice but to keep it as secret as possible.[NEWLINE][NWLINE]Over the course of his reign, Ludwig build three large complexes in total, all of which were funded by the crown expenses. They were, in part, inspired by Wagner; Neuschwanstein, one of Ludwig’s proudest achievements, was directly made from his works. Such endeavours earnt him his reputation as the Fairytale King, not quite in touch with the real world, but doing the best he could to make his world appear for others. Even today, Ludwig’s constructions have usage in Bavaria’s tourism industry, Neuschwanstein contributing to it in no small part.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_LUDWIG_HEADING_5">
+			<Text>Later Reign</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_LUDWIG_TEXT_5">
+			<Text>While Ludwig had been able to use only his funds to finance his projects across the country, this did not make Bavaria immune to falling into economic crisis. In 1885, Ludwig found himself 14 million marks in debt due to his excessive funding of all things cultural. Though Ludwig’s ministers advised him heavily to start paying off the debt, Ludwig refused and instead borrowed yet more from other European royal families. The Bavarian Cabinet were dismissed, but they didn’t go without a fight. Declaring Ludwig as insane, they hatched a plot to depose him and put Luitpold in his place as king. By piecing together a report on Ludwig, he was declared insane on the 10th of June 1886, and deposed the same day. The King was at Neuschwanstein at the time, having only been completed for a matter of months. Though many peasants tried to support Ludwig, they were pushed aside, and Luitpold became King of Bavaria. Three days later, Ludwig went out for a walk with his personal doctor, Gudden, and was found dead in Lake Starnberg after a few hours, along with Gudden. The exact circumstances of his death remain unknown.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_LUDWIG_HEADING_6">
+			<Text>Judgement of History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_LUDWIG_TEXT_6">
+			<Text>Though notorious for heavily indebted himself, Ludwig is still known to Bavarians as a good monarch, one who managed to put Bavaria on the globe and establish a rich cultural legacy. Ludwig’s reign, in its entirety, is one of the strangest and most fascinating in world history. While a good monarch is meant to govern for the good of the people, Ludwig failed to do so in many ways, yet he is still recognized as a good monarch. The reason for this is likely the romanticism that he brought upon Bavaria, and perhaps even the wealth of culture he gave back to it. Ludwig was also noted for talking to people of all classes, meaning he had a broad understanding of what was going on. Furthermore, he took responsibility in indebting himself and not the state in his ambitions; another sign of good leadership. Though he carried out few political acts that would forever shape the world, he truly romanticised Bavaria in a way no other monarch has been able to do to their own land, and likely never will again.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_LUDWIG_HEADING_7">
+			<Text>Factoids</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_LUDWIG_TEXT_7">
+			<Text>King Ludwig II was one of the first to suggest that Kaiser Wilhelm I should take over the whole of Germany; he accepted at a treaty signed in Versailles, which was then occupied by Germany. This was done to help avoid another war with France.[NEWLINE][NEWLINE]Though Ludwig waited around 15 years for Neuschwanstein to be in a state he could move into, he spent less than two years in it before he was deposed. By 1892, most work on the castle stopped, and it is still not technically complete to this day.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_LUDWIG_NAME">
+			<Text>Ludwig II</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_LUDWIG_SUBTITLE">
+			<Text>Leader of Bavaria</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_LUDWIG_TITLES_1">
+			<Text>King of Bavaria, Count Palatine of the Rhine</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_LUDWIG_LIVED">
+			<Text>1845 - 1886</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DAWN_BAVARIA_TEXT">
+			<Text>Glory and nobility to you, fabled King of Bavaria, Ludwig II. Acceding at the age of 18, you would oversee the loss of Bavarian sovereignty to the German unification, yet your reign would one of lasting significance. A King beloved by his people, and a Kingdom idealised in his dreams, your lasting legacy would be your enduring love of beauty and art. The opulent castles of Neuschwanstein and Linderhoff, and your endearing patronage of the operas of Richard Wagner, still stand as testimony to an age of fantasy and fairy tales now lost, and assert the independence of the Bavarian identity of which you epitomised.[NEWLINE][NEWLINE]Great and visionary Prince, the Bavarian Kingdom stands barren of the culture and magnificence that once adorned it. Can you raise great monuments and wonders to the glory of these lands? Can you inspire works of great renown and beauty to strengthen the character of the Bavarian nation? Can you build a civilization that can stand the test of time?</Text>
+		</Row>
+		<!--THE SWAN KING-->
+		<Row Tag="TXT_KEY_TRAIT_JFD_BAVARIA_SHORT">
+			<Text>The Swan King</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_JFD_BAVARIA">
+			<Text>[ICON_CULTURE] Culture yields from Wonders are added to the city during construction. Cities with a Wonder receive a free [ICON_GREAT_WORK] Great Work of Music slot.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_BAVARIAN_CULTURE">
+			<Text>JFD: Bavarian Culture</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_BAVARIAN_CULTURE_HELP">
+			<Text>+1 [ICON_CULTURE] Culture</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_BAVARIAN_MUSIC">
+			<Text>Great Work of Music Slot</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_BAVARIA_CITY_VIEW_HELP">
+			<Text>[NEWLINE]+{1_Num} [ICON_CULTURE] Culture from Wonders being constructed</Text>
+		</Row>
+		<!--HARTSCHIER-->
+		<Row Tag="TXT_KEY_UNIT_JFD_HARTSCHIER">
+			<Text>Hartschier</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_HARTSCHIER_TEXT">
+			<Text>An elite palace guard troop, the Hartschiere served in the court of Bavaria since the Middle Ages till the end of the first World War. Their name was most probably derived from the Italian word for archer: arciere. Only soldiers of Immaculate conduct and prestige could be promoted to this exclusive band of soldiers, whose commander was appointed by the Monarch of Bavaria himself. The Hartschiere were lavishly outfitted with white supra vests and helmets fashioned from tin and brass with a lion on top. Armed with rapier-like swords and halberds, the role of the late Bavarian Hartschiere was mostly ceremonial and served no use on the war front. After the demise of the Empire of Germany, the Hartschiere were abolished in 1918.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_HARTSCHIER_HELP">
+			<Text>Weaker but cheaper replacement for the Lancer. +50% [ICON_STRENGTH] Defense and +2 [ICON_GOLD] Gold whilst stationed on a Schloss. Cannot upgrade, but does not obsolete. Only Bavaria may train it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_HARTSCHIER_STRATEGY">
+			<Text>The Hartschier is the unique Lancer replacement for Bavaria. It gains a 50% [ICON_STRENGTH] Defense bonus when stationed on a tile with a Schloss and increases the [ICON_GOLD] Gold output of that tile by +2. Unlike the Lancer, it does not upgrade, but it also does not obsolete.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_HUBERTUSODEN">
+			<Text>Order of Saint Hubertus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_HUBERTUSODEN_HELP">
+			<Text>+50% [ICON_STRENGTH] Defense on Schlosser.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_HARTSCHIER">
+			<Text>Bavarian Ceremonial Guard</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_HARTSCHIER_HELP">
+			<Text>+2 [ICON_GOLD] Gold on Schlosser.</Text>
+		</Row>
+		<!--SCHLOSS-->
+		<Row Tag="TXT_KEY_BUILD_JFD_SCHLOSS_REC">
+			<Text>It will grant [ICON_GREAT_PEOPLE] Great Musician points to the [ICON_CAPITAL] Capital when completed, equal to two times your current [ICON_CULTURE] Culture output. It yields +1 [ICON_CULTURE] Culture per adjacent Mountain.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_SCHLOSS">
+			<Text>Construct a [LINK=IMPROVEMENT_JFD_SCHLOSS]Schloss[\LINK]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_JFD_SCHLOSS_HELP">
+			<Text>Yields [ICON_GREAT_PEOPLE] Great Musician points to the [ICON_CAPITAL] Capital when completed, equal to two times your current [ICON_CULTURE] Culture output. Yields additional [ICON_CULTURE] Culture when adjacent to a Mountain tile. Cannot be removed.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_JFD_SCHLOSS">
+			<Text>Schloss</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_JFD_SCHLOSS_TEXT">
+			<Text>Closely related to the French word “Chateau” in meaning, a Schloss is a type of castle that is often used as a sort of second home for nobility. Schlosser were not known for having many defensive components built into them, only really built for purposes of showing off wealth and complementing the nobility’s extravagant lifestyle. In Bavaria in particular, Schlosser were designed to have a classical revival theme around them, with true Enlightenment era architecture. Often, a Schloss would have several other features to give even more of an impression of being incredibly wealthy; a “Wasserschloss”, which loosely translates to “Water Castle”, was simply a Schloss with a moat. This would have been unnecessary for purposes of defense - very few people thought that as an integral part of their castles at the time - but it showed of wealth and grandeur greatly, adding to the romanticism of the design. The interior of these buildings would have also been very nicely decorated, adding to the general feel of the castle as a getaway for the rich. Neuschwanstein Castle - one of the most expensive and luxurious castles build in world history - is known as “Schloss Neuschwanstein” in Germany, making it possibly the strongest contender for the finest example of a Schloss.[NEWLINE][NEWLINE]A Schloss is a unique improvement available only to Bavaria. It may not be adjacent to another Schloss and can only be constructed on Hills. Whenever a Schloss is constructed, it yields [ICON_GREAT_PEOPLE] Great Musician points for the Capital equal to two times your current [ICON_CULTURE] Culture output. It gains +1 [ICON_CULTURE] Culture for every adjacent Mountain tile. It cannot be removed.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

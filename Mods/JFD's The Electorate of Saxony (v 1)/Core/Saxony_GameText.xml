@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 11/23/2013 1:27:25 PM -->
+<GameData>
+	<Language_en_US>
+		<!--SAXONY-->
+		<Row Tag="TXT_KEY_CIV_JFD_SAXONY_ADJECTIVE">
+			<Text>Saxon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_JFD_SAXONY_DESC">
+			<Text>Saxon Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_JFD_SAXONY_SHORT_DESC">
+			<Text>Saxony</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_SAXONY_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_SAXONY_TEXT_1">
+			<Text>Saxony has a long history as a duchy, an electorate of the Holy Roman Empire (the Electorate of Saxony), and finally as a kingdom (the Kingdom of Saxony). In 1918, after Germany's defeat in World War I, its monarchy was overthrown and a republican form of government was established under the current name. The state was broken up into smaller units during communist rule (1949–1989), but was re-established on 3 October 1990 on the reunification of East and West Germany.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_SAXONY_HEADING_2">
+			<Text>Duchy of Saxony</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_SAXONY_TEXT_2">
+			<Text>The first medieval Duchy of Saxony was a late Early Middle Ages "Carolingian stem duchy", which emerged about the year 700 and grew to include the greater part of Northern Germany, what are now the modern German states of Bremen, Hamburg, Lower Saxony, North Rhine-Westphalia, Schleswig-Holstein and Saxony-Anhalt. The Saxons converted to Christianity during this period.[NEWLINE][NEWLINE]While the Saxons were facing pressure from Charlemagne's Franks, they were also facing a westward push by Slavs to the east. The territory of the Free State of Saxony was occupied by Slavs before being reconquered by Germans. A legacy of this period is the Sorb population in Saxony. Eastern parts of present Saxony were ruled by Poland between 1002 and 1032.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_SAXONY_HEADING_3">
+			<Text>Holy Roman Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_SAXONY_TEXT_3">
+			<Text>The territory of the Free State of Saxony became part of the Holy Roman Empire by the 10th century, when the dukes of Saxony were also kings (or emperors) of the Holy Roman Empire, comprising the Ottonian, or Saxon, Dynasty. Around this time, the Billungs, a Saxon noble family, received extensive fiefs in Saxony. The Emperor eventually gave them the title of Dukes of Saxony. After Duke Magnus died in 1106, causing the extinction of the male line of Billungs, oversight of the duchy was given to Lothar of Supplinburg, who also became Emperor for a short time.[NEWLINE][NEWLINE]In 1137, control of Saxony passed to the Guelph dynasty, descendants of Wulfhild Billung, eldest daughter of the last Billung duke, and the daughter of Lothar of Supplinburg. In 1180 large portions west of the Weser were ceded to the Bishops of Cologne, while some central parts between the Weser and the Elbe remained with the Guelphs, becoming later the Duchy of Brunswick-Lüneburg. The remaining eastern lands, together with the title of Duke of Saxony, passed to an Ascanian dynasty (descended from Eilika Billung, Wulfhild's younger sister) and were divided in 1260 into the two small states of Saxe-Lauenburg and Saxe-Wittenberg. The former state was also named Lower Saxony, the latter Upper Saxony, thence the later names of the two Imperial Circles Saxe-Lauenburg and Saxe-Wittenberg. Both claimed the Saxon electoral privilege for themselves, but the Golden Bull of 1356 accepted only Wittenberg's claim, with Lauenburg nevertheless continuing to maintain its claim. In 1422, when the Saxon electoral line of the Ascanians became extinct, the Ascanian Eric V of Saxe-Lauenburg tried to reunite the Saxon duchies.[NEWLINE][NEWLINE]However, Sigismund, King of the Romans, had already granted Margrave Frederick IV the Warlike of Meissen (House of Wettin) an expectancy of the Saxon electorate in order to remunerate his military support. On 1 August 1425 Sigismund enfeoffed the Wettinian Frederick as Prince-Elector of Saxony, despite the protests of Eric V. Thus the Saxon territories remained permanently separated. The Electorate of Saxony was then merged with the much bigger Wettinian Margraviate of Meissen, however using the higher ranking name Electorate of Saxony and even the Ascanian coat-of-arms for the entire monarchy. Thus Saxony came to included Dresden and Meissen. In the 18th and 19th centuries Saxe-Lauenburg was colloquially called the Duchy of Lauenburg, which in 1876 merged with Prussia as the Duchy of Lauenburg district.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_SAXONY_HEADING_4">
+			<Text>Second Saxon State</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_SAXONY_TEXT_4">
+			<Text>Saxony-Wittenberg, in modern Saxony-Anhalt, became subject to the margravate of Meissen, ruled by the Wettin dynasty in 1423. This established a new and powerful state, occupying large portions of the present Free State of Saxony, Thuringia, and Saxony-Anhalt. Although the centre of this state was far to the southeast of the former Saxony, it came to be referred to as Upper Saxony and then simply Saxony, while the former Saxon territories were now known as Lower Saxony.[NEWLINE][NEWLINE]In 1485, Saxony was split. A collateral line of the Wettin princes received what later became Thuringia and founded several small states there (see Ernestine duchies). The remaining Saxon state became still more powerful and was known in the 18th century for its cultural achievements, although it was politically weaker than Prussia and Austria, states which oppressed Saxony from the north and south, respectively.[NEWLINE][NEWLINE]Between 1697 and 1763, the Electors of Saxony were also elected Kings of Poland in personal union.[NEWLINE][NEWLINE]In 1756, Saxony joined a coalition of Austria, France and Russia against Prussia. Frederick II of Prussia chose to attack preemptively and invaded Saxony in August 1756, precipitating the Seven Years' War. The Prussians quickly defeated Saxony and incorporated the Saxon army into the Prussian army. At the end of the Seven Years' War, Saxony once again became an independent state, although considerably reduced in size.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_SAXONY_HEADING_5">
+			<Text>19th Century</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_SAXONY_TEXT_5">
+			<Text>In 1806, French Emperor Napoleon abolished the Holy Roman Empire and established the Electorate of Saxony as a kingdom in exchange for military support. The Elector Frederick Augustus III accordingly became King Frederick Augustus I of Saxony. Frederick Augustus remained loyal to Napoleon during the wars that swept Europe in the following years; he was taken prisoner and his territories declared forfeit by the allies in 1813, after the defeat of Napoleon. Prussia intended the annexation of Saxony but the opposition of Austria, France, and the United Kingdom to this plan resulted in the restoration of Frederick Augustus to his throne at the Congress of Vienna although he was forced to cede the northern part of the kingdom to Prussia. These lands became the Prussian province of Saxony, now incorporated in the modern state of Saxony-Anhalt except westernmost part around Bad Langensalza now in the one of Thuringia. Also Lower Lusatia became part of Province of Brandenburg and northeastern part of Upper Lusatia became part of Silesia Province. The remnant of the Kingdom of Saxony was roughly identical with the present federal state, albeit slightly smaller.[NEWLINE][NEWLINE]Meanwhile, in 1815, the southern part of Saxony, now called the "State of Saxony" joined the German Confederation. (This German Confederation should not be confused with the North German Confederation mentioned below.) In the politics of the Confederation, Saxony was overshadowed by Prussia. King Anthony of Saxony came to the throne of Saxony in 1827. Shortly thereafter, liberal pressures in Saxony mounted and broke out in revolt during 1830—a year of revolution in Europe. The revolution in Saxony resulted in a constitution for the State of Saxony that served as the basis for its government until 1918.[NEWLINE][NEWLINE]During the 1848–49 constitutionalist revolutions in Germany, Saxony became a hotbed of revolutionaries, with anarchists such as Mikhail Bakunin and democrats including Richard Wagner and Gottfried Semper taking part in the May Uprising in Dresden in 1849. (Scenes of Richard Wagner's participation in the May 1849 uprising in Dresden are depicted in the 1983 movie Wagner starring Richard Burton as Richard Wagner.) The May uprising in Dresden forced King Frederick Augustus II of Saxony to concede further reforms to the Saxon government.[NEWLINE][NEWLINE]In 1854 Frederick Augustus II's brother, King John of Saxony, succeeded to the throne. A scholar, King John translated Dante. King John followed a federalistic and pro-Austrian policy throughout the early 1860s until the outbreak of the Austro-Prussian War. During that war, Prussian troops overran Saxony without resistance and then invaded Austrian (today's Czech) Bohemia. After the war, Saxony was forced to pay an indemnity and to join the North German Confederation in 1867.[14] Under the terms of the North German Confederation, Prussia took over control of the Saxon postal system, railroads, military and foreign affairs. In the Franco-Prussian War of 1870, Saxon troops fought together with Prussian and other German troops against France. In 1871, Saxony joined the newly formed German Empire.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_SAXONY_HEADING_6">
+			<Text>20th Century</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_SAXONY_TEXT_6">
+			<Text>After King Frederick Augustus III of Saxony abdicated on 13 November 1918, Saxony, remaining a constituent state of Germany (Weimar Republic), became the Free State of Saxony under a new constitution enacted on 1 November 1920. In October 1923 the federal government under Chancellor Gustav Stresemann overthrew the legally elected SPD-Communist coalition government of Saxony. The state maintained its name and borders during the Nazi era as a Gau, but lost its quasi-autonomous status and its parliamentarian democracy.[NEWLINE][NEWLINE]As World War II drew to its end, U.S. troops under General George Patton conquered the western part of Saxony in April 1945, while Soviet troops conquered the eastern part. That summer, the entire state was handed over to Soviet forces as agreed in the London Protocol of September 1944. Britain, the USA, and the USSR then negotiated Germany's future at the Potsdam Conference. Under the Potsdam Agreement, all German territory East of the Oder-Neisse line was annexed by Poland and the Soviet Union, and, unlike in the aftermath of World War I, the annexing powers were allowed to expel the inhabitants. During the following three years, Poland and Czechoslovakia forcibly expelled German-speaking people from their territories, and some of these expellees came to Saxony. Only a small area of Saxony lying east of the Neisse River and centred around the town of Reichenau (now called Bogatynia), was annexed by Poland. The Soviet Military Administration in Germany (SVAG) merged that part of the Prussian province of Lower Silesia that remained in Germany with Saxony.[NEWLINE][NEWLINE]On 20 October 1946, SVAG organised elections for the Saxon state parliament (Landtag), but many people were arbitrarily excluded from candidacy and suffrage, and the Soviet Union openly supported the Socialist Unity Party of Germany (SED). The new minister-president Rudolf Friedrichs (SED), had been a member of the SPD until April 1946. He met his Bavarian counterparts in the U.S. zone of occupation in October 1946 and May 1947, but died suddenly in mysterious circumstances the following month. He was succeeded by Max Seydewitz, a loyal follower of Joseph Stalin.[NEWLINE][NEWLINE]The German Democratic Republic (East Germany), including Saxony, was established in 1949 out of the Soviet zone of Occupied Germany, becoming a constitutionally socialist state, part of COMECON and the Warsaw Pact, under the leadership of the SED. In 1952 the government abolished the Free State of Saxony, and divided its territory into three Bezirke: Leipzig, Dresden, and Karl-Marx-Stadt (formerly and presently Chemnitz). Also areas around Hoyerswerda was part of Cottbus one.[NEWLINE][NEWLINE]The Free State of Saxony was reconstituted with slightly altered borders in 1990, following German reunification. Besides the formerly Silesian area of Saxony, which was mostly included in the territory of the new Saxony, the free state gained further areas north of Leipzig that had belonged to Saxony-Anhalt until 1952.[NEWLINE][NEWLINE]From Wikipedia.</Text>
+		</Row>
+		<!--Cities-->
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_SAXONY_1">
+			<Text>Dresden</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_SAXONY_2">
+			<Text>Leipzig</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_SAXONY_3">
+			<Text>Wittenberg</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_SAXONY_4">
+			<Text>Plauen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_SAXONY_5">
+			<Text>Freiberg</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_SAXONY_6">
+			<Text>Chemnitz</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_SAXONY_7">
+			<Text>Meissen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_SAXONY_8">
+			<Text>Zwickau</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_SAXONY_9">
+			<Text>Naumburg</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_SAXONY_10">
+			<Text>Torgau</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_SAXONY_11">
+			<Text>Zittau</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_SAXONY_12">
+			<Text>Querfurt</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_SAXONY_13">
+			<Text>Wurzen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_SAXONY_14">
+			<Text>Colditz</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_SAXONY_15">
+			<Text>Bischofswerda</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_SAXONY_16">
+			<Text>Bautzen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_SAXONY_17">
+			<Text>Grossenhain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_SAXONY_18">
+			<Text>Merseburg</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_SAXONY_19">
+			<Text>Weissenfels</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_SAXONY_20">
+			<Text>Waldheim</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_SAXONY_21">
+			<Text>Borna</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_SAXONY_22">
+			<Text>Grimma</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_SAXONY_23">
+			<Text>Guben</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_SAXONY_24">
+			<Text>Gorlitz</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_SAXONY_25">
+			<Text>Gotha</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_SAXONY_26">
+			<Text>Coburg</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_SAXONY_27">
+			<Text>Weimar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_SAXONY_28">
+			<Text>Jena</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_SAXONY_29">
+			<Text>Altenburg</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_SAXONY_30">
+			<Text>Hildburghausen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_SAXONY_31">
+			<Text>Hubertusburg</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_SAXONY_32">
+			<Text>Riesa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_SAXONY_33">
+			<Text>Kamenz</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_SAXONY_34">
+			<Text>Altrandstadt</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_SAXONY_35">
+			<Text>Mittweida</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_SAXONY_36">
+			<Text>Frankenberg</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_SAXONY_37">
+			<Text>Dobeln</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_SAXONY_38">
+			<Text>Oschatz</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_SAXONY_39">
+			<Text>Rossbach</Text>
+		</Row>
+		<!--Spies-->
+		<Row Tag="TXT_KEY_SPY_NAME_CIVILIZATION_JFD_SAXONY_1">
+			<Text>Johann Georg</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CIVILIZATION_JFD_SAXONY_2">
+			<Text>Friederike</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CIVILIZATION_JFD_SAXONY_3">
+			<Text>Henriette Rénard</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CIVILIZATION_JFD_SAXONY_4">
+			<Text>Wilhelmine</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CIVILIZATION_JFD_SAXONY_5">
+			<Text>Fatima</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CIVILIZATION_JFD_SAXONY_6">
+			<Text>Anna Karolina</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CIVILIZATION_JFD_SAXONY_7">
+			<Text>Fredericka Alexandrine</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CIVILIZATION_JFD_SAXONY_8">
+			<Text>Augusta Constantia</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CIVILIZATION_JFD_SAXONY_9">
+			<Text>Maria Anna Katharina</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CIVILIZATION_JFD_SAXONY_10">
+			<Text>Hermann Maurice</Text>
+		</Row>
+		<!--FREDERICK AUGUSTUS I-->
+		<Row Tag="TXT_KEY_LEADER_JFD_FREDERICK_AUGUSTUS_I">
+			<Text>Frederick Augustus I</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_FREDERICK_AUGUSTUS_I_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_FREDERICK_AUGUSTUS_I_TEXT_1">
+			<Text>Frederick Augustus I 'the Strong' was the Elector of Saxony, Imperial Vicar, and became King of Poland and Grand Duke of Lithuania (as Augustus II). In order to be elected King of the Polish-Lithuanian Commonwealth, Augustus converted to Roman Catholicism.[NEWLINE][NEWLINE]As Elector of Saxony, he is perhaps best remembered as a patron of the arts and architecture. He established the Saxon capital of Dresden as a major cultural centre, attracting artists from across Europe to his court. Augustus also amassed an impressive art collection and built lavish baroque palaces in Dresden and Warsaw.[NEWLINE][NEWLINE]As King of Poland, his reign was successful. He led the Polish-Lithuanian Commonwealth in the Great Northern War, which led to the Russian Empire strengthening its influence with the Commonwealth. He achieved internal reforms with his admired wit that led to an enlightenment among Poland at the time, he bolstered royal power in the Commonwealth. Known as being an intellectual he protected to Jagiellonian illuminated order and was on the winning end of the Great Northern War.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_FREDERICK_AUGUSTUS_I_HEADING_2">
+			<Text>Legacy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_FREDERICK_AUGUSTUS_I_TEXT_2">
+			<Text>Augustus is perhaps best remembered as a patron of the arts and architecture. He loved fine arts and architecture, and he had beautiful palaces built in Dresden, a city that became renowned for extraordinary cultural brilliance. He introduced the first public museums, such as the Green Vault in 1723, and started systematic collection of paintings that are now on display in the Old Masters Gallery.[NEWLINE][NEWLINE]From 1687 to 1689, Augustus toured France and Italy. The extravagant court in Versailles—perfectly tailored to fit the needs of an absolute monarch—impressed him deeply. In accordance with the spirit of the baroque age, Augustus invested heavily in the representative splendor of Dresden Castle, his major residence, to advertise his wealth and power.[NEWLINE][NEWLINE]With strict building regulations, major urban development plans, and a certain feeling for art, the king began to transform Dresden into a renowned cultural center with one of Germany's finest art collections, though most of the city's famous sights and landmarks were completed during the reign of his son Augustus III. The most famous building started under Augustus the Strong was the Zwinger. Also known are Pillnitz Castle, his summer residence, Moritzburg Castle and Hubertusburg Castle, his hunting lodges.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_FREDERICK_AUGUSTUS_I_HEADING_3">
+			<Text>Factoids</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_FREDERICK_AUGUSTUS_I_TEXT_3">
+			<Text>Frederick Augustus' great physical strength earned him the nicknames "the Strong", "the Saxon Hercules" and "Iron-Hand." He liked to show that he lived up to his name by breaking horseshoes with his bare hands and engaging in fox tossing by holding the end of his sling with just one finger while two of the strongest men in his court held the other end.[NEWLINE][NEWLINE]From Wikipedia.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_FREDERICK_AUGUSTUS_I_NAME">
+			<Text>Frederick Augustus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_FREDERICK_AUGUSTUS_I_SUBTITLE">
+			<Text>Leader of Saxony</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_FREDERICK_AUGUSTUS_I_TITLES_1">
+			<Text>Elector of Saxony[NEWLINE][NEWLINE]King of Poland[NEWLINE][NEWLINE]Grand Duke of Lithuania</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_FREDERICK_AUGUSTUS_I_LIVED">
+			<Text>1670 - 1733 AD</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DAWN_SAXONY_TEXT">
+			<Text>Welcome, Frederick Augustus I, elector of Saxony. You lead one of the cultural centres of Europe. Saxony is a modest country, with a wealth of art and architecture to its name. Elector to the Holy Roman Empire, Saxony rose to prominence during the 16th century, as home to the Protestant Reformation. In the 17th century, you joined Saxony in union with the Commonwealth of Poland-Lithuania, and embarked upon great projects which would make Dresden the envy of artists the world over. Even today, the legacy of your endeavours persist, and Saxony remains one of the most culturally autonomous states in Germany.[NEWLINE][NEWLINE]Strong and noble king, the great halls of Dresden's Palaces thirst for culture and enlightenment. Can you fill your cities with great works and monuments? Can you defend her sovereign territory and usher in a new golden age? Can you build a civilization that can stand the test of time?</Text>
+		</Row>
+		<!--JEWEL OF EUROPE-->
+		<Row Tag="TXT_KEY_TRAIT_JFD_SAXONY_SHORT">
+			<Text>Jewel of Europe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_JFD_SAXONY">
+			<Text>50% of [ICON_TOURISM] Tourism contributes directly toward [ICON_PRODUCTION] Wonder Production. Free [ICON_GREAT_PEOPLE] Great Artist with each National Wonder.</Text>
+		</Row>
+		<!--CARABINIER GUARD-->
+		<Row Tag="TXT_KEY_UNIT_JFD_CARABINIER_GUARD">
+			<Text>Carabinier Guard</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_CARABINIER_GUARD_HELP">
+			<Text>Mounted Unit that specializes in protecting Saxony's precious works. Gains +1 [ICON_STRENGTH] Combat Strength when garrisoned for each National Wonder in the city. Also benefits from defensive terrain bonuses.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_CARABINIER_GUARD_STRATEGY">
+			<Text>This mounted unit replaces the Cavalry for Saxony and serves best when garrisoned in a city containing a National Wonder, gaining additional combat strength for each one present in the city. Unlike the Cavalry, it may also benefit from defensive terrain bonuses.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_CARABINIER_GUARD_TEXT">
+			<Text>A carabinier is in principle a soldier armed with a carbine. Historically, carabiniers were generally horse soldiers. The carbine was considered a more appropriate firearm for a horseman than a full-length musket, since it was lighter and easier to handle while on horseback.[NEWLINE][NEWLINE]The Saxon Garde du Corps was formed in 1620, initially going under various names. From 1707 it was permanently titled the Garde du Corps and was stationed in Dresden and the surrounding area. At the time of Augustus the Strong it was a "double regiment" (Doppelregiment) with 883 men. Under his successors it was reduced in size, but remained an elite unit. The officers of the Garde du Corps ranked ceremonially a level above those in other regiments and were also paid more. It met its demise in 1812 in the Russian campaign and was never re-established.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_CARABINIER_GUARD">
+			<Text>Palace Guard</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_CARABINIER_GUARD_HELP">
+			<Text>+1 [ICON_STRENGTH] Combat Strength when garrisoned for each National Wonder in the city.</Text>
+		</Row>
+		<!--KUNSTHAUS-->
+		<Row Tag="TXT_KEY_BUILDING_JFD_KUNSTHAUS">
+			<Text>Kunsthaus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_KUNSTHAUS_HELP">
+			<Text>This unique Museum possesses 3 slots for Great Works of Art and is available earlier. Only Saxony may build it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_KUNSTHAUS_STRATEGY">
+			<Text>The Kunsthaus is a mid-game building which increases the city's [ICON_CULTURE] Culture output. Contains 3 slots for Great Works of Art, unlike the Museum that it replaces.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_KUNSTHAUS_TEXT">
+			<Text>A Kunsthalle or Kunsthaus is a term in German-speaking regions for a facility that mounts art exhibitions. The term roughly means "Art Gallery" in English but with a somewhat more specific meaning. A Kunsthalle is often operated by a non-profit Kunstverein ("Art Association") and a Kunsthaus ("Art House") refers more to a gallery or museum with associated artists, symposia, studios and workshops. A Kunsthalle is also similar to a Kunstmuseum ("Art Museum"), but the terms mean different things historically. In the strictest sense a Kunstmuseum has its own permanent collection and a Kunsthalle does not.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

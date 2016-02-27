@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_en_US>	
+		<!--Create the Foreign Legion-->
+		<Row Tag="TXT_KEY_DECISIONS_JFD_FRANCE_DEGAULLE_FOREIGN_LEGION">
+			<Text>Create the Foreign Legion</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JFD_FRANCE_DEGAULLE_FOREIGN_LEGION_DESC">
+			<Text>We must not turn away those foreign soldiers who would seek to fight for our freedom. Let us establish the Foreign Legion as a place within our armed forces for foreigners wishing to do war for this fine country.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be France (De Gaulle)
+				[NEWLINE][ICON_BULLET]Must have researched Replaceable Parts
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Gold} [ICON_GOLD] Gold
+				[NEWLINE][ICON_BULLET]1 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Recieve a free Foreign Legion unit
+				[NEWLINE][ICON_BULLET]May train Foreign Legion units. Foreign Legions will gain additional [ICON_STRENGTH] Combat Strength after researching Plastics
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JFD_FRANCE_DEGAULLE_FOREIGN_LEGION_ENACTED_DESC">
+			<Text>
+				We must not turn away those foreign soldiers who would seek to fight for our freedom. Let us establish the Foreign Legion as a place within our armed forces for foreigners wishing to do war for this fine country.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Recieve a free Foreign Legion unit
+				[NEWLINE][ICON_BULLET]May train Foreign Legion units. Foreign Legions will gain additional [ICON_STRENGTH] Combat Strength after researching Plastics
+			</Text>
+		</Row>
+		<Delete Tag="TXT_KEY_UNIT_FRENCH_FOREIGNLEGION_STRATEGY" />
+		<Delete Tag="TXT_KEY_UNIT_HELP_FOREIGN_LEGION" />
+		<Row Tag="TXT_KEY_UNIT_HELP_FOREIGN_LEGION">
+			<Text>Special Infantry Unit of the Modern Era. May only be received through adopting the Volunteer Army tenet of the Freedom Ideology or by adopting the 'Create the Foreign Legion' decision as the Republic of France. This Unit has a combat bonus outside of friendly territory but is otherwise very similar to Great War Infantry.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_FRENCH_FOREIGNLEGION_STRATEGY">
+			<Text>The Foreign Legion is a special unit, only available through the Volunteer Army tenet of the Freedom Ideology or by adopting the 'Create the Foreign Legion' decision as the Republic of France. It receives a significant combat bonus when operating outside of home territory, making it an excellent unit to use to gain control of foreign lands.</Text>
+		</Row>
+		<!--Construct the Maginot Line-->
+		<Row Tag="TXT_KEY_DECISIONS_JFD_FRANCE_DEGAULLE_MAGINOT_LINE">
+			<Text>Construct the Maginot Line</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JFD_FRANCE_DEGAULLE_MAGINOT_LINE_DESC">
+			<Text>
+				The threats that lie upon our borders must be neutralised and our Minister of War has proposed to us a way to do this: to build a series of fortifications along those borders which we possess with our most untrust-worthy of neighbours. This shall be called the Maginot Line, and, should war befall us, it should stop our enemies short from entering France.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be France (De Gaulle)
+				[NEWLINE][ICON_BULLET]Must have researched Engineering
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Num} [ICON_GOLD] Gold
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Receive three Citadel-building Workers
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JFD_FRANCE_DEGAULLE_MAGINOT_LINE_ENACTED_DESC">
+			<Text>
+				The threats that lie upon our borders must be neutralised and our Minister of War has proposed to us a way to do this: to build a series of fortifications along those borders which we possess with our most untrust-worthy of neighbours. This shall be called the Maginot Line, and, should war befall us, it should stop our enemies short from entering France.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Receive three Citadel-building Workers
+			</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

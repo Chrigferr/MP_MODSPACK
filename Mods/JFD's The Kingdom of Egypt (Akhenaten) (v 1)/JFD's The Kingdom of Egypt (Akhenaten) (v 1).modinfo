@@ -1,0 +1,133 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="0b6d7841-8f67-405c-b02c-042f941be1d6" version="1">
+  <Properties>
+    <Name>JFD's The Kingdom of Egypt (Akhenaten)</Name>
+    <Teaser>Adds the [COLOR_POSITIVE_TEXT]The Kingdom of Egypt[ENDCOLOR] with Akhenaten to the game.</Teaser>
+    <Description>See CivFanatics or Steam Workshop for full details.</Description>
+    <Authors>JFD, Janboruta, Regalman, Sukritact</Authors>
+    <SpecialThanks>Hypereon</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References>
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="JFD's Cultural Diversity (Core)" />
+    <Mod id="eea66053-7579-481a-bb8d-2f3959b59974" minversion="0" maxversion="999" title="JFD’s Piety" />
+    <Mod id="d99bf7aa-51ac-4bef-bd88-d765b28e260e" minversion="0" maxversion="999" title="JFD’s Prestige" />
+    <Mod id="6676902b-b907-45f1-8db5-32dcb2135eee" minversion="0" maxversion="999" title="JFD's Exploration Continued Expanded" />
+    <Mod id="1f941088-b185-4159-865c-472df81247b2" minversion="0" maxversion="999" title="Sukritact’s Events &amp; Decisions" />
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="Yet (not) Another Earth Map Pack" />
+    <Mod id="e576894a-ed2b-4033-be14-ed1c8ceb81d3" minversion="0" maxversion="999" title="Map Labels" />
+    <Mod id="7fdd72a5-d4ae-441c-bc4e-2e3d2a26cff4" minversion="0" maxversion="999" title="Ethnic Units" />
+    <Mod id="8670da15-d435-44ea-9758-7438cb321411" minversion="0" maxversion="999" title="R.E.D. Modpack" />
+    <Mod id="8411a7a8-dad3-4622-a18e-fcc18324c799" minversion="0" maxversion="999" title="Community Balance Patch" />
+    <Mod id="a19351c5-c0b3-4b07-8695-4affaa199949" minversion="0" maxversion="999" title="JFD's and Pouakai's Mercenaries" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="FAA5AD475CE6C36D917EC7FDDF5B92CA" import="1">Art/Diplomacy/Akhenaten_Scene.xml</File>
+    <File md5="FED5B1DB90CD295EFBFDCFB63B539A29" import="1">Art/Diplomacy/Diplo_Akhenaten.dds</File>
+    <File md5="74B110E2A960EC3A1FFFD6DAAC3CE566" import="1">Art/EgyptAkhenatenVerseBG.dds</File>
+    <File md5="58FED6F251E930ADA857341616A75D92" import="1">Art/Graphics/Khopesh/Longswordsman_Egypt.dds</File>
+    <File md5="D1CFBF94BD2E5EFAE2C4F867B00DC374" import="1">Art/Graphics/Khopesh/Longswordsman_Egypt.fxsxml</File>
+    <File md5="DE516780718BBF8291E1BB79D3135ABA" import="1">Art/Graphics/Khopesh/Longswordsman_Egypt.gr2</File>
+    <File md5="8174FF7BD7C7A84E83603D828767FFE2" import="1">Art/Graphics/Khopesh/Longswordsman_Egypt_gloss.dds</File>
+    <File md5="0E5195038407C9D9892537989B5FFACF" import="1">Art/Graphics/Khopesh/sv_KhopeshSwordsman.dds</File>
+    <File md5="7251C9DF8ABADFA8BA5EAE77B5C13F34" import="1">Art/Graphics/sv_Obelisk.dds</File>
+    <File md5="0D218101E8C1C75CFCC33DAA144C81BF" import="1">Art/greatworks_hymn.dds</File>
+    <File md5="F9E4A8D3BC04144368610BF2C5A2001A" import="1">Art/greatworks_hymn_empty.dds</File>
+    <File md5="ECB72C8791B1D67253F2AB492B6C8DD0" import="1">Art/greatworks_hymn_hl.dds</File>
+    <File md5="20432744182808697D279EA524A40FCD" import="1">Art/IconAtlas/AtenismFontIcons.ggxml</File>
+    <File md5="09151A0E5F340611759FD43B44A20499" import="1">Art/IconAtlas/HymnFontIcons.dds</File>
+    <File md5="2A6165A20ADD132CA7FEE15FCEBCA047" import="1">Art/IconAtlas/HymnFontIcons.ggxml</File>
+    <File md5="715512FE8D09D573FE72068F23781393" import="1">Art/IconAtlas/JFD_EgyptAkhenatenAlphaAtlas_128.dds</File>
+    <File md5="F4B8D924E0320C29594842EC27041523" import="1">Art/IconAtlas/JFD_EgyptAkhenatenAlphaAtlas_16.dds</File>
+    <File md5="882DB199C9CC96266F42A00DCBD17266" import="1">Art/IconAtlas/JFD_EgyptAkhenatenAlphaAtlas_22.dds</File>
+    <File md5="E9A46DC3FA28C81250710FC78D206F52" import="1">Art/IconAtlas/JFD_EgyptAkhenatenAlphaAtlas_24.dds</File>
+    <File md5="8077C1C57ED9C376AF850C86BFF6E85E" import="1">Art/IconAtlas/JFD_EgyptAkhenatenAlphaAtlas_256.dds</File>
+    <File md5="7CAC5F5EE242F11153D261A6B2E4E2F6" import="1">Art/IconAtlas/JFD_EgyptAkhenatenAlphaAtlas_32.dds</File>
+    <File md5="4BE36676815920617C0FF440E154337E" import="1">Art/IconAtlas/JFD_EgyptAkhenatenAlphaAtlas_45.dds</File>
+    <File md5="3E1FC97777C0A56038A03BD8C8342415" import="1">Art/IconAtlas/JFD_EgyptAkhenatenAlphaAtlas_48.dds</File>
+    <File md5="AA2FEE4E17A4DA588286A5E812B22B46" import="1">Art/IconAtlas/JFD_EgyptAkhenatenAlphaAtlas_64.dds</File>
+    <File md5="61B00C1CAECF98172F255A56D2E10123" import="1">Art/IconAtlas/JFD_EgyptAkhenatenAlphaAtlas_80.dds</File>
+    <File md5="93EF69FF1B60D9C884DEC276706BDB33" import="1">Art/IconAtlas/JFD_EgyptAkhenatenAtlas_128.dds</File>
+    <File md5="57C4D8383F805D51182E20AB4A725C32" import="1">Art/IconAtlas/JFD_EgyptAkhenatenAtlas_256.dds</File>
+    <File md5="F4CBA9EF40597BB04F5842321D78B021" import="1">Art/IconAtlas/JFD_EgyptAkhenatenAtlas_32.dds</File>
+    <File md5="CC047B5ADBCED1AA1E0487E3F0F543E6" import="1">Art/IconAtlas/JFD_EgyptAkhenatenAtlas_45.dds</File>
+    <File md5="2525BE220F20F0C5366554FFB5064E57" import="1">Art/IconAtlas/JFD_EgyptAkhenatenAtlas_64.dds</File>
+    <File md5="18DA2979BCF3754297EE3C4908B131BE" import="1">Art/IconAtlas/JFD_EgyptAkhenatenAtlas_80.dds</File>
+    <File md5="A90707C7F18EBA9BD68F4AA18C55F473" import="1">Art/IconAtlas/JFD_EgyptAkhenatenReligionAtlas_128.dds</File>
+    <File md5="20E84A67291839D5F71D28ADED5A4228" import="1">Art/IconAtlas/JFD_EgyptAkhenatenReligionAtlas_16.dds</File>
+    <File md5="D0BEC4E3A759DD480F2EA1052D416C73" import="1">Art/IconAtlas/JFD_EgyptAkhenatenReligionAtlas_214.dds</File>
+    <File md5="6C37E14EE62C0F1121D3142AA35786F2" import="1">Art/IconAtlas/JFD_EgyptAkhenatenReligionAtlas_24.dds</File>
+    <File md5="B1A579E0407671F9A86446C7D5FD4E56" import="1">Art/IconAtlas/JFD_EgyptAkhenatenReligionAtlas_256.dds</File>
+    <File md5="FC24AD658F7B1CCB2B51DD077C06D780" import="1">Art/IconAtlas/JFD_EgyptAkhenatenReligionAtlas_32.dds</File>
+    <File md5="C32BB6F71B47E2E4739041729E105EE7" import="1">Art/IconAtlas/JFD_EgyptAkhenatenReligionAtlas_48.dds</File>
+    <File md5="00E71A2A5F7C4CEBBC6554D7E3E1884F" import="1">Art/IconAtlas/JFD_EgyptAkhenatenReligionAtlas_64.dds</File>
+    <File md5="CA9B1A05CBCE0082AF2C611BC5410CE7" import="1">Art/IconAtlas/JFD_EgyptAkhenatenReligionAtlas_80.dds</File>
+    <File md5="892E7D5A852291A136FDD16E75736EBB" import="1">Art/IconAtlas/AtenismFontIcons.dds</File>
+    <File md5="0A50F5C0EC4776729856BC333FC1E011" import="1">Art/IconAtlas/JFD_KhopeshSwordsmanUnitFlag_32.dds</File>
+    <File md5="CF9AC3FD6298AFBDF69DE25D0946D61A" import="1">Art/IconAtlas/JFD_EgyptAkhenatenObeliskAtlas_256.dds</File>
+    <File md5="D5980F0349451FB474BECB174B7CD370" import="1">Art/IconAtlas/JFD_EgyptAkhenatenObeliskAtlas_45.dds</File>
+    <File md5="3159C12C1E7F7D0D7FABF0B68D146305" import="1">Art/IconAtlas/JFD_EgyptAkhenatenObeliskAtlas_64.dds</File>
+    <File md5="59A4F80A8BF92B557122B8BE10F0A0C6" import="1">Art/Map/DOM_Akhenaten.dds</File>
+    <File md5="32BCE0F6B99053B625D799683AC2EF61" import="1">Art/Map/MapEgyptAkhenaten512.dds</File>
+    <File md5="B6A3B64E197516EF2B943E3C221BBDAE" import="1">Audio/Akhenaten_Peace.mp3</File>
+    <File md5="4A0908B60EDA1572D00A067C82B2BC8C" import="1">Audio/Akhenaten_War.mp3</File>
+    <File md5="E360152045C70AA14EED36E47FC77ADC" import="1">Audio/JFD_Atenism.mp3</File>
+    <File md5="6E82903194F795D988C3E0D6A72C08E5" import="0">Core/EgyptAkhenaten_ArtDefines.sql</File>
+    <File md5="06C06AE0046949E8394C9FE863EF3B9E" import="0">Core/EgyptAkhenaten_GameDefines.sql</File>
+    <File md5="D784416B6485859CF3B3631EE4135B5E" import="0">Core/EgyptAkhenaten_GameDefines_Diplomacy.sql</File>
+    <File md5="8276F4345B6E4624DAF989DFCDE42E34" import="0">Core/EgyptAkhenaten_GameDefines_ModSupport.sql</File>
+    <File md5="B24DC7B60F837449B6A8A312732086F4" import="0">Core/EgyptAkhenaten_GameText.xml</File>
+    <File md5="E13178C44F2B09A4343EB844C7C91932" import="0">Core/EgyptAkhenaten_GameText_Diplomacy.xml</File>
+    <File md5="E0E22BDCBD338DC8321968AED7127474" import="0">Core/EgyptAkhenaten_GameText_ModSupport.xml</File>
+    <File md5="FC6E117C75835973F759656BB4F6EF97" import="0">DeleteMissingReferences.xml</File>
+    <File md5="AD332CF07716D0EA2347D6FE0FE6EAED" import="1">Lua/JFD_EgyptAkhenaten_Decisions.lua</File>
+    <File md5="32F01E4A99AC57FA388905B66628600D" import="1">Lua/JFD_EgyptAkhenaten_Events.lua</File>
+    <File md5="38855E23EA97CF9B45EEE3D732E89BF9" import="0">Lua/JFD_EgyptAkhenaten_Functions.lua</File>
+    <File md5="A1DD261262D8616D5FDFAA15C4806266" import="0">Lua/JFD_EgyptAkhenaten_Functions.xml</File>
+    <File md5="3B757704B52925A4D4753F8D03C61F8E" import="0">Lua/JFD_EgyptAkhenaten_GreatHymnPopup.lua</File>
+    <File md5="BEC8461F366C010E94D37C92517A23C3" import="0">Lua/JFD_EgyptAkhenaten_GreatHymnPopup.xml</File>
+    <File md5="4486E05E92C6A1829D1BD4FC8EAB80DE" import="1">Lua/UI/Overrides/CultureOverview.lua</File>
+    <File md5="BF85D174CA9D4F2EC2AD7E3FBB6C0D6D" import="1">Lua/UI/Overrides/CultureOverview.xml</File>
+    <File md5="90D188DF5D435EF437A5B9A6B4C8EF81" import="1">Lua/UI/Overrides/ResourceIconManager.lua</File>
+    <File md5="5BEB8353C2EE1BC6722E7D0F0CFC8731" import="1">Lua/Utilities/JFD_EgyptAkhenaten_Utils.lua</File>
+    <File md5="3B7B1EE92949FC3B7B9308074F036BEB" import="1">Lua/Utilities/NewSaveUtils.lua</File>
+    <File md5="7BD2FBE46D0E789BDFF45CAC065DB4E4" import="1">Lua/Utilities/PlotIterators.lua</File>
+    <File md5="A4759D7B62448C31C908D01635EC0FB7" import="1">Lua/Utilities/UniqueDiplomacyUtilsV2.lua</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Core/EgyptAkhenaten_ArtDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Core/EgyptAkhenaten_GameDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Core/EgyptAkhenaten_GameDefines_Diplomacy.sql</UpdateDatabase>
+      <UpdateDatabase>Core/EgyptAkhenaten_GameDefines_ModSupport.sql</UpdateDatabase>
+      <UpdateDatabase>Core/EgyptAkhenaten_GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/EgyptAkhenaten_GameText_Diplomacy.xml</UpdateDatabase>
+      <UpdateDatabase>Core/EgyptAkhenaten_GameText_ModSupport.xml</UpdateDatabase>
+      <UpdateDatabase>DeleteMissingReferences.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/JFD_EgyptAkhenaten_Functions.lua">
+      <Name>JFD_EgyptAkhenaten_Functions</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/JFD_EgyptAkhenaten_GreatHymnPopup.lua">
+      <Name>JFD_EgyptAkhenaten_GreatHymnPopup</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

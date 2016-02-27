@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 11/23/2013 1:27:25 PM -->
+<GameData>
+	<Language_en_US>
+		<!--GAZEBO COMMUNITY BALANCE PATCH-->
+		<Row Tag="TXT_KEY_BUILDING_JFD_PALAZZO_HELP_CBP">
+			<Text>Generates [ICON_GREAT_PEOPLE] Great Merchant points equal to 10% of this city's [ICON_GOLD] Gold output.[NEWLINE][NEWLINE]City must have a Market. +1 [ICON_GOLD] Gold for every 2 [ICON_CITIZEN] Citizens in the city.[NEWLINE][NEWLINE]Each source of [ICON_RES_GOLD] Gold, [ICON_RES_SILVER] Silver, and [ICON_RES_GEMS] Gems worked by this city produces +2 [ICON_GOLD] Gold.</Text>
+		</Row>
+		<!--JFD SOVEREIGNTY-->
+		<!--Government-->
+		<Row Tag="TXT_KEY_JFD_LEGISLATURE_NAME_CIVILIZATION_MILAN">
+			<Text>Senate</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_MILAN">
+			<Text>Podesta</Text>
+		</Row>
+		<!--Heads of Govt.-->
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_MILAN_1">
+			<Text>Pagano I della Torre</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_MILAN_2">
+			<Text>Manfredi Lancia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_MILAN_3">
+			<Text>Martino della Torre</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_MILAN_4">
+			<Text>Oberto Pallavicino</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_MILAN_5">
+			<Text>Filippo della Torre</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_MILAN_6">
+			<Text>Napoleone della Torre</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_MILAN_7">
+			<Text>Matteo I Visconti</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_MILAN_8">
+			<Text>Guido della Torre</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_MILAN_9">
+			<Text>Matteo I Visconti</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_MILAN_10">
+			<Text>Azzone Visconti</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_MILAN_11">
+			<Text>Luchino Visconti</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_MILAN_12">
+			<Text>Giovanni Visconti</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_MILAN_13">
+			<Text>Bernabò Visconti</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_MILAN_14">
+			<Text>Filippo I Maria Visconti</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_MILAN_15">
+			<Text>Francesco I Sforza</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_MILAN_16">
+			<Text>Ludovico Sforza</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_MILAN_17">
+			<Text>Ludovico Sforza</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_MILAN_18">
+			<Text>Massimiliano Sforza</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_MILAN_19">
+			<Text>Francesco II Sforza</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_MILAN_20">
+			<Text>Gian Maria Visconti</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_MILAN_21">
+			<Text>Gian Galeazzo I Visconti</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_MILAN_22">
+			<Text>Ottone Visconti</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_MILAN_23">
+			<Text>Camillo Benso, Conte di Cavour</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_MILAN_24">
+			<Text>Guido della Torre</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_MILAN_25">
+			<Text>Pagano II della Torre</Text>
+		</Row>
+		<!--Political Parties-->
+		<Row Tag="TXT_KEY_JFD_PARTY_JFD_LIBERTARIAN_MILAN">
+			<Text>Radical Party</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_PARTY_JFD_NOBILITY_MILAN">
+			<Text>Patricians</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_PARTY_JFD_REVOLUTIONARY_MILAN">
+			<Text>Carbonari</Text>
+		</Row>
+		<!--Titles-->
+		<Row Tag="TXT_KEY_GOVERNMENT_JFD_REPUBLIC_TITLE_LEADER_MILAN">
+			<Text>Captain</Text>
+		</Row>
+		<!--POUAKAI ENLIGHTENMENT ERA-->
+		<Row Tag="TXT_KEY_UNIT_JFD_RIBAULT_STRATEGY_EE">
+			<Text>The Ribault is a Renaissance-era replacement for the Gatling Gun, avaliable only to Milan. Unlike the Gatling Gun, the Ribault may attack twice in one turn and has a combat bonus against other Siege Units. However, it is also slightly weaker and slightly more expensive to produce.</Text>
+		</Row>
+		<!-- RYOGA UNIQUE CULTURAL INFLUENCE -->
+		<Row Tag="TXT_KEY_GENERIC_JFD_MILAN_INFLUENTIAL_ON_AI_1">
+			<Text>Our people are now leaving their savings in your banks and touring your monumental cathedrals. We're worried the rest of the world will also succumb to the influence of your culture.</Text>
+		</Row>
+		<!--SUKRITACT DECISIONS -->
+		<!--Form the Lombard League-->
+		<Row Tag="TXT_KEY_DECISIONS_JFD_MILAN_LOMBARD_LEAGUE">
+			<Text>Form the Lombard League</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JFD_MILAN_LOMBARD_LEAGUE_DESC">
+			<Text>
+				The wanton aggression from our neighbours has gone too long unchecked. We must band together with our allies and declare that we shall be beholden to no such threats.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Milan
+				[NEWLINE][ICON_BULLET]May only be enacted from the beginning of the Medieval Era
+				[NEWLINE][ICON_BULLET]Must have at least 2 City-State allies
+				[NEWLINE][ICON_BULLET]Must be at war with at least 2 major Civilizations
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]1 {1_Resource}
+				[NEWLINE][ICON_BULLET]{2_Num} [ICON_GOLD] Gold
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET][ICON_STRENGTH] Defensive Buildings are 20% more effective in all Cities
+				[NEWLINE][NEWLINE][COLOR_POSITIVE_TEXT]Note: Your allied City-States at the time will also benefit from the effects of this decision[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JFD_MILAN_LOMBARD_LEAGUE_ENACTED_DESC">
+			<Text>
+				The wanton aggression from our neighbours has gone too long unchecked. We must band together with our allies and declare that we shall be beholden to no such threats.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET][ICON_STRENGTH] Defensive Buildings are 20% more effective in all Cities
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_WORLD_EVENTS_MILAN_LOMBARD_LEAGUE">
+			<Text>{1_LeaderName} has formed the Lombard League between {2_CivName} and her allied City-States in response to the wanton aggression her neighbours.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_DECISIONS_JFD_LOMBARD_LEAGUE">
+			<Text>Lombard League</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_DECISIONS_JFD_LOMBARD_LEAGUE_HELP">
+			<Text>[ICON_STRENGTH] Defensive Buildings are 20% more effective in all Cities</Text>
+		</Row>
+		<!--Establish the Ambrosian Republic-->
+		<Row Tag="TXT_KEY_DECISIONS_JFD_MILAN_AMBROSIAN_REPUBLIC">
+			<Text>Establish the Ambrosian Republic</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JFD_MILAN_AMBROSIAN_REPUBLIC_DESC">
+			<Text>
+				The uncertainty that comes of ruling a monarcy is a weakness in our nation's armour. But a republic - now therein can be found security for our ruling dynasty; for coin is most certainly thicker than blood.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Milan
+				[NEWLINE][ICON_BULLET]May only be enacted from the beginning of the Renaissance Era
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Num} [ICON_GOLD] Gold
+				[NEWLINE][ICON_BULLET]2 [ICON_MAGISTRATES] Magistrate
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Grants all [ICON_CULTURE] Social Policies from the Liberty branch
+				[NEWLINE][ICON_BULLET]Gain {2_Num} [ICON_MAGISTRATES] Magistrates
+				[NEWLINE][ICON_BULLET]Your empire becomes known as The Ambrosian Republic
+				[NEWLINE][NEWLINE][COLOR_POSITIVE_TEXT]Note: The [ICON_MAGISTRATES] Magistrate reward increases for every Liberty Policy you already possess[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JFD_MILAN_AMBROSIAN_REPUBLIC_ENACTED_DESC">
+			<Text>
+				The uncertainty that comes of ruling a monarcy is a weakness in our nation's armour. But a republic - now therein can be found security for our ruling dynasty; for coin is most certainly thicker than blood.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Grants all [ICON_CULTURE] Social Policies from the Liberty branch
+				[NEWLINE][ICON_BULLET]Gain a lump sum of [ICON_MAGISTRATES] Magistrates for every Liberty Policy that you already possess
+				[NEWLINE][ICON_BULLET]Your empire becomes known as The Ambrosian Republic
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_WORLD_EVENTS_MILAN_AMBROSIAN_REPUBLIC">
+			<Text>{1_LeaderName} has established the Ambrosian Republic in Milan.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_MILAN_AMBROSIAN_REPUBLIC_SHORT_DESC">
+			<Text>Ambrosia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_MILAN_AMBROSIAN_REPUBLIC_DESC">
+			<Text>The Ambrosian Republic</Text>
+		</Row>
+		<!--SUKRITACT EVENTS-->
+		<!--Cultural Development-->
+		<Row Tag="TXT_KEY_EVENT_CULDEV_JFD_MILAN_01">
+			<Text>A most melodious instrument has been invented in the city of {1_City}. They call this instrument the Piano, and its music is positively heavenly. It is sure to bring Milan much international prestige!</Text>
+		</Row>
+		<!--Guelph-Ghibelle Feud-->
+		<Row Tag="TXT_KEY_EVENT_JFD_MILAN_FEUD">
+			<Text>Guelph-Ghibelle Feud</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_MILAN_FEUD_DESC">
+			<Text>The long-standing feud between the noble Houses of Guelph and Ghibelle has reached boiling point. We must step in and take sides, lest their discord bring the very country to civil war.[NEWLINE]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_MILAN_FEUD_OUTCOME_1">
+			<Text>Support the pious Guelphs</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_MILAN_FEUD_OUTCOME_RESULT_1">
+			<Text>[ICON_BULLET][COLOR_NEGATIVE_TEXT]50% chance that Ghibelle Mercenaries will appear near your [ICON_CAPITAL] Capital[ENDCOLOR][NEWLINE][ICON_BULLET][ICON_BULLET][COLOR_POSITIVE_TEXT]Gain {1_Num} {2_Yield}[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_MILAN_FEUD_OUTCOME_2">
+			<Text>Support the prestigious Ghibelles</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_MILAN_FEUD_OUTCOME_RESULT_2">
+			<Text>[ICON_BULLET][COLOR_NEGATIVE_TEXT]50% chance that Guelph Mercenaries will appear near your [ICON_CAPITAL] Capital[ENDCOLOR][NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]Gain {1_Num} [ICON_GOLDEN_AGE] Golden Age points[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_MILAN_FEUD_OUTCOME_RESULT_1_NOTIFICATION">
+			<Text>We have favoured the pious Guelphs in their feud with the Ghibelles, and the Guelphs have begrudgingly submitted.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_MILAN_FEUD_OUTCOME_RESULT_1_ALT_NOTIFICATION">
+			<Text>We have favoured the pious Guelphs in their feud with the Ghibelles, and the Ghibelles have risen an army against us!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WORLD_EVENT_JFD_MILAN_FEUD_1">
+			<Text>The House of Visconti, rulers of Milan, has sided with the House of Guelph in a domestic feud, sparking the opposing Ghibelles to take up arms.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_MILAN_FEUD_OUTCOME_RESULT_2_NOTIFICATION">
+			<Text>We have favoured the prestigious Ghibelles in their feud with the Guelphs, and the Ghibelles have begrudgingly submitted.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_MILAN_FEUD_OUTCOME_RESULT_2_ALT_NOTIFICATION">
+			<Text>We have favoured the prestigious Ghibelles in their feud with the Guelphs, and the Guelphs have risen an army against us!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WORLD_EVENT_JFD_MILAN_FEUD_2">
+			<Text>The House of Visconti, rulers of Milan, has sided with the House of Ghibelle in a domestic feud, sparking the opposing Guelphs to take up arms.</Text>
+		</Row>
+		<!--Treatise by Machiavelli-->
+		<Row Tag="TXT_KEY_EVENT_JFD_MILAN_MACHIAVELLI">
+			<Text>Machiavelli</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_MILAN_MACHIAVELLI_DESC">
+			<Text>Throughout the court word abounds of the great political treatises by the philosopher Machiavelli. A number have suggested that we might invite him to our court to serve our great state.[NEWLINE]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_MILAN_MACHIAVELLI_OUTCOME_1">
+			<Text>We must invite him to our court!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_MILAN_MACHIAVELLI_OUTCOME_2">
+			<Text>Such a man would only cause trouble.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_MILAN_MACHIAVELLI_OUTCOME_RESULT_1">
+			<Text>[ICON_BULLET][COLOR_POSITIVE_TEXT]Gain 1 [ICON_MAGISTRATES] Magistrate[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_MILAN_MACHIAVELLI_OUTCOME_RESULT_2">
+			<Text>[ICON_BULLET][COLOR_POSITIVE_TEXT]Gain {1_Num} [ICON_GOLDEN_AGE] Golden Age Points[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_MILAN_MACHIAVELLI_OUTCOME_RESULT_1_NOTIFICATION">
+			<Text>We have invited the great philosopher Machiavelli to our court.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_MILAN_MACHIAVELLI_OUTCOME_RESULT_2_NOTIFICATION">
+			<Text>We have declined to invite the great philosopher Machiavelli to our court.</Text>
+		</Row>
+		<!--VICEVIRTUOSO's WISH FOR THE WORLD-->
+		<Row Tag="TXT_KEY_PMMM_LEADER_MG_NAME_JFD_MILAN">
+			<Text>Caterina Visconti</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

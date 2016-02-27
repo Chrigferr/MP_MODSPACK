@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 11/23/2013 1:27:25 PM -->
+<GameData>
+	<Language_en_US>
+		<!--RYOGA UNIQUE CULTURAL INFLUENCE-->
+		<Row Tag="TXT_KEY_GENERIC_JFD_BOHEMIA_INFLUENTIAL_ON_AI_1">
+			<Text>Our people are now following the works of John Hus and replicating your romantic nationalism. I worry the rest of the world will also succumb to the influence of your culture.</Text>
+		</Row>
+		<!--SUKRITACT DECISIONS-->
+		<!--Renovate the Prague Hrad-->
+		<Row Tag="TXT_KEY_DECISIONS_JFD_BOHEMIA_RENOVATIONS">
+			<Text>Renovate the Prague Hrad</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JFD_BOHEMIA_RENOVATIONS_DESC">
+			<Text>
+				The Prague hrad has become dilapidated from miscare. For our most important symbol of fortitude, this cannot stand for much longer. It is time that the castle be renovated.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Bohemia
+				[NEWLINE][ICON_BULLET]Player must built a Hrad in the Capital
+				[NEWLINE][ICON_BULLET]May only be enacted from the beginning of the Renaissance Era
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Num} [ICON_GOLD] Gold
+				[NEWLINE][ICON_BULLET]1 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]The [ICON_CAPITAL] Capital gains a free Great Work of Art slot
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JFD_BOHEMIA_RENOVATIONS_ENACTED_DESC">
+			<Text>
+				The Prague hrad has become dilapidated from miscare. For our most important symbol of fortitude, this cannot stand for much longer. It is time that the castle be renovated.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]The [ICON_CAPITAL] Capital gains a free Great Work of Art slot
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_RENOVATIONS">
+			<Text>Hrad Renovations</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_RENOVATIONS_HELP">
+			<Text>+1 [ICON_GREAT_WORK] Great Work slot</Text>
+		</Row>
+		<!--Issue the Prague groschen-->
+		<Row Tag="TXT_KEY_DECISIONS_JFD_BOHEMIA_GROSCHEN">
+			<Text>Issue the Prague Groschen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JFD_BOHEMIA_GROSCHEN_DESC">
+			<Text>
+				Now that we possess a source of valueable Silver, we should begin minting a new coin made from that silver and issue it into the Bohemian economy. Such an issue will surely cause our economy to prosper.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Bohemia
+				[NEWLINE][ICON_BULLET]Player must have one local source of improved [ICON_RES_SILVER] Silver
+				[NEWLINE][ICON_BULLET]May only be enacted once per era
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]2 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]All current cities receive a Mint
+				[NEWLINE][ICON_BULLET]+10% [ICON_GOLD] Gold from Mints
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JFD_BOHEMIA_GROSCHEN_ENACTED_DESC">
+			<Text>
+				Now that we possess a source of valueable Silver, we should begin minting a new coin made from that silver and issue it into the Bohemian economy. Such an issue will surely cause our economy to prosper.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]All current cities receive a Mint
+				[NEWLINE][ICON_BULLET]+10% [ICON_GOLD] Gold from Mints
+			</Text>
+		</Row>
+		<!--SUKRITACT EVENTS-->
+		<!--Cultural Development-->
+		<Row Tag="TXT_KEY_EVENT_CULDEV_JFD_BOHEMIA_01">
+			<Text>Glassmakers in {1_City} have begun innovating a new form of crystal-ware. This is surely to become the envy of the world!</Text>
+		</Row>
+		<!--Czech Language-->
+		<Row Tag="TXT_KEY_EVENT_JFD_BOHEMIA_CZECH_LANGUAGE">
+			<Text>Czech Language</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_BOHEMIA_CZECH_LANGUAGE_DESC">
+			<Text>
+				A 13th century manuscript created by Dvur Králové to espouse the greatness of Bohemian identity has turned out to be a forgery. Nonetheless, it has sparked interest in the Czech language, since eroded by the influences of German, and a swelling of national pride has been instilled in the people. It would be a perfect opportunity to revive our ancient language.[NEWLINE]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_BOHEMIA_CZECH_LANGUAGE_OUTCOME_1">
+			<Text>Yes, let us revive the Czech language!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_BOHEMIA_CZECH_LANGUAGE_OUTCOME_2">
+			<Text>No, let it die. It would only stay our government.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_BOHEMIA_CZECH_LANGUAGE_OUTCOME_RESULT_1">
+			<Text>[ICON_BULLET][COLOR_NEGATIVE_TEXT]Lose {1_Num} [ICON_GOLD] Gold[NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]Gain a free Great Writer[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_BOHEMIA_CZECH_LANGUAGE_OUTCOME_RESULT_2">
+			<Text>[ICON_BULLET][COLOR_POSITIVE_TEXT]Gain +1 [ICON_MAGISTRATES] Magistrate[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_BOHEMIA_CZECH_LANGUAGE_OUTCOME_RESULT_1_NOTIFICATION">
+			<Text>We have sought to revive the Czech language.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_BOHEMIA_CZECH_LANGUAGE_OUTCOME_RESULT_2_NOTIFICATION">
+			<Text>We have decided to let the Czech language fade away miserably. In doing so, however, our German-speaking civil servants have pledged to work overtime in appreciation.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WORLD_EVENT_JFD_BOHEMIA_CZECH_LANGUAGE_1">
+			<Text>Interest in the Czech language has emerged in {1_CivDesc}.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WORLD_EVENT_JFD_BOHEMIA_CZECH_LANGUAGE_2">
+			<Text>Interest in the Czech language emerged in {1_CivDesc} have been put down by {2_LeaderName}.</Text>
+		</Row>
+		<!--Prague Defenestration-->
+		<Row Tag="TXT_KEY_EVENT_JFD_BOHEMIA_PRAGUE_DEFENSTRATION">
+			<Text>The Prague Defenestration</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_BOHEMIA_PRAGUE_DEFENSTRATION_DESC">
+			<Text>
+				A most terrible incident has occured: several members of the Prague City Council have been tossed from a window by an aggravated mob! What councillors were not killed in the fall were quickly murdered by the crowd. This is simply terrible news![NEWLINE]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_BOHEMIA_PRAGUE_DEFENSTRATION_OUTCOME_1">
+			<Text>This is shocking! I'm feeling faint...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_BOHEMIA_PRAGUE_DEFENSTRATION_OUTCOME_2">
+			<Text>This is was clearly an accident.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_BOHEMIA_PRAGUE_DEFENSTRATION_OUTCOME_3">
+			<Text>The mob must be held accountable</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_BOHEMIA_PRAGUE_DEFENSTRATION_OUTCOME_RESULT_1">
+			<Text>[ICON_BULLET][COLOR_NEGATIVE_TEXT]Lose 1 [ICON_MAGISTRATES] Magistrate[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_BOHEMIA_PRAGUE_DEFENSTRATION_OUTCOME_RESULT_2">
+			<Text>[ICON_BULLET][COLOR_NEGATIVE_TEXT]Lose 1 [ICON_MAGISTRATES] Magistrate[ENDCOLOR][NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]The [ICON_CAPITAL] Capital begins celebrating 'We Love the King Day' for 5 turns[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_BOHEMIA_PRAGUE_DEFENSTRATION_OUTCOME_RESULT_3">
+			<Text>[ICON_BULLET][COLOR_NEGATIVE_TEXT]The [ICON_CAPITAL] Capital goes into [ICON_RESISTANCE] Resistance for one turn[ENDCOLOR][NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]Gain {1_Num} [ICON_CULTURE] Culture[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_BOHEMIA_PRAGUE_DEFENSTRATION_OUTCOME_RESULT_1_NOTIFICATION">
+			<Text>We have been shocked by a recent and bloody incident involving the defenstration of several Prague officials. We should sit down before we die of shock!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_BOHEMIA_PRAGUE_DEFENSTRATION_OUTCOME_RESULT_2_NOTIFICATION">
+			<Text>We have been shocked by a recent and bloody incident involving the defenstration of several Prague officials. But clearly it was an accident; everyone must have had too much to drink!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_BOHEMIA_PRAGUE_DEFENSTRATION_OUTCOME_RESULT_3_NOTIFICATION">
+			<Text>We have been shocked by a recent and bloody incident involving the defenstration of several Prague officials. This is clearly unacceptable, and the mob must be held accountable for their actions! Regrettably, the mob does not agree...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WORLD_EVENT_JFD_BOHEMIA_PRAGUE_DEFENESTRATION">
+			<Text>Officials in the {1_CivAdj} city of Prague have been defenestrated. Oh my!</Text>
+		</Row>
+		<!--VICEVIRTUOSO's WISH FOR THE WORLD-->
+		<Row Tag="TXT_KEY_PMMM_LEADER_MG_NAME_JFD_BOHEMIA">
+			<Text>Joanna of Bavaria</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_en_US>
+		<!-- The Lion of Flanders -->
+		<Row Tag="TXT_KEY_EVENT_JFD_FLANDERS_LION_OF_FLANDERS">
+			<Text>The Lion of Flanders</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_FLANDERS_LION_OF_FLANDERS_DESC">
+			<Text>Hendrik Conscience has completed a riveting tale of Flemish heroism: The Lion of Flanders, inspired by the victory of our medieval Militia against a numerous foe. This is a great work of Flemish identity, and has sent the country into a flurry of nationalism.[NEWLINE]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_FLANDERS_LION_OF_FLANDERS_OUTCOME_1">
+			<Text>A magnificent novel for Flanders to treasure.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_FLANDERS_LION_OF_FLANDERS_OUTCOME_RESULT_1">
+			<Text>[ICON_BULLET][COLOR_POSITIVE_TEXT]All cities begin celebrating 'We Love the King Day' for {1_Num} turns[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_FLANDERS_LION_OF_FLANDERS_OUTCOME_RESULT_1_NOTIFICATION">
+			<Text>Hendrik Conscience has completed his work: The Lion of Flanders</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_WORLD_EVENT_FLANDERS_LION_OF_FLANDERS">
+			<Text>Hendrik Conscience has completed his work: The Lion of Flanders, in Flanders.</Text>
+		</Row>
+		<!-- Linguistic Tensions -->
+		<Row Tag="TXT_KEY_EVENT_JFD_FLANDERS_LINGUISTIC_TENSIONS">
+			<Text>Linguistic Tensions</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_FLANDERS_LINGUISTIC_TENSIONS_DESC">
+			<Text>Groups of French and German speaking minorities have begun to protest for recognition of their languages as official. They see the lack of use for their language in official laws and documents as an invalidation of their citizenship. We must act to resolve this issue before it gets out of hand.[NEWLINE]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_FLANDERS_LINGUISTIC_TENSIONS_OUTCOME_1">
+			<Text>Very well. French and German shall become official languages of Flanders.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_FLANDERS_LINGUISTIC_TENSIONS_OUTCOME_2">
+			<Text>Absolutely not. Dutch is the only language of the Flemish.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_FLANDERS_LINGUISTIC_TENSIONS_OUTCOME_RESULT_1">
+			<Text>[ICON_BULLET][COLOR_NEGATIVE_TEXT]Lose {1_Num} [ICON_CULTURE] Culture[ENDCOLOR][NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]Gain {2_Num} [ICON_GOLDEN_AGE] Golden Age points[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_FLANDERS_LINGUISTIC_TENSIONS_OUTCOME_RESULT_2">
+			<Text>[ICON_BULLET][COLOR_NEGATIVE_TEXT]The [ICON_CAPITAL] Capital undergoes 1 turn of [ICON_RESISTANCE] Resistance[ENDCOLOR][NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]Gain {1_Num} [ICON_CULTURE] Culture[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_FLANDERS_LINGUISTIC_TENSIONS_OUTCOME_RESULT_1_NOTIFICATION">
+			<Text>We have resolved linguistic tensions within our nation by officiating French and German as languages of Flanders.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_FLANDERS_LINGUISTIC_TENSIONS_OUTCOME_RESULT_2_NOTIFICATION">
+			<Text>We have dismissed the tensions caused by linguistic divisions in the country.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WORLD_EVENT_JFD_FLANDERS_LINGUISTIC_TENSIONS">
+			<Text>French and German speaking Flemish have caused tensions in Flanders.</Text>
+		</Row>
+		<!-- Flanders -->
+		<Row Tag="TXT_KEY_EVENT_JFD_FLANDERS_FLANDERS">
+			<Text>Flanders</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_FLANDERS_FLANDERS_DESC">
+			<Text>
+				[COLOR_WARNING_TEXT]I am a bug. Please do not report me.[ENDCOLOR][NEWLINE]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_FLANDERS_FLANDERS_OUTCOME_1">
+			<Text>Hidily-ho.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_FLANDERS_FLANDERS_OUTCOME_2">
+			<Text>Stupid Flanders.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_FLANDERS_FLANDERS_OUTCOME_RESULT_1">
+			<Text>[ICON_BULLET][COLOR_POSITIVE_TEXT]Gain {1_Num} [ICON_GOLDEN_AGE] Golden Age points[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_FLANDERS_FLANDERS_OUTCOME_RESULT_2">
+			<Text>[ICON_BULLET][COLOR_NEGATIVE_TEXT]Civilization becomes led by Ned Flanders (save and reload for best results)[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_FLANDERS_FLANDERS_OUTCOME_RESULT_1_NOTIFICATION">
+			<Text>You made the right choice.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_FLANDERS_FLANDERS_OUTCOME_RESULT_2_NOTIFICATION">
+			<Text>So offended.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_FLANDERS">
+			<Text>Flanders</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

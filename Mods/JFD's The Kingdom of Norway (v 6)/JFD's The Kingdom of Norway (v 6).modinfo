@@ -1,0 +1,126 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="c6ea60cf-6bcd-4b67-b82e-8d879022e175" version="6">
+  <Properties>
+    <Name>JFD's The Kingdom of Norway</Name>
+    <Teaser>Adds the [COLOR_POSITIVE_TEXT]The Kingdom of Norway[ENDCOLOR] with Haakon Haakonsson to the game.</Teaser>
+    <Description>See Steam Workshop page or CivFanatics for full details.</Description>
+    <Authors>JFD, Janboruta</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <Homepage>http://forums.civfanatics.com/showthread.php?t=474393</Homepage>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies>
+    <Dlc id="B3030D39-C0D8-4bc7-91B1-7AD1CAF585AB" minversion="0" maxversion="999" />
+  </Dependencies>
+  <References>
+    <Mod id="7fdd72a5-d4ae-441c-bc4e-2e3d2a26cff4" minversion="0" maxversion="999" title="Ethnic Units" />
+    <Mod id="6bc3cb6e-a697-491e-9347-5e3e02640f00" minversion="0" maxversion="999" title="Historical Religions Edit (BNW or GK)" />
+    <Mod id="8c101299-95c5-4b28-b7ed-4e0f774857ef" minversion="0" maxversion="999" title="Historical Religions (BNW or GK)" />
+    <Mod id="1f941088-b185-4159-865c-472df81247b2" minversion="0" maxversion="999" title="Events and Decisions" />
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="Yet (not) Another Earth Maps Pack&quot;" />
+    <Mod id="e576894a-ed2b-4033-be14-ed1c8ceb81d3" minversion="0" maxversion="999" title="Map Labels" />
+    <Mod id="6010e6f6-918e-48b8-9332-d60783bd8fb5" minversion="0" maxversion="999" title="Historical Religions Complete" />
+    <Mod id="8670da15-d435-44ea-9758-7438cb321411" minversion="0" maxversion="999" title="R.E.D. Modpack" />
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="JFD's Cultural Diversity (Core)" />
+    <Mod id="8411a7a8-dad3-4622-a18e-fcc18324c799" minversion="0" maxversion="999" title="Community Balance Patch" />
+    <Mod id="10e9728f-d61c-4317-be4f-7d52d6bae6f4" minversion="0" maxversion="999" title="JFD's CCCHP" />
+    <Mod id="eea66053-7579-481a-bb8d-2f3959b59974" minversion="0" maxversion="999" title="JFD’s Piety" />
+    <Mod id="d99bf7aa-51ac-4bef-bd88-d765b28e260e" minversion="0" maxversion="999" title="JFD’s Sovereignty" />
+    <Mod id="be2d13ee-d18d-410e-8f04-7cd19cd99a98" minversion="0" maxversion="999" title="More Luxuries" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="42599C3E18FB256348F3C1100B40F451" import="1">Art/Diplomacy/Haakon_Diplo.dds</File>
+    <File md5="EB8B29D36C1ECB2F16C34E9C3717F277" import="1">Art/Diplomacy/Haakon_Scene.xml</File>
+    <File md5="E158E51A4FC69AA2DDA5A504596D9247" import="1">Art/Graphics/sv_Birkebeiner.dds</File>
+    <File md5="D4DBC131F8DC628608F7BB565F4AFF19" import="1">Art/Graphics/sv_longboat.dds</File>
+    <File md5="BB545A420D5FC205DAE87BCCD78C622F" import="1">Art/Icon Atlas/JFD_NorwayAlphaAtlas_128.dds</File>
+    <File md5="DEB557374E0ADFF9D5E4D48AB785D988" import="1">Art/Icon Atlas/JFD_NorwayAlphaAtlas_16.dds</File>
+    <File md5="3D2A2555E9A78ED770ECD37873FA98BE" import="1">Art/Icon Atlas/JFD_NorwayAlphaAtlas_24.dds</File>
+    <File md5="2463C97CBFE21E9901E0B79B8A388268" import="1">Art/Icon Atlas/JFD_NorwayAlphaAtlas_32.dds</File>
+    <File md5="249BA151D140F79F9ECC21530507A76E" import="1">Art/Icon Atlas/JFD_NorwayAlphaAtlas_45.dds</File>
+    <File md5="9E81CB62B4EA9BC4B8D697B327E2706F" import="1">Art/Icon Atlas/JFD_NorwayAlphaAtlas_48.dds</File>
+    <File md5="70EC06CBC7CE390F059F73E4AEA8222E" import="1">Art/Icon Atlas/JFD_NorwayAlphaAtlas_64.dds</File>
+    <File md5="C8DFEECB98AC81563625DB33EC93024E" import="1">Art/Icon Atlas/JFD_NorwayAlphaAtlas_80.dds</File>
+    <File md5="10833864E6E0970FB6225EA43BB563C2" import="1">Art/Icon Atlas/Unit_Birkebeiner_Flag_32.dds</File>
+    <File md5="6C9AC72B790BEC3A3A3E5BF27EA08C84" import="1">Art/Icon Atlas/Unit_Longboat_Flag_32.dds</File>
+    <File md5="7FD67378DF731506F12944EB4788FB20" import="1">Art/Icon Atlas/JFD_NorwayAtlas_128.dds</File>
+    <File md5="1AEC499D51A8B500C893F6986EBBB6A0" import="1">Art/Icon Atlas/JFD_NorwayAtlas_256.dds</File>
+    <File md5="35427CBE85CB8DB7063CBC33DF835BDB" import="1">Art/Icon Atlas/JFD_NorwayAtlas_32.dds</File>
+    <File md5="5726D1DF27277600CCE446DEE19B87BE" import="1">Art/Icon Atlas/JFD_NorwayAtlas_45.dds</File>
+    <File md5="89010C9CEAF9544C2DC9A0F8D4555E3B" import="1">Art/Icon Atlas/JFD_NorwayAtlas_64.dds</File>
+    <File md5="D6814D6E7D6447C9BD5CFC00B58EC264" import="1">Art/Icon Atlas/JFD_NorwayAtlas_80.dds</File>
+    <File md5="0157CDC90CBE77E8F4EBB0389679BA21" import="1">Art/Images/Event_Norway_Bagli.dds</File>
+    <File md5="0C3DF80B673371F6E4500138F61AA516" import="1">Art/Images/Event_Norway_EternalKing.dds</File>
+    <File md5="1753D86AA0F99C7BE0F58AAB4AAF74A5" import="1">Art/Map/DOM_Haakon.dds</File>
+    <File md5="8684F1C2B8F526ABE9B9B5A5DB496A39" import="1">Art/Map/MapNorway512.dds</File>
+    <File md5="373746520BD7CF086A41166AB3E51113" import="1">Audio/Haakon_Peace.mp3</File>
+    <File md5="65A62C44D856F8A672914750E40A2B7C" import="1">Audio/Haakon_War.mp3</File>
+    <File md5="23E9DC6876994407E64F31AF1E194ABD" import="0">Core/Denmark_ArtDefines.sql</File>
+    <File md5="81366D439F6AD30CE16F266384C9FBF2" import="0">Core/Denmark_GameDefines.sql</File>
+    <File md5="20E1E4870B44966A4BF88F145DCA0D8F" import="0">Core/Denmark_GameText.xml</File>
+    <File md5="A779DD28CAE038B7CFAA1B157551CE0E" import="0">Core/Norway_ArtDefines.sql</File>
+    <File md5="3814FA438013DCD20C5064EC4D3BC7EF" import="0">Core/Norway_GameDefines.sql</File>
+    <File md5="1E0FCA68FC7984A2F6DF485CEDAB6BED" import="0">Core/Norway_GameDefines_Diplomacy.sql</File>
+    <File md5="2FBE351C1764FB56BF9B6530D7FE00A9" import="0">Core/Norway_GameDefines_ModSupport.sql</File>
+    <File md5="91F03B365925689515B270D0D2D36681" import="0">Core/Norway_GameText.xml</File>
+    <File md5="C24DD9F6DFBFCDD0C9C51ACE530E133B" import="0">Core/Norway_GameText_Diplomacy.xml</File>
+    <File md5="34DC8FAA6BD8C58E9D41B41EEBDC23D9" import="0">Core/Norway_GameText_ModSupport.xml</File>
+    <File md5="3665EA7314EC7714D3F5520365D7702A" import="0">DeleteMissingReferences.xml</File>
+    <File md5="A099DBEBDFF1838B4A493AFDA1706889" import="0">Lua/JFD_Denmark_Functions.lua</File>
+    <File md5="49FBCEBCA8E9003CE9583DBBB41CD9FE" import="1">Lua/JFD_Norway_Decisions.lua</File>
+    <File md5="C6DA9E93A0B90C2E7AC597BC2741A000" import="1">Lua/JFD_Norway_Events.lua</File>
+    <File md5="A9F6C13871CFD0CB8AAD9E8455F9656B" import="0">Lua/JFD_Norway_Functions.lua</File>
+    <File md5="5244308719C5B41D37E35BCE6F354D41" import="1">Lua/Utilities/PlotIterators.lua</File>
+    <File md5="64DF635BD57CDEB13DC1038934568A7E" import="0">Lua/Utilities/Sukritact MCIS/CityInfoStack.lua</File>
+    <File md5="4E7C5E4894BC0A0E0CBA1743787E1015" import="0">Lua/Utilities/Sukritact MCIS/CityInfoStack.xml</File>
+    <File md5="E928CDF53E74BAEDB96C8647E16B0A9D" import="0">Lua/Utilities/Sukritact MCIS/JFD_Norway_CityInfo.lua</File>
+    <File md5="8A6F3AC0BFEAF11EBEDC853AB6B632A5" import="0">Lua/Utilities/Sukritact MCIS/JFD_Norway_CityInfo.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Core/Denmark_ArtDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Denmark_GameDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Denmark_GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Norway_ArtDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Norway_GameDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Norway_GameDefines_Diplomacy.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Norway_GameDefines_ModSupport.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Norway_GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Norway_GameText_Diplomacy.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Norway_GameText_ModSupport.xml</UpdateDatabase>
+      <UpdateDatabase>DeleteMissingReferences.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/JFD_Norway_Functions.lua">
+      <Name>JFD_Norway_Functions</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/JFD_Denmark_Functions.lua">
+      <Name>JFD_Denmark_Functions</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/Utilities/Sukritact MCIS/CityInfoStack.lua">
+      <Name>Sukritact MCIS</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/Utilities/Sukritact MCIS/JFD_Norway_CityInfo.lua">
+      <Name>JFD_Norway_CityInfo</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

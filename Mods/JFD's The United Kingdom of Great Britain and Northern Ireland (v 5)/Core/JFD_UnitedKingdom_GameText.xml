@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 1/4/2014 8:45:16 AM -->
+<GameData>
+	<Language_en_US>
+		<!--UNITED KINGDOM-->
+		<Row Tag="TXT_KEY_CIV_JFD_UNITED_KINGDOM_ADJECTIVE">
+			<Text>British</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_JFD_UNITED_KINGDOM_DESC">
+			<Text>The United Kingdom</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_JFD_UNITED_KINGDOM_SHORT_DESC">
+			<Text>The United Kingdom</Text>
+		</Row>
+		<!-- City Names -->
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_CHURCHILL_BIRMINGHAM">
+			<Text>Birmingham</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_CHURCHILL_LEEDS">
+			<Text>Leeds</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_CHURCHILL_MANCHESTER">
+			<Text>Manchester</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_CHURCHILL_EDINBURGH">
+			<Text>Edinburgh</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_CHURCHILL_CARDIFF">
+			<Text>Cardiff</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_CHURCHILL_BELFAST">
+			<Text>Belfast</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_CHURCHILL_GLASGOW">
+			<Text>Glasgow</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_CHURCHILL_LIVERPOOL">
+			<Text>Liverpool</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_CHURCHILL_NEWCASTLE">
+			<Text>Newcastle</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_CHURCHILL_OXFORD">
+			<Text>Oxford</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_CHURCHILL_BRISTOL">
+			<Text>Bristol</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_CHURCHILL_ABERDEEN">
+			<Text>Aberdeen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_CHURCHILL_SHEFFIELD">
+			<Text>Sheffield</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_CHURCHILL_SOUTHAMPTON">
+			<Text>Southampton</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_CHURCHILL_PORTSMOUTH">
+			<Text>Portsmouth</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_CHURCHILL_LEICESTER">
+			<Text>Leicester</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_CHURCHILL_COVENTRY">
+			<Text>Coventry</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_CHURCHILL_BRIGHTON">
+			<Text>Brighton</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_CHURCHILL_SWANSEA">
+			<Text>Swansea</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_CHURCHILL_DUNDEE">
+			<Text>Dundee</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_CHURCHILL_CANTERBURG">
+			<Text>Canterburg</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_CHURCHILL_CAMBRIDGE">
+			<Text>Cambridge</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_CHURCHILL_PLYMOUTH">
+			<Text>Plymouth</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_CHURCHILL_YORK">
+			<Text>York</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_CHURCHILL_DERBY">
+			<Text>Derby</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_CHURCHILL_NORWICH">
+			<Text>Norwich</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_CHURCHILL_EXETER">
+			<Text>Exeter</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_CHURCHILL_BATH">
+			<Text>Bath</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_CHURCHILL_INVERNESS">
+			<Text>Inverness</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_CHURCHILL_NEWPORT">
+			<Text>Newport</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_CHURCHILL_LONDONDERRY">
+			<Text>Londonderry</Text>
+		</Row>
+		<!-- Spy Names -->
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_UNITED_KINGDOM_9">
+			<Text>Count Manfred</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_UNITED_KINGDOM_8">
+			<Text>Tubbs</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_UNITED_KINGDOM_7">
+			<Text>Eddie</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_UNITED_KINGDOM_6">
+			<Text>Edward</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_UNITED_KINGDOM_5">
+			<Text>Tate</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_UNITED_KINGDOM_4">
+			<Text>Baron de Ropp</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_UNITED_KINGDOM_3">
+			<Text>Mariette</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_UNITED_KINGDOM_2">
+			<Text>Artist</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_UNITED_KINGDOM_1">
+			<Text>Arthur Owens</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_UNITED_KINGDOM_0">
+			<Text>Gaby</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<!--CHURCHILL-->
+		<Row Tag="TXT_KEY_LEADER_JFD_CHURCHILL">
+			<Text>Churchill</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_CHURCHILL_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_CHURCHILL_TEXT_1">
+			<Text>Winston Churchill, whose full name was, "Sir Winston Leonard Spencer-Churchill," was undoubtedly one of the most important people of the twentieth century. At various times a soldier, journalist, author, and politician, during his long life Churchill was known for both his intellectual brilliance and his outspoken support for what were often unpopular opinions. At various times he was either the most beloved or the most hated man in Britain. In the years since his death Churchill's reputation has grown to semi-legendary proportions.[NEWLINE][NEWLINE]A descendant of the famous English general the Duke of Marlborough, Churchill was born in 1874 at Blenheim Palace in Oxfordshire. After a mediocre performance at the public school Harrow, Churchill joined the army, where he freely used his family connections to get assigned to several colonial wars, narrowly escaping death on a number of occasions - and by all accounts having a ripping good time while doing so. During this period Churchill became a very popular wartime journalist, writing numerous columns and several best-selling books about his experiences. Churchill's maneuvering and flagrant self-promotion alienated his fellow officers and essentially ended any chance of high promotion in the Army; however he was able to parlay his popularity to gain a seat in Parliament.[NEWLINE][NEWLINE]In 1900 Churchill was elected to a Conservative seat in Parliament. However in 1904 his strong opposition to the Conservative policy of tariff protectionism led him to change parties and join the Liberals, who held power at the time. In the Liberal government Churchill held a number of different minor posts. In 1911 he was appointed First Lord of the Admiralty, overseeing the Royal Navy's ambitious modernization program.[NEWLINE][NEWLINE]During the First World War, Churchill approved the disastrous Gallipoli invasion of Turkey. Churchill was soundly criticized for the failure, and in 1916 he resigned the Admiralty and left the government, rejoined the army and went off to the Western Front to fight in the trenches.[NEWLINE][NEWLINE]Despite his many eccentricities and flaws, however, Churchill was widely recognized as one of the ablest men in Great Britain, and in 1917 he was back in government again, holding a number of important Cabinet posts. After the Liberal Government fell in 1923 Churchill swapped parties once again and joined the Conservatives, famously saying, "Anyone can rat [change parties], but it takes a certain ingenuity to re-rat." He was appointed Chancellor of the Exchequer in 1924 and presided over Britain's disastrous return to the Gold Standard, for which he was again soundly criticized. After the Conservative Government fell in the 1929 General Election, Churchill lost his government post and became estranged from the political power brokers in both parties.[NEWLINE][NEWLINE]The rise of Nazi Germany also led to a resurgence of Churchill's political career. Although he had earlier praised Fascist Italy as a bulwark against communism, in the late 1930s Churchill became one of the few voices speaking out against the growing power of Hitler. When the British government adopted the policy of appeasement, Churchill was almost alone in voicing opposition, a position which gained him a number of admirers, but which also earned him a lot of public and political criticism.[NEWLINE][NEWLINE]When the Second World War broke out, the public lost a great deal confidence in the government of Neville Chamberlain (who had spearheaded the policy of appeasing Hitler). To shore up support for his government Chamberlain asked Churchill to resume his post as First Lord of the Admiralty. Showing genuine greatness of character Churchill accepted the position, working tirelessly to improve the Royal Navy and absolutely refusing to criticize his Prime Minister during wartime. However by early 1941 it was clear that Chamberlain no longer enjoyed the confidence of the people or of Parliament, and Churchill was appointed Prime Minister of Great Britain.[NEWLINE][NEWLINE]In the west the war began catastrophically for the Allies. The Germans launched their attack against the British and French forces in 1940. Supported by air power and infantry, the German tanks had outflanked the Allied positions, forcing the French and British into precipitous retreat, advancing so rapidly that the defenders didn't have enough time to reform a new line. The Germans came within inches of destroying the British army, forcing it to abandon all of its equipment and stage a chaotic evacuation at Dunkirk, leaving thousands of British soldiers behind to be captured. France was forced to surrender, and German soldiers occupied Paris.[NEWLINE][NEWLINE]As past events had foreshadowed, Churchill was at his very best during adversity. Britain stood alone against Hitler. Her army was badly crippled; only the Royal Navy and Air Force stood between the British and the Germans. Churchill worked tirelessly to shore up Britain's defenses and to find allies against Hitler, and his brilliant rhetoric rallied the battered spirits of the British people and earned him the admiration of people across the world. Throughout the dark days of the Battle of Britain and the Blitz that followed, Churchill seemed to hold the empire together by sheer indomitable force of will.[NEWLINE][NEWLINE]Diplomatically, Churchill was an opportunist. Despite his hatred of Communism and his extreme personal dislike of Stalin (who had earlier allied with Germany to gobble up Poland), when the Germans attacked the Soviet Union Churchill sought an alliance with the USSR, famously saying, "If Hitler invaded hell I would make at least a favorable reference to the devil in the House of Commons." His most important diplomatic task, however, was to cultivate the good will - and eventually the military intervention - of the United States.[NEWLINE][NEWLINE]It can be argued that Churchill's friendship with American President Franklin Delano Roosevelt saved Great Britain from destruction. Facing strong internal opposition to becoming involved in the war, at first the President had to move slowly, maintaining at least a nominal appearance of neutrality while gradually shifting American public opinion from Isolation to Intervention. However when Japan attacked Pearl Harbor at the end of 1941, Germany declared war against the United States to fulfill it's military agreements with Japan, allowing Roosevelt to openly bring the growing might of the US military and industrial complex to Great Britain's (and the USSR's) aid.[NEWLINE][NEWLINE]Within a very short period the US Army Air Force was attacking German targets in Europe, and soon thereafter large numbers of American troops were staged in Great Britain, ending forever any chance of a successful German invasion. As the war progressed the growing English and American forces launched a major invasion of Europe while their air forces pounded German factories and cities around the clock, crippling the Nazis enough to allow the Soviet Union to annihilate the German army in the Eastern Front.[NEWLINE][NEWLINE]After the war ended in victory Churchill lost power almost immediately - perhaps because the people thought he was too old, or because they didn't believe he was the correct leader to rebuild the shattered empire. Though he remained in Parliament for a number of years (and briefly regained the post of Prime Minister during the Suez Crisis), by and large Churchill's direct participation in world events was at an end.[NEWLINE][NEWLINE]After being voted out of office Churchill wrote a history of the Second World War, for which he received the Nobel Prize in Literature in 1953. In 1965 Churchill suffered a stroke and passed away at the age of 90. Churchill's death was mourned across the globe, and his funeral was attended by an enormous number of foreign dignitaries. His reputation has only grown in the years since his death, and today Churchill is possibly the most popular and revered figure in all of English history.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_CHURCHILL_LIVED">
+			<Text>1874 - 1965</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_CHURCHILL_NAME">
+			<Text>Churchill</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_CHURCHILL_SUBTITLE">
+			<Text>Prime Minister of the United Kingdom</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_CHURCHILL_TITLES_1">
+			<Text>Prime Minister of the United Kingdom</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_JFD_CHURCHILL_DAWN">
+			<Text>Most heroic and brave, cautionary and noble, Sir Winston Churchill; Prime Minister of the United Kingdom, champion of the British Empire, and Defender of the Crown, we humbly welcome you. As Prime Minister of Great Britain during her darkest hours, you led the United Kingdom as it stood alone amidst the ravaging storm of the Nazi war machine, and you would triumph against Germany's bloody endeavour to hegemonise the European continent. A reputed artist, writer, historian, orator and statesman, you were a man beyond your time, and you fought tirelessly for the right of the British Empire to retain its dignity and nobility, refusing to stand by as its glorious legacy was sold into history at the hands of your successors. Although worn by age and war, as a devoted man of God and King and Country, you have stood the test of time as Britain's greatest politician.[NEWLINE][NEWLINE]Honoured Prime Minister, your empire has been scattered, and this union of realms has fallen into disarray. But Britannia's call still resounds in the distant, green hills, and her people need only a hero to echo it. Can you protect the heritage of your empire and restore the balance of power in this world? Can you re-ignite the fires which once spurred the lone, British Isles to bring enlightenment across this barbarous world? Can you build a civilisation that will stand the test of time?</Text>
+		</Row>
+		<!--PAX BRITANNICA-->
+		<Row Tag="TXT_KEY_TRAIT_JFD_UNITED_KINGDOM">
+			<Text>Air and Naval Unit [ICON_PRODUCTION] Production is increased for every Pledge of Protection that you have with City-States (up to 50%). Lighthouses, Harbors, and Seaports yield +1 [ICON_PRODUCTION] Production.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_JFD_UNITED_KINGDOM_SHORT">
+			<Text>Pax Britannica</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_NAVAL_AND_AIR_PRODUCTION">
+			<Text>JFD: Naval and Air Production</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_NAVAL_AND_AIR_PRODUCTION_HELP">
+			<Text>+5% [ICON_PRODUCTION] Production</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_UK_CITY_VIEW_HELP">
+			<Text>[NEWLINE]+{1_Num}% [ICON_PRODUCTION] Production toward Air and Naval Units from your Pledges of Protection.</Text>
+		</Row>
+		<!--DREADNOUGHT-->
+		<Row Tag="TXT_KEY_UNIT_JFD_DREADNOUGHT">
+			<Text>Dreadnought</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_JFD_DREADNOUGHT">
+			<Text>A devastating naval unit of the Modern Era which ignores enemy Zone of Control. Costs 1 additional [ICON_GOLD] Gold maintenance.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_DREADNOUGHT_STRATEGY">
+			<Text>The Dreadnought is a powerful, early replacement for the Battleship. It costs an additional maintenance, but comes earlier than the Battleship and ignores enemy Zone of Control. Only the United Kingdom may build it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_DREADNOUGHT_TEXT">
+			<Text>A dreadnought is a type of battleship built during the early 20th century. First engineered by the British Royal Navy in 1906, the dreadnought was such a revolutionary design in its power that it became a key symbol in the race for naval superiority. Because of this, however, the dreadnought was quickly outclassed by the "super-dreadnought" and only ever saw combat in one battle: the Battle of Jutland between Britain and Germany, which ended in a stalemate.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_DREADNOUGHT">
+			<Text>Ignores Zone of Control</Text>
+		</Row>
+		<!--SPITFIRE-->
+		<Row Tag="TXT_KEY_UNIT_JFD_SPITFIRE">
+			<Text>Spitfire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_SPITFIRE_TEXT">
+			<Text>The spitfire is a fighter aircraft used by the British Royal Air Force during the second world war. During the Battle of Britain in 1940, the Spitfire was amongst the fighting resistance against the invasion of the German Luftwaffe, although despite popular misconception they were not the primary RAF fighter during this battle.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_SPITFIRE_STRATEGY">
+			<Text>The Spitfire is a unique unit for the United Kingdom, replacing the Fighter. This Unit gains a bonus when fighting in friendly lands and heals 25 damage after destroying an enemy, making it excellent at defending the homeland. Like the Fighter, it can be based in any city you own or aboard an aircraft carrier. It can move from city to city (or carrier) and can perform "missions" within its range of 8 tiles. See the rules on Aircraft for more information.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_JFD_SPITFIRE">
+			<Text>Air Unit designed to defend the homelands. Only the United Kingdom may build it. This Unit gains a bonus when fighting in friendly lands and heals 25 damage after destroying an enemy.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_RAF">
+			<Text>Royal Air Force</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_RAF_HELP">
+			<Text>+20% [ICON_STRENGTH] Combat Strength in Friendly Lands.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

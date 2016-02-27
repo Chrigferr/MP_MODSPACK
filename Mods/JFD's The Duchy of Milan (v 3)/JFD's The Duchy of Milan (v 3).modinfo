@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="c56c00de-d0fd-42c8-8858-b3094443184a" version="3">
+  <Properties>
+    <Name>JFD's The Duchy of Milan</Name>
+    <Teaser>Adds the [COLOR_POSITIVE_TEXT]The Duchy of Milan[ENDCOLOR] with Gian Visconti to the game.</Teaser>
+    <Description>See CivFanatics or Steam Workshop for full details.</Description>
+    <Authors>JFD, Janboruta, Sukritact</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies>
+    <Dlc id="6DA07636-4123-4018-B643-6575B4EC336B" minversion="0" maxversion="999" />
+  </Dependencies>
+  <References>
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="JFD's Cultural Diversity (Core)" />
+    <Mod id="eea66053-7579-481a-bb8d-2f3959b59974" minversion="0" maxversion="999" title="JFD’s Piety" />
+    <Mod id="1f941088-b185-4159-865c-472df81247b2" minversion="0" maxversion="999" title="Sukritact’s Events &amp; Decisions" />
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="Yet (not) Another Earth Map Pack" />
+    <Mod id="e576894a-ed2b-4033-be14-ed1c8ceb81d3" minversion="0" maxversion="999" title="Map Labels" />
+    <Mod id="7fdd72a5-d4ae-441c-bc4e-2e3d2a26cff4" minversion="0" maxversion="999" title="Ethnic Units" />
+    <Mod id="8670da15-d435-44ea-9758-7438cb321411" minversion="0" maxversion="999" title="R.E.D. Modpack" />
+    <Mod id="1153b26a-69fd-4cd5-899c-a8ba8e0e5e5d" minversion="0" maxversion="999" title="Civ IV Leader Traits in Civ V" />
+    <Mod id="8411a7a8-dad3-4622-a18e-fcc18324c799" minversion="0" maxversion="999" title="Community Balance Patch" />
+    <Mod id="43868e8d-de88-48a1-a8d9-ce144e07f5e0" minversion="0" maxversion="999" title="JFD's Exploration Continued Expanded" />
+    <Mod id="d99bf7aa-51ac-4bef-bd88-d765b28e260e" minversion="0" maxversion="999" title="JFD’s Sovereignty" />
+    <Mod id="ce8aa614-7ef7-4a45-a179-5329869e8d6d" minversion="0" maxversion="999" title="Enlightenment Era" />
+    <Mod id="10e9728f-d61c-4317-be4f-7d52d6bae6f4" minversion="0" maxversion="999" title="JFD's Cities in Development" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="1496351EAA75B3B352FDDB451742BB33" import="1">Art/Diplomacy/Visconti_diplo.dds</File>
+    <File md5="1600428285F7D277750F14C111AF48E9" import="1">Art/Diplomacy/Visconti_Scene.xml</File>
+    <File md5="A846972D99C5138F5E73E802C9C852A6" import="1">Art/Graphics/sv_Ribault.dds</File>
+    <File md5="C2E53256C878707E9968E594C4344473" import="1">Art/Graphics/VolleyGun.fxsxml</File>
+    <File md5="12952FECA4223FC5AC901BF063480C61" import="1">Art/Graphics/VolleyGun.gr2</File>
+    <File md5="682937E06CDE80B8270521F61AE1296C" import="1">Art/Graphics/VolleyGun_diff.dds</File>
+    <File md5="1CA6FF6C51F0E018C570B857208859A6" import="1">Art/Graphics/VolleyGun_sref.dds</File>
+    <File md5="3136417C976C617D737937D66B3CBB73" import="1">Art/IconAtlas/JFD_MilanAlphaAtlas_128.dds</File>
+    <File md5="94AAF620F39872C6464C440364323DB1" import="1">Art/IconAtlas/JFD_MilanAlphaAtlas_16.dds</File>
+    <File md5="E27F460D2585069F6EEA25ADCA25DF83" import="1">Art/IconAtlas/JFD_MilanAlphaAtlas_22.dds</File>
+    <File md5="F209596601EC894DF674AFE20D7B46C0" import="1">Art/IconAtlas/JFD_MilanAlphaAtlas_24.dds</File>
+    <File md5="7C6FEA8F4F5B4FF3F4BA3A73BCB311D5" import="1">Art/IconAtlas/JFD_MilanAlphaAtlas_32.dds</File>
+    <File md5="A3F69DC837201EBA39B958F13D5524A4" import="1">Art/IconAtlas/JFD_MilanAlphaAtlas_45.dds</File>
+    <File md5="6543B42C8F646B655570C0E159C460A5" import="1">Art/IconAtlas/JFD_MilanAlphaAtlas_48.dds</File>
+    <File md5="EB4603F0A234A4A1D27BB61D0EF3E7E6" import="1">Art/IconAtlas/JFD_MilanAlphaAtlas_64.dds</File>
+    <File md5="1D411638E25CA7151B8EB01BA0A792F4" import="1">Art/IconAtlas/JFD_MilanAlphaAtlas_80.dds</File>
+    <File md5="FA45C2EA6B64DCF70AAF0762C8AEBD25" import="1">Art/IconAtlas/JFD_MilanAtlas_128.dds</File>
+    <File md5="A149440CD15CC3F446525C725B2A213B" import="1">Art/IconAtlas/JFD_MilanAtlas_256.dds</File>
+    <File md5="9D45850C1BCAA7F0D76BECF5BD91DED9" import="1">Art/IconAtlas/JFD_MilanAtlas_32.dds</File>
+    <File md5="2A443AEB69E30B4F5AC4D325DF9F4661" import="1">Art/IconAtlas/JFD_MilanAtlas_45.dds</File>
+    <File md5="F98F78E926F159681468062B0055C2E9" import="1">Art/IconAtlas/JFD_MilanAtlas_64.dds</File>
+    <File md5="A6ED35584A04F447911C26C3EAFDBEA4" import="1">Art/IconAtlas/JFD_MilanAtlas_80.dds</File>
+    <File md5="3C7EB8A70F1A9BB29964D6316D580CAF" import="1">Art/IconAtlas/JFD_RibaultUnitFlag_32.dds</File>
+    <File md5="E74B7DBB0F75D44A66A7E88D261BB1B8" import="1">Art/Images/Event_Milan_Feud.dds</File>
+    <File md5="55CA6C11EEA681AB90F5C029E6826DBF" import="1">Art/Images/Event_Milan_Machiavelli.dds</File>
+    <File md5="3B59022AF9A00869868831647808B1B9" import="1">Art/Map/DOM_Visconti.dds</File>
+    <File md5="138656B4C2D9259607F4F443BCE30E4E" import="1">Art/Map/MapMilan512.dds</File>
+    <File md5="32151F36884E642A64BE224C1C5AB5BB" import="1">Audio/Visconti_Peace.mp3</File>
+    <File md5="ED849406544F8C817B1C215B9A278AF1" import="1">Audio/Visconti_War.mp3</File>
+    <File md5="39CB55703F84E1D1AEA839EBBC810D1D" import="0">Core/Milan_ArtDefines.sql</File>
+    <File md5="B598A4E7E6FF32F1E3F2EBEA91D2F122" import="0">Core/Milan_GameDefines.sql</File>
+    <File md5="BC54DE5B773B8285153281C40C485E3B" import="0">Core/Milan_GameDefines_Diplomacy.sql</File>
+    <File md5="5D6255EF1CEB10A3CF2C32D946979A71" import="0">Core/Milan_GameDefines_ModSupport.sql</File>
+    <File md5="3A6EAF63E6D0B882623429D51EAECED4" import="0">Core/Milan_GameText.xml</File>
+    <File md5="CF99B03F3ECEE9F109E03C544769D74B" import="0">Core/Milan_GameText_Diplomacy.xml</File>
+    <File md5="A0555EE54A70B02703DC30BE9136D5EB" import="0">Core/Milan_GameText_ModSupport.xml</File>
+    <File md5="3665EA7314EC7714D3F5520365D7702A" import="0">DeleteMissingReferences.xml</File>
+    <File md5="FB672B90281C7C386525A7432108F468" import="1">Lua/JFD_Milan_Decisions.lua</File>
+    <File md5="DBB86C3D98C3FF5B34164394E8956E4E" import="1">Lua/JFD_Milan_Events.lua</File>
+    <File md5="364BF5EF7D8A070D671068E404918E5B" import="0">Lua/JFD_Milan_Functions.lua</File>
+    <File md5="86C1C3EDCE4699DE320A932C4E70E22C" import="0">Lua/Utilities/Sukritact's MCIS/CityInfoStack.lua</File>
+    <File md5="120EB71025973A8A48B38314241DD0B3" import="0">Lua/Utilities/Sukritact's MCIS/CityInfoStack.xml</File>
+    <File md5="DF8F8AF7A9576086701B1FB44C86448A" import="0">Lua/Utilities/Sukritact's MCIS/JFD_Milan_CityInfo.lua</File>
+    <File md5="F4CCDD6C69F577F65377D971930AE41C" import="0">Lua/Utilities/Sukritact's MCIS/JFD_Milan_CityInfo.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Core/Milan_ArtDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Milan_GameDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Milan_GameDefines_Diplomacy.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Milan_GameDefines_ModSupport.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Milan_GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Milan_GameText_Diplomacy.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Milan_GameText_ModSupport.xml</UpdateDatabase>
+      <UpdateDatabase>DeleteMissingReferences.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/JFD_Milan_Functions.lua">
+      <Name>JFD_Milan_Functions</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/Utilities/Sukritact's MCIS/CityInfoStack.lua">
+      <Name>Sukritact MCIS</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/Utilities/Sukritact's MCIS/JFD_Milan_CityInfo.lua">
+      <Name>JFD_Milan_CityInfo</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

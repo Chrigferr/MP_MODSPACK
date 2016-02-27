@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_en_US>	
+		<!--Expand the Cloth Trade-->
+		<Row Tag="TXT_KEY_DECISIONS_JFD_FLANDERS_CLOTH_TRADE">
+			<Text>Expand the Cloth Trade</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JFD_FLANDERS_CLOTH_TRADE_DESC">
+			<Text>
+				Our famous cloths are bought and sold the world over. Local and International Merchants flock to the market places of Flanders for a chance to purchase our exquisite broadcloths. It would not only be profitable to expand our Cloth Trade, but a matter of cultural pride.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Flanders
+				[NEWLINE][ICON_BULLET]Must have researched Currency
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Cost} [ICON_GOLD] Gold
+				[NEWLINE][ICON_BULLET]1 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Domestic Trade Routes provide 25% more [ICON_FOOD] Food or [ICON_PRODUCTION] Production
+				[NEWLINE][ICON_BULLET]International Trade Routes provide +2 more [ICON_GOLD] Gold
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JFD_FLANDERS_CLOTH_TRADE_ENACTED_DESC">
+			<Text>
+				Our famous cloths are bought and sold the world over. Local and International Merchants flock to the market places of Flanders for a chance to purchase our exquisite broadcloths. It would not only be profitable to expand our Cloth Trade, but a matter of cultural pride.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Domestic Trade Routes provide 25% more [ICON_FOOD] Food or [ICON_PRODUCTION] Production
+				[NEWLINE][ICON_BULLET]International Trade Routes provides +2 more [ICON_GOLD] Gold
+			</Text>
+		</Row>
+		<!--Patronise Baroque Painters-->
+		<Row Tag="TXT_KEY_DECISIONS_JFD_FLANDERS_BAROQUE_PAINTING">
+			<Text>Patronise Baroque Painters</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JFD_FLANDERS_BAROQUE_PAINTING_DESC">
+			<Text>The great painters of our country are hampered down by the poverty of anonymity. It would bring much cultural joy to the Flemish nation should the talents of these artists be shared with all the world.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Flanders
+				[NEWLINE][ICON_BULLET]May only be enacted from the beginning of the Renaissance Era
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Cost} [ICON_GOLD] Gold
+				[NEWLINE][ICON_BULLET]1 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Gain a free [ICON_GREAT_PEOPLE] Great Artist
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JFD_FLANDERS_BAROQUE_PAINTING_ENACTED_DESC">
+			<Text>
+				The great painters of our country are hampered down by the poverty of anonymity. It would bring much cultural joy to the Flemish nation should the talents of these artists be shared with all the world.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Gain a free [ICON_GREAT_PEOPLE]Great Artist
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_FLEMISH_PAINTER">
+			<Text>Baroque Painter</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_JORDAENS_DESC">
+			<Text>Jordaens</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_VAN_DYCK_DESC">
+			<Text>Anthony van Dyck</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_RUBENS_DESC">
+			<Text>Rubens</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_JFD_ELEVATION_OF_THE_CROSS">
+			<Text>Elevation of the Cross</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_JFD_THE_KING_DRINKS">
+			<Text>The King Drinks</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_JFD_CHARLES_I">
+			<Text>Triple Portrait of Charles I</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WORLD_EVENT_JFD_FLANDERS_BROQUE_PAINTING">
+			<Text>Robrecht III of Flanders has patronised Flemish Baroque painters.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

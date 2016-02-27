@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 11/23/2013 1:27:25 PM -->
+<GameData>
+	<Language_en_US>
+		<!--MILAN-->
+		<Row Tag="TXT_KEY_CIV_JFD_MILAN_ADJECTIVE">
+			<Text>Milanese</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_JFD_MILAN_DESC">
+			<Text>Duchy of Milan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_JFD_MILAN_SHORT_DESC">
+			<Text>Milan</Text>
+		</Row>
+		<Replace Tag="TXT_KEY_JFD_TAL_ITALIAN_STATES">
+			<Text>Italy</Text>
+		</Replace>
+		<Row Tag="TXT_KEY_CIV5_JFD_MILAN_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_MILAN_TEXT_1">
+			<Text>The Duchy of Milan was a constituent state of the Holy Roman Empire in northern Italy. It was created in 1395, when it included twenty-six towns and the wide rural area of the middle Padan Plain east of the hills of Montferrat. During much of its existence, it was wedged between Savoy to the west, Venice to the east, the Swiss Confederacy to the north, and separated from the Mediterranean by Genoa to the south. The Duchy eventually fell to Habsburg Austria with the Treaty of Baden (1714), concluding the War of the Spanish Succession. The Duchy remained an Austrian possession until 1796, when a French army under Napoleon Bonaparte conquered it, and it ceased to exist a year later as a result of the Treaty of Campo Formio, when Austria ceded it to the new Cisalpine Republic.[NEWLINE][NEWLINE]After the defeat of Napoleon, the Congress of Vienna of 1815 restored many other states which he had destroyed, but not the Duchy of Milan. Instead, its former territory became part of the Kingdom of Lombardy–Venetia, with the Emperor of Austria as its king. In 1859, Lombardy was ceded to the Kingdom of Piedmont-Sardinia, which would become the Kingdom of Italy in 1861.[NEWLINE][NEWLINE]The House of Visconti had ruled Milan since 1277, in which year Ottone Visconti defeated Napoleone della Torre. The Duchy of Milan (Ducatus Mediolani) as a state of the Holy Roman Empire was created on 1 May 1395, when Gian Galeazzo Visconti, lord of Milan,[1] purchased a diploma for 100,000 Florins from King Wenceslaus. It was this diploma that installed Visconti as Duke of Milan and Count of Pavia.[2] At its foundation the duchy included 26 towns and spanned from the hills of Montferrat to the Lagoons of Venice,[dubious – discuss] and included all the former towns of the Lombard League.[2][3] Milan thus became one of the five major states of the Italian peninsula in the 15th century.[NEWLINE][NEWLINE]When the last Visconti Duke, Filippo Maria, died in 1447 without a male heir, the Milanese declared the so-called Ambrosian Republic, which soon faced revolts and attacks from its neighbors.[4] In 1450 mercenary captain Francesco Sforza, having previously married Filippo Maria Visconti's illegitimate daughter Bianca Maria, conquered the city and restored the Duchy, founding the House of Sforza.[NEWLINE][NEWLINE]During the rule of the Visconti and Sforza, the duchy had to defend its territory against the Swiss, the French and the Venetians, until the Betrayal of Novara in 1500 when the duchy passed to the French-claim of Louis XII.</Text>
+		</Row>
+		<!--Cities-->
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_MILAN_01">
+			<Text>Milan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_MILAN_02">
+			<Text>Brescia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_MILAN_03">
+			<Text>Piacenza</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_MILAN_04">
+			<Text>Bergamo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_MILAN_05">
+			<Text>Lodi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_MILAN_06">
+			<Text>Cremona</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_MILAN_07">
+			<Text>Como</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_MILAN_08">
+			<Text>Lecco</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_MILAN_09">
+			<Text>Pavia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_MILAN_10">
+			<Text>Varese</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_MILAN_11">
+			<Text>Sondrio</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_MILAN_12">
+			<Text>Monza</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_MILAN_13">
+			<Text>Brianza</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_MILAN_14">
+			<Text>Asolo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_MILAN_15">
+			<Text>Sirmione</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_MILAN_16">
+			<Text>Legnano</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_MILAN_17">
+			<Text>Teglio</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_MILAN_18">
+			<Text>Cantello</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_MILAN_19">
+			<Text>Casteggio</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_MILAN_20">
+			<Text>Lagusello</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_MILAN_21">
+			<Text>Sartirana Lomellina</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_MILAN_22">
+			<Text>Villimpenta</Text>
+		</Row>
+		<!--Spies-->
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_MILAN_9">
+			<Text>Gian</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_MILAN_8">
+			<Text>Ennio</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_MILAN_7">
+			<Text>Teobaldo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_MILAN_6">
+			<Text>Giovanni</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_MILAN_5">
+			<Text>Gaspare</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_MILAN_4">
+			<Text>Joanna</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_MILAN_3">
+			<Text>Elena</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_MILAN_2">
+			<Text>Maria</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_MILAN_1">
+			<Text>Valentina</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_MILAN_0">
+			<Text>Frederico</Text>
+		</Row>
+		<!--GIAN GALEAZZO-->
+		<Row Tag="TXT_KEY_LEADER_JFD_VISCONTI">
+			<Text>Gian Galeazzo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_VISCONTI_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_VISCONTI_TEXT_1">
+			<Text>[NEWLINE][NEWLINE]Gian Galeazzo Visconti, son of Galeazzo II Visconti and Bianca of Savoy, was the first Duke of Milan (1395) and ruled the late-medieval city just before the dawn of the Renaissance. He was the great founding patron of the Certosa di Pavia, completing the Visconti Castle at Pavia begun by his father and furthering work on the Duomo of Milan.[NEWLINE][NEWLINE]During his patronage of the Visconti Castle, he contributed greatly to the growth of the collection of scientific treatises and richly illuminated manuscripts in the Visconti Library.[NEWLINE][NEWLINE]Although most famous as Signore of Milan, Gian Galeazzo was the son of Galeazzo II Visconti who possessed the signoria of the city of Pavia. In 1385 Gian Galeazzo gained control of Milan by overthrowing his uncle Bernabò through treacherous means. He imprisoned his uncle who soon died, supposedly poisoned on his orders.[NEWLINE][NEWLINE]His first marriage was to Isabelle of Valois, who brought him the title of comte de Vertus in Champagne, rendered in Italian as Conte di Virtù, the title by which he was known in his early career. A devoted father to his daughter Valentina (wife of Louis, Duke of Orleans and mother of the famous poet, Charles of Orleans), Gian Galeazzo reacted to gossip about Valentina at the French Court by threatening to declare war on France. The wife of King Charles VI of France was Isabeau of Bavaria, the granddaughter of Bernabò Visconti, and, thus, a bitter rival of Valentina and her father Gian Galeazzo Visconti. After Galeazzo's wife Isabelle died in childbirth in 1373, he married secondly, on 2 October 1380, his first cousin Caterina Visconti, daughter of Bernabò; with her he had two sons, Gian Maria and Filippo Maria.[NEWLINE][NEWLINE]Galeazzo's role as a statesman also took other forms. Soon after seizing Milan he took Verona, Vicenza, and Padua, establishing himself as Signore of each, and soon controlled almost the entire valley of the Po, including Piacenza where in 1393 he gave the feudal power to Confalonieri Family on the lands they already had in the valleys around Piacenza. He lost Padua in 1390, when it reverted to Francesco Novello da Carrara. He received the title of Duke of Milan from Wenceslaus, King of the Romans in 1395 for 100,000 florins.[NEWLINE][NEWLINE]In 1400, Gian Galeazzo appointed a host of clerks and departments entrusted with improving the public health. For the new system of administration and bookkeeping this established, he is credited with creating the first modern bureaucracy.[NEWLINE][NEWLINE]Gian Galeazzo had dreams of uniting all of northern Italy into one kingdom, a revived Lombard empire. The obstacles to his success included Bologna and especially Florence. In 1402, Gian Galeazzo launched assaults upon these cities. The warfare was extremely costly on both sides, but it was universally believed the Milanese would emerge victorious. The Florentine leaders, especially the chancellor Coluccio Salutati worked successfully to rally the people of Florence, but the Florentines were being taxed hard by famine, disease, and poverty. Galeazzo won another victory over the Bolognese at the Battle of Casalecchio on 26 June 1402.[NEWLINE][NEWLINE]Galeazzo's dreams were to come to naught, however, as he succumbed to a fever at the castello of Melegnano on 10 August 1402. He died on 3 September. His empire fragmented as infighting among his successors wrecked Milan, partly through his division of his lands among both legitimate and illegitimate heirs.[NEWLINE][NEWLINE]Gian Galeazzo spent 300,000 golden florins in attempting to turn from their courses the Mincio from Mantua and the Brenta from Padua, in order to render those cities helpless before the force of his arms. His library, housed in the grandest princely dwelling in Italy, the castello in Pavia, and his rich collection of manuscripts, many of them the fruits of his conquests, were famous.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_VISCONTI_NAME">
+			<Text>Gian Galeazzo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_VISCONTI_SUBTITLE">
+			<Text>Leader of Milan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_VISCONTI_TITLES_1">
+			<Text>Duke of Milan, Count of Pavia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_VISCONTI_LIVED">
+			<Text>1351 - 1402</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DAWN_MILAN_TEXT">
+			<Text>Prestigious lord of the noble House of Visconti, the loyal denizens of the great and ancient Milan speak your praises. You ruled the city of Milan at the dawning of the Renaissance, and elevated its status from a mere Lordship to an esteemed Duchy. A great patron of arts and home to immeasurable wealth, Milan would exist as one of the cultural centres of Italy for some 200 years, and its legacy for countless more.[NEWLINE][NEWLINE]Noble Lord, the great city of Milan beckons your leadership to bring upon her a great wealth of coin and culture. Can you fill her ancient vaults with gold and art beyond comparison? Can you build a civilization that can stand the test of time?</Text>
+		</Row>
+		<!--HOUSE OF VISCONTI-->
+		<Row Tag="TXT_KEY_TRAIT_JFD_MILAN_SHORT">
+			<Text>House of Visconti</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_JFD_MILAN">
+			<Text>Friendly and Allied City-States reduce the cost of purchasing items with [ICON_GOLD] Gold (up to 30%). During war, City-State [ICON_INFLUENCE] Influence degrades 20% slower.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_MILAN">
+			<Text>JFD: Milan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_MILAN_HELP">
+			<Text>-5% cost of purchasing items with [ICON_GOLD] Gold</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_MILAN_CITY_VIEW_HELP">
+			<Text>-{1_Num}% to the cost of purchasing items with [ICON_GOLD] Gold in this city from Friendly and Allied City-States</Text>
+		</Row>
+		<!--RIBAULT-->
+		<Row Tag="TXT_KEY_UNIT_JFD_RIBAULT">
+			<Text>Ribault</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_RIBAULT_HELP">
+			<Text>Early Milanese Gatling Gun. May attack twice in one turn and has a bonus vs. Siege Units.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_RIBAULT_STRATEGY">
+			<Text>The Ribault is a Renaissance-era replacement for the Gatling Gun, avaliable only to Milan. Unlike the Gatling Gun, the Ribault may attack twice in one turn and has a combat bonus against other Siege Units. However, it is also slightly weaker and slightly more expensive to produce.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_RIBAULT_TEXT">
+			<Text>A Ribauldequin, also known as a rabauld, ribault, ribaudkin, infernal machine or organ gun, was a late medieval volley gun with many small-caliber iron barrels set up parallel on a platform, in use during the 14th and 15th centuries. When the gun was fired in a volley, it created a shower of iron shot. They were employed, specifically, during the early fifteenth century, and continued serving, mostly, as an anti-personnel gun. The name organ gun comes from the multiple barrels with the likeness of pipe organ.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_RIBAULT">
+			<Text>Bonus vs Siege</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_RIBAULT_HELP">
+			<Text>+33% Bonus vs Siege Units.</Text>
+		</Row>
+		<!--PALAZZO-->
+		<Row Tag="TXT_KEY_BUILDING_JFD_PALAZZO">
+			<Text>Palazzo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_PALAZZO_HELP">
+			<Text>Generates [ICON_GREAT_PEOPLE] Great Merchant points equal to 10% of this city's [ICON_GOLD] Gold output. Only Milan may build it.[NEWLINE][NEWLINE]City must have a Market.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_PALAZZO_STRATEGY">
+			<Text>The Palazzo is a Renaissance-era building unique to Milan, replacing the Bank. In addition to the regular effects of a Bank, the Palazzo increases the generation of Great Merchants in the city based upon the city's [ICON_GOLD] Gold output. It also slightly boosts the defensive strength of the city. However, if the city is captured, the capturing civilization will gain twice as much gold as would be the case in a city without a Palazzo.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_PALAZZO_TEXT">
+			<Text>In Italy, any urban building built as a grand residence is a palazzo; these are often no larger than a Victorian townhouse. It was not necessary to be a nobleman to have your house considered a palazzo; the hundreds of palazzi in Venice nearly all belonged to the patrician class of the city. In the Middle Ages these also functioned as warehouses and places of business, as well as homes. Each family's palazzo was a hive that contained all the family members, though it might not always show a grand architectural public front. In the 20th century, palazzo in Italian came to apply by extension to any large fine apartment building, as so many old palazzi were converted to this use.</Text>
+		</Row>
+		<!--MINOR CIVS-->
+		<!--San Marino-->
+		<Row Tag="TXT_KEY_CITYSTATE_JFD_SAN_MARINO_DESC">
+			<Text>San Marino</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_JFD_SAN_MARINO_SHORT_DESC">
+			<Text>San Marino</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_JFD_SAN_MARINO_ADJECTIVE">
+			<Text>Sammarinese</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_SAN_MARINO_TEXT_1">
+			<Text>San Marino, officially the Republic of San Marino, also known as the Most Serene Republic of San Marino, is an enclaved microstate surrounded by Italy, situated on the Italian Peninsula on the north-eastern side of the Apennine Mountains. Its size is just over 61 km2 (24 sq mi) with an estimated population of over 30,000 with its capital being the City of San Marino and its largest city being Dogana. San Marino has the smallest population of all the members of the Council of Europe.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

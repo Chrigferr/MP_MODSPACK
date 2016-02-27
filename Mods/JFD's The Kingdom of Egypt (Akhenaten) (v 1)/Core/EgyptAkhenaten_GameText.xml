@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 11/23/2013 1:27:25 PM -->
+<GameData>
+	<Language_en_US>
+		<!--EGYPT-->
+		<Row Tag="TXT_KEY_CIVILIZATION_JFD_EGYPT_AKHENATEN_ADJECTIVE">
+			<Text>Akhetaten</Text>
+		</Row>
+		<!--Pedia-->
+		<Row Tag="TXT_KEY_CIV5_JFD_EGYPT_AKHENATEN_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_EGYPT_AKHENATEN_TEXT_1">
+			<Text>The Amarna Period was an era of Egyptian history during the latter half of the Eighteenth Dynasty when the royal residence of the pharaoh and his queen was shifted to Akhetaten ('Horizon of the Aten') in what is now Amarna. It was marked by the reign of Amenhotep IV, who changed his name to Akhenaten (1353–1336 BC) in order to reflect the dramatic change of Egypt's polytheistic religion into one where the sun disc Aten was worshipped over all other gods. Aten was not solely worshipped (the religion was not monotheistic), but the other gods were worshipped to a significantly lesser degree. The Egyptian pantheon of the equality of all gods and goddesses was restored under Akhenaten's successor.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_EGYPT_AKHENATEN_HEADING_2">
+			<Text>Religious developments</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_EGYPT_AKHENATEN_TEXT_2">
+			<Text>Akhenaten instigated the earliest verified expression of monotheism, (although the origins of a pure monotheism are the subject of continuing debate within the academic community and some state that Akhenaten restored monotheism while others point out that he merely suppressed a dominant solar cult by the assertion of another, while he never completely abandoned several other traditional deities). Scholars believe that Akhenaten's devotion to his deity, Aten, offended many in power below him, which contributed to the end of this dynasty; he later suffered damnatio memoriae. Although modern students of Egyptology consider the monotheism of Akhenaten the most important event of this period, the later Egyptians considered the so-called Amarna period an unfortunate aberration. Religion prompted many innovations in the name and service of religion. They viewed religion and science as one in the same. Previously, the presence of many gods explained the natural phenomena, but during the Amarna period there was a rise in monotheism. With people beginning to think of the origins of the universe, Amun-Re was seen as the sole creator and Sun-god. The view of this god is seen through the poem entitled "Hymn to the Aten"; "When your movements disappear and you go to rest in the Akhet, the land is in darkness, in the manner of death... darkness a blanket, the land in stillness, with the one who makes them at rest in his Akhet. The land grows bright once you have appeared in the Akhet, shining in the sun disk by day. When you dispel darkness and give your rays, the Two Lands are in a festival of light." From the poem, one can see that the nature of the god's daily activity revolves around recreating the earth on a daily basis. It also focuses on the present life rather than on eternity. After the Amarna reign, these religious beliefs fell out of favor. This was partly because access to Amun-Re was limited only to the king and his family. Only they were allowed to worship, and the rest were left to worship the king and his family.[</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_EGYPT_AKHENATEN_HEADING_3">
+			<Text>Art</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_EGYPT_AKHENATEN_TEXT_3">
+			<Text>During Akhenaten's reign, royal portraiture underwent dramatic change. Sculptures of Akhenaten deviate from conventional portrayal of royalty. Akhenaten is depicted in an androgynous and highly stylized manner, with large thighs, a slim torso, drooping belly, full lips, and a long neck and nose.[3] Some believe that the break with convention was due to "the presence at Amarna of new people or groups of artists whose background and training were different from those of the Karnak sculptors."</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_EGYPT_AKHENATEN_HEADING_4">
+			<Text>Tutankhamun and the Amarna Succession</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_EGYPT_AKHENATEN_TEXT_4">
+			<Text>Tutankhamun died before he was twenty years old, and the dynasty's final years clearly were shaky. The royal line of the dynasty died out with Tutankhamun. Two fetuses found buried in his tomb may have been his twin daughters who would have continued the royal lineage, according to a 2008 investigation.[5] An unidentified Egyptian queen Dakhamunzu, widow of "King Nibhururiya" is known from Hittite annals. She is often identified as Ankhesenamun, royal wife of Tutankhamun, although Nefertiti and Meritaten have also been suggested as possible candidates. This queen wrote to Suppiluliuma I, king of the Hittites, asking him to send one of his sons to become her husband and king of Egypt. In her letters she expressed fear and a reluctance to take as husband one of her servants. Suppiluliumas sent an ambassador to investigate, and after further negotiations agreed to send one of his sons to Egypt. This prince, named Zannanza was however murdered, probably en route to Egypt. Suppiluliumas reacted with rage at the news of his son's death and accused the Egyptians. Then, he retaliated by going to war against Egypt's vassal states in Syria and Northern Canaan and captured the city of Amki. Unfortunately, Egyptian prisoners of war from Amki carried a plague which eventually would ravage the Hittite Empire and kill both Suppiluliumas I and his direct successor.[NEWLINE][NEWLINE]The last two members of the eighteenth dynasty - Ay and Horemheb - became rulers from the ranks of officials in the royal court, although Ay may have married the widow of Tutankhamun in order to obtain power and she did not live long afterward. Ay's reign was short. His successor was Horemheb, a general in the egyptian army, who had been a diplomat in the administration of Tutankhamun and may have been intended as his successor by the childless Tutankhamun. Horemheb may have taken the throne away from Ay in a coup. He also died childless and appointed his successor, Paramessu, who under the name Ramesses I ascended the throne in 1292 BC and was the first pharaoh of the Nineteenth Dynasty.</Text>
+		</Row>
+		<!--Cities-->
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_EGYPT_AKHENATEN_1">
+			<Text>Akhetaten</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_EGYPT_AKHENATEN_2">
+			<Text>Thebes</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_EGYPT_AKHENATEN_3">
+			<Text>Memphis</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_EGYPT_AKHENATEN_4">
+			<Text>Gempaaten</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_EGYPT_AKHENATEN_5">
+			<Text>Hwt-Benben</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_EGYPT_AKHENATEN_6">
+			<Text>Tanis</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_EGYPT_AKHENATEN_7">
+			<Text>Dendera</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_EGYPT_AKHENATEN_8">
+			<Text>Abydos</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_EGYPT_AKHENATEN_9">
+			<Text>Heroonopolis</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_EGYPT_AKHENATEN_10">
+			<Text>Karnak</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_EGYPT_AKHENATEN_11">
+			<Text>Malkata</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_EGYPT_AKHENATEN_12">
+			<Text>Avaris</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_EGYPT_AKHENATEN_13">
+			<Text>Asyut</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_EGYPT_AKHENATEN_14">
+			<Text>Khemmis</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_EGYPT_AKHENATEN_15">
+			<Text>Deir el-Bersha</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_EGYPT_AKHENATEN_16">
+			<Text>Sais</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_EGYPT_AKHENATEN_17">
+			<Text>Heliopolis</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_EGYPT_AKHENATEN_18">
+			<Text>Garzu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_EGYPT_AKHENATEN_19">
+			<Text>Amurru</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_EGYPT_AKHENATEN_20">
+			<Text>Hieraconpolis</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_EGYPT_AKHENATEN_21">
+			<Text>Buto</Text>
+		</Row>
+		<!--Spies-->
+		<Row Tag="TXT_KEY_SPY_NAME_CIVILIZATION_JFD_EGYPT_AKHENATEN_1">
+			<Text>Tutankhaten</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CIVILIZATION_JFD_EGYPT_AKHENATEN_2">
+			<Text>Smenkhkare</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CIVILIZATION_JFD_EGYPT_AKHENATEN_3">
+			<Text>Aziru</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CIVILIZATION_JFD_EGYPT_AKHENATEN_4">
+			<Text>Amenhotep</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CIVILIZATION_JFD_EGYPT_AKHENATEN_5">
+			<Text>Thutmose</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CIVILIZATION_JFD_EGYPT_AKHENATEN_6">
+			<Text>Ptahmose</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CIVILIZATION_JFD_EGYPT_AKHENATEN_7">
+			<Text>Nefertiti</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CIVILIZATION_JFD_EGYPT_AKHENATEN_8">
+			<Text>Tiye</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CIVILIZATION_JFD_EGYPT_AKHENATEN_9">
+			<Text>Ankhesenamun</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CIVILIZATION_JFD_EGYPT_AKHENATEN_10">
+			<Text>Meritaten</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<!--AKHENATEN-->
+		<Row Tag="TXT_KEY_LEADER_JFD_AKHENATEN">
+			<Text>Akhenaten</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_AKHENATEN_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_AKHENATEN_TEXT_1">
+			<Text>Akhenaten, known before the fifth year of his reign as Amenhotep IV, was a pharaoh of the Eighteenth dynasty of Egypt who ruled for 17 years and died perhaps in 1336 BC or 1334 BC. He is especially noted for abandoning traditional Egyptian polytheism and introducing worship centered on the Aten, which is sometimes described as monotheistic or henotheistic. An early inscription likens the Aten to the sun as compared to stars, and later official language avoids calling the Aten a god, giving the solar deity a status above mere gods.[NEWLINE][NEWLINE]Akhenaten tried to bring about a departure from traditional religion, yet in the end it would not be accepted. After his death, traditional religious practice was gradually restored, and when some dozen years later rulers without clear rights of succession from the Eighteenth Dynasty founded a new dynasty, they discredited Akhenaten and his immediate successors, referring to Akhenaten himself as "the enemy" or "that criminal" in archival records.[NEWLINE][NEWLINE]He was all but lost from history until the discovery of the site of Akhetaten, the city he built for the Aten, at Amarna during the 19th century. Early excavations at Amarna by Flinders Petrie sparked interest in the enigmatic pharaoh, and a mummy found in the tomb KV55, which was unearthed in 1907 in a dig led by Edward R. Ayrton, is likely that of Akhenaten. DNA analysis has determined that the man buried in KV55 is the father of King Tutankhamun, but its identification as Akhenaten has been questioned.[NEWLINE][NEWLINE]Modern interest in Akhenaten and his queen, Nefertiti, comes partly from his connection with Tutankhamun, partly from the unique style and high quality of the pictorial arts he patronized, and partly from ongoing interest in the religion he attempted to establish.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_AKHENATEN_NAME">
+			<Text>Akhenaten</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_AKHENATEN_SUBTITLE">
+			<Text>Leader of Egypt</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_AKHENATEN_TITLES_1">
+			<Text>Pharaoh of Egypt</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_AKHENATEN_LIVED">
+			<Text>?? - 1334/1136 BC</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DAWN_EGYPT_AKHENATEN_TEXT">
+			<Text>Praise the great king, the Exalter of the Name of Aten, Akhenaten, Pharaoh of Egypt and keeper of the Nile. Alongside your Queen, Nefertiti, you cast aside Egypt's polytheistic faith and devoted your reign to the worship of Aten - the Solar Deity - and to erecting great cities and monuments in His name. You patronized great works in His honour, and spread His likeness throughout Egypt. Your rule, though not everlasting, has left an indelible mark upon Egypt's ancient history, and remains today the focus of great enquiry and greater curiosity.[NEWLINE][NEWLINE]Humble King, servant to the Sun, the voice of the Great Aten calls for a ruler through which His light might diffuse across the earth. Can you bring forth the luscious waters of the Nile and re-new the fertility of Egypt's ancient sands? Can you build a civilization that can stand the test of time?</Text>
+		</Row>
+		<!--GREAT HYMN TO THE ATEN-->
+		<Row Tag="TXT_KEY_TRAIT_JFD_EGYPT_AKHENATEN_SHORT">
+			<Text>Great Hymn to the Aten</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_JFD_EGYPT_AKHENATEN">
+			<Text>Compile [ICON_JFD_HYMN] Hymn Verses whenever a Great Prophet is born. Each Verse increases religious pressure and [ICON_FOOD] Growth in the city to which it is assigned.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_ATEN_VERSE_1">
+			<Text>JFD: Hymn 1</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_ATEN_VERSE_2">
+			<Text>JFD: Hymn 2</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_ATEN_VERSE_3">
+			<Text>JFD: Hymn 3</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_ATEN_VERSE_4">
+			<Text>JFD: Hymn 4</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_ATEN_VERSE_HELP">
+			<Text>A Hymn Verse.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_ATEN">
+			<Text>High-Priest of Aten</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_ATEN_HELP">
+			<Text>This unit has been marked as a High-Priest to Aten. This means that they should have spawned with a Hymn to the Great Aten.</Text>
+		</Row>
+		<!--UI-->
+		<Row Tag="TXT_KEY_NOTIFICATION_JFD_ATEN_NEW_VERSE_SHORT">
+			<Text>New Verse!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_JFD_ATEN_NEW_VERSE">
+			<Text>The birth of a Great Prophet has heralded the composition of a new hymn verse to the Great Aten! The new verse has been placed in your [ICON_CAPITAL] Capital, however, you may move it to any of your cities through the city screen.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_EGYPT_AKHEANTEN_VERSE_COUNT">
+			<Text>[COLOR_PLAYER_JFD_EGYPT_AKHENATEN_BACKGROUND]{1_Num}/{2_Num}[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_EGYPT_AKHEANTEN_VERSE_COUNT_TT">
+			<Text>You have assigned [COLOR_PLAYER_JFD_EGYPT_AKHENATEN_BACKGROUND]{1_Num}[ENDCOLOR] Verse(s) to this city and have [COLOR_PLAYER_JFD_EGYPT_AKHENATEN_BACKGROUND]{2_Num}[ENDCOLOR] Total Verse(s) unassigned.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_EGYPT_AKHEANTEN_VERSE_COUNT_COMPLETE_TT">
+			<Text>You have completed the Great Hymn to the Aten in this city!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_EGYPT_AKHEANTEN_VERSE_UNFILLED_TT">
+			<Text>[COLOR_POSITIVE_TEXT]Left-click to add an unassigned Hymn to this Slot.[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_EGYPT_AKHEANTEN_VERSE_FILLED_TT">
+			<Text>You have assigned this Verse. This city is now receiving +10% religious pressure and +10% [ICON_FOOD] Growth.[NEWLINE][NEWLINE][COLOR_POSITIVE_TEXT]Left-Click[ENDCOLOR] to remove the Verse from this city.[NEWLINE][NEWLINE][COLOR_POSITIVE_TEXT]Right-Click[ENDCOLOR] to view the Verse.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_EGYPT_AKHEANTEN_VERSE_ACTIVE_TT">
+			<Text>The blessings of Aten are boosting religious pressure and [ICON_FOOD] Growth in this city by 10%.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_EGYPT_AKHEANTEN_CONFIRM_TEXT_ADD">
+			<Text>Are you sure you want to assign this Hymn?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_EGYPT_AKHEANTEN_CONFIRM_TEXT_REMOVE">
+			<Text>Are you sure you want to remove this Hymn?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_EGYPT_AKHEANTEN_VERSE_TITLE">
+			<Text>[COLOR_PLAYER_JFD_EGYPT_AKHENATEN_BACKGROUND]The Great Hymn to the Aten[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_EGYPT_AKHEANTEN_VERSE_1">
+			<Text>Splendid you rise, O living Aten, eternal lord![NEWLINE]You are radiant, beauteous, mighty,[NEWLINE]Your love is great, immense.[NEWLINE]Your rays light up all faces,[NEWLINE]Your bright hue gives life to hearts,[NEWLINE]When you fill the Two Lands with your love.[NEWLINE]August God who fashioned himself,[NEWLINE]Who made every land, created what is in it,[NEWLINE]All peoples, herds, and flocks,[NEWLINE]All trees that grow from soil;[NEWLINE]They live when you dawn for them,[NEWLINE]You are mother and father of all that you made.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_EGYPT_AKHEANTEN_VERSE_DISABLED_TT_1">
+			<Text>You have not completed the [COLOR_POSITIVE_TEXT]First Verse[ENDCOLOR].[NEWLINE][NEWLINE]Create [ICON_GREAT_PEOPLE] Great Prophets in order to compile new Verses to the Great Aten!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_EGYPT_AKHEANTEN_VERSE_UNFILLED_OTHER_CITY_TT_1">
+			<Text>You have completed the [COLOR_POSITIVE_TEXT]First Verse[ENDCOLOR], but it is being held in {1_CityName}.[NEWLINE][NEWLINE][COLOR_POSITIVE_TEXT]Left-Click[ENDCOLOR] to move the Verse to this city.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_EGYPT_AKHEANTEN_VERSE_UNFILLED_TT_1">
+			<Text>You have completed the [COLOR_POSITIVE_TEXT]First Verse[ENDCOLOR], but it is unassigned.[NEWLINE][NEWLINE][COLOR_POSITIVE_TEXT]Left-Click[ENDCOLOR] to assign the Verse to this city.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_EGYPT_AKHEANTEN_VERSE_2">
+			<Text>When you dawn their eyes observe you,[NEWLINE]As your rays light the whole earth;[NEWLINE]Every heart acclaims your sight,[NEWLINE]When you are risen as their lord.[NEWLINE]When you set in sky's western lightland,[NEWLINE]They lie down as if to die,[NEWLINE]Their heads covered, their noses stopped,[NEWLINE]Until you dawn in sky's eastern lightland.[NEWLINE]Their arms adore your ka,[NEWLINE]As you nourish the hearts by your beauty;[NEWLINE]One lives when you cast your rays,[NEWLINE]Every land is in festivity.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_EGYPT_AKHEANTEN_VERSE_DISABLED_TT_2">
+			<Text>You have not completed the [COLOR_POSITIVE_TEXT]Second Verse[ENDCOLOR].[NEWLINE][NEWLINE]Create [ICON_GREAT_PEOPLE] Great Prophets in order to compile new Verses to the Great Aten!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_EGYPT_AKHEANTEN_VERSE_UNFILLED_TT_2">
+			<Text>You have completed the [COLOR_POSITIVE_TEXT]Second Verse[ENDCOLOR], but it is unassigned.[NEWLINE][NEWLINE][COLOR_POSITIVE_TEXT]Left-Click[ENDCOLOR] to assign the Verse to this city.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_EGYPT_AKHEANTEN_VERSE_UNFILLED_OTHER_CITY_TT_2">
+			<Text>You have completed the [COLOR_POSITIVE_TEXT]Second Verse[ENDCOLOR], but it is being held in {1_CityName}.[NEWLINE][NEWLINE][COLOR_POSITIVE_TEXT]Left-Click[ENDCOLOR] to move the Verse to this city.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_EGYPT_AKHEANTEN_VERSE_3">
+			<Text>Singers, musicians, shout with joy,[NEWLINE]in the court of the benben-shrine,[NEWLINE]And in all temples in Akhet-Aten,[NEWLINE]The place of truth in which you rejoice.[NEWLINE]Foods are offered in their midst,[NEWLINE]Your holy son performs your praises,[NEWLINE]O Aten living in his risings,[NEWLINE]And all your creatures leap before you.[NEWLINE]Your august son exults injoy,[NEWLINE]O Aten living daily content in the sky,[NEWLINE]Your offspring, your august son, Sole one of Re;[NEWLINE]The Son of Re does not cease to extol his beauty,[NEWLINE]Neferkheprure, Sole-one-of Re.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_EGYPT_AKHEANTEN_VERSE_DISABLED_TT_3">
+			<Text>You have not completed the [COLOR_POSITIVE_TEXT]Third Verse[ENDCOLOR].[NEWLINE][NEWLINE]Create [ICON_GREAT_PEOPLE] Great Prophets in order to compile new Verses to the Great Aten!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_EGYPT_AKHEANTEN_VERSE_UNFILLED_TT_3">
+			<Text>You have completed the [COLOR_POSITIVE_TEXT]Third Verse[ENDCOLOR], but it is unassigned.[NEWLINE][NEWLINE][COLOR_POSITIVE_TEXT]Left-Click[ENDCOLOR] to assign the Verse to this city.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_EGYPT_AKHEANTEN_VERSE_UNFILLED_OTHER_CITY_TT_3">
+			<Text>You have completed the [COLOR_POSITIVE_TEXT]Third Verse[ENDCOLOR], but it is being held in {1_CityName}.[NEWLINE][NEWLINE][COLOR_POSITIVE_TEXT]Left-Click[ENDCOLOR] to move the Verse to this city.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_EGYPT_AKHEANTEN_VERSE_4">
+			<Text>I am your son who serves you, who exalts your name,[NEWLINE]Your power, your strength, are firm in my heart;[NEWLINE]You are the living Aten whose image endures,[NEWLINE]You have made the far sky to shine in it,[NEWLINE]To observe all that you made.[NEWLINE]You are One yet a million lives are in you,[NEWLINE]To make them live (you give) the breath of life to their noses;[NEWLINE]By the sight of your rays all flowers exist,[NEWLINE]What lives and sprouts from the soil grows when you shine.[NEWLINE]Drinking deep of your sight all flocks frisk,[NEWLINE]The birds in the nest fly up in joy;[NEWLINE]Their folded wings unfold in praise[NEWLINE]Of the living Aten, their maker.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_EGYPT_AKHEANTEN_VERSE_DISABLED_TT_4">
+			<Text>You have not completed the [COLOR_POSITIVE_TEXT]Fourth Verse[ENDCOLOR].[NEWLINE][NEWLINE]Create [ICON_GREAT_PEOPLE] Great Prophets in order to compile new Verses to the Great Aten!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_EGYPT_AKHEANTEN_VERSE_UNFILLED_TT_4">
+			<Text>You have completed the [COLOR_POSITIVE_TEXT]Fourth Verse[ENDCOLOR], but it is unassigned.[NEWLINE][NEWLINE][COLOR_POSITIVE_TEXT]Left-Click[ENDCOLOR] to assign the Verse to this city.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_EGYPT_AKHEANTEN_VERSE_UNFILLED_OTHER_CITY_TT_4">
+			<Text>You have completed the [COLOR_POSITIVE_TEXT]Fourth Verse[ENDCOLOR], but it is being held in {1_CityName}.[NEWLINE][NEWLINE][COLOR_POSITIVE_TEXT]Left-Click[ENDCOLOR] to move the Verse to this city.</Text>
+		</Row>
+		<!--KHOPESH-->
+		<Row Tag="TXT_KEY_UNIT_JFD_KHOPESH">
+			<Text>Khopesh</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_KHOPESH_HELP">
+			<Text>Ancient Era Unit which specializes in defeating already wounded units, especially near to Obelisks. Only Egypt may build it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_KHOPESH_STRATEGY">
+			<Text>The Khopesh is the Egyptian unique unit, for Akhenaten. Although it does not possess the same bonus vs. Mounted Units like the Spearman that it replaces, it gains a 25% bonus vs. wounded units. This bonus is doubled should the Khopesh be within two tiles of an Obelisk.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_KHOPESH_TEXT">
+			<Text>The khopesh is an Egyptian sickle-sword that evolved from battle axes. The blunted edge of the weapon's tip also served as an effective bludgeon, as well as a hook. These weapons changed from bronze to iron in the New Kingdom period. The earliest known depiction of a khopesh is from the Stele of Vultures, depicting King Eannatum of Lagash wielding the weapon; this would date the khopesh to at least 2500 BC.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_KHOPESH">
+			<Text>Hack-and-Bludgeon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_KHOPESH_HELP">
+			<Text>+25% [ICON_STRENGTH] Strength vs. Wounded Units.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_KHOPESH_DOUBLE">
+			<Text>Hack-and-Bludgeon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_KHOPESH_DOUBLE_HELP">
+			<Text>+50% [ICON_STRENGTH] Strength vs. Wounded Units.</Text>
+		</Row>
+		<!--OBELISK-->
+		<Row Tag="TXT_KEY_BUILD_JFD_OBELISK_REC">
+			<Text>It will yield [ICON_PEACE] Faith; more if built next to a city. It will also spawn [ICON_RES_WHEAT] Wheat if in the radius of a city with the completed [ICON_JFD_HYMN] Great Hymn to the Aten.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_OBELISK">
+			<Text>Construct an [LINK=IMPROVEMENT_JFD_OBELISK]Obelisk[\LINK]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_JFD_OBELISK_HELP">
+			<Text>Yields [ICON_PEACE] Faith; more if built next to a city. Cannot be removed and cannot be constructed next to another Obelisk.[NEWLINE][NEWLINE]Spawns [ICON_RES_WHEAT] Wheat if within the radius of a city with the completed [ICON_JFD_HYMN] Great Hymn to the Aten.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_JFD_OBELISK">
+			<Text>Obelisk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_JFD_OBELISK_HELP">
+			<Text>An Obelisk can only be built on a Desert or Plains tile, and not on Hills. It provides [ICON_PEACE] Faith; more if adjacent to a city. It also spawns a source of [ICON_RES_WHEAT] Wheat if within the radius of a city with the completed [ICON_JFD_HYMN] Great Hymn to the Aten. It may not be adjacent to another Obelisk and must be built in Egyptian territory.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_JFD_OBELISK_TEXT">
+			<Text>An obelisk is a tall, four-sided, narrow tapering monument which ends in a pyramid-like shape or pyramidion at the top. Obelisks were prominent in the architecture of the ancient Egyptians, who placed them in pairs at the entrance of temples. The word "obelisk" as used in English today is of Greek rather than Egyptian origin because Herodotus, the Greek traveller, was one of the first classical writers to describe the objects. A number of ancient Egyptian obelisks are known to have survived, plus the "Unfinished Obelisk" found partly hewn from its quarry at Aswan. These obelisks are now dispersed around the world, and fewer than half of them remain in Egypt.[NEWLINE][NEWLINE]An Obelisk can only be built by the Egyptians led by Akhenaten. It can only be constructed on Flat Desert or Plains, and not adjacent to another Obelisk. It yields a small amount of [ICON_PEACE] Faith, yielding more if it is adjacent to a city. However, it's true potential comes about when it is within the radius of a city containing the complete [ICON_JFD_HYMN] Great Hymn to the Aten. During this time, the tile on which the Obelisk is built creates a source of [ICON_RES_WHEAT] Wheat. However, this [ICON_RES_WHEAT] Wheat is removed should the city no longer possesses the complete [ICON_JFD_HYMN] Great Hymn.</Text>
+		</Row>
+		<!-- ATENISM -->
+		<Row Tag="TXT_KEY_RELIGION_JFD_ATENISM">
+			<Text>Atenism</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RELIGION_JFD_ATENISM_PEDIA">
+			<Text>The Amarna heresy, today sometimes referred to as Atenism, covers the religious changes associated with the eighteenth dynasty Pharaoh Amenhotep IV, better known under his adopted name; Akhenaten.[NEWLINE][NEWLINE]During the Middle Kingdom, Aten was a relatively obscure sun god. He was primarily a minor aspect of the greater god Re, depicted as the sun disk. Although solar cults had always held a preeminent place in Egyptian belief, Akhenaton raised the supremacy of Aten with the startling innovation that Aten was to be the only god. Although each line of kings prior to the reign of Akhenaten had previously adopted one deity as the royal patron and supreme state god, there had never been an attempt to exclude other deities, and the multitude of gods had been tolerated and worshipped at all times. Thus, while the early stages of Atenism appear to have functioned as a kind of henotheism familiar in Egyptian religion, the later stages suggest a form of proto-monotheism.[NEWLINE][NEWLINE]The Pharaoh, who was both king and god, was largely controlled by the power and influence of the priests and scribes. Akhenaten's reforms cut away both the philosophical and economic bases of priestly power, abolishing the cults of all other deities, and with them the large and lucrative industry of sacrifices and tributes that the priests controlled. At the same time, this strengthened the role of the Pharaoh, redefining the relationship of god and king in a way that benefited Akhenaten. Idols were also banned to emphasize Aten's universal presence.[NEWLINE][NEWLINE]Atenism was Egypt's state religion for around 20 years, before subsequent rulers returned to the traditional gods and the Pharaohs associated with Atenism were erased from Egyptian records. Although modern scholars sometimes attempt to draw connections between Atenism and the emergence of Judaism, the two religions are largely considered to be unrelated.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

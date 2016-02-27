@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 11/23/2013 1:27:25 PM -->
+<GameData>
+	<Language_en_US>
+		<!--BARATHOR MORE PANTHEONS-->
+		<Replace Tag="TXT_KEY_BELIEF_EARTH_MOTHER">
+			<Text>+1 [ICON_PEACE] Faith from from Limestone, Marble, Stone, and Iron</Text>
+		</Replace>
+		<!--GAZEBO COMMUNITY BALANCE PATCH-->
+		<Row Tag="TXT_KEY_BUILDING_JFD_BRICK_MASON_HELP_CBP">
+			<Text>Each source of [ICON_RES_JFD_LIMESTONE] Limestone, [ICON_RES_MARBLE] Marble, [ICON_RES_SALT] Salt, and [ICON_RES_STONE] Stone worked by this City produce +1 [ICON_PRODUCTION] Production.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_BRICK_MASON_STRATEGY_CBP">
+			<Text>The unique Brick Mason is Djoser Egypt's replacement for the Stone Works. Although it does not provide [ICON_HAPPINESS_1] Happiness like the Stone Works, the Brick Mason is available at Masonry and may be constructed without the regular terrain requirements. It contains a slot for one Engineer Specialist and improves the [ICON_PRODUCTION] Production output of [ICON_RES_JFD_LIMESTONE] Limestone, [ICON_RES_MARBLE] Marble, [ICON_RES_SALT] Salt, and [ICON_RES_STONE] Stone.</Text>
+		</Row>
+		<!--JFD PIETY & SOVEREIGNTY-->
+		<!--Heads of Govt.-->
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_EGYPT_DJOSER_1">
+			<Text>Imhotep</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_EGYPT_DJOSER_2">
+			<Text>Kagemni I</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_EGYPT_DJOSER_3">
+			<Text>Nefermaat I</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_EGYPT_DJOSER_4">
+			<Text>Hemiunu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_EGYPT_DJOSER_5">
+			<Text>Kawab</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_EGYPT_DJOSER_6">
+			<Text>Ankhhaf</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_EGYPT_DJOSER_7">
+			<Text>Nefermaat II</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_EGYPT_DJOSER_8">
+			<Text>Minkhaf</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_EGYPT_DJOSER_9">
+			<Text>Khufukhaef</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_EGYPT_DJOSER_10">
+			<Text>Nikaure</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_EGYPT_DJOSER_11">
+			<Text>Ankhmare</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_EGYPT_DJOSER_12">
+			<Text>Duaenre</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_EGYPT_DJOSER_13">
+			<Text>Nebemakhet</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_EGYPT_DJOSER_14">
+			<Text>Iunmin I</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_EGYPT_DJOSER_15">
+			<Text>Babaef II</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_EGYPT_DJOSER_16">
+			<Text>Sekhemkare</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_EGYPT_DJOSER_17">
+			<Text>Weshptah</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_EGYPT_DJOSER_18">
+			<Text>Ptahhotep I</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_EGYPT_DJOSER_19">
+			<Text>Akhethotep</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_EGYPT_DJOSER_20">
+			<Text>Ptahhotep II</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_EGYPT_DJOSER_21">
+			<Text>Senedjemib Inti</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_EGYPT_DJOSER_22">
+			<Text>Senedjemib Mehi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_EGYPT_DJOSER_23">
+			<Text>Nefersheshemre</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_EGYPT_DJOSER_24">
+			<Text>Kagemni</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_EGYPT_DJOSER_25">
+			<Text>Mereruka</Text>
+		</Row>
+		<!--RYOGA UNIQUE CULTURAL INFLUENCE-->
+		<Row Tag="TXT_KEY_GENERIC_JFD_EGYPT_DJOSER_INFLUENTIAL_ON_AI_1">
+			<Text>Our people are now constructing mud pyramids in which to house their dead! We're worried the rest of the world will also succumb to the influence of your culture.</Text>
+		</Row>
+		<!--SUKRITACT DECISIONS-->
+		<!--Codify the Vizierate-->
+		<Row Tag="TXT_KEY_DECISIONS_JFD_EGYPT_DJOSER_VIZIERATE">
+			<Text>Codify the Vizierate</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JFD_EGYPT_DJOSER_VIZIERATE_DESC">
+			<Text>
+				The conduct by which the Viziers of our government present themselves is in dire need of structure and codification. Only by entrenching our expectations of the Vizier can we hope to entrust them with running an efficient administration.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Egypt (Djoser)
+				[NEWLINE][ICON_BULLET]Must have at least one Vizier
+				[NEWLINE][ICON_BULLET]Must have researched Writing
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Num} {2_YieldType}
+				[NEWLINE][ICON_BULLET]{3_Num} [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Receive +1 [ICON_MAGISTRATES] Magistrate whenever a Vizier is expended
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JFD_EGYPT_DJOSER_VIZIERATE_ENACTED_DESC">
+			<Text>
+				The conduct by which the Viziers of our government present themselves is in dire need of structure and codification. Only by entrenching our expectations of the Vizier can we hope to entrust them with running an efficient administration.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Receive +1 [ICON_MAGISTRATES] Magistrate whenever a Vizier is expended
+			</Text>
+		</Row>
+		<!--Develop Step Pyramids-->
+		<Row Tag="TXT_KEY_DECISIONS_JFD_EGYPT_DJOSER_STEP_PYRAMIDS">
+			<Text>Develop Step Pyramids</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JFD_EGYPT_DJOSER_STEP_PYRAMIDS_DESC">
+			<Text>
+				Our tombs are well and truly monumental, but what if... - now bear with me on this - what if we constructed a tomb on top of a tomb on top of a tomb. Now that would be truly remarkable![NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Egypt (Djoser)
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Num} [ICON_GOLD] Gold
+				[NEWLINE][ICON_BULLET]2 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Allows construction of Step Pyramids in cities which have a Brick Mason
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JFD_EGYPT_DJOSER_STEP_PYRAMIDS_ENACTED_DESC">
+			<Text>
+				Pyramids are well and truly monumental, but what if... - now bear with me on this - what if we constructed a pyramid on top of a pyramid on top of a pyramid. Now that would be truly remarkable![NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Allows construction of Step Pyramids in cities which have a Brick Mason
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WORLD_EVENT_JFD_EGYPT_DJOSER_STEP_PYRAMID">
+			<Text>{1_LeaderName} of {2_CivName} has innovated the construction of Step Pyramids - pyramids constructed on top of pyramids! Who'd've thunk?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JFD_STEP_PYRAMID">
+			<Text>Step Pyramid</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JFD_STEP_PYRAMID_HELP">
+			<Text>+1 [ICON_CULTURE] Culture and +1 [ICON_PEACE] Faith on sources of [ICON_RES_JFD_LIMESTONE] Limestone. May only be constructed by Egypt under Djoser through the "Develop Step Pyramids" decision.[NEWLINE][NEWLINE]City must have a Brick Mason.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JFD_STEP_PYRAMID_PEDIA">
+			<Text>Djoser was famous for his great tomb at Saqqara, which is considered to be the first step pyramid. It consisted of six mastabas (a type of mud tomb) constructed on top of each other, each smaller in size than the last. Djoser's Vizier, Imhotep, is credited with overseeing its construction.</Text>
+		</Row>
+		<!--SUKRITACT EVENTS-->
+		<!--Cultural Development-->
+		<Row Tag="TXT_KEY_EVENT_CULDEV_JFD_EGYPT_DJOSER_01">
+			<Text>To mask the unpleasantness of their poor dental hygiene, the people of {1_City} have invented breath mints!</Text>
+		</Row>
+		<!--Hebsed Festival-->
+		<Row Tag="TXT_KEY_EVENT_JFD_EGYPT_DJOSER_HEBSED">
+			<Text>Hebsed Festival</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_EGYPT_DJOSER_HEBSED_DESC">
+			<Text>
+				Today marks the great Heb Sed - the great feast of rejuvenation! For many years we have ruled over the Egyptian lands, and for many years more do we hope to do so.[NEWLINE]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_EGYPT_DJOSER_HEBSED_OUTCOME_1">
+			<Text>Let the celebrations begin!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_EGYPT_DJOSER_HEBSED_OUTCOME_RESULT_1">
+			<Text>[ICON_BULLET][COLOR_POSITIVE_TEXT]All cities begin celebrating 'We Love the King Day' for 5 turns[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_EGYPT_DJOSER_HEBSED_OUTCOME_RESULT_1_NOTIFICATION">
+			<Text>Celebrations in honour of our reign begin.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WORLD_EVENT_JFD_EGYPT_DJOSER_HEBSED_1">
+			<Text>Celebrations in honour of the reign of {1_LeaderName} have begun in {2_CivName}.</Text>
+		</Row>
+		<!--Exceptional Courtier-->
+		<Row Tag="TXT_KEY_EVENT_JFD_EGYPT_DJOSER_EXCEPTIONAL_COURTIER">
+			<Text>Exceptional Courtier</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_EGYPT_DJOSER_EXCEPTIONAL_COURTIER_DESC">
+			<Text>One of our courtiers is well regarded for their exceptional wisdom and skill. It has been recommended to us that we appoint them as Vizier.[NEWLINE]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_EGYPT_DJOSER_EXCEPTIONAL_COURTIER_OUTCOME_1">
+			<Text>We certainly must.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_EGYPT_DJOSER_EXCEPTIONAL_COURTIER_OUTCOME_2">
+			<Text>Our present Vizier serves us too well.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_EGYPT_DJOSER_EXCEPTIONAL_COURTIER_OUTCOME_RESULT_1">
+			<Text>[ICON_BULLET][COLOR_POSITIVE_TEXT]Gain a free Vizier[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_EGYPT_DJOSER_EXCEPTIONAL_COURTIER_OUTCOME_RESULT_2">
+			<Text>[ICON_BULLET][COLOR_POSITIVE_TEXT]Gain {1_Num} [ICON_CULTURE] Culture[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_EGYPT_DJOSER_EXCEPTIONAL_COURTIER_OUTCOME_RESULT_2_NOTIFICATION">
+			<Text>We have continued with our present Vizier.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_EGYPT_DJOSER_EXCEPTIONAL_COURTIER_OUTCOME_RESULT_1_NOTIFICATION">
+			<Text>We have appointed a new Vizier.</Text>
+		</Row>
+		<!--Observation of Khnum-->
+		<Row Tag="TXT_KEY_EVENT_JFD_EGYPT_DJOSER_KHNUM">
+			<Text>Observation of Khnum</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_EGYPT_DJOSER_KHNUM_DESC">
+			<Text>Our Vizier has recommended to us that we observe the blessings of Khnum, the God of the waters. Doing so, he advises, would ensure the continued prosperity and fertility of our lands.[NEWLINE]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_EGYPT_DJOSER_KHNUM_OUTCOME_1">
+			<Text>No, it would be a waste of our time.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_EGYPT_DJOSER_KHNUM_OUTCOME_2">
+			<Text>Indeed, we must show our reverence.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_EGYPT_DJOSER_KHNUM_OUTCOME_RESULT_1">
+			<Text>[ICON_BULLET][COLOR_NEGATIVE_TEXT]20% chance that all cities will lose {1_Num} [ICON_FOOD] Food[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_EGYPT_DJOSER_KHNUM_OUTCOME_RESULT_2">
+			<Text>[ICON_BULLET][COLOR_NEGATIVE_TEXT]Lose {1_Num} [ICON_PEACE] Faith[NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]25% chance that each city will gain {2_Num} [ICON_FOOD] Food. Chance is doubled if the city has a Temple[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_EGYPT_DJOSER_KHNUM_OUTCOME_RESULT_1_NOTIFICATION">
+			<Text>We have decided not to honour the water God Khnum, but it appears to have come at no consequence.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_EGYPT_DJOSER_KHNUM_OUTCOME_RESULT_1_ALT_NOTIFICATION">
+			<Text>We have decided not to honour the water God Khnum, and our people shall suffer for it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_EGYPT_DJOSER_KHNUM_OUTCOME_RESULT_2_NOTIFICATION">
+			<Text>We have honoured the water God Khnum, and the following cities have been blessed with fruitfulness:[NEWLINE][NEWLINE]{1_CityList}</Text>
+		</Row>
+		<!--VICEVIRTUOSO WISH FOR THE WORLD-->
+		<Row Tag="TXT_KEY_PMMM_LEADER_MG_NAME_JFD_EGYPT_DJOSER">
+			<Text>Hetephernebti</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

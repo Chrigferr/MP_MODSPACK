@@ -1,0 +1,126 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="1a62f11f-9bca-454d-8eba-42f9ed5ed02d" version="1">
+  <Properties>
+    <Name>JFD's The Empire of Russia (Alexander I)</Name>
+    <Teaser>Adds the [COLOR_POSITIVE_TEXT]The Empire of Russia[ENDCOLOR] with Alexander I to the game.</Teaser>
+    <Description>See the Steam Workshop or CivFanatics for full details.</Description>
+    <Authors>JFD, Janboruta</Authors>
+    <SpecialThanks>Wolfdog</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References>
+    <Mod id="eea66053-7579-481a-bb8d-2f3959b59974" minversion="0" maxversion="999" title="JFD’s Piety" />
+    <Mod id="d99bf7aa-51ac-4bef-bd88-d765b28e260e" minversion="0" maxversion="999" title="JFD’s Sovereignty" />
+    <Mod id="1f941088-b185-4159-865c-472df81247b2" minversion="0" maxversion="999" title="Sukritact’s Events &amp;amp; Decisions" />
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="Yet (not) Another Earth Map Pack" />
+    <Mod id="e576894a-ed2b-4033-be14-ed1c8ceb81d3" minversion="0" maxversion="999" title="Map Labels" />
+    <Mod id="7fdd72a5-d4ae-441c-bc4e-2e3d2a26cff4" minversion="0" maxversion="999" title="Ethnic Units" />
+    <Mod id="8670da15-d435-44ea-9758-7438cb321411" minversion="0" maxversion="999" title="R.E.D. Modpack" />
+    <Mod id="d1b6328c-ff44-4b0d-aad7-c657f83610cd" minversion="0" maxversion="999" title="Community Patch" />
+    <Mod id="8411a7a8-dad3-4622-a18e-fcc18324c799" minversion="0" maxversion="999" title="Community Balance Patch" />
+    <Mod id="1153b26a-69fd-4cd5-899c-a8ba8e0e5e5d" minversion="0" maxversion="999" title="Civ IV Leader Traits in Civ V" />
+    <Mod id="6676902b-b907-45f1-8db5-32dcb2135eee" minversion="0" maxversion="999" title="JFD's Exploration Continued Expanded" />
+    <Mod id="ce8aa614-7ef7-4a45-a179-5329869e8d6d" minversion="0" maxversion="999" title="Enlightenment Era" />
+    <Mod id="a19351c5-c0b3-4b07-8695-4affaa199949" minversion="0" maxversion="999" title="JFD’s and Pouakai’s Mercenaries" />
+    <Mod id="10e9728f-d61c-4317-be4f-7d52d6bae6f4" minversion="0" maxversion="999" title="JFD's Claims and Colonies" />
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="JFD's Cultural Diversity (Core)" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="45CE3EEF4A2E8A7A8AE11F5E97C5410D" import="1">Art/Diplomacy/AlexanderI_Scene.xml</File>
+    <File md5="811302B0A09D8639007EBF689C9F3441" import="1">Art/Diplomacy/AlexanderI_Diplo.dds</File>
+    <File md5="766D45059F250D05D64BCA6C66D052AB" import="1">Art/Events/Event_RussiaAlexanderI_Metternich.dds</File>
+    <File md5="6980875088C325A71A77496E91015804" import="1">Art/Events/Event_RussiaAlexanderI_Serfdom.dds</File>
+    <File md5="B811B72697A619361DE0E11317B5BFF4" import="1">Art/Graphics/Leib-Gvardia/civ5_rusmm2.fxsxml</File>
+    <File md5="EF5A0AABD477D83A197929A7D1AADE2C" import="1">Art/Graphics/Leib-Gvardia/civ5_rusmm2.gr2</File>
+    <File md5="A3F63AB768EC7604D162ACBE7664D51C" import="1">Art/Graphics/Leib-Gvardia/rusmm2.dds</File>
+    <File md5="D6CB61760E74395DACB4F569496F9004" import="1">Art/Graphics/Leib-Gvardia/rusmm2_sref.dds</File>
+    <File md5="38EB7EF1D82DAE6311B0D2513B05E393" import="1">Art/Graphics/Leib-Gvardia/sv_Leibgvardia.dds</File>
+    <File md5="8B2BF80A1783F8F2EB1A1895FBF09996" import="1">Art/Graphics/Licorne/Licorne.fxsxml</File>
+    <File md5="B66BCC997F3228AC07329563DD440787" import="1">Art/Graphics/Licorne/Licorne.gr2</File>
+    <File md5="1250685690F5AD9A91EAEEB61B7A289C" import="1">Art/Graphics/Licorne/Licorne.indiedefs</File>
+    <File md5="EB7D306620464316A531B6CDE63B1CE7" import="1">Art/Graphics/Licorne/Licornecannon_24pound_diff.dds</File>
+    <File md5="8D4A41DB021D942DCA1390B723FE608C" import="1">Art/Graphics/Licorne/Licornecannon_24pound_sref.dds</File>
+    <File md5="418338C4E251F1653A2247AF6B36C925" import="1">Art/Graphics/Licorne/LicorneGunCrew_diff.dds</File>
+    <File md5="2E83649159E2176174387139A009F79D" import="1">Art/Graphics/Licorne/LicorneGunCrew_sref.dds</File>
+    <File md5="15A1B121BB19FECFD9DC93747FE9D4DA" import="1">Art/Graphics/Licorne/sv_Licorne.dds</File>
+    <File md5="87A1C83FD748988ACB6000BC546E97D5" import="1">Art/IconAtlas/JFD_LeibgvardiaUnitFlag_32.dds</File>
+    <File md5="B66C210202F815B9BEECA150FAF2C537" import="1">Art/IconAtlas/JFD_LicorneUnitFlag_32.dds</File>
+    <File md5="5CC2141D9E3EE647473C044D81C52112" import="1">Art/IconAtlas/JFD_RussiaAlexanderIAlphaAtlas_128.dds</File>
+    <File md5="A0A3CCA20B7A8CBF707FC7BD02370E71" import="1">Art/IconAtlas/JFD_RussiaAlexanderIAlphaAtlas_16.dds</File>
+    <File md5="75F3B14DAEFA20FBBBDCFFAB29BD462D" import="1">Art/IconAtlas/JFD_RussiaAlexanderIAlphaAtlas_22.dds</File>
+    <File md5="FB6EAC48C54D118051A777F58110BC87" import="1">Art/IconAtlas/JFD_RussiaAlexanderIAlphaAtlas_24.dds</File>
+    <File md5="F5BF82BB1C3A230D376C6632784A5F09" import="1">Art/IconAtlas/JFD_RussiaAlexanderIAlphaAtlas_256.dds</File>
+    <File md5="F77EB15C12912FB9E407A60DD2870205" import="1">Art/IconAtlas/JFD_RussiaAlexanderIAlphaAtlas_32.dds</File>
+    <File md5="A8ECA069FBAD312AB62198A8B4F5628B" import="1">Art/IconAtlas/JFD_RussiaAlexanderIAlphaAtlas_45.dds</File>
+    <File md5="61C2DF4A9EA551112E6622521804CD44" import="1">Art/IconAtlas/JFD_RussiaAlexanderIAlphaAtlas_48.dds</File>
+    <File md5="FA7DD5B0D736FA32AA3EA1E6B8B18239" import="1">Art/IconAtlas/JFD_RussiaAlexanderIAlphaAtlas_64.dds</File>
+    <File md5="0BD1360D3875BB951A6E013CB0554CC6" import="1">Art/IconAtlas/JFD_RussiaAlexanderIAlphaAtlas_80.dds</File>
+    <File md5="95AA45A9D8472A96CFC99DF2E5699CB6" import="1">Art/IconAtlas/JFD_RussiaAlexanderIAtlas_128.dds</File>
+    <File md5="A809890860057FBC0DB77FFFD311B6EE" import="1">Art/IconAtlas/JFD_RussiaAlexanderIAtlas_256.dds</File>
+    <File md5="F4C2D01F7FAE6FE772D2F9E5038BB0FE" import="1">Art/IconAtlas/JFD_RussiaAlexanderIAtlas_32.dds</File>
+    <File md5="F1EA5B691C93B0076BD79316CB9CCEFC" import="1">Art/IconAtlas/JFD_RussiaAlexanderIAtlas_45.dds</File>
+    <File md5="286AD89C6FB2490529752BB538DB92A2" import="1">Art/IconAtlas/JFD_RussiaAlexanderIAtlas_64.dds</File>
+    <File md5="5EF313B1BD993756B51BB293388DC7BF" import="1">Art/IconAtlas/JFD_RussiaAlexanderIAtlas_80.dds</File>
+    <File md5="34CE8747412C8D5A91C320A106851751" import="1">Art/Map/MapRussiaAlexanderI512.dds</File>
+    <File md5="CEC3C9BDA56B157D78C715C08600235D" import="1">Art/Map/DOM_RussiaAlexanderI.dds</File>
+    <File md5="8E65DB7C600A478E2B322BEA94B9DEE8" import="1">Audio/AlexanderI_Peace.mp3</File>
+    <File md5="8D1CEA431933F4846A31E589C2FE6898" import="1">Audio/AlexanderI_War.mp3</File>
+    <File md5="F54C1CEA4E85628DBD5ECA0C31D69E48" import="0">Core/RussiaAlexanderI_ArtDefines.sql</File>
+    <File md5="772F6F7A3566F99F897DBE9668401908" import="0">Core/RussiaAlexanderI_GameDefines.sql</File>
+    <File md5="60E24A406D109DA111A804CBF7EDC609" import="0">Core/RussiaAlexanderI_GameDefines_Diplomacy.sql</File>
+    <File md5="EEE5E59621C1ADC3BBF5F6F5BC5768E0" import="0">Core/RussiaAlexanderI_GameDefines_ModSupport.sql</File>
+    <File md5="1854385F4989D96FFA9475D73B36341D" import="0">Core/RussiaAlexanderI_GameText.xml</File>
+    <File md5="CEB2192BD4E9F7258EB7BD8D1A3CA4A9" import="0">Core/RussiaAlexanderI_GameText_Diplomacy.xml</File>
+    <File md5="A0E2224D759074B50D648A8CB8375BB6" import="0">Core/RussiaAlexanderI_GameText_ModSupport.xml</File>
+    <File md5="FC6E117C75835973F759656BB4F6EF97" import="0">DeleteMissingReferences.xml</File>
+    <File md5="E46C212F2562565ED8F86DE4CA07741B" import="1">Lua/JFD_RussiaAlexanderI_Decisions.lua</File>
+    <File md5="F84FA809B0F5898CE50A68402017FC89" import="1">Lua/JFD_RussiaAlexanderI_Events.lua</File>
+    <File md5="F122006D4A35A47F00E94BDA7CB37551" import="0">Lua/JFD_RussiaAlexanderI_Functions.lua</File>
+    <File md5="7BD2FBE46D0E789BDFF45CAC065DB4E4" import="1">Lua/Utilities/PlotIterators.lua</File>
+    <File md5="86C1C3EDCE4699DE320A932C4E70E22C" import="0">Lua/Utilities/Sukritact MCIS/CityInfoStack.lua</File>
+    <File md5="120EB71025973A8A48B38314241DD0B3" import="0">Lua/Utilities/Sukritact MCIS/CityInfoStack.xml</File>
+    <File md5="90679F2491B2997ED3E1AB198F4E701B" import="0">Lua/Utilities/Sukritact MCIS/JFD_RussiaAlexanderI_CityInfo.lua</File>
+    <File md5="6B48B3E7BC35F84BA9BAE0FBBC6CA534" import="0">Lua/Utilities/Sukritact MCIS/JFD_RussiaAlexanderI_CityInfo.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Core/RussiaAlexanderI_ArtDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Core/RussiaAlexanderI_GameDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Core/RussiaAlexanderI_GameDefines_Diplomacy.sql</UpdateDatabase>
+      <UpdateDatabase>Core/RussiaAlexanderI_GameDefines_ModSupport.sql</UpdateDatabase>
+      <UpdateDatabase>Core/RussiaAlexanderI_GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/RussiaAlexanderI_GameText_Diplomacy.xml</UpdateDatabase>
+      <UpdateDatabase>Core/RussiaAlexanderI_GameText_ModSupport.xml</UpdateDatabase>
+      <UpdateDatabase>DeleteMissingReferences.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/JFD_RussiaAlexanderI_Functions.lua">
+      <Name>JFD_RussiaAlexanderI_Functions</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/Utilities/Sukritact MCIS/CityInfoStack.lua">
+      <Name>Sukritact MCIS</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/Utilities/Sukritact MCIS/JFD_RussiaAlexanderI_CityInfo.lua">
+      <Name>JFD_RussiaAlexanderI_CityInfo</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

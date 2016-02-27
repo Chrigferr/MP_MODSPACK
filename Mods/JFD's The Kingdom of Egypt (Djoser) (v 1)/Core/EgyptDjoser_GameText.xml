@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 11/23/2013 1:27:25 PM -->
+<GameData>
+	<Language_en_US>
+		<!--EGYPT-->
+		<Row Tag="TXT_KEY_CIV_JFD_EGYPT_DJOSER_ADJECTIVE">
+			<Text>Old Kingdom</Text>
+		</Row>
+		<!--Pedia-->
+		<Row Tag="TXT_KEY_CIV5_JFD_EGYPT_DJOSER_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_EGYPT_DJOSER_TEXT_1">
+			<Text>The Old Kingdom is the name given to the period in the 3rd millennium BC when Egypt attained its first continuous peak of civilization – the first of three so-called "Kingdom" periods, which mark the high points of civilization in the lower Nile Valley (the others being Middle Kingdom and the New Kingdom).</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_EGYPT_DJOSER_HEADING_2">
+			<Text>Geography and Climate</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_EGYPT_DJOSER_TEXT_2">
+			<Text>Egypt is a riparian (river-based) civilization lying alongside the Nile, which, at some 6500 km (4000 miles) in length, is the longest river on the planet. Egypt occupies the northern section of this river in a narrow but extremely fertile corridor running through otherwise harsh desert terrain of the North African Sahara desert. While the physical area of Egypt extended a great distance to the east and west, the vast majority of that terrain is empty useless desert, and through its history almost all Egyptians have lived within walking distance of the river.[NEWLINE][NEWLINE]Until the implementation of damming projects in the 20th century, the Nile flooded its banks in the summer of every year. Egyptian farmers relied on these floods to bring water and fresh nutrients to their fields, and a dry year could easily spell famine and disaster to the population. The Nile also provided a good deal of protein to the Egyptians, who were adept fishermen and who early on mastered the construction and handling of small watercraft.[NEWLINE][NEWLINE]The Mediterranean Sea lies to the north of Egypt. A mild and generous sea, the Mediterranean encourages exploration and trade between all civilizations who live on its borders.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_EGYPT_DJOSER_HEADING_3">
+			<Text>Third Dynasty</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_EGYPT_DJOSER_TEXT_3">
+			<Text>The first king of the Old Kingdom was Djoser (sometime between 2691 and 2625 BC) of the third dynasty, who ordered the construction of a pyramid (the Step Pyramid) in Memphis' necropolis, Saqqara. An important person during the reign of Djoser was his vizier, Imhotep.[NEWLINE][NEWLINE]It was in this era that formerly independent ancient Egyptian states became known as nomes, under the rule of the pharaoh. The former rulers were forced to assume the role of governors or otherwise work in tax collection. Egyptians in this era worshipped their pharaoh as a god, believing that he ensured the annual flooding of the Nile that was necessary for their crops. Egyptian views on the nature of time during this period held that the universe worked in cycles, and the Pharaoh on earth worked to ensure the stability of those cycles. They also perceived themselves as a specially selected people.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_EGYPT_DJOSER_HEADING_4">
+			<Text>Fifth Dynasty</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_EGYPT_DJOSER_TEXT_4">
+			<Text>The Fifth Dynasty (2494–2345 BC) began with Userkaf (2494–2487 BCE) and was marked by the growing importance of the cult of sun god Ra. Consequently less efforts were devoted to the construction of pyramid complexes than during the 4th dynasty and more to the construction of sun temples in Abusir.[NEWLINE][NEWLINE]Userkaf was succeeded by his son Sahure (2487–2475 BCE) who commanded an expedition to Punt. Sahure was in turn succeeded by Neferirkare Kakai (2475–2455 BC) who was either Sahure's son or his brother, in which case he might have usurped the throne at the expense Prince Netjerirenre. He was followed by two shadowy short-lived kings Neferefre (2455–2453 BC) and Shepseskare, the latter being possibly a son of Sahure. Shepseskare was deposed by Neferefre's brother Nyuserre Ini (2445–2421 BCE).[NEWLINE][NEWLINE]Egypt's expanding interests in trade goods such as ebony, incense such as myrrh and frankincense, gold, copper and other useful metals inspired the ancient Egyptians to build suitable ships for navigation of the open sea. They traded with Lebanon for cedar and traveled the length of the Red Sea to the Kingdom of Punt, which was possibly modern day Somalia, for ebony, ivory and aromatic resins. Ship builders of that era did not use pegs (treenails) or metal fasteners, but relied on rope to keep their ships assembled. Planks and the superstructure were tightly tied and bound together.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_EGYPT_DJOSER_HEADING_5">
+			<Text>Sixth Dynasty</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_EGYPT_DJOSER_TEXT_5">
+			<Text>During the sixth dynasty (2345–2181 BCE) the power of pharaoh gradually weakened in favor of powerful nomarchs (regional governors). These no longer belonged to the royal family and their charge became hereditary, thus creating local dynasties largely independent from the central authority of the pharaoh. Internal disorders set in during the incredibly long reign of Pepi II (2278–2184 BCE) towards the end of the dynasty. His death, certainly well past that of his intended heirs, might have created succession struggles and the country slipped into civil wars mere decades after the close of Pepi II's reign.[NEWLINE][NEWLINE]The final blow was a severe drought in the region that resulted in a drastic drop in precipitation between 2200 and 2150 BCE, which in turn prevented the normal flooding of the Nile.[11] The result was the collapse of the Old Kingdom followed by decades of famine and strife. An important inscription on the tomb of Ankhtifi, a nomarch during the early First Intermediate Period, describes the pitiful state of the country when famine stalked the land.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_EGYPT_DJOSER_HEADING_6">
+			<Text>Culture</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_EGYPT_DJOSER_TEXT_6">
+			<Text>Egypt's Old Kingdom (Dynasties 3–6, ca. 2649–2150 BCE) was one of the most dynamic periods in the development of Egyptian art. During this period, artists learned to express their culture's worldview, creating for the first time images and forms that endured for generations. Architects and masons mastered the techniques necessary to build monumental structures in stone.[NEWLINE][NEWLINE]Sculptors created the earliest portraits of individuals and the first lifesize statues in wood, copper, and stone. They perfected the art of carving intricate relief decoration and, through keen observation of the natural world, produced detailed images of animals, plants, and even landscapes, recording the essential elements of their world for eternity in scenes painted and carved on the walls of temples and tombs.[NEWLINE][NEWLINE]These images and structures had two principal functions: to ensure an ordered existence and to defeat death by preserving life into the next world. To these ends, over a period of time, Egyptian artists adopted a limited repertoire of standard types and established a formal artistic canon that would define Egyptian art for more than 3,000 years, while remaining flexible enough to allow for subtle variation and innovation. Although much of their artistic effort was centered on preserving life after death, Egyptians also surrounded themselves with objects to enhance their lives in this world, producing elegant jewelry, finely carved and inlaid furniture, and cosmetic vessels and implements made from a wide range of materials.[NEWLINE][NEWLINE]From Wikipedia</Text>
+		</Row>
+		<!--Cities-->
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_EGYPT_DJOSER_1">
+			<Text>Memphis</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_EGYPT_DJOSER_2">
+			<Text>Heliopolis</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_EGYPT_DJOSER_3">
+			<Text>Giza</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_EGYPT_DJOSER_4">
+			<Text>Saqqara</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_EGYPT_DJOSER_5">
+			<Text>Nekhen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_EGYPT_DJOSER_6">
+			<Text>Abydos</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_EGYPT_DJOSER_7">
+			<Text>Busiris</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_EGYPT_DJOSER_8">
+			<Text>Kahun</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_EGYPT_DJOSER_9">
+			<Text>Sais</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_EGYPT_DJOSER_10">
+			<Text>Mendes</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_EGYPT_DJOSER_11">
+			<Text>Bubastis</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_EGYPT_DJOSER_12">
+			<Text>Yebu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_EGYPT_DJOSER_13">
+			<Text>Abydos</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_EGYPT_DJOSER_14">
+			<Text>Tanis</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_EGYPT_DJOSER_15">
+			<Text>Buto</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_EGYPT_DJOSER_16">
+			<Text>Dahshur</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_EGYPT_DJOSER_17">
+			<Text>Akoris</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_EGYPT_DJOSER_18">
+			<Text>Iunu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_EGYPT_DJOSER_19">
+			<Text>Per-Wadjet</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_EGYPT_DJOSER_20">
+			<Text>Shedyet</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_EGYPT_DJOSER_21">
+			<Text>Tjebu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_EGYPT_DJOSER_22">
+			<Text>Nubt</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_EGYPT_DJOSER_23">
+			<Text>Swenet</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_EGYPT_DJOSER_24">
+			<Text>Zawty</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_EGYPT_DJOSER_25">
+			<Text>Men-Nefer</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_EGYPT_DJOSER_26">
+			<Text>Buhen</Text>
+		</Row>
+		<!--Spies-->
+		<Row Tag="TXT_KEY_SPY_NAME_CIVILIZATION_JFD_EGYPT_DJOSER_1">
+			<Text>Khasekhemwy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CIVILIZATION_JFD_EGYPT_DJOSER_2">
+			<Text>Khufu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CIVILIZATION_JFD_EGYPT_DJOSER_3">
+			<Text>Khafre</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CIVILIZATION_JFD_EGYPT_DJOSER_4">
+			<Text>Menkaure</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CIVILIZATION_JFD_EGYPT_DJOSER_5">
+			<Text>Sneferu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CIVILIZATION_JFD_EGYPT_DJOSER_6">
+			<Text>Menes</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CIVILIZATION_JFD_EGYPT_DJOSER_7">
+			<Text>Hetephernebti</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CIVILIZATION_JFD_EGYPT_DJOSER_8">
+			<Text>Nimaethap</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CIVILIZATION_JFD_EGYPT_DJOSER_9">
+			<Text>Inetkaes</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CIVILIZATION_JFD_EGYPT_DJOSER_10">
+			<Text>Mit-Amen</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<!--DJOSER-->
+		<Row Tag="TXT_KEY_LEADER_JFD_DJOSER">
+			<Text>Djoser</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_DJOSER_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_DJOSER_TEXT_1">
+			<Text>Djoser was an ancient Egyptian pharaoh of the 3rd dynasty during the Old Kingdom and the founder of this epoque. He is well known under his Hellenized names Tosorthros (by Manetho) and Sesorthos (by Eusebius). He was the son of king Khasekhemwy and queen Nimaethap, but if he also was the direct throne successor is still unclear. Most Ramesside Kinglists name a king Nebka before him, but since there are still difficulties in connecting that name with contemporary horus names, some Egyptologists question the handed down throne sequence.[NEWLINE][NEWLINE]Manetho states Djoser ruled Egypt for twenty-nine years, while the Turin King List states it was only nineteen years. Because of his many substantial building projects, particularly at Saqqara, some scholars argue Djoser must have enjoyed a reign of nearly three decades. Manetho's figure appears to be more accurate, according to Wilkinson's analysis and reconstruction of the Royal Annals. Wilkinson reconstructs the Annals as giving Djoser "28 complete or partial years", noting that the cattle counts recorded on Palermo stone register V, and Cairo Fragment 1, register V, for the beginning and ending of Djoser's reign, would most likely indicate his regnal years 1–5 and 19–28. Unfortunately, next to all entrances are illegible today. The Year of coronation is preserved, followed by the year events receiving the twin-pillars and stretching the cords for the fortress Qau-Netjerw ("hills of the gods").[NEWLINE][NEWLINE]One of the most famous contemporaries of king Djoser was his vizier, "head of the royal shipyard" and "overseer of all stone works", Imhotep. Imhotep oversaw stone building projects such as the tombs of King Djoser and King Sekhemkhet. It is possible, that Imhotep was mentioned in the also famous Papyrus Westcar, in a story called "Khufu and the magicians". But because the papyrus is badly damaged at the beginning, Imhotep's name is lost today. A papyrus from the ancient Egyptian temple of Tebtunis, dating to the 2nd century AD, preserves a long story in the demotic script about Djoser and Imhotep. At Djoser's time Imhotep was of such importance and fame that he was honoured by being mentioned on statues of king Djoser in his necropolis at Saqqara.[NEWLINE][NEWLINE]Djoser was buried in his famous step pyramid at Saqqara. This pyramid was originally built as a nearly quadratic mastaba, but then five further mastabas were literally piled upon the first, each new mastaba smaller than the predecessing ones, until the monument became Egypt's first step pyramid. Supervisor of the building constructions was the high lector priest Imhotep.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_DJOSER_NAME">
+			<Text>Djoser</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_DJOSER_SUBTITLE">
+			<Text>Leader of Egypt</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_DJOSER_TITLES_1">
+			<Text>Pharaoh of Egypt</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_DJOSER_LIVED">
+			<Text>?? - 2670 BCE</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DAWN_EGYPT_DJOSER_TEXT">
+			<Text>We kneel to your blessing, O' he who is divine of body, Djoser, Pharaoh of Egypt and of the flowing Nile. You are the ruler who brought an end to famine and a beginning to plenty, and the founder of Egypt's third dynasty. Aided by your Vizier, Imhotep, you oversaw the restoration of the great temple of Khnum, and with it the prosperity and fertility of your people. You pioneered the construction of Egypt's first great pyramids, and your visionary projects remain today a testimony to the stability and strength of your reign.[NEWLINE][NEWLINE]Wise ruler, the time to restore Egypt's monuments are upon you. Can you, through shrewd administration and long life, compel the peoples of your realm to erect great structures, and, in return, deliver to them an age of prosperity? Can you build a civilization that can stand the test of time?</Text>
+		</Row>
+		<!--FEATS OF IMUTHES-->
+		<Row Tag="TXT_KEY_TRAIT_JFD_EGYPT_DJOSER_SHORT">
+			<Text>Feats of Imuthes</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_JFD_EGYPT_DJOSER">
+			<Text>Wonder [ICON_PRODUCTION] Production Bonuses from Beliefs, Buildings, Policies, Resources etc. also apply 50% of their bonus toward Buildings. Free Vizier at Masonry.</Text>
+		</Row>
+		<Row Tag="BUILDING_JFD_EGYPT_DJOSER_PRODUCTION_MOD_DESC">
+			<Text>JFD: Egypt (Djoser) Production</Text>
+		</Row>
+		<Row Tag="BUILDING_JFD_EGYPT_DJOSER_PRODUCTION_MOD_HELP">
+			<Text>+1% [ICON_PRODUCTION] Building Production.</Text>
+		</Row>
+		<!--VIZIER-->
+		<Row Tag="TXT_KEY_UNIT_JFD_VIZIER">
+			<Text>Vizier</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_VIZIER_TEXT">
+			<Text>The Vizier was the highest official in Ancient Egypt, chosen by the Pharaoh to serve him in running the country. In this way, a Vizier is somewhat analogous to an pre-modern Prime Minister. However, the Vizier's duties were often much more important. Tax collectors, scribes, and other civil servants all reported to the Vizier, and it was his duty to ensure the functioning of the civil administration. He also sat in the High Court, and supervised the security of the Pharaoh and the palace. Often, the Vizier was instrumental in the effective government of the Pharaoh.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_VIZIER_HELP">
+			<Text>The Vizier is the unique Great Engineer for Djoser's Egypt. Besides the regular abilities of the Great Engineer, the Vizier can also be used to discover a source of [ICON_RES_JFD_LIMESTONE] Limestone, which boosts Wonder [ICON_PRODUCTION] Production. This also creates a free Worker unit.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_VIZIER_STRATEGY">
+			<Text>The Vizier is a unique Great Engineer replacement, only available to Djoser's Egypt. Unlike the Great Engineer, the Vizier may be expended to discover a source of [ICON_RES_JFD_LIMESTONE] Limestone on any Flatlands tile, so long as it is within your borders. [ICON_RES_JFD_LIMESTONE] Limestone boosts Wonder [ICON_PRODUCTION] Production in the nearby city by 10%, and this effect may stack with the effect given by [ICON_RES_MARBLE] Marble. When a Vizier is expended like this, it also creates a free Worker unit.</Text>
+		</Row>
+		<Row Tag="BUILDING_JFD_EGYPT_DJOSER_LIMESTONE_BONUS_DESC">
+			<Text>JFD: Egypt (Djoser) Limestone</Text>
+		</Row>
+		<Row Tag="BUILDING_JFD_EGYPT_DJOSER_LIMESTONE_BONUS_HELP">
+			<Text>+10% [ICON_PRODUCTION] Wonder Production.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_JFD_VIZIER_LIMESTONE">
+			<Text>Quarry</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_JFD_VIZIER_LIMESTONE">
+			<Text>Discover Limestone</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_JFD_VIZIER_LIMESTONE_HELP">
+			<Text>Unit will be consumed.[NEWLINE]Creates a source of [ICON_RES_JFD_LIMESTONE] Limestone and a Worker on this tile.[NEWLINE]+2 [ICON_PRODUCTION]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_JFD_LIMESTONE">
+			<Text>Limestone</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_JFD_LIMESTONE_TEXT">
+			<Text>Limestone is a type of sedimentary rock usually composed of the skeletal remains of marine life such as coral, forams, and molluscs. Historically, Limestone has often been used in the construction of buildings. Egypt's Great Pyramid, for instance, is layered with Limestone. It is also used today in toothpaste.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_RESOURCE_JFD_LIMESTONE_SHORT_DESC">
+			<Text>Limestone Connected</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_RESOURCE_JFD_LIMESTONE_DESC">
+			<Text>You have connected [ICON_RES_JFD_LIMESTONE] Limestone to one of your cities! This will boost the [ICON_PRODUCTION] Production of Wonders in that city by 10%.</Text>
+		</Row>
+		<!--Unique Names-->
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_VIZIER_1">
+			<Text>Imhotep</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_VIZIER_2">
+			<Text>Kagemni I</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_VIZIER_3">
+			<Text>Nefermaat I</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_VIZIER_4">
+			<Text>Hemiunu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_VIZIER_5">
+			<Text>Kawab</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_VIZIER_6">
+			<Text>Ankhhaf</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_VIZIER_7">
+			<Text>Nefermaat II</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_VIZIER_8">
+			<Text>Minkhaf</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_VIZIER_9">
+			<Text>Khufukhaef</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_VIZIER_10">
+			<Text>Nikaure</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_VIZIER_11">
+			<Text>Ankhmare</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_VIZIER_12">
+			<Text>Duaenre</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_VIZIER_13">
+			<Text>Nebemakhet</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_VIZIER_14">
+			<Text>Iunmin I</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_VIZIER_15">
+			<Text>Babaef II</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_VIZIER_16">
+			<Text>Sekhemkare</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_VIZIER_17">
+			<Text>Weshptah</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_VIZIER_18">
+			<Text>Ptahhotep I</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_VIZIER_19">
+			<Text>Akhethotep</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_VIZIER_20">
+			<Text>Ptahhotep II</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_VIZIER_21">
+			<Text>Senedjemib Inti</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_VIZIER_22">
+			<Text>Senedjemib Mehi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_VIZIER_23">
+			<Text>Nefersheshemre</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_VIZIER_24">
+			<Text>Kagemni</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_VIZIER_25">
+			<Text>Mereruka</Text>
+		</Row>
+		<!--BRICK MASON-->
+		<Row Tag="TXT_KEY_BUILDING_JFD_BRICK_MASON">
+			<Text>Brick Mason</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_BRICK_MASON_HELP">
+			<Text>Each source of [ICON_RES_JFD_LIMESTONE] Limestone, [ICON_RES_MARBLE] Marble, and [ICON_RES_STONE] Stone worked by this City produce +1 [ICON_PRODUCTION] Production.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_BRICK_MASON_STRATEGY">
+			<Text>The unique Brick Mason is Djoser Egypt's replacement for the Stone Works. Although it does not provide [ICON_HAPPINESS_1] Happiness like the Stone Works, the Brick Mason is available at Masonry and may be constructed without the regular terrain requirements. It contains a slot for one Engineer Specialist and improves the [ICON_PRODUCTION] Production output of [ICON_RES_JFD_LIMESTONE] Limestone, [ICON_RES_MARBLE] Marble, and [ICON_RES_STONE] Stone.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_BRICK_MASON_TEXT">
+			<Text>A brick mason is any craftsman who lays brick in the construction of buildings and other works. In Ancient Egypt, bricks were formed from clay, mud, or limestone, which were then dried in the sun until they were strong enough for use. These can be seen, particularly, in the construction of step pyramids and other such monuments.</Text>
+		</Row>
+		<!--MAUSOLEUM OF HALICARNASSUS-->
+		<Row Tag="TXT_KEY_BUILDING_JFD_MAUSOLEM_HALICARNAUSS_HELP">
+			<Text>Gain 100 [ICON_GOLD] Gold each time a Great Person is expended. Each source of [ICON_RES_JFD_LIMESTONE] Limestone, [ICON_RES_MARBLE] Marble, or [ICON_RES_STONE] Stone worked by this City produces +2 [ICON_GOLD]  Gold.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 11/23/2013 1:27:25 PM -->
+<GameData>
+	<Language_en_US>
+		<!--RUSSIA-->
+		<!--Cities-->
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_RUSSIA_CATHERINE_01">
+			<Text>Yekaterinburg</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_RUSSIA_CATHERINE_02">
+			<Text>Stavropol</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_RUSSIA_CATHERINE_03">
+			<Text>Kherson</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_RUSSIA_CATHERINE_04">
+			<Text>Yekaterinoslav</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_RUSSIA_CATHERINE_05">
+			<Text>Sevastopol</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_RUSSIA_CATHERINE_06">
+			<Text>Simferopol</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_RUSSIA_CATHERINE_07">
+			<Text>Orenburg</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_RUSSIA_CATHERINE_08">
+			<Text>Uralsk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_RUSSIA_CATHERINE_09">
+			<Text>Minsk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_RUSSIA_CATHERINE_10">
+			<Text>Odessa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_RUSSIA_CATHERINE_11">
+			<Text>Kazan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_RUSSIA_CATHERINE_12">
+			<Text>Yekaterinodar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_RUSSIA_CATHERINE_13">
+			<Text>Chelyabinsk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_RUSSIA_CATHERINE_14">
+			<Text>Kurgan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_RUSSIA_CATHERINE_15">
+			<Text>Tyumen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_RUSSIA_CATHERINE_16">
+			<Text>Omsk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_RUSSIA_CATHERINE_17">
+			<Text>Semipalatinsk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_RUSSIA_CATHERINE_18">
+			<Text>Tomsk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_RUSSIA_CATHERINE_19">
+			<Text>Krasnoyarsk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_RUSSIA_CATHERINE_20">
+			<Text>Petropavlovkiy-Ostrog</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_RUSSIA_CATHERINE_21">
+			<Text>Tobolsk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_RUSSIA_CATHERINE_22">
+			<Text>Shlisselburg</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_RUSSIA_CATHERINE_23">
+			<Text>Vilno</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_RUSSIA_CATHERINE_24">
+			<Text>Rigo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_RUSSIA_CATHERINE_25">
+			<Text>Constantinople</Text>
+		</Row>
+		<!--BANYA-->
+		<Row Tag="TXT_KEY_BUILDING_JFD_BANYA">
+			<Text>Banya</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_BANYA_TEXT">
+			<Text>Banya or banja can refer to a number of types of steam baths popular in Eastern Europe. In Russia, it refers to a particular local type of sauna. A mention of the banya is found in the Radzivill Chronicle in the story of Princess Olga's revenge for the murder of her husband, Prince Igor, by the Slavic tribe of Drevlians in 945 AD. The leader of the Drevlians had hopes of marrying the widow Olga and sent messengers to discuss the idea. "When the Drevlians arrived, Olga commanded that a bath should be made ready for them and said, 'Wash yourselves and come to me.' The bath-house was heated and the unsuspecting Drevlians entered and began to wash themselves. [Olga's] men closed the bath-house behind them and Olga gave orders to set it on fire from the doors, so that the Drevlians were all burned to death."</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_BANYA_HELP">
+			<Text>[ICON_GOLD] Gold costs of purchasing new tiles is reduced by 15% and every different Strategic Resource improved by this city increases [ICON_PRODUCTION] Production by 10%.[NEWLINE][NEWLINE]+25% [ICON_GREAT_PEOPLE] Great People generation in this City.[NEWLINE][NEWLINE]City must be built next to a River or Lake.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_BANYA_HELP_CBP">
+			<Text>[ICON_GOLD] Gold costs of purchasing new tiles is reduced by 15% and +1 [ICON_PRODUCTION] Production to Camps, Mines, and Lumbermills. +2 [ICON_GOLD] Gold from [ICON_RES_CITRUS] Citrus and [ICON_RES_COCOA] Cocoa.[NEWLINE][NEWLINE]+25% [ICON_GREAT_PEOPLE] Great People generation in this City.[NEWLINE][NEWLINE]City must be built next to a River or Lake.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_BANYA_STRATEGY">
+			<Text>The Banya is the unique Russian replacement for the Garden, for Catherine. Unlike the Garden, the Banya reduces the cost of purchasing tiles with [ICON_GOLD] Gold by 15%. It also increases a city's [ICON_PRODUCTION] Production by 10% for every different type of improved Strategic Resource in the area. However, it takes slightly longer to be constructed than the Garden, and it still can only be built in a city next to a River or Lake.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_BANYA_STRATEGY_CBP">
+			<Text>The Banya is the unique Russian replacement for the Garden. Unlike the Garden, the Banya reduces the cost of purchasing tiles with Gold by 15%. It also grants +1 Production to Camps, Mines, and Lumbermills. However, it takes slightly longer to be constructed than the Garden, and it still can only be built in a city next to a River or Lake.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

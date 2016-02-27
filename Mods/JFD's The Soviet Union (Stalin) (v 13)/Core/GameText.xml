@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 1/4/2014 8:45:16 AM -->
+<GameData>
+	<Language_en_US>
+		<!--STALINIST RUSSIA-->
+		<Row Tag="TXT_KEY_CIV_JFD_USSR_STALIN_ADJECTIVE">
+			<Text>Stalinist</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_JFD_USSR_STALIN_DESC">
+			<Text>Soviet Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_JFD_USSR_STALIN_SHORT_DESC">
+			<Text>The Soviet Union</Text>
+		</Row>
+		<!-- City Names -->
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_STALIN_LENINGRAD">
+			<Text>Leningrad</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_STALIN_KIEV">
+			<Text>Kiev</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_STALIN_MINSK">
+			<Text>Minsk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_STALIN_KHARKOV">
+			<Text>Kharkov</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_STALIN_STALINGRAD">
+			<Text>Stalingrad</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_STALIN_SVERDLOVSK">
+			<Text>Sverdlovsk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_STALIN_GORKY">
+			<Text>Gorky</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_STALIN_KRASNODAR">
+			<Text>Krasnodar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_STALIN_VLADIVOSTOK">
+			<Text>Vladivostok</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_STALIN_NOVOSIBIRSK">
+			<Text>Novosibirsk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_STALIN_KRASNOYARSK">
+			<Text>Krasnoyarsk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_STALIN_KUYBYSHEV">
+			<Text>Kuybyshev</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_STALIN_BAKU">
+			<Text>Baku</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_STALIN_TBILISI">
+			<Text>Tbilisi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_STALIN_ALMA_ATA">
+			<Text>Alma-Ata</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_STALIN_TASHKENT">
+			<Text>Tashkent</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_STALIN_OMSK">
+			<Text>Omsk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_STALIN_UFA">
+			<Text>Ufa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_STALIN_CHELYABINSK">
+			<Text>Chelyabinsk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_STALIN_SEVASTOPOL">
+			<Text>Sevastopol</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_STALIN_MOLOTOV">
+			<Text>Molotov</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_STALIN_KALININGRAD">
+			<Text>Kaliningrad</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_STALIN_RIGA">
+			<Text>Riga</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_STALIN_TALLIN">
+			<Text>Tallin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_STALIN_KAZAN">
+			<Text>Kazan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_STALIN_ODESSA">
+			<Text>Odessa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_STALIN_KIROV">
+			<Text>Kirov</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_STALIN_ULYANOVSK">
+			<Text>Ulyanovsk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_STALIN_DNEPROPETROVSK">
+			<Text>Dnepropetrovsk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_STALIN_STALINO">
+			<Text>Stalino</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_STALIN_KHABAROVSK">
+			<Text>Khabarovsk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_STALIN_TOLYATTI">
+			<Text>Tolyatti</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_STALIN_BARNAUL">
+			<Text>Barnaul</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_STALIN_USTINOV">
+			<Text>Ustinov</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_STALIN_ORDZONIKIDZE">
+			<Text>Ordzonikidze</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_STALIN_ASHGABAT">
+			<Text>Ashgabat</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_STALIN_STALINABAD">
+			<Text>Stalinabad</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_STALIN_NOVOKUZNETSK">
+			<Text>Novokuznetsk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_STALIN_TSELINOGRAD">
+			<Text>Tselinograd</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_STALIN_KARAGANDA">
+			<Text>Karaganda</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_STALIN_FRUNZE">
+			<Text>Frunze</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_STALIN_SHCHERBAKOV">
+			<Text>Shcherbakov</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_STALIN_ARZAMAS_16">
+			<Text>Arzamas-16</Text>
+		</Row>
+		<!-- Spy Names -->
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_SOVIET_9">
+			<Text>Pantiuşa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_SOVIET_8">
+			<Text>Ursula</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_SOVIET_7">
+			<Text>Mikhail</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_SOVIET_6">
+			<Text>Ain-Ervin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_SOVIET_5">
+			<Text>Susemihl</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_SOVIET_4">
+			<Text>Valery</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_SOVIET_3">
+			<Text>Konon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_SOVIET_2">
+			<Text>Reino</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_SOVIET_1">
+			<Text>Yuri</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_SOVIET_0">
+			<Text>Moura</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_SOVIET_10">
+			<Text>Vladimir</Text>
+		</Row>
+		<!--STALIN-->
+		<Row Tag="TXT_KEY_LEADER_JFD_STALIN">
+			<Text>Stalin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_STALIN_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_STALIN_TEXT_1">
+			<Text>His birth name was Joseph Vissarionovich Dzhugashvili, but to the world he will always be known simply as Stalin ("man of steel" in Russian). Stalin was born in 1878 to a poor Georgian family. His father was a cobbler who often beat his wife and young son. At the age of eight, Stalin began his education in the Gori Church School, where instruction was conducted in Russian and he was mocked for his Georgian accent. Stalin graduated first in his class at the age of fourteen and began attending school next at the Tiflis Theological Seminary. Stalin had no interest in becoming a priest, but the seminary was one of the few institutions of higher learning permitted in Georgia by the repressive tsarist government.[NEWLINE][NEWLINE]It was here that Stalin became involved in the revolutionary socialist movement of Russia; in 1899 he was kicked out of the school for his participation in the radical cause. For the next decade Stalin worked in the political underground of the Caucasus region, for which he was arrested and sent to temporary exile in Siberia several times. Over the years Stalin rose through the ranks of the socialist organizations, and in 1912 he gained a position on the central committee of the Bolshevik Party. He later was appointed as an editor of "Pravda," (meaning, "Truth") the main communist newspaper, which was a position with a great deal of influence.[NEWLINE][NEWLINE]Stalin played little role in the events of the 1917 Bolshevik Revolution. He and the other editors of Pravda initially supported Keresnsky's Provisional Government, and even refused to publish Lenin's articles calling for it to be overthrown. (Later, Stalin would falsely claim that he had been part of a "Party Center" which directed the October Revolution.) During the Russian Civil War, Stalin served as a military commissar on various different fronts, but he seems to have been an indifferent military man at best. It was when that conflict ended that his star began to rise.[NEWLINE][NEWLINE]In 1922 Stalin secured the position of General Secretary of the Communist Party, a post that no one else particularly wanted. Stalin recognized the potential power of this job, however, as it gave him control over appointments within the Party. Over time, Stalin built up a group of fiercely loyal followers, eventually becoming one of the most powerful men in the Party.[NEWLINE][NEWLINE]After the death of Lenin in 1924, Stalin formed a centrist ruling coalition along with Kamenev and Zinoviev. In doing so Stalin successfully outmaneuvered his enemy Trotsky, another strong contender for leadership of the USSR. In 1928 Trotsky went into exile and he was assassinated some time thereafter (it is assumed at Stalin's orders). Then Stalin turned on his former allies Kamenev and Zinoviev, driving them from power as well. By the beginning of the 1930s, Stalin had secured undisputed power over both the Communist Party and all of the Soviet Union.[NEWLINE][NEWLINE]With his enemies out of the way, Stalin could begin a thorough transformation of Russia. Up until the First World War Russia had been primarily an agrarian society, but Stalin was determined to change it into an industrial powerhouse. In 1928 he implemented the Five Year Plans, designed to force rapid industrialization upon the country at any cost. To curb the power of the prosperous independent farmers (known as "kulaks") Stalin also nationalized individual farms, replacing them with larger collective farms. Stalin's collectivization of agriculture proved to be a disaster: output actually fell, and there was a great deal of peasant resistance (which was ruthlessly crushed by the Red Army). Despite the crop shortfalls Stalin sold off the agricultural produce of the USSR to get foreign currency to pay for further industrialization, deliberately engineering a mass famine which may have killed as many as 10 million people.[NEWLINE][NEWLINE]Fearing an army plot against him, in 1936 Stalin embarked on the Great Purge, which quickly degenerated into a terrible witch hunt. Many of the old communist leaders were executed after bizarre show trials during which they confessed to outlandish crimes. At the same time the Red Army was gutted of its officer corps. Millions of innocent people died or were exiled to Siberia for no offense whatsoever. Stalin's paranoia claimed an untold number of lives before it had run its course.[NEWLINE][NEWLINE]Stalin's Soviet Union was ruthlessly authoritarian, but it had achieved its goal of industrialization. Advances were made in science, and the free provision of certain state services - including education and housing - did provide new opportunities for many millions of former peasants (although the standard of living remained extremely low compared to Western countries). Freedom of expression was nonexistent, however, and the practice of any kind of religion was made illegal.[NEWLINE][NEWLINE]During the 1930s, Stalin was convinced that Hitler's Nazi Germany was a terrible threat to the Soviet Union. He sought defensive pacts and alliances with England and France, but was soundly rebuffed by both countries. Hoping to stave off what he saw as the USSR's inevitable conflict with Germany until his country had a chance to arm itself, Stalin signed a Faustian bargain with Hitler to divide Eastern Europe between the two powers. In September of 1939 Nazi Germany invaded Poland and three weeks later the Soviet Union jumped into the conflict to claim the eastern half of the country.[NEWLINE][NEWLINE]By doing so Stalin believed that he had earned Hitler's gratitude (if not friendship), and that a German attack on the USSR did not lay in the imminent future. However, like so many other leaders Stalin totally misread Hitler, and despite increasingly frantic warnings of German soldiers massing on the borders, he was totally caught off guard when in June of 1941 Hitler launched a massive invasion. In fact, for the first days of the invasion Stalin remained convinced that it was some kind of mistake and refused to let his troops counterattack for fear of provoking Hitler! Because of Stalin's blunders the Soviets suffered enormous losses in the first few weeks.[NEWLINE][NEWLINE]With Stalin stunned into bewildered inaction by his miscalculations, it was only the sheer size of Russia that prevented the Germans from winning a quick victory. In December of 1941 winter - Russia's oldest and best ally - saved Moscow from capture. Regaining his composure, Stalin then led the Soviet Union in a bitter and gruesome struggle to the death against Nazi Germany, with countless atrocities on both sides. Stalin's transfer of heavy industry east into the Urals, combined with the unbelievable size and manpower of the Soviet Union - supported by heavy British and American fighting in the West - ultimately led to victory in 1945, when Soviet troops marched triumphantly into Berlin. The cost, however, was staggering: an estimated 10 million Russian soldiers and 20 million civilians died in the conflict.[NEWLINE][NEWLINE]By the end of the war the Red Army had overrun Eastern Europe, and once there Stalin had no intention of leaving. Despite promising to allow free elections during wartime conferences with the Americans and British, Stalin had no intention of doing anything of the sort and he set up puppet communist regimes across the region. While Tito's government in Yugoslavia successfully broke away from Stalin's bloc, the rest of the countries in Eastern Europe would spend the next three decades under the oppressive rule of the Soviet Union.[NEWLINE][NEWLINE]Despite their uneasy alliance during the recent war, the USSR remained on hostile terms with its erstwhile Western Allies. Stalin's support of the Communist Chinese and his blockade of West Berlin in 1948 helped led to the outbreak of the Cold War, a bitter period of proxy warfare and ever-growing nuclear arsenals that would drag on for fifty bleak years.[NEWLINE][NEWLINE]During his reign Stalin encouraged the development of a sycophantic cult of personality where he was worshipped as little less than a god. When he finally died in 1953 there was an enormous outpouring of genuine grief across the Soviet Union.Overall, it must be said that Stalin was successful in changing the backwards agricultural state of the tsars into a modern global superpower. No country deserves more credit for defeating Nazi Germany than the Soviet Union.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_STALIN_LIVED">
+			<Text>1878 - 1953 AD</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_STALIN_NAME">
+			<Text>Stalin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_STALIN_SUBTITLE">
+			<Text>Leader of the USSR</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_STALIN_TITLES_1">
+			<Text>General Secretary of the Communist Party[NEWLINE][NEWLINE]Chairman of the Council of Ministers</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_JFD_USSR_DAWN">
+			<Text>We are humbled by your power and greatness, glorious Stalin of the Soviet Union. The empire that you took control of in 1928 was vast. Spanning from the Baltic Sea in the West to the Pacific Ocean in the East, and covering the Northern Asias, mighty Russia longed for direction. Her meek kings had failed to tame these ferocious lands, and so was the necessity of your harsh and demanding rule; to transform the Motherland from a decrepit, backwards empire into a powerful machine of industry and war. With determination and an unyielding will, you took up the mantle as a champion of socialism, and guarded mighty Russia from the moral pestilence of the West, setting the stage for a great clash of giants in the decades to come.[NEWLINE][NEWLINE]Great comrade, the Russian people long for your return as their glorious and wilful leader. Though the Soviet Union has fallen, its people do not forget for that which it once stood and remain united beneath the banner of their great yearning. Will you strengthen the bonds of your scattered people? Can you stand for the equality of your brothers and the fallen glory of your soviet union? Can you build a civilization that will stand the test of time?</Text>
+		</Row>
+		<!--THE WARSAW PACT-->
+		<Row Tag="TXT_KEY_TRAIT_JFD_USSR_STALIN">
+			<Text>Enemy units may take extra damage inside your borders, or in the borders of your allied City-States or civilizations with whom you share an ideology. Earn [ICON_INFLUENCE] Influence per turn with City-States from which you could demand tribute.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_JFD_USSR_STALIN_SHORT">
+			<Text>Warsaw Pact</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_WARSAW_PACT">
+			<Text>Soviet Union</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_WARSAW_PACT_HELP">
+			<Text>This unit is in Soviet territory and may take additional [COLOR_NEGATIVE_TEXT]damage[ENDCOLOR] from being an enemy to the Soviet Union!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_WARSAW_PACT">
+			<Text>JFD: Warsaw Pact</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_WARSAW_PACT_HELP">
+			<Text>This City-State is a part of the Soviet Union.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_USSR_STALIN_CITY_VIEW_HELP">
+			<Text>[NEWLINE]+{1_Num}% [ICON_PRODUCTION] Production toward Land Units from Trade Routes to City-States.</Text>
+		</Row>
+		<!--COMMISSARIAT-->
+		<Row Tag="TXT_KEY_BUILDING_JFD_STALIN_COMMISSARIAT_DESC">
+			<Text>Commissariat</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_STALIN_COMMISSARIAT_HELP">
+			<Text>+10% [ICON_PRODUCTION] Production toward Land Units for every City-State connection (up to 30%).[NEWLINE][NEWLINE]Reduces enemy spy stealing rate by 25%.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_STALIN_COMMISSARIAT_STRATEGY">
+			<Text>The Commissariat is the replacement for the Constable for Stalin's Soviet Union. Whenever a city with a Commissariat is connected to a City-State, it gains a 10% boost in Land Unit Production, up to 30%. Maintaining a close sphere of influence will guarantee a steady flow of military units for your empire.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_JFD_STALIN_COMMISSARIAT_TEXT">
+			<Text>A commissariat is a department charged with maintaining supplies for an army. Military commissariats in the Soviet Union were devoted to the administration of local military affairs; including the mobilization of the army and the drafting of soldiers.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_STALIN_SATELLITES">
+			<Text>JFD: Satellite State</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_STALIN_SATELLITES_HELP">
+			<Text>+10% [ICON_PRODUCTION] Production toward Land Units.</Text>
+		</Row>
+		<!--IS-2-->
+		<Row Tag="TXT_KEY_PROMOTION_JFD_IS2_INFO">
+			<Text>Communist Legion</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_IS2_INFO_HELP">
+			<Text>May attack twice in friendly borders (including City-State borders or the borders of civilizatios with a shared ideology).</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_IS2">
+			<Text>Can Attack Twice</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_IS2_HELP">
+			<Text>Can Attack Twice</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_IS2">
+			<Text>IS-2</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_JFD_IS2">
+			<Text>Cheaper replacement for the Tank. Only Stalin may build it. May attack twice when in friendly territory, or when in territory belonging to an allied City-State or civilizations with a shared ideology.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_IS2_STRATEGY">
+			<Text>The IS-2 is the unique unit for the USSR. It gains an extra attack whenever it is fighting in friendly territory, including territory belonging to allied City-States or within the borders of civilizations with whom you share an ideology. This makes defending your sphere of influence much easier.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_IS2_TEXT">
+			<Text>The IS tank family was a series of heavy tanks developed as a successor to the KV-series by the Soviet Union during World War II. It was named after Soviet leader Joseph Stalin.The heavy tank was designed with thick armour to counter the German 88 mm guns, and carried a main gun that was capable of defeating the German Tiger and Panther tanks. It was mainly a breakthrough tank, firing a heavy high-explosive shell that was useful against entrenchments and bunkers. The IS-2 was put into service in April 1944, and was used as a spearhead in the Battle of Berlin by the Red Army in the final stage of the war.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

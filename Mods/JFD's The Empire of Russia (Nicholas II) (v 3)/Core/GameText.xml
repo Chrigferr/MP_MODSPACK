@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 11/23/2013 1:27:25 PM -->
+<GameData>
+	<Language_en_US>
+		<!-- RUSSIA -->
+		<!--City List-->
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_NICHOLAS_ST_PETERSBURG">
+			<Text>St. Petersburg</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_NICHOLAS_TSARSKOYE_SELO">
+			<Text>Tsarskoye Selo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_NICHOLAS_MOSCOW">
+			<Text>Moscow</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_NICHOLAS_KIEV">
+			<Text>Kiev</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_NICHOLAS_NOVGOROD">
+			<Text>Novgorod</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_NICHOLAS_VLADIMIR">
+			<Text>Vladimir</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_NICHOLAS_ROSTOV">
+			<Text>Rostov</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_NICHOLAS_SMOLENSK">
+			<Text>Smolensk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_NICHOLAS_YAROSLAVL">
+			<Text>Yaroslavl</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_NICHOLAS_ODESSA">
+			<Text>Odessa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_NICHOLAS_WARSAW">
+			<Text>Warsaw</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_NICHOLAS_HELSINGFORS">
+			<Text>Helsingfors</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_NICHOLAS_MINSK">
+			<Text>Minsk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_NICHOLAS_YEKATERINBURG">
+			<Text>Yekaterinburg</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_NICHOLAS_KAZAN">
+			<Text>Kazan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_NICHOLAS_SARATOV">
+			<Text>Saratov</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_NICHOLAS_NIZHNIY_NOVGOROD">
+			<Text>Nizhniy Novgorod</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_NICHOLAS_TIFLIS">
+			<Text>Tiflis</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_NICHOLAS_RIGA">
+			<Text>Riga</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_NICHOLAS_KHARKOV">
+			<Text>Kharkov</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_NICHOLAS_SEVASTOPOL">
+			<Text>Sevastopol</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_NICHOLAS_TSARITSYN">
+			<Text>Tsaritsyn</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_NICHOLAS_NOVOROSSIYSK">
+			<Text>Novorossiysk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_NICHOLAS_YEKATERINOSLAV">
+			<Text>Yekaterinoslav</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_NICHOLAS_ARKHANGELSK">
+			<Text>Arkhangelsk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_NICHOLAS_VLADIVOSTOK">
+			<Text>Vladivostok</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_NICHOLAS_PETROPAVLOVSK">
+			<Text>Petropavlovsk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_NICHOLAS_IRKUTSK">
+			<Text>Irkutsk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_NICHOLAS_OMSK">
+			<Text>Omsk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_NICHOLAS_TASHKENT">
+			<Text>Tashkent</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_NICHOLAS_KHABAROVSK">
+			<Text>Khabarovsk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_NICHOLAS_ASTRAKHAN">
+			<Text>Astrakhan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_NICHOLAS_SAMARKAND">
+			<Text>Samarkand</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_NICHOLAS_YEKATERINODAR">
+			<Text>Yekaterinodar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_NICHOLAS_NIKOLAEV">
+			<Text>Nikolaev</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_NICHOLAS_ALEKSANDROVSK">
+			<Text>Aleksandrovsk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_NICHOLAS_TULA">
+			<Text>Tula</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_NICHOLAS_ORENBURG">
+			<Text>Orenburg</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_NICHOLAS_SAMARA">
+			<Text>Samara</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_NICHOLAS_VORONEZH">
+			<Text>Voronezh</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_NICHOLAS_YAKUTSK">
+			<Text>Yakutsk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_NICHOLAS_KYAKHTA">
+			<Text>Kyakhta</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_NICHOLAS_BELOTSARSK">
+			<Text>Belotsarsk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_NICHOLAS_TSARGRAD">
+			<Text>Tsargrad</Text>
+		</Row>
+		<!-- NICHOLAS II -->
+		<Row Tag="TXT_KEY_LEADER_JFD_NICHOLAS">
+			<Text>Nicholas II</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_NICHOLAS_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_NICHOLAS_TEXT_1">
+			<Text>Nicholas II (18 May [O.S. 6 May] 1868 – 17 July 1918) was the last Emperor of Russia, Grand Duke of Finland, and titular King of Poland. His official short title was Nicholas II, Emperor and Autocrat of All the Russias.[3] Like other Russian Emperors he is commonly known by the monarchical title Tsar (though Russia formally ended the Tsardom in 1721). He is known as Saint Nicholas the Passion-Bearer by the Russian Orthodox Church and has been referred to as Saint Nicholas the Martyr.[NEWLINE][NEWLINE]Nicholas II ruled from 1 November 1894 until his forced abdication on 2 March 1917.[4] His reign saw Imperial Russia go from being one of the foremost great powers of the world to economic and military collapse. Enemies nicknamed him Nicholas the Bloody because of the Khodynka Tragedy, the anti-Semitic pogroms, Bloody Sunday, his violent suppression of the 1905 Revolution, his execution of political opponents, and his pursuit of military campaigns on an unprecedented scale.[NEWLINE][NEWLINE]Under his rule, Russia was humiliatingly defeated in the Russo-Japanese War, which saw the almost total annihilation of the Russian Baltic Fleet at the Battle of Tsushima. The Anglo-Russian Entente, designed to counter German attempts to gain influence in the Middle East, ended the Great Game between Russia and the United Kingdom. As head of state, Nicholas approved the Russian mobilisation of August 1914, which marked the beginning of Russia's involvement in the First World War, a war in which 3.3 million Russians were killed.[7] The Imperial Army's severe losses and the High Command's incompetent handling of the war, along with other policies directed by Nicholas during his reign, are often cited as the leading causes of the fall of the Romanov dynasty.[NEWLINE][NEWLINE]Nicholas II abdicated following the February Revolution of 1917 during which he and his family were imprisoned first in the Alexander Palace at Tsarskoye Selo, then later in the Governor's Mansion in Tobolsk, and finally at the Ipatiev House in Yekaterinburg. In the spring of 1918, Nicholas was handed over to the local Ural soviet by commissar Vasili Yakovlev who was then presented with a written receipt as Nicholas was formally handed over like a parcel. Nicholas II; his wife, Alexandra Feodorovna; his son, Alexei Nikolaevich; his four daughters, Olga Nikolaevna, Tatiana Nikolaevna, Maria Nikolaevna and Anastasia Nikolaevna; the family's medical doctor, Evgeny Botkin; the Emperor's footman, Alexei Trupp; the Empress' maidservant, Anna Demidova; and the family's cook, Ivan Kharitonov, were executed in the same room by the Bolsheviks on the night of 16/17 July 1918. This led to the canonisation of Nicholas II, his wife the Empress Alexandra and their children as passion bearers, a category used to identify believers who, in imitation of Christ, endured suffering and death at the hands of political enemies, on 15 August 2000 by the Russian Orthodox Church within Russia and, in 1981, as martyrs by the Russian Orthodox Church Outside Russia, located in New York City.[NEWLINE][NEWLINE]At the time of his death, his net worth was $900 million, which is the inflation adjusted equivalent to $13.7 billion in 2012 US dollars.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_NICHOLAS_NAME">
+			<Text>Nicholas II</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_NICHOLAS_SUBTITLE">
+			<Text>Leader of Russia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_NICHOLAS_TITLES_1">
+			<Text>Emperor of All Russia, Grand Duke of Finland, King of Poland</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_NICHOLAS_LIVED">
+			<Text>1868 - 1918</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DAWN_NICHOLAS_RUSSIA_TEXT">
+			<Text>O dishonoured prince, Nicholas II, Emperor and Autocrat of All the Russias. For the land that you ruled, and the family that you fathered, your reign would be one wrought with tragedy and disaster. War would unfold from both east and west, and the legacies of your predecessors would leave you at the helm of an empire unfit to withstand the coming storm that would suffocate the ancient ways of holy Russia. Though of unyielding duty to family and state, and a champion of peace within europe, your rule would ultimately give way to the design of the new century, and the traditions of your people would be eroded by the soulless machine of a revolution that would bring devastation to your House and your land for the century to come.[NEWLINE][NEWLINE]Blessed Tsar, the soul of Russia lies but dormant deep within the hearts of her children. The time calls for no man of strength, but one of resolve: of piety and duty, and one to reclaim that which was torn from the heart of this empire. Can you repair the broken traditions of your people? Can you restore the nobility and dignity of the once mighty Russian Empire? Can you build a civilization that can stand the test of time?</Text>
+		</Row>
+		<!-- THIRD ROME -->
+		<Row Tag="TXT_KEY_TRAIT_JFD_NICHOLAS_RUSSIA_SHORT">
+			<Text>Third Rome</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_JFD_NICHOLAS_RUSSIA">
+			<Text>Wonder [ICON_PRODUCTION] Production increased (up to +30%) in your [ICON_CAPITAL] Capital by its [ICON_PEACE] Faith output. Increased [ICON_PEACE] Faith in the [ICON_CAPITAL] Capital for every city celebrating 'We Love the King Day.'</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_WONDER_PRODUCTION">
+			<Text>JFD: Nicholas Production</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_WONDER_PRODUCTION_HELP">
+			<Text>+1% [ICON_PRODUCTION] Wonder Production.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_WE_LOVE_THE_KING_DAY_FAITH">
+			<Text>JFD: Nicholas Faith</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_WE_LOVE_THE_KING_DAY_FAITH_HELP">
+			<Text>+1 [ICON_PEACE] Faith</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_RUSSIA_NICHOLAS_CITY_VIEW_HELP">
+			<Text>[NEWLINE]+{1_Num} [ICON_PEACE] Faith from cities celebrating 'We Love the King Day' in the empire.[NEWLINE][NEWLINE]----------------------[NEWLINE][COLOR_POSITIVE_TEXT]+{2_Total}% Wonder [ICON_PRODUCTION] from [ICON_PEACE] Faith[ENDCOLOR]</Text>
+		</Row>
+		<!-- OPOLCHENIYE -->
+		<Row Tag="TXT_KEY_UNIT_JFD_OPOLCHENIYE">
+			<Text>Opolcheniye</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_OPOLCHENIYE_TEXT">
+			<Text>The People's Militia was the name given to irregular troops formed from the population in Russia and Soviet Union. They fought alongside the regular army during several wars throughout its history.[NEWLINE][NEWLINE]The People's Militia is of the type known as "national troops" such as the Dnieper Cossacks, or German Landwehr, and although often translated as the "people's militia", "home guard", "people-in-arms", "national popular army", "civilian reserves", "popular levy", "People's Volunteer Army", "national guard...the factory regiments", "bataillons ouvriers", "all men fit to bear arms from their 21st year", like "British Local Defence Volunteers", "a hastily mustered militia, the opolchenie", "a reserve force", "Opolchenie (a kind of "Landsturm")", "home guard militia", "volunteer militia", "territorial army", or "temporary militias composed of mostly peasant 'volunteers'" its members never belonged to an organised military force, but were in all cases selectively accepted from a body of volunteers during a national emergency.[NEWLINE][NEWLINE]The People's Militia features prominently in early Russian history, for example in The Tale of Igor's Campaign when it refers to the entire force led on a campaign. It was used for political purposes when the Grand Duchy of Moscow assumed the leading role in the 16th-century Russia. It sought to emphasise the Tsar as the "father" of all of Russians, which included other principalities which sought to remain independent. Before the unification of Russians under the leadership of Moscow, each city and town had its own Opolcheniye not named Narodnoe, but named after the city or town, so Novgorodskoye Opolcheniye, Suzdalskoye Opolcheniye, Vladimirskoye Opolcheniye, etc. These were not militia as such, but armed crowds that, when attacked, would arm themselves and gather into a polk, which is translated in its modern meaning as a regiment. Dal' gives other usages such as rat', voisko, opolcheniye, tolpa and vataga.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_OPOLCHENIYE_HELP">
+			<Text>Weak Great War Infantry unit with a penalty to attacking cities. Produces two for every one trained. More effective in friendly lands. Only Nicholas' Russia may build it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_OPOLCHENIYE_STRATEGY">
+			<Text>The Opolcheniye is a very weak unique unit for Nicholas II, having significantly less [ICON_STRENGTH] Combat Strength than the Great War Infantry which it replaces and having a penalty against attacking cities. However, whenever an Opolcheniye is trained or upgraded to, an additional copy is produced on the same tile. The Opolcheniye also gains an additional 15% [ICON_STRENGTH] Combat Strength when in friendly territory, making it an excellent unit at being mass-produced for defense.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_FRIENDLY_LANDS">
+			<Text>National Guard</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_FRIENDLY_LANDS_HELP">
+			<Text>+15% [ICON_STRENGTH] Combat Strength in [COLOR_POSITIVE_TEXT]friendly[ENDCOLOR] territory.</Text>
+		</Row>
+		<!-- GUBERNIYA'S OFFICE -->
+		<Row Tag="TXT_KEY_BUILDING_JFD_GUBERNIYA">
+			<Text>Guberniya's Office</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_GUBERNIYA_TEXT">
+			<Text>A guberniya was a major and principal administrative subdivision of the Russian Empire usually translated as government, governorate, or province. Such administrative division was preserved for some time upon the collapse of the empire in 1917. A guberniya was ruled by a governor, a word borrowed from Latin gubernator, in turn from Greek kybernetes. Sometimes the term guberniya was informally used to refer to the office of a governor.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_GUBERNIYA_HELP">
+			<Text>+5% [ICON_PRODUCTION] Production to the [ICON_CAPITAL] Capital when connected via [ICON_TURNS_REMAINING] Domestic Trade Route. +10% [ICON_FOOD] Growth in this city if connected to the [ICON_CAPITAL] Capital via rail.[NEWLINE][NEWLINE]Reduces enemy spy stealing rate by 25%.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_GUBERNIYA_STRATEGY">
+			<Text>The Guberniya's Office is the unique replacement for the Constable for Nicholas II. In addition to the regular bonuses of a Constable, the Guberniya's Office increases the [ICON_PRODUCTION] Production of your [ICON_CAPITAL] Capital when connected via Domestic Trade Route. In addition, whenever a city with a Guberniya's Office is connected by rail to the [ICON_CAPITAL] Capital, the [ICON_FOOD] Growth rate of that city increases.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_GUBERNIYA_PRODUCTION">
+			<Text>JFD: Guberniya Production</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_GUBERNIYA_PRODUCTION_HELP">
+			<Text>+5% [ICON_PRODUCTION] Production.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_GUBERNIYA_GROWTH">
+			<Text>JFD: Guberniya Growth</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_GUBERNIYA_GROWTH_HELP">
+			<Text>+10% [ICON_FOOD] Growth.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_GUBERNIYAS_OFFICE_PRODUCTION_CITY_VIEW_HELP">
+			<Text>[NEWLINE][ICON_PRODUCTION] Production from Guberniya Offices in the empire:[NEWLINE]----------------------{1_ProductionList}----------------------[NEWLINE][COLOR_POSITIVE_TEXT]+{2_Total}% [ICON_PRODUCTION] Production Total[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_GUBERNIYAS_OFFICE_GROWTH_CITY_VIEW_HELP">
+			<Text>[NEWLINE]+10% [ICON_FOOD] Growth for this city's [ICON_CONNECTED] rail connection to the [ICON_CAPITAL] Capital.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

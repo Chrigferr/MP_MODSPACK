@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="eba3e501-4894-49ed-a389-8cb43b0fd20a" version="1">
+  <Properties>
+    <Name>JFD's The Electorate of Saxony</Name>
+    <Teaser>Adds the [COLOR_POSITIVE_TEXT]The Electorate of Saxony[ENDCOLOR] with Frederick Augustus I to the game.</Teaser>
+    <Description>See CivFanatics or Steam Workshop for more details.</Description>
+    <Authors>JFD, Janboruta, zwei833</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References>
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="JFD's Cultural Diversity (Core)" />
+    <Mod id="eea66053-7579-481a-bb8d-2f3959b59974" minversion="0" maxversion="999" title="JFD’s Piety" />
+    <Mod id="d99bf7aa-51ac-4bef-bd88-d765b28e260e" minversion="0" maxversion="999" title="JFD’s Sovereignty" />
+    <Mod id="a19351c5-c0b3-4b07-8695-4affaa199949" minversion="0" maxversion="999" title="JFD’s and Pouakai’s Mercenaries    " />
+    <Mod id="10e9728f-d61c-4317-be4f-7d52d6bae6f4" minversion="0" maxversion="999" title="JFD’s Claims and Colonies" />
+    <Mod id="6676902b-b907-45f1-8db5-32dcb2135eee" minversion="0" maxversion="999" title="JFD's Exploration Continued Expanded" />
+    <Mod id="1f941088-b185-4159-865c-472df81247b2" minversion="0" maxversion="999" title="Sukritact’s Events &amp; Decisions" />
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="Yet (not) Another Earth Map Pack" />
+    <Mod id="e576894a-ed2b-4033-be14-ed1c8ceb81d3" minversion="0" maxversion="999" title="Map Labels" />
+    <Mod id="7fdd72a5-d4ae-441c-bc4e-2e3d2a26cff4" minversion="0" maxversion="999" title="Ethnic Units" />
+    <Mod id="8670da15-d435-44ea-9758-7438cb321411" minversion="0" maxversion="999" title="R.E.D. Modpack" />
+    <Mod id="d1b6328c-ff44-4b0d-aad7-c657f83610cd" minversion="0" maxversion="999" title="Community Patch" />
+    <Mod id="8411a7a8-dad3-4622-a18e-fcc18324c799" minversion="0" maxversion="999" title="Community Balance Patch" />
+    <Mod id="ce8aa614-7ef7-4a45-a179-5329869e8d6d" minversion="0" maxversion="999" title="Enlightenment Era" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="3B99E3A8A10399ABEEB861CC771854E4" import="1">Art/Diplomacy/FrederickAugustus_Scene.xml</File>
+    <File md5="845B8B8D74D76B5540FF5F2A754BB6BB" import="1">Art/Diplomacy/JFD_FrederickAugustusI_Diplo.dds</File>
+    <File md5="74BC99243EC3342CE443E5E5A2C1DC6E" import="1">Art/Graphics/CarabinierGuard/CarabinierGuard.dds</File>
+    <File md5="3262446C952B043739B202CFE7AF4296" import="1">Art/Graphics/CarabinierGuard/CarabinierGuard.fxsxml</File>
+    <File md5="CEC592408E19F0A849FB0D5FEC0353B4" import="1">Art/Graphics/CarabinierGuard/CarabinierGuard.gr2</File>
+    <File md5="2C689BED06EF457D40A95B2F76B4A5B6" import="1">Art/Graphics/CarabinierGuard/CarabinierGuard_sref.dds</File>
+    <File md5="A370232C30053DF490D13562BC7ED036" import="1">Art/Graphics/CarabinierGuard/sv_CarabinierGuard.dds</File>
+    <File md5="C1401E227759B59612BDF5A7CE7C17D9" import="1">Art/IconAtlas/JFD_CarabinierGuardUnitFlag_32.dds</File>
+    <File md5="7ED70C7F3ADB66B16CFCF1F5931FC6D1" import="1">Art/IconAtlas/JFD_SaxonyAlphaAtlas_128.dds</File>
+    <File md5="3162B9CDA7A9C61FB4082860A42AC242" import="1">Art/IconAtlas/JFD_SaxonyAlphaAtlas_16.dds</File>
+    <File md5="50BCD1122E5CB660A2DA64AC93C51C70" import="1">Art/IconAtlas/JFD_SaxonyAlphaAtlas_22.dds</File>
+    <File md5="1738ADDD8B2057C83D37EF4CCD11F5A6" import="1">Art/IconAtlas/JFD_SaxonyAlphaAtlas_24.dds</File>
+    <File md5="521D18D591545E799C4A915E5426ABFF" import="1">Art/IconAtlas/JFD_SaxonyAlphaAtlas_256.dds</File>
+    <File md5="0AB555FE0113EF146C4579B7847DB233" import="1">Art/IconAtlas/JFD_SaxonyAlphaAtlas_32.dds</File>
+    <File md5="605995175D9C984C1895FF1FF8AEF9C5" import="1">Art/IconAtlas/JFD_SaxonyAlphaAtlas_45.dds</File>
+    <File md5="56BCFF057DFE8D64EB7F5B03B2B2D891" import="1">Art/IconAtlas/JFD_SaxonyAlphaAtlas_48.dds</File>
+    <File md5="FE890AF0341B8E45EC5814C0D6864DC3" import="1">Art/IconAtlas/JFD_SaxonyAlphaAtlas_64.dds</File>
+    <File md5="E0A00482F6DAAD15C1C0642A920C25C5" import="1">Art/IconAtlas/JFD_SaxonyAlphaAtlas_80.dds</File>
+    <File md5="B3B1E2AACCC4AE91CFEE9848E0A2338E" import="1">Art/IconAtlas/JFD_SaxonyAtlas_128.dds</File>
+    <File md5="D799A669D51EA5CCFD77B20BE9832925" import="1">Art/IconAtlas/JFD_SaxonyAtlas_256.dds</File>
+    <File md5="381CCBDA0196A984372808A26792BDD0" import="1">Art/IconAtlas/JFD_SaxonyAtlas_32.dds</File>
+    <File md5="14215BA822FDF6AF596C86F23CF64A13" import="1">Art/IconAtlas/JFD_SaxonyAtlas_45.dds</File>
+    <File md5="6D82DB9D746A629EAFCF466D47069E74" import="1">Art/IconAtlas/JFD_SaxonyAtlas_64.dds</File>
+    <File md5="97C8D36F72BCE2CAF362F8FDBDBD5664" import="1">Art/IconAtlas/JFD_SaxonyAtlas_80.dds</File>
+    <File md5="E7A8F6BE20098824733E4200E21D24A5" import="1">Art/Images/Event_Saxony_BastardChild.dds</File>
+    <File md5="1C88FA849ED3170C2854449404E157AE" import="1">Art/Images/Event_Saxony_AnimalTossing.dds</File>
+    <File md5="D4AF5078912BCE50B16F11A6DEDAA043" import="1">Art/Map/FrederickAugustusI_DOM.dds</File>
+    <File md5="A42583FB959F7A79E8EDC00F5536116C" import="1">Art/Map/SaxonyMap512.dds</File>
+    <File md5="D9F7D68FCDE05FC0ACD93F208A94E020" import="1">Audio/FrederickAugustusI_Peace.mp3</File>
+    <File md5="8E6B101350773DDFE08C0A97DE20DFE4" import="1">Audio/FrederickAugustusI_War.mp3</File>
+    <File md5="0E9C711321B65CE838819A33B05CB641" import="0">Core/Saxony_ArtDefines.sql</File>
+    <File md5="1E4ADFA874D02B77E67379AC32529C3F" import="0">Core/Saxony_GameDefines.sql</File>
+    <File md5="D3BF5EBD3FB0A83156F1353E06F45893" import="0">Core/Saxony_GameDefines_Diplomacy.sql</File>
+    <File md5="3BFEA7D2A060E1DF2C7B08957B046272" import="0">Core/Saxony_GameDefines_ModSupport.sql</File>
+    <File md5="799F85976F9958B6626E22893A3DA054" import="0">Core/Saxony_GameText.xml</File>
+    <File md5="A93337FC93F58BCA6454277F17C69B0E" import="0">Core/Saxony_GameText_Diplomacy.xml</File>
+    <File md5="5E1A7DAF75B6D94C8A55B96259E427F8" import="0">Core/Saxony_GameText_ModSupport.xml</File>
+    <File md5="FC6E117C75835973F759656BB4F6EF97" import="0">DeleteMissingReferences.xml</File>
+    <File md5="7AF56B01F1F8008285A50156E662BB26" import="1">Lua/JFD_Saxony_Decisions.lua</File>
+    <File md5="69EE46C8E90DC5E59B4A1F0A764C76D0" import="1">Lua/JFD_Saxony_Events.lua</File>
+    <File md5="A15D87A2CF89E81F457FCDB37481C51B" import="0">Lua/JFD_Saxony_Functions.lua</File>
+    <File md5="4486E05E92C6A1829D1BD4FC8EAB80DE" import="1">Lua/UI/Overrides/CultureOverview.lua</File>
+    <File md5="BF85D174CA9D4F2EC2AD7E3FBB6C0D6D" import="1">Lua/UI/Overrides/CultureOverview.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Core/Saxony_ArtDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Saxony_GameDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Saxony_GameDefines_Diplomacy.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Saxony_GameDefines_ModSupport.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Saxony_GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Saxony_GameText_Diplomacy.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Saxony_GameText_ModSupport.xml</UpdateDatabase>
+      <UpdateDatabase>DeleteMissingReferences.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/JFD_Saxony_Functions.lua">
+      <Name>JFD_Saxony_Functions</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 1/4/2014 8:45:16 AM -->
+<GameData>
+	<Language_en_US>
+		<!--ENGLAND-->
+		<!--Cities-->
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_ENGLAND_1">
+			<Text>London</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_ENGLAND_2">
+			<Text>York</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_ENGLAND_3">
+			<Text>Norwich</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_ENGLAND_4">
+			<Text>Lincoln</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_ENGLAND_5">
+			<Text>Thetford</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_ENGLAND_6">
+			<Text>Oxford</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_ENGLAND_7">
+			<Text>Canterbury</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_ENGLAND_8">
+			<Text>Newcastle</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_ENGLAND_9">
+			<Text>Coventry</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_ENGLAND_10">
+			<Text>Cambridge</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_ENGLAND_11">
+			<Text>Sailsbury</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_ENGLAND_12">
+			<Text>King's Lynn</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_ENGLAND_13">
+			<Text>Reading</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_ENGLAND_14">
+			<Text>Colchester</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_ENGLAND_15">
+			<Text>Bury St Edmunds</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_ENGLAND_16">
+			<Text>Lavenham</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_ENGLAND_17">
+			<Text>Portsmouth</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_ENGLAND_18">
+			<Text>Totnes</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_ENGLAND_19">
+			<Text>Great Yarmouth</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_ENGLAND_20">
+			<Text>Hull</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_ENGLAND_21">
+			<Text>Dover</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_ENGLAND_22">
+			<Text>Boston</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_ENGLAND_23">
+			<Text>Hadleigh</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_ENGLAND_24">
+			<Text>Wisbech</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_ENGLAND_25">
+			<Text>Leicaster</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_ENGLAND_26">
+			<Text>Beverly</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_ENGLAND_27">
+			<Text>Debry</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_ENGLAND_28">
+			<Text>Scarborough</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_ENGLAND_29">
+			<Text>Plymouth</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_ENGLAND_30">
+			<Text>Lewes</Text>
+		</Row>
+		<!--ELIZABETHAN AGE-->
+		<Row Tag="TXT_KEY_TRAIT_JFD_ENGLAND_SHORT">
+			<Text>Elizabethan Age</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_JFD_ENGLAND">
+			<Text>Great Admirals may be expended to begin a [ICON_GOLDEN_AGE] Golden Age. Naval Units gain +2 [ICON_MOVES] Movement and may heal damage when outside friendly territory during a [ICON_GOLDEN_AGE] Golden Age.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_ENGLAND">
+			<Text>Elizabethan Golden Age</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_ENGLAND_HELP">
+			<Text>+2 [ICON_MOVES] Movement. May heal damage [COLOR_POSITIVE_TEXT]Outside of Friendly Territory[ENDCOLOR].</Text>
+		</Row>
+		<!--Unique Names-->
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_ENGLAND_ADMIRAL_1">
+			<Text>Richard FitzAlan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_ENGLAND_ADMIRAL_2">
+			<Text>Sir John Arundell</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_ENGLAND_ADMIRAL_3">
+			<Text>Richard Bradley</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_ENGLAND_ADMIRAL_4">
+			<Text>Richard Brooke</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_ENGLAND_ADMIRAL_5">
+			<Text>Sir George Carew</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_ENGLAND_ADMIRAL_6">
+			<Text>Sir Arthur Champernowne</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_ENGLAND_ADMIRAL_7">
+			<Text>William Gonson</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_ENGLAND_ADMIRAL_8">
+			<Text>Richard Harliston</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_ENGLAND_ADMIRAL_9">
+			<Text>Sir Richard Hawkins</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_ENGLAND_ADMIRAL_10">
+			<Text>Sir John Hawkins</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_ENGLAND_ADMIRAL_11">
+			<Text>Sir Walter Hungerford</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_ENGLAND_ADMIRAL_12">
+			<Text>Sir Richard Leveson</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_ENGLAND_ADMIRAL_13">
+			<Text>Edward Clinton</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_ENGLAND_ADMIRAL_14">
+			<Text>Sir Robert Mansell</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_ENGLAND_ADMIRAL_15">
+			<Text>Sir John Penington</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_ENGLAND_ADMIRAL_16">
+			<Text>Thomas Howard</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_ENGLAND_ADMIRAL_20">
+			<Text>Sir Humphrey Gilbert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_ENGLAND_ADMIRAL_17">
+			<Text>Sir Francis Drake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_ENGLAND_ADMIRAL_18">
+			<Text>Sir Walter Raleigh</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_ENGLAND_ADMIRAL_19">
+			<Text>Sir Martin Frobisher</Text>
+		</Row>
+		<!--GRAND CARRACK-->
+		<Row Tag="TXT_KEY_UNIT_JFD_GRAND_CARRACK">
+			<Text>Grand Carrack</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_JFD_GRAND_CARRACK">
+			<Text>Powerful Medieval Naval Unit that can cross oceans immediately and earns promotions quickly. Only England may build it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_GRAND_CARRACK_STRATEGY">
+			<Text>This English unique unit is stronger and earns promotions faster than the Galleass that it replaces. It may also cross oceans immediately. Use Grand Carracks to explore and dominate the uncharted oceans.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_GRAND_CARRACK_TEXT">
+			<Text>The rating system of the Royal Navy and its predecessors was used by the British Royal Navy between the beginning of the 17th century and the middle of the 19th century to categorise sailing warships, initially classing them according to their assigned complement of men, and later according to the number of their carriage-mounted guns. The first movement towards a rating system may be seen in the 15th century and the first half of the 16th century, when the largest carracks in the Navy (such as the Mary Rose, the Peter Pomegranate and the Henri Grâce à Dieu) were denoted "great ships". This was only on the basis of their roughly-estimated size and not on their weight, crew or number of guns. When these carracks were superseded by the new-style galleons later in the 16th century, the term "great ship" was used to formally delineate the Navy's largest ships from all the rest.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_GRAND_CARRACK">
+			<Text>Royal Navy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_GRAND_CARRACK_HELP">
+			<Text>Earns +30% XP from combat.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>
