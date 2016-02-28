@@ -1,0 +1,798 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+*****************************************
+*			Map Labels					*
+*	by Hazel (hazel16 @ CivFanatics)	*
+*****************************************
+-->
+<GameData>
+	<Language_en_US>
+		<!-- Template:
+		<Row Tag="TXT_KEY_NAME_ML_KILIMANJARO">
+			<Text>Mount Kilimanjaro</Text>
+		</Row>
+		-->
+		<!-- 
+=========================== 
+Regions 
+=========================== 
+-->
+		<Row Tag="TXT_KEY_NAME_RS_CASCADE_RANGE">
+			<Text>Cascade Range</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_RS_INLAND_EMPIRE">
+			<Text>Inland Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_RS_GREAT_BASIN">
+			<Text>Great Basin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_RS_HIGH_DESERT">
+			<Text>High Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_RS_BIG_SUR">
+			<Text>Big Sur</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_RS_GOLD_COUNTRY">
+			<Text>Gold Country</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_RS_ROCKY_MOUNTAINS">
+			<Text>Rocky Mountains</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_RS_COLORADO_PLATEAU">
+			<Text>Colorado Plateau</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_RS_SIERRA_NEVADA">
+			<Text>Sierra Nevada</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_NAME_RS_THE_CAROLINAS">
+			<Text>The Carolinas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_RS_THE_VIRGINIAS">
+			<Text>The Virginias</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_RS_DIXIE">
+			<Text>Dixie</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_RS_SHENANDOAH_VALLEY">
+			<Text>Shenandoah Valley</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_RS_OZARKS">
+			<Text>Ozarks</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_RS_LLANO_ESTACADO">
+			<Text>Llano Estacado</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_RS_BIG_BEND">
+			<Text>Big Bend</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_RS_EVERGLADES">
+			<Text>Everglades</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_RS_ACADIANA">
+			<Text>Acadiana</Text>
+		</Row>
+
+
+		<Row Tag="TXT_KEY_NAME_RS_NEW_ENGLAND">
+			<Text>New England</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_NAME_RS_CORN_BELT">
+			<Text>Corn Belt</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_RS_GREAT_PLAINS">
+			<Text>Great Plains</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_RS_APPALACHIAN_MOUNTAINS">
+			<Text>Appalachian Mountains</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_RS_MIDATLANTIC">
+			<Text>Mid-Atlantic</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_RS_ADIRONDACKS">
+			<Text>Adirondacks</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_RS_GREAT_LAKES">
+			<Text>Great Lakes</Text>
+		</Row>
+
+
+		<!-- 
+=========================== 
+Oceans 
+=========================== 
+-->
+		<Row Tag="TXT_KEY_NAME_RS_SANTA_MONICA_BAY">
+			<Text>Santa Monica Bay</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_RS_MONTEREY_BAY">
+			<Text>Monterey Bay</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_RS_MISSION_BAY">
+			<Text>Mission Bay</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_RS_HUMBOLDT_BAY">
+			<Text>Humboldt Bay</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_RS_PUGET_SOUND">
+			<Text>Puget Sound</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_RS_NETARTS_BAY">
+			<Text>Netarts Bay</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_RS_TILLAMOOK_BAY">
+			<Text>Tillamook Bay</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_RS_WILLAPA_BAY">
+			<Text>Willapa Bay</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_RS_SALISH_SEA">
+			<Text>Salish Sea</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_RS_SALTON_SEA">
+			<Text>Salton Sea</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_NAME_RS_GALVESTON_BAY">
+			<Text>Galveston Bay</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_RS_TIMBALIER_BAY">
+			<Text>Timbalier Bay</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_RS_CHANDELEUR_SOUND">
+			<Text>Chandeleur Sound</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_RS_TAMPA_BAY">
+			<Text>Tampa Bay</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_RS_PAMLICO_SOUND">
+			<Text>Pamlico Sound</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_RS_BOCA_GRANDE">
+			<Text>Boca Grande</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_RS_BULLS_BAY">
+			<Text>Bulls Bay</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_RS_BOGUE_SOUND">
+			<Text>Bogue Sound</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_RS_MOBILE_BAY">
+			<Text>Mobile Bay</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_RS_ALBEMARLE_SOUND">
+			<Text>Albemarle Sound</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_RS_CHESAPEAKE_BAY">
+			<Text>Chesapeake Bay</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_RS_LONG_ISLAND_SOUND">
+			<Text>Long Island Sound</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_RS_CAPE_COD_BAY">
+			<Text>Cape Cod Bay</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_RS_NARRAGANSETT_BAY">
+			<Text>Narragansett Bay</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_RS_DELAWARE_BAY">
+			<Text>Delaware Bay</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_RS_VINEYARD_SOUND">
+			<Text>Vineyard Sound</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_RS_MORICHES_BAY">
+			<Text>Moriches Bay</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_RS_SHINNECOCK_BAY">
+			<Text>Shinnecock Bay</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_RS_GREAT_PECONIC_BAY">
+			<Text>Great Peconic Bay</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_RS_GARDINERS_BAY">
+			<Text>Gardiners Bay</Text>
+		</Row>
+
+
+
+
+		<!--	
+=========================== 
+Islands 
+=========================== 
+-->
+		<Row Tag="TXT_KEY_NAME_RS_SANTA_CATALINA_ISLAND">
+			<Text>Santa Catalina Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_RS_BAINBRIDGE_ISLAND">
+			<Text>Bainbridge Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_RS_SAN_CLEMENTE_ISLAND">
+			<Text>San Clemente Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_RS_VANCOUVER_ISLAND">
+			<Text>Vancouver Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_RS_CHANNEL_ISLANDS">
+			<Text>Channel Islands</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_RS_TEXADA_ISLAND">
+			<Text>Texada Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_RS_SAUVIE_ISLAND">
+			<Text>Sauvie Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_RS_WHIDBEY_ISLAND">
+			<Text>Whidbey Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_RS_CAMANO_ISLAND">
+			<Text>Camano Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_RS_SAN_NICOLAS_ISLAND">
+			<Text>San Nicolas Island</Text>
+		</Row>
+
+
+		<Row Tag="TXT_KEY_NAME_RS_MARSH_ISLAND">
+			<Text>Marsh Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_RS_PINE_ISLAND">
+			<Text>Pine Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_RS_HONEY_ISLAND">
+			<Text>Honey Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_RS_MARCO_ISLAND">
+			<Text>Marco Island</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_NAME_RS_ST_HELENA_ISLAND">
+			<Text>St Helena Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_RS_KNOTTS_ISLAND">
+			<Text>Knotts Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_RS_PADRE_ISLAND">
+			<Text>Padre Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_RS_SANTA_ROSA_ISLAND">
+			<Text>Santa Rosa Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_RS_ROCK_ISLAND">
+			<Text>Rock Island</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_NAME_RS_LONG_ISLAND">
+			<Text>Long Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_RS_MARTHAS_VINEYARD">
+			<Text>Martha's Vineyard</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_RS_NANTUCKET">
+			<Text>Nantucket</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_RS_BLOCK_ISLAND">
+			<Text>Block Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_RS_SKIPPERS_ISLAND">
+			<Text>Skippers Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_RS_AQUIDNECK_ISLAND">
+			<Text>Aquidneck Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_RS_DEER_ISLE">
+			<Text>Deer Isle</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_RS_MANHATTAN_ISLAND">
+			<Text>Manhattan Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_RS_STATEN_ISLAND">
+			<Text>Staten Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_RS_DRUMMOND_ISLAND">
+			<Text>Drummond Island</Text>
+		</Row>
+
+
+
+		<!--		
+=========================== 
+Mountains 
+=========================== 
+-->
+		<Row Tag="TXT_KEY_NAME_RS_MOUNT_WHITNEY">
+			<Text>Mount Whitney</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_RS_KINGS_PEAK">
+			<Text>Kings Peak</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_RS_MOUNT_RAINIER">
+			<Text>Mount Rainier</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_RS_MOUNT_HOOD">
+			<Text>Mount Hood</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_RS_MOUNT_ELBERT">
+			<Text>Mount Elbert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_RS_HUMPHREYS_PEAK">
+			<Text>Humphrey's Peak</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_RS_MOUNT_ADAMS">
+			<Text>Mount Adams</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_RS_MOUNT_WILLIAMSON">
+			<Text>Mount Williamson</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_RS_ANGELS_LANDING">
+			<Text>Angel's Landing</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_RS_WHEELER_PEAK">
+			<Text>Wheeler Peak</Text>
+		</Row>
+
+		
+		
+		<Row Tag="TXT_KEY_NAME_RS_MOUNT_MITCHELL">
+			<Text>Mount Mitchell</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_RS_MAGAZINE_MOUNTAIN">
+			<Text>Magazine Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_RS_GUADALUPE_PEAK">
+			<Text>Guadalupe Peak</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_RS_BUSH_MOUNTAIN">
+			<Text>Bush Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_RS_BLACK_MESA">
+			<Text>Black Mesa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_RS_SASSAFRAS_MOUNTAIN">
+			<Text>Sassafras Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_RS_CLINGMANS_DOME">
+			<Text>Clingmans Dome</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_RS_MOUNT_ROGERS">
+			<Text>Mount Rogers</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_RS_BRASSTOWN_BALD">
+			<Text>Brasstown Bald</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_RS_BALSOM_CONE">
+			<Text>Balsom Cone</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_NAME_RS_GRAND_TETON">
+			<Text>Grand Teton</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_RS_WIND_RIVER_PEAK">
+			<Text>Wind River Peak</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_RS_MOUNT_GUYOT">
+			<Text>Mount Guyot</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_RS_MOUNT_WASHINGTON">
+			<Text>Mount Washington</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_RS_STONY_MAN">
+			<Text>Stony Man</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_RS_MOUNT_MARCY">
+			<Text>Mount Marcy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_RS_MOUNT_LAFAYETTE">
+			<Text>Mount Lafayette</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_RS_SADDLEBACK_MOUNTAIN">
+			<Text>Saddleback Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_RS_STRATTON_MOUNTAIN">
+			<Text>Stratton Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_RS_BEARS_HELL">
+			<Text>Bears Hell</Text>
+		</Row>
+
+
+		<!--
+=========================== 
+Lakes 
+=========================== 
+-->
+		<Row Tag="TXT_KEY_NAME_RS_LAKE_TAHOE">
+			<Text>Lake Tahoe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_RS_GREAT_SALT_LAKE">
+			<Text>Great Salt Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_RS_CRATER_LAKE">
+			<Text>Crater Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_RS_LAKE_POWELL">
+			<Text>Lake Powell</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_RS_LAKE_MEAD">
+			<Text>Lake Mead</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_RS_PYRAMID_LAKE">
+			<Text>Pyramid Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_RS_LAKE_PEND_OREILLE">
+			<Text>Lake Pend Oreille</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_RS_BEAR_LAKE">
+			<Text>Bear Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_RS_TRINITY_LAKE">
+			<Text>Trinity Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_RS_KLAMATH_LAKE">
+			<Text>Klamath Lake</Text>
+		</Row>
+
+
+		<Row Tag="TXT_KEY_NAME_RS_LAKE_OAHE">
+			<Text>Lake Oahe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_RS_LAKE_OKEECHOBEE">
+			<Text>Lake Okeechobee</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_RS_LAKE_PONTCHARTRAIN">
+			<Text>Lake Pontchartrain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_RS_TOLEDO_BEND">
+			<Text>Toledo Bend</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_RS_KENTUCKY_LAKE">
+			<Text>Kentucky Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_RS_EUFALA_LAKE">
+			<Text>Eufala Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_RS_LAKE_TEXOMA">
+			<Text>Lake Texoma</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_RS_KERR_LAKE">
+			<Text>Kerr Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_RS_LAKE_MATTAMUSKET">
+			<Text>Lake Mattamusket</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_RS_LAKE_OF_THE_OZARKS">
+			<Text>Lake of the Ozarks</Text>
+		</Row>
+
+
+		<Row Tag="TXT_KEY_NAME_RS_LAKE_MICHIGAN">
+			<Text>Lake Michigan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_RS_LAKE_ONTARIO">
+			<Text>Lake Ontario</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_RS_LAKE_CHAMPLAIN">
+			<Text>Lake Champlain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_RS_LAKE_WINNEBAGO">
+			<Text>Lake Winnebago</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_RS_LAKE_GEORGE">
+			<Text>Lake George</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_RS_LAKE_ST_CLAIR">
+			<Text>Lake St. Clair</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_RS_RAINY_LAKE">
+			<Text>Rainy Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_RS_FLATHEAD_LAKE">
+			<Text>Flathead Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_RS_GREEN_BAY">
+			<Text>Green Bay</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_RS_FINGER_LAKES">
+			<Text>Finger Lakes</Text>
+		</Row>
+
+
+
+		<!-- 		
+=========================== 
+Rivers 
+=========================== 
+-->
+		<Row Tag="TXT_KEY_NAME_RS_COLORADO_RIVER">
+			<Text>Colorado River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_RS_COLUMBIA_RIVER">
+			<Text>Columbia River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_RS_SNAKE_RIVER">
+			<Text>Snake River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_RS_SACRAMENTO_RIVER">
+			<Text>Sacramento River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_RS_VIRGIN_RIVER">
+			<Text>Virgin River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_RS_OWYHEE_RIVER">
+			<Text>Owyhee River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_RS_SALMON_RIVER">
+			<Text>Salmon River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_RS_YAKIMA_RIVER">
+			<Text>Yakima River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_RS_CRAB_CREEK">
+			<Text>Crab Creek</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_RS_SAN_JOAQUIN_RIVER">
+			<Text>San Joaquin River</Text>
+		</Row>
+
+
+		<Row Tag="TXT_KEY_NAME_RS_MISSISSIPPI_RIVER">
+			<Text>Mississippi River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_RS_MISSOURI_RIVER">
+			<Text>Missouri River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_RS_RIO_GRANDE">
+			<Text>Rio Grande</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_RS_ARKANSAS_RIVER">
+			<Text>Arkansas River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_RS_RED_RIVER">
+			<Text>Red River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_RS_TENNESSEE_RIVER">
+			<Text>Tennessee River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_RS_BRAZOS_RIVER">
+			<Text>Brazos River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_RS_PECOS_RIVER">
+			<Text>Pecos River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_RS_WHITE_RIVER">
+			<Text>White River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_RS_ROANOKE_RIVER">
+			<Text>Roanoke River</Text>
+		</Row>
+
+
+		<Row Tag="TXT_KEY_NAME_RS_OHIO_RIVER">
+			<Text>Ohio River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_RS_GREEN_RIVER">
+			<Text>Green River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_RS_JAMES_RIVER">
+			<Text>James River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_RS_YELLOWSTONE_RIVER">
+			<Text>Yellowstone River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_RS_SAINT_LAWRENCE_RIVER">
+			<Text>Saint Lawrence River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_RS_CHEYENNE_RIVER">
+			<Text>Cheyenne River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_RS_SMOKY_HILL_RIVER">
+			<Text>Smoky Hill River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_RS_WABASH_RIVER">
+			<Text>Wabash River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_RS_POTOMAC_RIVER">
+			<Text>Potomac River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_RS_HUDSON_RIVER">
+			<Text>Hudson River</Text>
+		</Row>
+
+
+
+		<!-- 
+=========================== 
+Forests 
+=========================== 
+-->
+		<Row Tag="TXT_KEY_NAME_RS_TOIYABE_FOREST">
+			<Text>Toiyabe Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_RS_WENATCHEE_FOREST">
+			<Text>Wenatchee Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_RS_YOSEMITE">
+			<Text>Yosemite</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_RS_INYO_FOREST">
+			<Text>Inyo Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_RS_DIXIE_FOREST">
+			<Text>Dixie Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_RS_COCONINO_FOREST">
+			<Text>Coconino Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_RS_SISKIYOU_FOREST">
+			<Text>Siskiyou Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_RS_HUMBOLDT_FOREST">
+			<Text>Humboldt Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_RS_OKANOGAN_FOREST">
+			<Text>Okanogan Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_RS_SNOQUALMIE_FOREST">
+			<Text>Snoqualmie Forest</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_NAME_RS_PINEY_WOODS">
+			<Text>Piney Woods</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_RS_CHOCTAWHATCHEE_FOREST">
+			<Text>Choctawhatchee Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_RS_APALACHICOLA_FOREST">
+			<Text>Apalachicola Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_RS_CHATTAHOOCHEE_FOREST">
+			<Text>Chattahoochee Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_RS_OCONEE_FOREST">
+			<Text>Oconee Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_RS_JEFFERSON_FOREST">
+			<Text>Jefferson Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_RS_CHEROKEE_FOREST">
+			<Text>Cherokee Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_RS_KISATCHIE_FOREST">
+			<Text>Kisatchie Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_RS_NANTAHALA_FOREST">
+			<Text>Nantahala Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_RS_DE_SOTO_FOREST">
+			<Text>De Soto Forest</Text>
+		</Row>
+
+
+		<Row Tag="TXT_KEY_NAME_RS_PINE_BARRENS">
+			<Text>Pine Barrens</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_RS_HURON_FOREST">
+			<Text>Huron Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_RS_ALLEGHENY_FOREST">
+			<Text>Allegheny Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_RS_MONONGAHELA_FOREST">
+			<Text>Monongahela Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_RS_YELLOWSTONE">
+			<Text>Yellowstone</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_RS_MANISTEE_FOREST">
+			<Text>Manistee Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_RS_OTTAWA_FOREST">
+			<Text>Ottawa Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_RS_GREEN_MOUNTAIN_FOREST">
+			<Text>Green Mountain Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_RS_COLD_RIVER_WOODS">
+			<Text>Cold River Woods</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_RS_BEAR_SWAMP">
+			<Text>Bear Swamp</Text>
+		</Row>
+
+
+
+		<!--
+=========================== 
+Deserts 
+=========================== 
+-->
+		<Row Tag="TXT_KEY_NAME_RS_MOJAVE_DESERT">
+			<Text>Mojave Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_RS_DEATH_VALLEY">
+			<Text>Death Valley</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_RS_THE_BADLANDS">
+			<Text>The Badlands</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_RS_AMARGOSA_DESERT">
+			<Text>Amargosa Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_RS_SEVIER_DESERT">
+			<Text>Sevier Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_RS_ESCALANTE_DESERT">
+			<Text>Escalante Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_RS_BLACK_ROCK_DESERT">
+			<Text>Black Rock Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_RS_CHANNELED_SCABLANDS">
+			<Text>Channeled Scablands</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_RS_YUMA_DESERT">
+			<Text>Yuma Desert</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_NAME_RS_WHITE_SANDS">
+			<Text>White Sands</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_RS_TRANSPECOS_DESERT">
+			<Text>Trans-Pecos Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_RS_TAMAULIPAN_MEZQUITAL">
+			<Text>Tamaulipan Mezquital</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_RS_HILL_COUNTRY">
+			<Text>Hill Country</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_RS_EDWARDS_PLATEAU">
+			<Text>Edwards Plateau</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_RS_PECKERWOOD_DESERT">
+			<Text>Peckerwood Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_RS_JORNADA_DEL_MUERTO">
+			<Text>Jornada del Muerto</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_RS_MONAHANS_SAND_DUNES">
+			<Text>Monahans Sand Dunes</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_RS_SANDHILLS">
+			<Text>Sandhills</Text>
+		</Row>
+
+
+		<Row Tag="TXT_KEY_NAME_RS_GREAT_AMERICAN_DESERT">
+			<Text>Great American Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_RS_DESERT_OF_MAINE">
+			<Text>Desert of Maine</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_RS_RED_DESERT">
+			<Text>Red Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_RS_THE_BARRENS">
+			<Text>The Barrens</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_RS_ROME_SAND_PLAINS">
+			<Text>Rome Sand Plains</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_RS_SILVER_DUNES">
+			<Text>Silver Dunes</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_RS_BOURNE_SANDS">
+			<Text>Bourne Sands</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_RS_WHITEFISH_DUNES">
+			<Text>Whitefish Dunes</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_RS_THE_HEADLANDS">
+			<Text>The Headlands</Text>
+		</Row>
+
+
+	</Language_en_US>
+</GameData>

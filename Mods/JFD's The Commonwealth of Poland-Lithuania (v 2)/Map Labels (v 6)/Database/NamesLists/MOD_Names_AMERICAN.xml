@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+*****************************************
+*			Map Labels					*
+*	by Hazel (hazel16 @ CivFanatics)	*
+*****************************************
+-->
+<GameData>
+	<ML_Labels_Dynamic>
+		<!-- Template:
+			
+		-->
+
+		<!-- 
+=========================== 
+Regions 
+=========================== 
+-->
+		<Row Name="TXT_KEY_NAME_RS_CASCADE_RANGE" MainType="REGION" SubType="REGION" CultureType="US_WESTERN"/>
+		<Row Name="TXT_KEY_NAME_RS_INLAND_EMPIRE" MainType="REGION" SubType="REGION" CultureType="US_WESTERN"/>
+		<Row Name="TXT_KEY_NAME_RS_GREAT_BASIN" MainType="REGION" SubType="REGION" CultureType="US_WESTERN"/>
+		<Row Name="TXT_KEY_NAME_RS_HIGH_DESERT" MainType="REGION" SubType="REGION" CultureType="US_WESTERN"/>
+		<Row Name="TXT_KEY_NAME_RS_BIG_SUR" MainType="REGION" SubType="REGION" CultureType="US_WESTERN"/>
+		<Row Name="TXT_KEY_NAME_RS_GOLD_COUNTRY" MainType="REGION" SubType="REGION" CultureType="US_WESTERN"/>
+		<Row Name="TXT_KEY_NAME_RS_ROCKY_MOUNTAINS" MainType="REGION" SubType="REGION" CultureType="US_WESTERN"/>
+		<Row Name="TXT_KEY_NAME_RS_COLORADO_PLATEAU" MainType="REGION" SubType="REGION" CultureType="US_WESTERN"/>
+		<Row Name="TXT_KEY_NAME_RS_SIERRA_NEVADA" MainType="REGION" SubType="REGION" CultureType="US_WESTERN"/>
+
+		<Row Name="TXT_KEY_NAME_RS_THE_CAROLINAS" MainType="REGION" SubType="REGION" CultureType="US_SOUTHERN"/>
+		<Row Name="TXT_KEY_NAME_RS_THE_VIRGINIAS" MainType="REGION" SubType="REGION" CultureType="US_SOUTHERN"/>
+		<Row Name="TXT_KEY_NAME_RS_DIXIE" MainType="REGION" SubType="REGION" CultureType="US_SOUTHERN"/>
+		<Row Name="TXT_KEY_NAME_RS_SHENANDOAH_VALLEY" MainType="REGION" SubType="REGION" CultureType="US_SOUTHERN"/>
+		<Row Name="TXT_KEY_NAME_RS_OZARKS" MainType="REGION" SubType="REGION" CultureType="US_SOUTHERN"/>
+		<Row Name="TXT_KEY_NAME_RS_LLANO_ESTACADO" MainType="REGION" SubType="REGION" CultureType="US_SOUTHERN"/>
+		<Row Name="TXT_KEY_NAME_RS_BIG_BEND" MainType="REGION" SubType="REGION" CultureType="US_SOUTHERN"/>
+		<Row Name="TXT_KEY_NAME_RS_EVERGLADES" MainType="REGION" SubType="REGION" CultureType="US_SOUTHERN"/>
+		<Row Name="TXT_KEY_NAME_RS_ACADIANA" MainType="REGION" SubType="REGION" CultureType="US_SOUTHERN"/>
+
+		<Row Name="TXT_KEY_NAME_RS_NEW_ENGLAND" MainType="REGION" SubType="REGION" CultureType="US_NORTHEAST"/>
+		<Row Name="TXT_KEY_NAME_RS_CORN_BELT" MainType="REGION" SubType="REGION" CultureType="US_NORTHEAST"/>
+		<Row Name="TXT_KEY_NAME_RS_GREAT_PLAINS" MainType="REGION" SubType="REGION" CultureType="US_NORTHEAST"/>
+		<Row Name="TXT_KEY_NAME_RS_APPALACHIAN_MOUNTAINS" MainType="REGION" SubType="REGION" CultureType="US_NORTHEAST"/>
+		<Row Name="TXT_KEY_NAME_RS_MIDATLANTIC" MainType="REGION" SubType="REGION" CultureType="US_NORTHEAST"/>
+		<Row Name="TXT_KEY_NAME_RS_ADIRONDACKS" MainType="REGION" SubType="REGION" CultureType="US_NORTHEAST"/>
+		<Row Name="TXT_KEY_NAME_RS_GREAT_LAKES" MainType="REGION" SubType="REGION" CultureType="US_NORTHEAST"/>
+
+
+
+		<!-- 
+=========================== 
+Oceans 
+=========================== 
+-->
+		<Row Name="TXT_KEY_NAME_RS_SANTA_MONICA_BAY" MainType="REGION" SubType="OCEAN" CultureType="US_WESTERN"/>
+		<Row Name="TXT_KEY_NAME_RS_MONTEREY_BAY" MainType="REGION" SubType="OCEAN" CultureType="US_WESTERN"/>
+		<Row Name="TXT_KEY_NAME_RS_MISSION_BAY" MainType="REGION" SubType="OCEAN" CultureType="US_WESTERN"/>
+		<Row Name="TXT_KEY_NAME_RS_HUMBOLDT_BAY" MainType="REGION" SubType="OCEAN" CultureType="US_WESTERN"/>
+		<Row Name="TXT_KEY_NAME_RS_PUGET_SOUND" MainType="REGION" SubType="OCEAN" CultureType="US_WESTERN"/>
+		<Row Name="TXT_KEY_NAME_RS_NETARTS_BAY" MainType="REGION" SubType="OCEAN" CultureType="US_WESTERN"/>
+		<Row Name="TXT_KEY_NAME_RS_TILLAMOOK_BAY" MainType="REGION" SubType="OCEAN" CultureType="US_WESTERN"/>
+		<Row Name="TXT_KEY_NAME_RS_WILLAPA_BAY" MainType="REGION" SubType="OCEAN" CultureType="US_WESTERN"/>
+		<Row Name="TXT_KEY_NAME_RS_SALISH_SEA" MainType="REGION" SubType="OCEAN" CultureType="US_WESTERN"/>
+		<Row Name="TXT_KEY_NAME_RS_SALTON_SEA" MainType="REGION" SubType="OCEAN" CultureType="US_WESTERN"/>
+
+		<Row Name="TXT_KEY_NAME_RS_GALVESTON_BAY" MainType="REGION" SubType="OCEAN" CultureType="US_SOUTHERN"/>
+		<Row Name="TXT_KEY_NAME_RS_TIMBALIER_BAY" MainType="REGION" SubType="OCEAN" CultureType="US_SOUTHERN"/>
+		<Row Name="TXT_KEY_NAME_RS_CHANDELEUR_SOUND" MainType="REGION" SubType="OCEAN" CultureType="US_SOUTHERN"/>
+		<Row Name="TXT_KEY_NAME_RS_TAMPA_BAY" MainType="REGION" SubType="OCEAN" CultureType="US_SOUTHERN"/>
+		<Row Name="TXT_KEY_NAME_RS_PAMLICO_SOUND" MainType="REGION" SubType="OCEAN" CultureType="US_SOUTHERN"/>
+		<Row Name="TXT_KEY_NAME_RS_BOCA_GRANDE" MainType="REGION" SubType="OCEAN" CultureType="US_SOUTHERN"/>
+		<Row Name="TXT_KEY_NAME_RS_BULLS_BAY" MainType="REGION" SubType="OCEAN" CultureType="US_SOUTHERN"/>
+		<Row Name="TXT_KEY_NAME_RS_BOGUE_SOUND" MainType="REGION" SubType="OCEAN" CultureType="US_SOUTHERN"/>
+		<Row Name="TXT_KEY_NAME_RS_MOBILE_BAY" MainType="REGION" SubType="OCEAN" CultureType="US_SOUTHERN"/>
+		<Row Name="TXT_KEY_NAME_RS_ALBEMARLE_SOUND" MainType="REGION" SubType="OCEAN" CultureType="US_SOUTHERN"/>
+
+
+		<Row Name="TXT_KEY_NAME_RS_CHESAPEAKE_BAY" MainType="REGION" SubType="OCEAN" CultureType="US_NORTHEAST"/>
+		<Row Name="TXT_KEY_NAME_RS_LONG_ISLAND_SOUND" MainType="REGION" SubType="OCEAN" CultureType="US_NORTHEAST"/>
+		<Row Name="TXT_KEY_NAME_RS_CAPE_COD_BAY" MainType="REGION" SubType="OCEAN" CultureType="US_NORTHEAST"/>
+		<Row Name="TXT_KEY_NAME_RS_NARRAGANSETT_BAY" MainType="REGION" SubType="OCEAN" CultureType="US_NORTHEAST"/>
+		<Row Name="TXT_KEY_NAME_RS_DELAWARE_BAY" MainType="REGION" SubType="OCEAN" CultureType="US_NORTHEAST"/>
+		<Row Name="TXT_KEY_NAME_RS_VINEYARD_SOUND" MainType="REGION" SubType="OCEAN" CultureType="US_NORTHEAST"/>
+		<Row Name="TXT_KEY_NAME_RS_MORICHES_BAY" MainType="REGION" SubType="OCEAN" CultureType="US_NORTHEAST"/>
+		<Row Name="TXT_KEY_NAME_RS_SHINNECOCK_BAY" MainType="REGION" SubType="OCEAN" CultureType="US_NORTHEAST"/>
+		<Row Name="TXT_KEY_NAME_RS_GREAT_PECONIC_BAY" MainType="REGION" SubType="OCEAN" CultureType="US_NORTHEAST"/>
+		<Row Name="TXT_KEY_NAME_RS_GARDINERS_BAY" MainType="REGION" SubType="OCEAN" CultureType="US_NORTHEAST"/>
+
+
+
+		<!--	
+=========================== 
+Islands 
+=========================== 
+-->
+		<Row Name="TXT_KEY_NAME_RS_SANTA_CATALINA_ISLAND" MainType="REGION" SubType="ISLAND" CultureType="US_WESTERN"/>
+		<Row Name="TXT_KEY_NAME_RS_BAINBRIDGE_ISLAND" MainType="REGION" SubType="ISLAND" CultureType="US_WESTERN"/>
+		<Row Name="TXT_KEY_NAME_RS_SAN_CLEMENTE_ISLAND" MainType="REGION" SubType="ISLAND" CultureType="US_WESTERN"/>
+		<Row Name="TXT_KEY_NAME_RS_VANCOUVER_ISLAND" MainType="REGION" SubType="ISLAND" CultureType="US_WESTERN"/>
+		<Row Name="TXT_KEY_NAME_RS_CHANNEL_ISLANDS" MainType="REGION" SubType="ISLAND" CultureType="US_WESTERN"/>
+		<Row Name="TXT_KEY_NAME_RS_TEXADA_ISLAND" MainType="REGION" SubType="ISLAND" CultureType="US_WESTERN"/>
+		<Row Name="TXT_KEY_NAME_RS_SAUVIE_ISLAND" MainType="REGION" SubType="ISLAND" CultureType="US_WESTERN"/>
+		<Row Name="TXT_KEY_NAME_RS_WHIDBEY_ISLAND" MainType="REGION" SubType="ISLAND" CultureType="US_WESTERN"/>
+		<Row Name="TXT_KEY_NAME_RS_CAMANO_ISLAND" MainType="REGION" SubType="ISLAND" CultureType="US_WESTERN"/>
+		<Row Name="TXT_KEY_NAME_RS_SAN_NICOLAS_ISLAND" MainType="REGION" SubType="ISLAND" CultureType="US_WESTERN"/>
+
+		<Row Name="TXT_KEY_NAME_RS_MARSH_ISLAND" MainType="REGION" SubType="ISLAND" CultureType="US_SOUTHERN"/>
+		<Row Name="TXT_KEY_NAME_RS_PINE_ISLAND" MainType="REGION" SubType="ISLAND" CultureType="US_SOUTHERN"/>
+		<Row Name="TXT_KEY_NAME_RS_HONEY_ISLAND" MainType="REGION" SubType="ISLAND" CultureType="US_SOUTHERN"/>
+		<Row Name="TXT_KEY_NAME_RS_MARCO_ISLAND" MainType="REGION" SubType="ISLAND" CultureType="US_SOUTHERN"/>
+		<Row Name="TXT_KEY_NAME_RS_ST_HELENA_ISLAND" MainType="REGION" SubType="ISLAND" CultureType="US_SOUTHERN"/>
+		<Row Name="TXT_KEY_NAME_RS_KNOTTS_ISLAND" MainType="REGION" SubType="ISLAND" CultureType="US_SOUTHERN"/>
+		<Row Name="TXT_KEY_NAME_RS_PADRE_ISLAND" MainType="REGION" SubType="ISLAND" CultureType="US_SOUTHERN"/>
+		<Row Name="TXT_KEY_NAME_RS_SANTA_ROSA_ISLAND" MainType="REGION" SubType="ISLAND" CultureType="US_SOUTHERN"/>
+		<Row Name="TXT_KEY_NAME_RS_ROCK_ISLAND" MainType="REGION" SubType="ISLAND" CultureType="US_SOUTHERN"/>
+
+		<Row Name="TXT_KEY_NAME_RS_LONG_ISLAND" MainType="REGION" SubType="ISLAND" CultureType="US_NORTHEAST"/>
+		<Row Name="TXT_KEY_NAME_RS_MARTHAS_VINEYARD" MainType="REGION" SubType="ISLAND" CultureType="US_NORTHEAST"/>
+		<Row Name="TXT_KEY_NAME_RS_NANTUCKET" MainType="REGION" SubType="ISLAND" CultureType="US_NORTHEAST"/>
+		<Row Name="TXT_KEY_NAME_RS_BLOCK_ISLAND" MainType="REGION" SubType="ISLAND" CultureType="US_NORTHEAST"/>
+		<Row Name="TXT_KEY_NAME_RS_SKIPPERS_ISLAND" MainType="REGION" SubType="ISLAND" CultureType="US_NORTHEAST"/>
+		<Row Name="TXT_KEY_NAME_RS_AQUIDNECK_ISLAND" MainType="REGION" SubType="ISLAND" CultureType="US_NORTHEAST"/>
+		<Row Name="TXT_KEY_NAME_RS_DEER_ISLE" MainType="REGION" SubType="ISLAND" CultureType="US_NORTHEAST"/>
+		<Row Name="TXT_KEY_NAME_RS_MANHATTAN_ISLAND" MainType="REGION" SubType="ISLAND" CultureType="US_NORTHEAST"/>
+		<Row Name="TXT_KEY_NAME_RS_STATEN_ISLAND" MainType="REGION" SubType="ISLAND" CultureType="US_NORTHEAST"/>
+		<Row Name="TXT_KEY_NAME_RS_DRUMMOND_ISLAND" MainType="REGION" SubType="ISLAND" CultureType="US_NORTHEAST"/>
+
+
+
+		<!--		
+=========================== 
+Mountains 
+=========================== 
+-->
+		<Row Name="TXT_KEY_NAME_RS_MOUNT_WHITNEY" MainType="FEATURE" SubType="MOUNTAIN" CultureType="US_WESTERN"/>
+		<Row Name="TXT_KEY_NAME_RS_KINGS_PEAK" MainType="FEATURE" SubType="MOUNTAIN" CultureType="US_WESTERN"/>
+		<Row Name="TXT_KEY_NAME_RS_MOUNT_RAINIER" MainType="FEATURE" SubType="MOUNTAIN" CultureType="US_WESTERN"/>
+		<Row Name="TXT_KEY_NAME_RS_MOUNT_HOOD" MainType="FEATURE" SubType="MOUNTAIN" CultureType="US_WESTERN"/>
+		<Row Name="TXT_KEY_NAME_RS_MOUNT_ELBERT" MainType="FEATURE" SubType="MOUNTAIN" CultureType="US_WESTERN"/>
+		<Row Name="TXT_KEY_NAME_RS_HUMPHREYS_PEAK" MainType="FEATURE" SubType="MOUNTAIN" CultureType="US_WESTERN"/>
+		<Row Name="TXT_KEY_NAME_RS_MOUNT_ADAMS" MainType="FEATURE" SubType="MOUNTAIN" CultureType="US_WESTERN"/>
+		<Row Name="TXT_KEY_NAME_RS_MOUNT_WILLIAMSON" MainType="FEATURE" SubType="MOUNTAIN" CultureType="US_WESTERN"/>
+		<Row Name="TXT_KEY_NAME_RS_ANGELS_LANDING" MainType="FEATURE" SubType="MOUNTAIN" CultureType="US_WESTERN"/>
+		<Row Name="TXT_KEY_NAME_RS_WHEELER_PEAK" MainType="FEATURE" SubType="MOUNTAIN" CultureType="US_WESTERN"/>
+
+
+		<Row Name="TXT_KEY_NAME_RS_MOUNT_MITCHELL" MainType="FEATURE" SubType="MOUNTAIN" CultureType="US_SOUTHERN"/>
+		<Row Name="TXT_KEY_NAME_RS_MAGAZINE_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="US_SOUTHERN"/>
+		<Row Name="TXT_KEY_NAME_RS_GUADALUPE_PEAK" MainType="FEATURE" SubType="MOUNTAIN" CultureType="US_SOUTHERN"/>
+		<Row Name="TXT_KEY_NAME_RS_BUSH_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="US_SOUTHERN"/>
+		<Row Name="TXT_KEY_NAME_RS_BLACK_MESA" MainType="FEATURE" SubType="MOUNTAIN" CultureType="US_SOUTHERN"/>
+		<Row Name="TXT_KEY_NAME_RS_SASSAFRAS_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="US_SOUTHERN"/>
+		<Row Name="TXT_KEY_NAME_RS_CLINGMANS_DOME" MainType="FEATURE" SubType="MOUNTAIN" CultureType="US_SOUTHERN"/>
+		<Row Name="TXT_KEY_NAME_RS_MOUNT_ROGERS" MainType="FEATURE" SubType="MOUNTAIN" CultureType="US_SOUTHERN"/>
+		<Row Name="TXT_KEY_NAME_RS_BRASSTOWN_BALD" MainType="FEATURE" SubType="MOUNTAIN" CultureType="US_SOUTHERN"/>
+		<Row Name="TXT_KEY_NAME_RS_BALSOM_CONE" MainType="FEATURE" SubType="MOUNTAIN" CultureType="US_SOUTHERN"/>
+
+
+		<Row Name="TXT_KEY_NAME_RS_GRAND_TETON" MainType="FEATURE" SubType="MOUNTAIN" CultureType="US_NORTHEAST"/>
+		<Row Name="TXT_KEY_NAME_RS_WIND_RIVER_PEAK" MainType="FEATURE" SubType="MOUNTAIN" CultureType="US_NORTHEAST"/>
+		<Row Name="TXT_KEY_NAME_RS_MOUNT_GUYOT" MainType="FEATURE" SubType="MOUNTAIN" CultureType="US_NORTHEAST"/>
+		<Row Name="TXT_KEY_NAME_RS_MOUNT_WASHINGTON" MainType="FEATURE" SubType="MOUNTAIN" CultureType="US_NORTHEAST"/>
+		<Row Name="TXT_KEY_NAME_RS_STONY_MAN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="US_NORTHEAST"/>
+		<Row Name="TXT_KEY_NAME_RS_MOUNT_MARCY" MainType="FEATURE" SubType="MOUNTAIN" CultureType="US_NORTHEAST"/>
+		<Row Name="TXT_KEY_NAME_RS_MOUNT_LAFAYETTE" MainType="FEATURE" SubType="MOUNTAIN" CultureType="US_NORTHEAST"/>
+		<Row Name="TXT_KEY_NAME_RS_SADDLEBACK_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="US_NORTHEAST"/>
+		<Row Name="TXT_KEY_NAME_RS_STRATTON_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="US_NORTHEAST"/>
+		<Row Name="TXT_KEY_NAME_RS_BEARS_HELL" MainType="FEATURE" SubType="MOUNTAIN" CultureType="US_NORTHEAST"/>
+
+
+
+		<!--
+=========================== 
+Lakes 
+=========================== 
+-->
+		<Row Name="TXT_KEY_NAME_RS_LAKE_TAHOE" MainType="FEATURE" SubType="LAKE" CultureType="US_WESTERN"/>
+		<Row Name="TXT_KEY_NAME_RS_GREAT_SALT_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="US_WESTERN"/>
+		<Row Name="TXT_KEY_NAME_RS_CRATER_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="US_WESTERN"/>
+		<Row Name="TXT_KEY_NAME_RS_LAKE_POWELL" MainType="FEATURE" SubType="LAKE" CultureType="US_WESTERN"/>
+		<Row Name="TXT_KEY_NAME_RS_LAKE_MEAD" MainType="FEATURE" SubType="LAKE" CultureType="US_WESTERN"/>
+		<Row Name="TXT_KEY_NAME_RS_PYRAMID_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="US_WESTERN"/>
+		<Row Name="TXT_KEY_NAME_RS_LAKE_PEND_OREILLE" MainType="FEATURE" SubType="LAKE" CultureType="US_WESTERN"/>
+		<Row Name="TXT_KEY_NAME_RS_BEAR_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="US_WESTERN"/>
+		<Row Name="TXT_KEY_NAME_RS_TRINITY_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="US_WESTERN"/>
+		<Row Name="TXT_KEY_NAME_RS_KLAMATH_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="US_WESTERN"/>
+
+
+		<Row Name="TXT_KEY_NAME_RS_LAKE_OAHE" MainType="FEATURE" SubType="LAKE" CultureType="US_SOUTHERN"/>
+		<Row Name="TXT_KEY_NAME_RS_LAKE_OKEECHOBEE" MainType="FEATURE" SubType="LAKE" CultureType="US_SOUTHERN"/>
+		<Row Name="TXT_KEY_NAME_RS_LAKE_PONTCHARTRAIN" MainType="FEATURE" SubType="LAKE" CultureType="US_SOUTHERN"/>
+		<Row Name="TXT_KEY_NAME_RS_TOLEDO_BEND" MainType="FEATURE" SubType="LAKE" CultureType="US_SOUTHERN"/>
+		<Row Name="TXT_KEY_NAME_RS_KENTUCKY_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="US_SOUTHERN"/>
+		<Row Name="TXT_KEY_NAME_RS_EUFALA_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="US_SOUTHERN"/>
+		<Row Name="TXT_KEY_NAME_RS_LAKE_TEXOMA" MainType="FEATURE" SubType="LAKE" CultureType="US_SOUTHERN"/>
+		<Row Name="TXT_KEY_NAME_RS_KERR_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="US_SOUTHERN"/>
+		<Row Name="TXT_KEY_NAME_RS_LAKE_MATTAMUSKET" MainType="FEATURE" SubType="LAKE" CultureType="US_SOUTHERN"/>
+		<Row Name="TXT_KEY_NAME_RS_LAKE_OF_THE_OZARKS" MainType="FEATURE" SubType="LAKE" CultureType="US_SOUTHERN"/>
+
+
+		<Row Name="TXT_KEY_NAME_RS_LAKE_MICHIGAN" MainType="FEATURE" SubType="LAKE" CultureType="US_NORTHEAST"/>
+		<Row Name="TXT_KEY_NAME_RS_LAKE_ONTARIO" MainType="FEATURE" SubType="LAKE" CultureType="US_NORTHEAST"/>
+		<Row Name="TXT_KEY_NAME_RS_LAKE_CHAMPLAIN" MainType="FEATURE" SubType="LAKE" CultureType="US_NORTHEAST"/>
+		<Row Name="TXT_KEY_NAME_RS_LAKE_WINNEBAGO" MainType="FEATURE" SubType="LAKE" CultureType="US_NORTHEAST"/>
+		<Row Name="TXT_KEY_NAME_RS_LAKE_GEORGE" MainType="FEATURE" SubType="LAKE" CultureType="US_NORTHEAST"/>
+		<Row Name="TXT_KEY_NAME_RS_LAKE_ST_CLAIR" MainType="FEATURE" SubType="LAKE" CultureType="US_NORTHEAST"/>
+		<Row Name="TXT_KEY_NAME_RS_RAINY_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="US_NORTHEAST"/>
+		<Row Name="TXT_KEY_NAME_RS_FLATHEAD_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="US_NORTHEAST"/>
+		<Row Name="TXT_KEY_NAME_RS_GREEN_BAY" MainType="FEATURE" SubType="LAKE" CultureType="US_NORTHEAST"/>
+		<Row Name="TXT_KEY_NAME_RS_FINGER_LAKES" MainType="FEATURE" SubType="LAKE" CultureType="US_NORTHEAST"/>
+
+
+
+		<!-- 		
+=========================== 
+Rivers 
+=========================== 
+-->
+		<Row Name="TXT_KEY_NAME_RS_COLORADO_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="US_WESTERN"/>
+		<Row Name="TXT_KEY_NAME_RS_COLUMBIA_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="US_WESTERN"/>
+		<Row Name="TXT_KEY_NAME_RS_SNAKE_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="US_WESTERN"/>
+		<Row Name="TXT_KEY_NAME_RS_SACRAMENTO_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="US_WESTERN"/>
+		<Row Name="TXT_KEY_NAME_RS_VIRGIN_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="US_WESTERN"/>
+		<Row Name="TXT_KEY_NAME_RS_OWYHEE_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="US_WESTERN"/>
+		<Row Name="TXT_KEY_NAME_RS_SALMON_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="US_WESTERN"/>
+		<Row Name="TXT_KEY_NAME_RS_YAKIMA_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="US_WESTERN"/>
+		<Row Name="TXT_KEY_NAME_RS_CRAB_CREEK" MainType="FEATURE" SubType="RIVER" CultureType="US_WESTERN"/>
+		<Row Name="TXT_KEY_NAME_RS_SAN_JOAQUIN_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="US_WESTERN"/>
+
+
+		<Row Name="TXT_KEY_NAME_RS_MISSISSIPPI_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="US_SOUTHERN"/>
+		<Row Name="TXT_KEY_NAME_RS_MISSOURI_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="US_SOUTHERN"/>
+		<Row Name="TXT_KEY_NAME_RS_RIO_GRANDE" MainType="FEATURE" SubType="RIVER" CultureType="US_SOUTHERN"/>
+		<Row Name="TXT_KEY_NAME_RS_ARKANSAS_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="US_SOUTHERN"/>
+		<Row Name="TXT_KEY_NAME_RS_RED_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="US_SOUTHERN"/>
+		<Row Name="TXT_KEY_NAME_RS_TENNESSEE_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="US_SOUTHERN"/>
+		<Row Name="TXT_KEY_NAME_RS_BRAZOS_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="US_SOUTHERN"/>
+		<Row Name="TXT_KEY_NAME_RS_PECOS_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="US_SOUTHERN"/>
+		<Row Name="TXT_KEY_NAME_RS_WHITE_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="US_SOUTHERN"/>
+		<Row Name="TXT_KEY_NAME_RS_ROANOKE_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="US_SOUTHERN"/>
+
+
+		<Row Name="TXT_KEY_NAME_RS_OHIO_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="US_NORTHEAST"/>
+		<Row Name="TXT_KEY_NAME_RS_GREEN_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="US_NORTHEAST"/>
+		<Row Name="TXT_KEY_NAME_RS_JAMES_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="US_NORTHEAST"/>
+		<Row Name="TXT_KEY_NAME_RS_YELLOWSTONE_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="US_NORTHEAST"/>
+		<Row Name="TXT_KEY_NAME_RS_SAINT_LAWRENCE_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="US_NORTHEAST"/>
+		<Row Name="TXT_KEY_NAME_RS_CHEYENNE_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="US_NORTHEAST"/>
+		<Row Name="TXT_KEY_NAME_RS_SMOKY_HILL_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="US_NORTHEAST"/>
+		<Row Name="TXT_KEY_NAME_RS_WABASH_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="US_NORTHEAST"/>
+		<Row Name="TXT_KEY_NAME_RS_POTOMAC_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="US_NORTHEAST"/>
+		<Row Name="TXT_KEY_NAME_RS_HUDSON_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="US_NORTHEAST"/>
+
+
+		<!-- 
+=========================== 
+Forests 
+=========================== 
+-->
+		<Row Name="TXT_KEY_NAME_RS_TOIYABE_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="US_WESTERN"/>
+		<Row Name="TXT_KEY_NAME_RS_WENATCHEE_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="US_WESTERN"/>
+		<Row Name="TXT_KEY_NAME_RS_YOSEMITE" MainType="FEATURE" SubType="FOREST" CultureType="US_WESTERN"/>
+		<Row Name="TXT_KEY_NAME_RS_INYO_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="US_WESTERN"/>
+		<Row Name="TXT_KEY_NAME_RS_DIXIE_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="US_WESTERN"/>
+		<Row Name="TXT_KEY_NAME_RS_COCONINO_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="US_WESTERN"/>
+		<Row Name="TXT_KEY_NAME_RS_SISKIYOU_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="US_WESTERN"/>
+		<Row Name="TXT_KEY_NAME_RS_HUMBOLDT_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="US_WESTERN"/>
+		<Row Name="TXT_KEY_NAME_RS_OKANOGAN_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="US_WESTERN"/>
+		<Row Name="TXT_KEY_NAME_RS_SNOQUALMIE_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="US_WESTERN"/>
+
+		<Row Name="TXT_KEY_NAME_RS_PINEY_WOODS" MainType="FEATURE" SubType="FOREST" CultureType="US_SOUTHERN"/>
+		<Row Name="TXT_KEY_NAME_RS_CHOCTAWHATCHEE_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="US_SOUTHERN"/>
+		<Row Name="TXT_KEY_NAME_RS_APALACHICOLA_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="US_SOUTHERN"/>
+		<Row Name="TXT_KEY_NAME_RS_CHATTAHOOCHEE_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="US_SOUTHERN"/>
+		<Row Name="TXT_KEY_NAME_RS_OCONEE_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="US_SOUTHERN"/>
+		<Row Name="TXT_KEY_NAME_RS_JEFFERSON_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="US_SOUTHERN"/>
+		<Row Name="TXT_KEY_NAME_RS_CHEROKEE_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="US_SOUTHERN"/>
+		<Row Name="TXT_KEY_NAME_RS_KISATCHIE_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="US_SOUTHERN"/>
+		<Row Name="TXT_KEY_NAME_RS_NANTAHALA_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="US_SOUTHERN"/>
+		<Row Name="TXT_KEY_NAME_RS_DE_SOTO_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="US_SOUTHERN"/>
+
+
+
+		<Row Name="TXT_KEY_NAME_RS_PINE_BARRENS" MainType="FEATURE" SubType="FOREST" CultureType="US_NORTHEAST"/>
+		<Row Name="TXT_KEY_NAME_RS_HURON_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="US_NORTHEAST"/>
+		<Row Name="TXT_KEY_NAME_RS_ALLEGHENY_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="US_NORTHEAST"/>
+		<Row Name="TXT_KEY_NAME_RS_MONONGAHELA_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="US_NORTHEAST"/>
+		<Row Name="TXT_KEY_NAME_RS_YELLOWSTONE" MainType="FEATURE" SubType="FOREST" CultureType="US_NORTHEAST"/>
+		<Row Name="TXT_KEY_NAME_RS_MANISTEE_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="US_NORTHEAST"/>
+		<Row Name="TXT_KEY_NAME_RS_OTTAWA_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="US_NORTHEAST"/>
+		<Row Name="TXT_KEY_NAME_RS_GREEN_MOUNTAIN_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="US_NORTHEAST"/>
+		<Row Name="TXT_KEY_NAME_RS_COLD_RIVER_WOODS" MainType="FEATURE" SubType="FOREST" CultureType="US_NORTHEAST"/>
+		<Row Name="TXT_KEY_NAME_RS_BEAR_SWAMP" MainType="FEATURE" SubType="FOREST" CultureType="US_NORTHEAST"/>
+
+
+		<!--
+=========================== 
+Deserts 
+=========================== 
+-->
+		<Row Name="TXT_KEY_NAME_RS_MOJAVE_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="US_WESTERN"/>
+		<Row Name="TXT_KEY_NAME_RS_DEATH_VALLEY" MainType="FEATURE" SubType="DESERT" CultureType="US_WESTERN"/>
+		<Row Name="TXT_KEY_NAME_RS_THE_BADLANDS" MainType="FEATURE" SubType="DESERT" CultureType="US_WESTERN"/>
+		<Row Name="TXT_KEY_NAME_RS_AMARGOSA_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="US_WESTERN"/>
+		<Row Name="TXT_KEY_NAME_RS_SEVIER_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="US_WESTERN"/>
+		<Row Name="TXT_KEY_NAME_RS_ESCALANTE_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="US_WESTERN"/>
+		<Row Name="TXT_KEY_NAME_RS_BLACK_ROCK_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="US_WESTERN"/>
+		<Row Name="TXT_KEY_NAME_RS_CHANNELED_SCABLANDS" MainType="FEATURE" SubType="DESERT" CultureType="US_WESTERN"/>
+		<Row Name="TXT_KEY_NAME_RS_YUMA_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="US_WESTERN"/>
+
+		<Row Name="TXT_KEY_NAME_RS_WHITE_SANDS" MainType="FEATURE" SubType="DESERT" CultureType="US_SOUTHERN"/>
+		<Row Name="TXT_KEY_NAME_RS_TRANSPECOS_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="US_SOUTHERN"/>
+		<Row Name="TXT_KEY_NAME_RS_TAMAULIPAN_MEZQUITAL" MainType="FEATURE" SubType="DESERT" CultureType="US_SOUTHERN"/>
+		<Row Name="TXT_KEY_NAME_RS_HILL_COUNTRY" MainType="FEATURE" SubType="DESERT" CultureType="US_SOUTHERN"/>
+		<Row Name="TXT_KEY_NAME_RS_EDWARDS_PLATEAU" MainType="FEATURE" SubType="DESERT" CultureType="US_SOUTHERN"/>
+		<Row Name="TXT_KEY_NAME_RS_PECKERWOOD_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="US_SOUTHERN"/>
+		<Row Name="TXT_KEY_NAME_RS_JORNADA_DEL_MUERTO" MainType="FEATURE" SubType="DESERT" CultureType="US_SOUTHERN"/>
+		<Row Name="TXT_KEY_NAME_RS_MONAHANS_SAND_DUNES" MainType="FEATURE" SubType="DESERT" CultureType="US_SOUTHERN"/>
+		<Row Name="TXT_KEY_NAME_RS_SANDHILLS" MainType="FEATURE" SubType="DESERT" CultureType="US_SOUTHERN"/>
+
+
+		<Row Name="TXT_KEY_NAME_RS_GREAT_AMERICAN_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="US_NORTHEAST"/>
+		<Row Name="TXT_KEY_NAME_RS_DESERT_OF_MAINE" MainType="FEATURE" SubType="DESERT" CultureType="US_NORTHEAST"/>
+		<Row Name="TXT_KEY_NAME_RS_RED_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="US_NORTHEAST"/>
+		<Row Name="TXT_KEY_NAME_RS_THE_BARRENS" MainType="FEATURE" SubType="DESERT" CultureType="US_NORTHEAST"/>
+		<Row Name="TXT_KEY_NAME_RS_ROME_SAND_PLAINS" MainType="FEATURE" SubType="DESERT" CultureType="US_NORTHEAST"/>
+		<Row Name="TXT_KEY_NAME_RS_SILVER_DUNES" MainType="FEATURE" SubType="DESERT" CultureType="US_NORTHEAST"/>
+		<Row Name="TXT_KEY_NAME_RS_BOURNE_SANDS" MainType="FEATURE" SubType="DESERT" CultureType="US_NORTHEAST"/>
+		<Row Name="TXT_KEY_NAME_RS_WHITEFISH_DUNES" MainType="FEATURE" SubType="DESERT" CultureType="US_NORTHEAST"/>
+		<Row Name="TXT_KEY_NAME_RS_THE_HEADLANDS" MainType="FEATURE" SubType="DESERT" CultureType="US_NORTHEAST"/>
+
+
+
+
+	</ML_Labels_Dynamic>
+</GameData>

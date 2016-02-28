@@ -1,0 +1,1944 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+*****************************************
+*			Map Labels					*
+*	by Hazel (hazel16 @ CivFanatics)	*
+*****************************************
+-->
+<GameData>
+	<Language_en_US>
+		<!-- Template:
+		<Row Tag="TXT_KEY_NAME_ML_KILIMANJARO">
+			<Text>Mount Kilimanjaro</Text>
+		</Row>
+		-->
+		<!--
+**********************************************************************************
+AUSTRALIA
+**********************************************************************************
+-->
+		<!-- 
+=========================== 
+Regions 
+=========================== 
+-->
+		<Row Tag="TXT_KEY_NAME_TP_THE_NULLARBOR">
+			<Text>The Nullarbor</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_ILLAWARA">
+			<Text>Illawara</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_RIVERINA">
+			<Text>Riverina</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_SUNRAYSIA">
+			<Text>Sunraysia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_ARNHEM_LAND">
+			<Text>Arnhem Land</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_TOP_END">
+			<Text>Top End</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_DARLING_DOWNS">
+			<Text>Darling Downs</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_KIMBERLY">
+			<Text>Kimberly</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_PILBARA">
+			<Text>Pilbara</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_YARRA">
+			<Text>Yarra</Text>
+		</Row>
+
+
+		<!-- 
+=========================== 
+Oceans 
+=========================== 
+-->
+		<Row Tag="TXT_KEY_NAME_TP_ARAFURA_SEA">
+			<Text>Arafura Sea</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_CORAL_SEA">
+			<Text>Coral Sea</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_TASMAN_SEA">
+			<Text>Tasman Sea</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_BACKSTAIRS_PASSAGE">
+			<Text>Backstairs Passage</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_BEAGLE_GULF">
+			<Text>Beagle Gulf</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_CAMBRIDGE_GULF">
+			<Text>Cambridge Gulf</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_GREAT_AUSTRALIAN_BIGHT">
+			<Text>Great Australian Bight</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_GULF_OF_CARPENTARIA">
+			<Text>Gulf of Carpentaria</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_TORRES_STRAIT">
+			<Text>Torres Strait</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_BASS_STRAIT">
+			<Text>Bass Strait</Text>
+		</Row>
+
+
+
+		<!--	
+=========================== 
+Islands 
+=========================== 
+-->
+		<Row Tag="TXT_KEY_NAME_TP_COCKATOO_ISLAND">
+			<Text>Cockatoo Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_KANGAROO_ISLAND">
+			<Text>Kangaroo Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_SCOTLAND_ISLAND">
+			<Text>Scotland Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_CROCODILE_ISLANDS">
+			<Text>Crocodile Islands</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_ALBINO_ROCK">
+			<Text>Albino Rock</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_FRASER_ISLAND">
+			<Text>Fraser Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_MAGNETIC_ISLAND">
+			<Text>Magnetic Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_BATHURST_ISLAND">
+			<Text>Bathurst Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_MORNINGTON_ISLAND">
+			<Text>Mornington Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_GROOTE_EYLANDT">
+			<Text>Groote Eylandt</Text>
+		</Row>
+
+
+
+		<!--		
+=========================== 
+Mountains 
+=========================== 
+-->
+		<Row Tag="TXT_KEY_NAME_TP_THREE_SISTERS">
+			<Text>Three Sisters</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_MOUNT_KOSCIUSZKO">
+			<Text>Mount Kosciuszko</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_MOUNT_PERISHER">
+			<Text>Mount Perisher</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_THREDBO">
+			<Text>Thredbo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_SUGARLOAF_RANGE">
+			<Text>Sugarloaf Range</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_GRAMPIANS">
+			<Text>Grampians</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_MOUNT_LOFTY">
+			<Text>Mount Lofty</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_WARRUMBUNGLES">
+			<Text>Warrumbungles</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_THE_OLGAS">
+			<Text>The Olgas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_CRADLE_MOUNTAIN">
+			<Text>Cradle Mountain</Text>
+		</Row>
+
+
+		<!--
+=========================== 
+Lakes 
+=========================== 
+-->
+		<Row Tag="TXT_KEY_NAME_TP_LAKE_ARGYLE">
+			<Text>Lake Argyle</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_LAKE_EYRE">
+			<Text>Lake Eyre</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_LAKE_GAIRDNER">
+			<Text>Lake Gairdner</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_LAKE_AMADEUS">
+			<Text>Lake Amadeus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_LAKE_HILLIER">
+			<Text>Lake Hillier</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_LAKE_BATHURST">
+			<Text>Lake Bathurst</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_LAKE_CORANGAMITE">
+			<Text>Lake Corangamite</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_LAKE_BARLEE">
+			<Text>Lake Barlee</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_LAKE_DALRYMPLE">
+			<Text>Lake Dalrymple</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_LAKE_BURLEY_GRIFFIN">
+			<Text>Lake Burley Griffin</Text>
+		</Row>
+
+
+
+		<!-- 		
+=========================== 
+Rivers 
+=========================== 
+-->
+		<Row Tag="TXT_KEY_NAME_TP_SNOWY_RIVER">
+			<Text>Snowy River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_MURRAY_RIVER">
+			<Text>Murray River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_MURRUMBIDGEE_RIVER">
+			<Text>Murrumbidgee River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_CULGOA_RIVER">
+			<Text>Culgoa River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_COOPER_CREEK">
+			<Text>Cooper Creek</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_BARWON_RIVER">
+			<Text>Barwon River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_WARREGO_RIVER">
+			<Text>Warrego River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_PARRAMATTA_RIVER">
+			<Text>Parramatta River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_MACQUARIE_RIVER">
+			<Text>Macquarie River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_DARLING_RIVER">
+			<Text>Darling River</Text>
+		</Row>
+
+
+		<!-- 
+=========================== 
+Forests 
+=========================== 
+-->
+		<Row Tag="TXT_KEY_NAME_TP_THE_DAINTREE">
+			<Text>The Daintree</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_SPRINGBROOK">
+			<Text>Springbrook</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_LIMPINWOOD">
+			<Text>Limpinwood</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_GONDWANALAND_FOREST">
+			<Text>Gondwanaland Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_KARAWATHA_FOREST">
+			<Text>Karawatha Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_LAMINGTON_PARK">
+			<Text>Lamington Park</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_TARKINE">
+			<Text>Tarkine</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_WOLLEMI">
+			<Text>Wollemi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_WIELANGTA_FOREST">
+			<Text>Wielangta Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_PILLIGA_FOREST">
+			<Text>Pilliga Forest</Text>
+		</Row>
+
+
+		<!--
+=========================== 
+Deserts 
+=========================== 
+-->
+		<Row Tag="TXT_KEY_NAME_TP_GREAT_SANDY_DESERT">
+			<Text>Great Sandy Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_SIMPSON_DESERT">
+			<Text>Simpson Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_TANAMI_DESERT">
+			<Text>Tanami Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_GIBSON_DESERT">
+			<Text>Gibson Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_STURT_STONY_DESERT">
+			<Text>Sturt Stony Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_OUTBACK">
+			<Text>Outback</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_LITTLE_SANDY_DESERT">
+			<Text>Little Sandy Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_TIRARARI_DESERT">
+			<Text>Tirarari Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_PEDIRKA_DESERT">
+			<Text>Pedirka Desert</Text>
+		</Row>
+
+
+
+		<!--
+***************************************************************************************
+CANADA
+***************************************************************************************
+-->
+
+
+		<!-- 
+=========================== 
+Regions 
+=========================== 
+-->
+		<Row Tag="TXT_KEY_NAME_TP_YUKON">
+			<Text>Yukon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_NUNAVUT">
+			<Text>Nunavut</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_SASKATCHEWAN">
+			<Text>Saskatchewan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_NEWFOUNDLAND">
+			<Text>Newfoundland</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_KLONDIKE">
+			<Text>Klondike</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_NUNATSIAQ">
+			<Text>Nunatsiaq</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_MANITOBA">
+			<Text>Manitoba</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_ONTARIO">
+			<Text>Ontario</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_QUBEC">
+			<Text>Québec</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_SIMILKAMEEN">
+			<Text>Similkameen</Text>
+		</Row>
+
+		<!-- 
+=========================== 
+Oceans 
+=========================== 
+-->
+		<Row Tag="TXT_KEY_NAME_TP_BEAUFORT_SEA">
+			<Text>Beaufort Sea</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_BAY_OF_FUNDY">
+			<Text>Bay of Fundy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_SKOOKUMCHUCK_NARROWS">
+			<Text>Skookumchuck Narrows</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_DESOLATION_SOUNDS">
+			<Text>Desolation Sounds</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_INDIAN_ARM">
+			<Text>Indian Arm</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_SAGLEK_BAY">
+			<Text>Saglek Bay</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_HUDSONS_BAY">
+			<Text>Hudson's Bay</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_MISSISSAGI_STRAIT">
+			<Text>Mississagi Strait</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_ABEGWEIT_PASSAGE">
+			<Text>Abegweit Passage</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_CHEDABUCTO_BAY">
+			<Text>Chedabucto Bay</Text>
+		</Row>
+
+
+
+		<!--	
+=========================== 
+Islands 
+=========================== 
+-->
+		<Row Tag="TXT_KEY_NAME_TP_BAFFIN_ISLAND">
+			<Text>Baffin Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_ELLESMERE_ISLAND">
+			<Text>Ellesmere Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_CORNWALLIS_ISLAND">
+			<Text>Cornwallis Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_MELVILLE_ISLAND">
+			<Text>Melville Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_AKIMISKI_ISLAND">
+			<Text>Akimiski Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_MANITOULIN_ISLAND">
+			<Text>Manitoulin Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_AXEL_HEIBERG_ISLAND">
+			<Text>Axel Heiberg Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_LE_VANIER">
+			<Text>Île Vanier</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_RENLEVASSEUR">
+			<Text>René-Levasseur</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_VICTORIA_ISLAND">
+			<Text>Victoria Island</Text>
+		</Row>
+
+
+		<!--		
+=========================== 
+Mountains 
+=========================== 
+-->
+		<Row Tag="TXT_KEY_NAME_TP_MOUNT_ASSINIBOINE">
+			<Text>Mount Assiniboine</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_MOUNT_GOODSIR">
+			<Text>Mount Goodsir</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_MOUNT_LOGAN">
+			<Text>Mount Logan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_CHIEF_MOUNTAIN">
+			<Text>Chief Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_MOUNT_MALASPINA">
+			<Text>Mount Malaspina</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_RAZORBACK_MOUNTAIN">
+			<Text>Razorback Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_TSAYDAYCHUZ_PEAK">
+			<Text>Tsaydaychuz Peak</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_BARBEAU_PEAK">
+			<Text>Barbeau Peak</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_MOUNT_WADDINGTON">
+			<Text>Mount Waddington</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_MOUNT_STEELE">
+			<Text>Mount Steele</Text>
+		</Row>
+
+
+
+		<!--
+=========================== 
+Lakes 
+=========================== 
+-->
+		<Row Tag="TXT_KEY_NAME_TP_LAKE_SUPERIOR">
+			<Text>Lake Superior</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_LAKE_HURON">
+			<Text>Lake Huron</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_LAKE_ERIE">
+			<Text>Lake Erie</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_GREAT_SLAVE_LAKE">
+			<Text>Great Slave Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_GREAT_BEAR_LAKE">
+			<Text>Great Bear Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_ATHABASCA_LAKE">
+			<Text>Athabasca Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_LAKE_OF_THE_WOODS">
+			<Text>Lake of the Woods</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_WINNIPEG_LAKE">
+			<Text>Winnipeg Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_NIAGARA_WHIRLPOOL">
+			<Text>Niagara Whirlpool</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_REINDEER_LAKE">
+			<Text>Reindeer Lake</Text>
+		</Row>
+
+
+
+		<!-- 		
+=========================== 
+Rivers 
+=========================== 
+-->
+		<Row Tag="TXT_KEY_NAME_TP_GRAND_RIVER">
+			<Text>Grand River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_MATTAWA_RIVER">
+			<Text>Mattawa River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_WHITE_HORSE_RAPIDS">
+			<Text>White Horse Rapids</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_LONG_SAULT">
+			<Text>Long Sault</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_KICKING_HORSE_RIVER">
+			<Text>Kicking Horse River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_TATSHENSHINI_RIVER">
+			<Text>Tatshenshini River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_SEAL_RIVER">
+			<Text>Seal River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_THELON_RIVER">
+			<Text>Thelon River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_ARCTIC_RED_RIVER">
+			<Text>Arctic Red River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_ALSEK_RIVER">
+			<Text>Alsek River</Text>
+		</Row>
+
+
+		<!-- 
+=========================== 
+Forests 
+=========================== 
+-->
+		<Row Tag="TXT_KEY_NAME_TP_BANFF">
+			<Text>Banff</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_KEJIMKUJIK">
+			<Text>Kejimkujik</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_PUKASKWA">
+			<Text>Pukaskwa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_TERRA_NOVA">
+			<Text>Terra Nova</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_WOOD_BUFFALO">
+			<Text>Wood Buffalo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_YOHO">
+			<Text>Yoho</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_NAATSIHCHOH_RESERVE">
+			<Text>Naats'ihch'oh Reserve</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_NAHANNI_RESERVE">
+			<Text>Nahanni Reserve</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_WHITE_BEAR_FOREST">
+			<Text>White Bear Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_OBABIKA_FOREST">
+			<Text>Obabika Forest</Text>
+		</Row>
+
+
+		<!--
+=========================== 
+Deserts 
+=========================== 
+-->
+
+		<Row Tag="TXT_KEY_NAME_TP_OKANAGAN_DESERT">
+			<Text>Okanagan Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_CARCROSS_DESERT">
+			<Text>Carcross Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_BIG_MUDDY_BADLANDS">
+			<Text>Big Muddy Badlands</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_DRUMHELLER">
+			<Text>Drumheller</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_SKAHA_BLUFFS">
+			<Text>Skaha Bluffs</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_HELLS_GATE">
+			<Text>Hells Gate</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_LILLOOET">
+			<Text>Lillooet</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_THOMPSON_COUNTRY">
+			<Text>Thompson Country</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_COLUMBIA_PLATEAU">
+			<Text>Columbia Plateau</Text>
+		</Row>
+
+
+
+		<!--
+**********************************************************************************
+MESOAMERICA
+**********************************************************************************
+-->
+
+
+
+		<!-- 
+=========================== 
+Regions 
+=========================== 
+-->
+
+		<Row Tag="TXT_KEY_NAME_TP_CAMPECHE">
+			<Text>Campeche</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_GUERRERO">
+			<Text>Guerrero</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_BAJO">
+			<Text>Bajío</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_HISPANIOLA">
+			<Text>Hispaniola</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_CIENFUEGOS">
+			<Text>Cienfuegos</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_CHIAPAS">
+			<Text>Chiapas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_EL_SALVADOR">
+			<Text>El Salvador</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_GUAYMURAS">
+			<Text>Guaymuras</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_BANNABA">
+			<Text>Bannaba</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_GUANTNAMO">
+			<Text>Guantánamo</Text>
+		</Row>
+
+		<!-- 
+=========================== 
+Oceans 
+=========================== 
+-->
+		<Row Tag="TXT_KEY_NAME_TP_CARIBBEAN_SEA">
+			<Text>Caribbean Sea</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_GULF_OF_MEXICO">
+			<Text>Gulf of Mexico</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_GULF_OF_GONVE">
+			<Text>Gulf of Gonâve</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_LADDER_BAY">
+			<Text>Ladder Bay</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_GUADELOUPE_PASSAGE">
+			<Text>Guadeloupe Passage</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_JAMAICA_CHANNEL">
+			<Text>Jamaica Channel</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_MONA_PASSAGE">
+			<Text>Mona Passage</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_WINWARD_PASSAGE">
+			<Text>Winward Passage</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_OLD_BAHAMA_CHANNEL">
+			<Text>Old Bahama Channel</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_GULF_OF_DARIN">
+			<Text>Gulf of Darién</Text>
+		</Row>
+
+		<!--	
+=========================== 
+Islands 
+=========================== 
+-->
+		<Row Tag="TXT_KEY_NAME_TP_SAINT_MARTIN">
+			<Text>Saint Martin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_ANTIGUA">
+			<Text>Antigua</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_SAINT_CROIX">
+			<Text>Saint Croix</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_GRAND_CAYMAN">
+			<Text>Grand Cayman</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_BARBUDA">
+			<Text>Barbuda</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_PALM_ISLAND">
+			<Text>Palm Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_TORTOLA">
+			<Text>Tortola</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_VIRGIN_GORDA">
+			<Text>Virgin Gorda</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_MONTSERRAT">
+			<Text>Montserrat</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_GRENADA">
+			<Text>Grenada</Text>
+		</Row>
+
+
+
+		<!--		
+=========================== 
+Mountains 
+=========================== 
+-->
+		<Row Tag="TXT_KEY_NAME_TP_PICO_DE_ORIZABA">
+			<Text>Pico de Orizaba</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_SIERRA_MADRE">
+			<Text>Sierra Madre</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_PICO_DUARTE">
+			<Text>Pico Duarte</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_MOUNT_LIAMUIGA">
+			<Text>Mount Liamuiga</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_GROS_PITON">
+			<Text>Gros Piton</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_SOUFRIRE_HILLS">
+			<Text>Soufrière Hills</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_MOUNT_ALVERNIA">
+			<Text>Mount Alvernia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_PETIT_PITON">
+			<Text>Petit Piton</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_AGUAJITO">
+			<Text>Aguajito</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_MOUNT_TLALOC">
+			<Text>Mount Tlaloc</Text>
+		</Row>
+
+
+
+		<!--
+=========================== 
+Lakes 
+=========================== 
+-->
+		<Row Tag="TXT_KEY_NAME_TP_LAKE_TEXCOCO">
+			<Text>Lake Texcoco</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_LAKE_CHAPALA">
+			<Text>Lake Chapala</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_LAKE_NICARAGUA">
+			<Text>Lake Nicaragua</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_LAKE_ATITLN">
+			<Text>Lake Atitlán</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_LAKE_IZABAL">
+			<Text>Lake Izabal</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_LAKE_GIJA">
+			<Text>Lake Güija</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_LEMOA">
+			<Text>Lemoa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_LAKE_MANAGUA">
+			<Text>Lake Managua</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_GREAT_SALT_POND">
+			<Text>Great Salt Pond</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_GRAND_ETANG_LAKE">
+			<Text>Grand Etang Lake</Text>
+		</Row>
+
+
+
+		<!-- 		
+=========================== 
+Rivers 
+=========================== 
+-->
+		<Row Tag="TXT_KEY_NAME_TP_GUARACARA_RIVER">
+			<Text>Guaracara River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_BALTHAZAR_RIVER">
+			<Text>Balthazar River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_FOND_FIGUES_RIVER">
+			<Text>Fond Figues River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_CARGILL_CREEK">
+			<Text>Cargill Creek</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_CONSTITUTION_RIVER">
+			<Text>Constitution River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_BALSAS_RIVER">
+			<Text>Balsas River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_USUMACINTA_RIVER">
+			<Text>Usumacinta River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_PNUCO_RIVER">
+			<Text>Pánuco River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_LERMA_RIVER">
+			<Text>Lerma River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_HONDO_RIVER">
+			<Text>Hondo River</Text>
+		</Row>
+
+
+		<!-- 
+=========================== 
+Forests 
+=========================== 
+-->
+		<Row Tag="TXT_KEY_NAME_TP_EL_YUNQUE">
+			<Text>El Yunque</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_LACANDON_JUNGLE">
+			<Text>Lacandon Jungle</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_YUCATN_FOREST">
+			<Text>Yucatán Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_SELVA_ZOQUE">
+			<Text>Selva Zoque</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_BOSQUE_EL_NIXTICUIL">
+			<Text>Bosque el Nixticuil</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_MADREAN_WOODLANDS">
+			<Text>Madrean Woodlands</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_CLOUD_FOREST">
+			<Text>Cloud Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_SIBUN_FOREST">
+			<Text>Sibun Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_LOS_TUXTLAS">
+			<Text>Los Tuxtlas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_LA_MOSQUITIA">
+			<Text>La Mosquitia</Text>
+		</Row>
+
+
+		<!--
+=========================== 
+Deserts 
+=========================== 
+-->
+		<Row Tag="TXT_KEY_NAME_TP_LA_GUAJIRA_DESERT">
+			<Text>La Guajira Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_ARIKOK">
+			<Text>Arikok</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_CHIHUAHUAN_DESERT">
+			<Text>Chihuahuan Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_SONORAN_DESERT">
+			<Text>Sonoran Desert‎</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_BAJA_CALIFORNIA_DESERT">
+			<Text>Baja California Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_VIZCANO_DESERT">
+			<Text>Vizcaíno Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_YUMA_DESERT">
+			<Text>Yuma Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_OASISAMERICA">
+			<Text>Oasisamerica</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_GRAN_DESIERTO_DE_ALTAR">
+			<Text>Gran Desierto de Altar</Text>
+		</Row>
+
+
+
+
+		<!--
+**********************************************************************************
+SOUTHAMERICA
+**********************************************************************************
+-->
+		<!-- 
+=========================== 
+Regions 
+=========================== 
+-->
+		<Row Tag="TXT_KEY_NAME_TP_ALTIPLANO">
+			<Text>Altiplano</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_CAATINGA">
+			<Text>Caatinga</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_CERRADO">
+			<Text>Cerrado</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_GUIANA_SHIELD">
+			<Text>Guiana Shield</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_PAMPAS">
+			<Text>Pampas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_PANTANAL">
+			<Text>Pantanal</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_PRAMO">
+			<Text>Páramo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_PATAGONIA">
+			<Text>Patagonia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_CABEA_DO_CACHORRO">
+			<Text>Cabeça do Cachorro</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_THE_GUIANAS">
+			<Text>The Guianas</Text>
+		</Row>
+
+
+
+		<!-- 
+=========================== 
+Oceans 
+=========================== 
+-->
+		<Row Tag="TXT_KEY_NAME_TP_MEETING_OF_WATERS">
+			<Text>Meeting of Waters</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_BEAGLE_CHANNEL">
+			<Text>Beagle Channel</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_INTIL_BAY">
+			<Text>Inútil Bay</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_BAHIA_POSSESSION">
+			<Text>Bahia Possession</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_LE_MAIRE_STRAIT">
+			<Text>Le Maire Strait</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_BOCAS_DEL_DRAGN">
+			<Text>Bocas del Dragón</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_COLUMBUS_CHANNEL">
+			<Text>Columbus Channel</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_GULF_OF_SAN_JORGE">
+			<Text>Gulf of San Jorge</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_RO_DE_LA_PLATA">
+			<Text>Río de la Plata</Text>
+		</Row>
+
+
+
+		<!--	
+=========================== 
+Islands 
+=========================== 
+-->
+		<Row Tag="TXT_KEY_NAME_TP_TIERRA_DEL_FUEGO">
+			<Text>Tierra del Fuego</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_THE_FALKLANDS">
+			<Text>The Falklands</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_ROBINSON_CRUSOE_ISLAND">
+			<Text>Robinson Crusoe Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_SANTA_CRUZ_ISLAND">
+			<Text>Santa Cruz Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_ISLA_MARGARITA">
+			<Text>Isla Margarita</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_LA_TORTUGA_ISLAND">
+			<Text>La Tortuga Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_HERMITE_ISLANDS">
+			<Text>Hermite Islands</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_CABUAGA">
+			<Text>Cabuaga</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_ILHA_GRANDE">
+			<Text>Ilha Grande</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_FERNANDO_DE_NORONHA">
+			<Text>Fernando de Noronha</Text>
+		</Row>
+
+
+
+		<!--		
+=========================== 
+Mountains 
+=========================== 
+-->
+		<Row Tag="TXT_KEY_NAME_TP_ACONCAGUA">
+			<Text>Aconcagua</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_OJOS_DE_SALADO">
+			<Text>Ojos de Salado</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_CERRO_BONETE">
+			<Text>Cerro Bonete</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_FITZ_ROY">
+			<Text>Fitz Roy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_MOUNT_RORAIMA">
+			<Text>Mount Roraima</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_ALPAMAYO">
+			<Text>Alpamayo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_TUPUNGATO">
+			<Text>Tupungato</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_MERCEDARIO">
+			<Text>Mercedario</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_LICANCABUR">
+			<Text>Licancabur</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_SUGARLOAF_MOUNTAIN">
+			<Text>Sugarloaf Mountain</Text>
+		</Row>
+
+
+
+		<!--
+=========================== 
+Lakes 
+=========================== 
+-->
+		<Row Tag="TXT_KEY_NAME_TP_LAKE_TITICACA">
+			<Text>Lake Titicaca</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_LAKE_MARACAIBO">
+			<Text>Lake Maracaibo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_SAN_MARTN_LAKE">
+			<Text>San Martín Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_GENERAL_CARRERA_LAKE">
+			<Text>General Carrera Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_VIEDMA_LAKE">
+			<Text>Viedma Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_NAHUEL_HUAPI_LAKE">
+			<Text>Nahuel Huapi Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_LAGUNA_DEL_CARBN">
+			<Text>Laguna del Carbón</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_DEL_TORO_LAKE">
+			<Text>Del Toro Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_YELCHO_LAKE">
+			<Text>Yelcho Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_CHINCHAYQUCHA">
+			<Text>Chinchayqucha</Text>
+		</Row>
+
+
+
+		<!-- 		
+=========================== 
+Rivers 
+=========================== 
+-->
+		<Row Tag="TXT_KEY_NAME_TP_AMAZON_RIVER">
+			<Text>Amazon River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_ORINOCO">
+			<Text>Orinoco</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_PARAN_RIVER">
+			<Text>Paraná River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_PARAGUAY_RIVER">
+			<Text>Paraguay River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_RIO_NEGRO">
+			<Text>Rio Negro</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_SOLIMES_RIVER">
+			<Text>Solimões River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_MADEIRA_RIVER">
+			<Text>Madeira River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_XINGU_RIVER">
+			<Text>Xingu River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_UCAYALI_RIVER">
+			<Text>Ucayali River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_MARAN_RIVER">
+			<Text>Marañón River</Text>
+		</Row>
+
+
+		<!-- 
+=========================== 
+Forests 
+=========================== 
+-->
+		<Row Tag="TXT_KEY_NAME_TP_YUNGAS">
+			<Text>Yungas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_ACRE_FOREST">
+			<Text>Acre Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_RONDONIA_FOREST">
+			<Text>Rondonia Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_RORAIMA_FOREST">
+			<Text>Roraima Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_MATO_GROSSO_FOREST">
+			<Text>Mato Grosso Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_TOCANTINS_FOREST">
+			<Text>Tocantins Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_CERRADO_FOREST">
+			<Text>Cerrado Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_BRAULIO_CARRILLO">
+			<Text>Braulio Carrillo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_VALDIVIAN_FOREST">
+			<Text>Valdivian Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_BELLAVISTA_CLOUD_FOREST">
+			<Text>Bellavista Cloud Forest</Text>
+		</Row>
+
+
+		<!--
+=========================== 
+Deserts 
+=========================== 
+-->
+		<Row Tag="TXT_KEY_NAME_TP_FLOWERING_DESERT">
+			<Text>Flowering desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_ATACAMA_DESERT">
+			<Text>Atacama Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_SALVADOR_DAL_DESERT">
+			<Text>Salvador Dalí Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_SALINAS_GRANDES">
+			<Text>Salinas Grandes</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_PATAGONIAN_DESERT">
+			<Text>Patagonian Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_SECHURA_DESERT">
+			<Text>Sechura Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_SALAR_DE_ARIZARO">
+			<Text>Salar de Arizaro</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_MDANOS_DE_CORO">
+			<Text>Médanos de Coro</Text>
+		</Row>
+
+
+
+		<!--
+**********************************************************************************
+SOUTHEAST_ASIA
+**********************************************************************************
+Added a few names from sukritact
+-->
+		<!-- 
+=========================== 
+Regions 
+=========================== 
+-->
+		<Row Tag="TXT_KEY_NAME_TP_SARAWAK">
+			<Text>Sarawak</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_BATTAMBANG">
+			<Text>Battambang</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_YOGYAKARTA">
+			<Text>Yogyakarta</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_SAVANNAKHET">
+			<Text>Savannakhet</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_YANGON">
+			<Text>Yangon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_SELANGOR">
+			<Text>Selangor</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_IFUGAO">
+			<Text>Ifugao</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_BANAUE">
+			<Text>Banaue</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_HA_TINH">
+			<Text>Ha Tinh</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_AYEYARWADY">
+			<Text>Ayeyarwady</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_BAGO">
+			<Text>Bago</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_MAGWAY">
+			<Text>Magway</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_MANDALAY">
+			<Text>Mandalay</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_SAGAING">
+			<Text>Sagaing</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_TANINTHAYI">
+			<Text>Taninthayi</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_NAME_MLADD_PHAYAP">
+			<Text>Phayap</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_MAHARAT">
+			<Text>Maharat</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_PHETCHABUN">
+			<Text>Phetchabun</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_NAKHON_RATCHASIMA">
+			<Text>Nakhon Ratchasima</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_ISAN">
+			<Text>Isan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_ROIET">
+			<Text>Roi-Et</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_UBON">
+			<Text>Ubon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_UDON">
+			<Text>Udon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_PHUKET">
+			<Text>Phuket</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_CHUMPHON">
+			<Text>Chumphon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_NAKHON_SI_THAMMARAT">
+			<Text>Nakhon Si Thammarat</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_PATTANI">
+			<Text>Pattani</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_KEDAH">
+			<Text>Kedah</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_KRUNG_THEP">
+			<Text>Krung Thep</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_AYUTTHAYA">
+			<Text>Ayutthaya</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_RATCHABURI">
+			<Text>Ratchaburi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_NAKHON_CHAI_SI">
+			<Text>Nakhon Chai Si</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_PRACHINBURI">
+			<Text>Prachinburi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_BURAPA">
+			<Text>Burapa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_CHANTHABURI">
+			<Text>Chanthaburi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_BANTEAY_MEANCHEY">
+			<Text>Banteay Meanchey</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_BATTAMBANG">
+			<Text>Battambang</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_KAMPONG_CHAM">
+			<Text>Kampong Cham</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_KAMPONG_CHHNANG">
+			<Text>Kampong Chhnang</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_KAMPONG_SPEU">
+			<Text>Kampong Speu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_KAMPONG_THOM">
+			<Text>Kampong Thom</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_KAMPOT">
+			<Text>Kampot</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_KANDAL">
+			<Text>Kandal</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_KOH_KONG">
+			<Text>Koh Kong</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_KRATI">
+			<Text>Kratié</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_MONDULKIRI">
+			<Text>Mondulkiri</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_ODDAR_MEANCHEAY">
+			<Text>Oddar Meancheay</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_PURSAT">
+			<Text>Pursat</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_PREAH_VIHEAR">
+			<Text>Preah Vihear</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_PREY_VENG">
+			<Text>Prey Veng</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_RATANAKIRI">
+			<Text>Ratanakiri</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_SIEM_REAP">
+			<Text>Siem Reap</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_STUNG_TRENG">
+			<Text>Stung Treng</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_SVAY_RIENG">
+			<Text>Svay Rieng</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_TAKO">
+			<Text>Takéo</Text>
+		</Row>
+
+
+
+		<!-- 
+=========================== 
+Oceans 
+=========================== 
+-->
+		<Row Tag="TXT_KEY_NAME_TP_BOHOL_SEA">
+			<Text>Bohol Sea</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_SULU_SEA">
+			<Text>Sulu Sea</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_CELEBES_SEA">
+			<Text>Celebes Sea</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_MINDORO_STRAIT">
+			<Text>Mindoro Strait</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_RAGAY_GULF">
+			<Text>Ragay Gulf</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_JAVA_SEA">
+			<Text>Java Sea</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_TIMOR_SEA">
+			<Text>Timor Sea</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_SAVU_SEA">
+			<Text>Savu Sea</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_MOLUCCA_SEA">
+			<Text>Molucca Sea</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_MALACCA_PASSAGE">
+			<Text>Malacca Passage</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_GULF_OF_SIAM">
+			<Text>Gulf of Siam</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_GULF_OF_TONKIN">
+			<Text>Gulf of Tonkin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_ANDAMAN_SEA">
+			<Text>Andaman Sea</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_AINGDAING">
+			<Text>Aingdaing</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_CHEDUBA_ISLAND">
+			<Text>Cheduba Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_COCO_ISLANDS">
+			<Text>Coco Islands</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_KALEGAUK_ISLAND">
+			<Text>Kalegauk Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_KOKUNYE_KYUN">
+			<Text>Kokunye Kyun</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_KYUNGYI_ISLAND">
+			<Text>Kyungyi Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_MOSCOS_ISLANDS">
+			<Text>Moscos Islands</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_MYINGUN_ISLAND">
+			<Text>Myingun Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_PREPARIS">
+			<Text>Preparis</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_RAMREE_ISLAND">
+			<Text>Ramree Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_WA_KYUN">
+			<Text>Wa Kyun</Text>
+		</Row>
+
+
+
+
+		<!--	
+=========================== 
+Islands 
+=========================== 
+-->
+		<Row Tag="TXT_KEY_NAME_TP_BORNEO">
+			<Text>Borneo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_BALI">
+			<Text>Bali</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_PALAWAN">
+			<Text>Palawan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_SUMATRA">
+			<Text>Sumatra</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_NEW_GUINEA">
+			<Text>New Guinea</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_TIMOR">
+			<Text>Timor</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_SUNDA_ISLANDS">
+			<Text>Sunda Islands</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_LUZON">
+			<Text>Luzon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_SULAWESI">
+			<Text>Sulawesi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_MALUKU_ISLANDS">
+			<Text>Maluku Islands</Text>
+		</Row>
+
+
+		<!--		
+=========================== 
+Mountains 
+=========================== 
+-->
+		<Row Tag="TXT_KEY_NAME_TP_HKAKABO_RAZI">
+			<Text>Hkakabo Razi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_PUNCAK_JAYA">
+			<Text>Puncak Jaya</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_MOUNT_KINABALU">
+			<Text>Mount Kinabalu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_FANSIPAN">
+			<Text>Fansipan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_MOUNT_APO">
+			<Text>Mount Apo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_PEGUNUNGAN_ARFAK">
+			<Text>Pegunungan Arfak</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_PHOU_BIA">
+			<Text>Phou Bia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_CHOCOLATE_HILLS">
+			<Text>Chocolate Hills</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_MOUNT_TAPULAO">
+			<Text>Mount Tapulao</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_MAYON_VOLCANO">
+			<Text>Mayon Volcano</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_HKAKABO_RAZI">
+			<Text>Hkakabo Razi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_MOUNT_POPA">
+			<Text>Mount Popa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_MOUNT_SARAMATI">
+			<Text>Mount Saramati</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_NAT_MA_TAUNG">
+			<Text>Nat Ma Taung</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_BUMHPA_BUM">
+			<Text>Bumhpa Bum</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_GAMLANG_RAZI">
+			<Text>Gamlang Razi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_LOI_LENG">
+			<Text>Loi Leng</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_LOI_PANGNAO">
+			<Text>Loi Pangnao</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_SANGPANG_BUM">
+			<Text>Sangpang Bum</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_DOI_INTHANON">
+			<Text>Doi Inthanon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_PHU_CHI_FA">
+			<Text>Phu Chi Fa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_DOI_CHIANG_DAO">
+			<Text>Doi Chiang Dao</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_DOI_NANG_NON">
+			<Text>Doi Nang Non</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_DOI_SUTHEP">
+			<Text>Doi Suthep</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_KHAO_LUANG">
+			<Text>Khao Luang</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_DOI_TUNG">
+			<Text>Doi Tung</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_DOI_ANG_KHANG">
+			<Text>Doi Ang Khang</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_PHU_RUEA">
+			<Text>Phu Ruea</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_PHNOM_AURAL">
+			<Text>Phnom Aural</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_PHNOM_BOK">
+			<Text>Phnom Bok</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_PHNOM_CHISOR">
+			<Text>Phnom Chisor</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_PHNOM_DEI">
+			<Text>Phnom Dei</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_PHNOM_KROM">
+			<Text>Phnom Krom</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_PHNOM_MALAI">
+			<Text>Phnom Malai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_PHNOM_KULEN">
+			<Text>Phnom Kulen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_PHNOM_SANTUK">
+			<Text>Phnom Santuk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_PHNOM_SAMKOS">
+			<Text>Phnom Samkos</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_TUMPOR">
+			<Text>Tumpor</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_PHNOM_VOAR">
+			<Text>Phnom Voar</Text>
+		</Row>
+
+
+
+
+		<!--
+=========================== 
+Lakes 
+=========================== 
+-->
+		<Row Tag="TXT_KEY_NAME_TP_TONL_SAP">
+			<Text>Tonlé Sap</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_LAKE_TOBA">
+			<Text>Lake Toba</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_LAKE_LANAO">
+			<Text>Lake Lanao</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_LAKE_TOWUTI">
+			<Text>Lake Towuti</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_LAKE_POSO">
+			<Text>Lake Poso</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_BA_B_LAKE">
+			<Text>Ba Bể Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_LAKE_SEGARA_ANAK">
+			<Text>Lake Segara Anak</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_LAKE_SINGKARAK">
+			<Text>Lake Singkarak</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_LAKE_MANINJAU">
+			<Text>Lake Maninjau</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_TAAL_LAKE">
+			<Text>Taal Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_INLE_LAKE">
+			<Text>Inle Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_KANDAWGYI_LAKE">
+			<Text>Kandawgyi Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_INYA_LAKE">
+			<Text>Inya Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_INDAWGYI_LAKE">
+			<Text>Indawgyi Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_NAWNG_YANG">
+			<Text>Nawng Yang</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_MEIKTILA_LAKE">
+			<Text>Meiktila Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_BUENG_BORAPHET">
+			<Text>Bueng Boraphet</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_CHEOW_LAN_LAKE">
+			<Text>Cheow Lan Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_BANG_LANG_LAKE">
+			<Text>Bang Lang Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_NONG_HAN_LAKE">
+			<Text>Nong Han Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_PHAYAO_LAKE">
+			<Text>Phayao Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_SONGKHLA_LAKE">
+			<Text>Songkhla Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_BOEUNG_KAK">
+			<Text>Boeung Kak</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_YEAK_LAOM">
+			<Text>Yeak Laom</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_TONLE_BATI">
+			<Text>Tonle Bati</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_TONL_SAP">
+			<Text>Tonlé Sap</Text>
+		</Row>
+
+
+
+		<!-- 		
+=========================== 
+Rivers 
+=========================== 
+-->
+		<Row Tag="TXT_KEY_NAME_TP_MEKONG_RIVER">
+			<Text>Mekong River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_SALWEEN_RIVER">
+			<Text>Salween River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_CHAO_PHRAYA_RIVER">
+			<Text>Chao Phraya River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_IRRAWADDY_RIVER">
+			<Text>Irrawaddy River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_RED_RIVER">
+			<Text>Red River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_RIO_GRANDE_DE_MINDANAO">
+			<Text>Rio Grande de Mindanao</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_RAJANG_RIVER">
+			<Text>Rajang River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_CHINDWIN_RIVER">
+			<Text>Chindwin River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_PASIG_RIVER">
+			<Text>Pasig River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_SINGAPORE_RIVER">
+			<Text>Singapore River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_IRRAWADDY_RIVER">
+			<Text>Irrawaddy River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_SALWEEN_RIVER">
+			<Text>Salween River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_CHINDWIN_RIVER">
+			<Text>Chindwin River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_MEKONG_RIVER">
+			<Text>Mekong River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_SITTAUNG_RIVER">
+			<Text>Sittaung River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_MYITNGE_RIVER">
+			<Text>Myitnge River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_KOK_RIVER">
+			<Text>Kok River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_GREAT_TENASSERIM_RIVER">
+			<Text>Great Tenasserim River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_NAN_RIVER">
+			<Text>Nan River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_PING_RIVER">
+			<Text>Ping River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_YOM_RIVER">
+			<Text>Yom River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_THA_CHIN_RIVER">
+			<Text>Tha Chin River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_MUN_RIVER">
+			<Text>Mun River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_WANG_RIVER">
+			<Text>Wang River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_CHAO_PHRAYA_RIVER">
+			<Text>Chao Phraya River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_BANG_PAKONG_RIVER">
+			<Text>Bang Pakong River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_BASSAC_RIVER">
+			<Text>Bassac River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_KONG_RIVER">
+			<Text>Kong River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_SREPOK_RIVER">
+			<Text>Srepok River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_STUNG_SEN_RIVER">
+			<Text>Stung Sen River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_SANGKAE_RIVER">
+			<Text>Sangkae River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_SAIGON_RIVER">
+			<Text>Saigon River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_SIEM_REAP_RIVER">
+			<Text>Siem Reap River</Text>
+		</Row>
+
+
+
+		<!-- 
+=========================== 
+Forests 
+=========================== 
+-->
+		<Row Tag="TXT_KEY_NAME_TP_MONDOLKIRI">
+			<Text>Mondolkiri</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_SUNDA_FOREST">
+			<Text>Sunda Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_LUANG_PRABANG_FOREST">
+			<Text>Luang Prabang Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_MON_LIMESTONE_FOREST">
+			<Text>Mon Limestone Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_MINDANAO_FOREST">
+			<Text>Mindanao Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_CN_GI_FOREST">
+			<Text>Cần Giờ Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_AGUSAN_FOREST">
+			<Text>Agusan Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_HUON_FOREST">
+			<Text>Huon Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_KINABLU_PARK">
+			<Text>Kinablu Park</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_CARDAMOM_FORESTS">
+			<Text>Cardamom Forests</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_PATOLON_FOREST">
+			<Text>Patolon Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_TAUNGDWIN_FOREST">
+			<Text>Taungdwin Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_KHAO_YAI">
+			<Text>Khao Yai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_SAI_YOK_FOREST">
+			<Text>Sai Yok Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_NA_YUNG_NAM_SOM_FOREST">
+			<Text>Na Yung Nam Som Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_THUNG_SALAENG_LUANG">
+			<Text>Thung Salaeng Luang</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_PRANBURI_FOREST">
+			<Text>Pranburi Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_BOTUM_SAKOR">
+			<Text>Botum Sakor</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_PREAH_MONIVONG">
+			<Text>Preah Monivong</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_REAM_FOREST">
+			<Text>Ream Forest</Text>
+		</Row>
+
+
+
+		<!--
+=========================== 
+Deserts 
+=========================== 
+-->
+		<Row Tag="TXT_KEY_NAME_TP_MUI_NE">
+			<Text>Mui Ne</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_LA_PAZ">
+			<Text>La Paz</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_BAO_TRANG">
+			<Text>Bao Trang</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_PAOAY">
+			<Text>Paoay</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_GUMUK_PASIR">
+			<Text>Gumuk Pasir</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_PARANGTRITIS">
+			<Text>Parangtritis</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_PHAN_THIET">
+			<Text>Phan Thiet</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_PARANGKUSUMO">
+			<Text>Parangkusumo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_TP_BANTAY_BIMMABOY">
+			<Text>Bantay Bimmaboy</Text>
+		</Row>
+
+
+	</Language_en_US>
+</GameData>

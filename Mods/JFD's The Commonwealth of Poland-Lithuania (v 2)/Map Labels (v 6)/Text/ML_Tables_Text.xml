@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+*****************************************
+*Map Labels*
+*by Hazel (hazel16 @ CivFanatics)*
+*****************************************
+-->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_ML_MAINTYPE_PLAYER">
+			<Text>Player</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ML_MAINTYPE_REGION">
+			<Text>Region</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ML_MAINTYPE_FEATURE">
+			<Text>Feature</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ML_MAINTYPE_BATTLE">
+			<Text>Battle</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ML_SUBTYPE_PLAYER">
+			<Text>Player</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ML_SUBTYPE_REGION">
+			<Text>Region</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ML_SUBTYPE_OCEAN">
+			<Text>Ocean</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ML_SUBTYPE_ISLAND">
+			<Text>Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ML_SUBTYPE_MOUNTAIN">
+			<Text>Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ML_SUBTYPE_RIVER">
+			<Text>River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ML_SUBTYPE_LAKE">
+			<Text>Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ML_SUBTYPE_FOREST">
+			<Text>Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ML_SUBTYPE_DESERT">
+			<Text>Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ML_SUBTYPE_BATTLE">
+			<Text>Battle Site</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ML_SUBTYPE_RAZED">
+			<Text>Razed City</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ML_BASE">
+			<Text>Plain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ML_SHADOW">
+			<Text>Shadow</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ML_SOFTSHADOW">
+			<Text>Soft Shadow</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ML_STROKE">
+			<Text>Stroke</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ML_TWCENMT14">
+			<Text>Size 14</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ML_TWCENMT16">
+			<Text>Size 16</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ML_TWCENMT18">
+			<Text>Size 18</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ML_TWCENMT20">
+			<Text>Size 20</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ML_TWCENMT22">
+			<Text>Size 22</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ML_TWCENMT24">
+			<Text>Size 24</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ML_LABELDISPLAY_TEXTANDICON">
+			<Text>Text and Icon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ML_LABELDISPLAY_TEXTONLY">
+			<Text>Text</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ML_LABELDISPLAY_ICONONLY">
+			<Text>Icon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ML_LABELDISPLAY_DISABLED">
+			<Text>Hidden</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

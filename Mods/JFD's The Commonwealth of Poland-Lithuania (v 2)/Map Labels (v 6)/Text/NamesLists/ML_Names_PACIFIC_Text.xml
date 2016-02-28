@@ -1,0 +1,1050 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+*****************************************
+*			Map Labels					*
+*	by Hazel (hazel16 @ CivFanatics)	*
+*****************************************
+-->
+<GameData>
+	<Language_en_US>
+		<!-- Template:
+		<Row Tag="TXT_KEY_NAME_ML_KILIMANJARO">
+			<Text>Mount Kilimanjaro</Text>
+		</Row>
+		-->
+		<!-- 
+=========================== 
+Regions 
+=========================== 
+-->
+		<Row Tag="TXT_KEY_NAME_ML_MELANESIA">
+			<Text>Melanesia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MICRONESIA">
+			<Text>Micronesia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_OCEANIA">
+			<Text>Oceania</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_POLYNESIA">
+			<Text>Polynesia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MALAY">
+			<Text>Malay</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_HOKKAIDO">
+			<Text>Hokkaido</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_TOHOKU">
+			<Text>Tohoku</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_KANTO">
+			<Text>Kanto</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_CHUBU">
+			<Text>Chubu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_KINKI">
+			<Text>Kinki</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_CHUGOKU">
+			<Text>Chugoku</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SHIKOKU">
+			<Text>Shikoku</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_KYUSHUOKINAWA">
+			<Text>Kyushu-Okinawa</Text>
+		</Row>
+
+
+		<!-- 
+=========================== 
+Oceans 
+=========================== 
+-->
+		<Row Tag="TXT_KEY_NAME_ML_KORO_SEA">
+			<Text>Koro Sea</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SIBUTU_SEA">
+			<Text>Sibutu Sea</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_BISMARCK_SEA">
+			<Text>Bismarck Sea</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_BOHOL_SEA">
+			<Text>Bohol Sea</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_CELEBES_SEA">
+			<Text>Celebes Sea</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_CORAL_SEA">
+			<Text>Coral Sea</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SALISH_SEA">
+			<Text>Salish Sea</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SOLOMON_SEA">
+			<Text>Solomon Sea</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SULU_SEA">
+			<Text>Sulu Sea</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_TASMAN_SEA">
+			<Text>Tasman Sea</Text>
+		</Row>
+
+		<!--	
+=========================== 
+Islands 
+=========================== 
+-->
+		<Row Tag="TXT_KEY_NAME_ML_AUNUU_ISLAND">
+			<Text>Aunuʻu Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_OFU_ISLAND">
+			<Text>Ofu Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_OLOSEGA_ISLAND">
+			<Text>Olosega Island</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_NAME_ML_OLOHEGA_ISLAND">
+			<Text>Olohega Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_TAU_ISLAND">
+			<Text>Taʻu Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_TUTUILA_ISLAND">
+			<Text>Tutuila Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ISLAND_OF_POHNPEI">
+			<Text>Island of Pohnpei</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ISLAND_OF_YAP">
+			<Text>Island of Yap</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ISLAND_OF_ULITHI">
+			<Text>Island of Ulithi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ISLAND_OF_CHUUK">
+			<Text>Island of Chuuk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ISLAND_OF_PULUWAT">
+			<Text>Island of Puluwat</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ISLAND_OF_KOSRAE">
+			<Text>Island of Kosrae</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ISLAND_OF_PALAU">
+			<Text>Island of Palau</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ISLAND_OF_BABELDAOB">
+			<Text>Island of Babeldaob</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ISLAND_OF_IOUELDAOB">
+			<Text>Island of Ioueldaob</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_KOROR_ISLAND">
+			<Text>Koror Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_AITUTAKI_ISLAND">
+			<Text>Aitutaki Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ATIU_ISLAND">
+			<Text>Atiu Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_PAMATI_ISLAND">
+			<Text>Pamati Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MANGAIA_ISLAND">
+			<Text>Mangaia Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MANIHIKI_ISLAND">
+			<Text>Manihiki Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MANUAE_ISLAND">
+			<Text>Manuae Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MAUKE_ISLAND">
+			<Text>Mauke Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MITIARO_ISLAND">
+			<Text>Mitiaro Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_NASSAU_ISLAND">
+			<Text>Nassau Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_PUKAPUKA_ISLAND">
+			<Text>Pukapuka Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_RAKAHANGA_ISLAND">
+			<Text>Rakahanga Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_RAROTONGA_ISLAND">
+			<Text>Rarotonga Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SUWARROW_ISLAND">
+			<Text>Suwarrow Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_TAKUTEA_ISLAND">
+			<Text>Takutea Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_TONGAREVA_ISLAND">
+			<Text>Tongareva Island</Text>
+		</Row>
+
+
+		<!--		
+=========================== 
+Mountains 
+=========================== 
+-->
+		<Row Tag="TXT_KEY_NAME_ML_ALAID_MOUNTAIN">
+			<Text>Alaid Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_AORAKI_MOUNTAIN">
+			<Text>Aoraki Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ASAHIDAKE_MOUNTAIN">
+			<Text>Asahidake Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_BARBEAU_PEAK">
+			<Text>Barbeau Peak</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_BEERENBERG_MOUNTAIN">
+			<Text>Beerenberg Mountain</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_NAME_ML_BUKU_SIBELA_MOUNTAIN">
+			<Text>Buku Sibela Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_BULU_RANTEMARIO_MOUNTAIN">
+			<Text>Bulu Rantemario Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_GOLDEN_HINDE_MOUNTAIN">
+			<Text>Golden Hinde Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_GUNUNG_BINAIYA_MOUNTAIN">
+			<Text>Gunung Binaiya Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_GUNUNG_TATA_MAILAU_MOUNTAIN">
+			<Text>Gunung Tata Mailau Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_HALEAKALA_MOUNTAIN">
+			<Text>Haleakala Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_HVANNADALSHNKUR_MOUNTAIN">
+			<Text>Hvannadalshnúkur Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_JADE_MOUNTAIN">
+			<Text>Jade Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_KANLAON_MOUNTAIN">
+			<Text>Kanlaon Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAMBEL_MOUNTAIN">
+			<Text>Lambel Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MAROMOKOTRO_MOUNTAIN">
+			<Text>Maromokotro Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MAUNA_KEA_MOUNTAIN">
+			<Text>Mauna Kea Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MAWSON_PEAK">
+			<Text>Mawson Peak</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOUNT_AGUNG">
+			<Text>Mount Agung</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOUNT_APO">
+			<Text>Mount Apo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOUNT_BALBI">
+			<Text>Mount Balbi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOUNT_EREBUS">
+			<Text>Mount Erebus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOUNT_ETNA">
+			<Text>Mount Etna</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOUNT_FOGO">
+			<Text>Mount Fogo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOUNT_FOSTER">
+			<Text>Mount Foster</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOUNT_FRANCAIS">
+			<Text>Mount Francais</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOUNT_FUJI">
+			<Text>Mount Fuji</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOUNT_GAUDRY">
+			<Text>Mount Gaudry</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOUNT_GUITINGGUITING">
+			<Text>Mount Guiting-Guiting</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOUNT_HALCN">
+			<Text>Mount Halcón</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOUNT_IDA">
+			<Text>Mount Ida</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOUNT_KAPALATMADA">
+			<Text>Mount Kapalatmada</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOUNT_KARTHALA">
+			<Text>Mount Karthala</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOUNT_KERINCI">
+			<Text>Mount Kerinci</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOUNT_KINABALU">
+			<Text>Mount Kinabalu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOUNT_MADIAAS">
+			<Text>Mount Madia-as</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOUNT_MAKUSHIN">
+			<Text>Mount Makushin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOUNT_MANTALINGAHAN">
+			<Text>Mount Mantalingahan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOUNT_OROHENA">
+			<Text>Mount Orohena</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOUNT_POPOMANASEU">
+			<Text>Mount Popomanaseu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOUNT_PULAG">
+			<Text>Mount Pulag</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOUNT_RINJANI">
+			<Text>Mount Rinjani</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOUNT_RUAPEHU">
+			<Text>Mount Ruapehu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOUNT_SHISHALDIN">
+			<Text>Mount Shishaldin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOUNT_SIPLE">
+			<Text>Mount Siple</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOUNT_TAMBORA">
+			<Text>Mount Tambora</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOUNT_ULAWUN">
+			<Text>Mount Ulawun</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOUNT_VINEUO">
+			<Text>Mount Vineuo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOUNT_VSEVIDOF">
+			<Text>Mount Vsevidof</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_OTHONA_PEAK">
+			<Text>Othona Peak</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_OUTLOOK_PEAK">
+			<Text>Outlook Peak</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_PALUP_QAQA_MOUNTAIN">
+			<Text>Palup Qaqa Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_PIDURUTALAGALA_MOUNTAIN">
+			<Text>Pidurutalagala Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_POCO_MANDASAWU_MOUNTAIN">
+			<Text>Poco Mandasawu Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_PUNCAK_JAYA_MOUNTAIN">
+			<Text>Puncak Jaya Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SEMERU_MOUNTAIN">
+			<Text>Semeru Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_TEIDE_MOUNTAIN">
+			<Text>Teide Mountain</Text>
+		</Row>
+
+		<!--
+=========================== 
+Lakes 
+=========================== 
+-->
+		<Row Tag="TXT_KEY_NAME_ML_ONGEIML_TKETAU_LAKE">
+			<Text>Ongeim'l Tketau Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAKE_HALULU">
+			<Text>Lake Halulu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAKE_WAIAU">
+			<Text>Lake Waiau</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_KA_LOKO_LAKE">
+			<Text>Ka Loko Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_KUALAPUU_LAKE">
+			<Text>Kualapuu Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_WAHIAWA_LAKE">
+			<Text>Wahiawa Lake</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_NAME_ML_BIWA_LAKE">
+			<Text>Biwa Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_KASUMIGAURA_LAKE">
+			<Text>Kasumigaura Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SAROMA_LAKE">
+			<Text>Saroma Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_INAWASHIRO_LAKE">
+			<Text>Inawashiro Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_NAKAUMI_LAKE">
+			<Text>Nakaumi Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_KUSSHARO_LAKE">
+			<Text>Kussharo Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SHINJI_LAKE">
+			<Text>Shinji Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SHIKOTSU_LAKE">
+			<Text>Shikotsu Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_TYA_LAKE">
+			<Text>Tōya Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_HAMANA_LAKE">
+			<Text>Hamana Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_OGAWARA_LAKE">
+			<Text>Ogawara Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_TOWADA_LAKE">
+			<Text>Towada Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_NOTORO_LAKE">
+			<Text>Notoro Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FREN_LAKE">
+			<Text>Fūren Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_KITAURA_LAKE">
+			<Text>Kitaura Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ABASHIRI_LAKE">
+			<Text>Abashiri Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_AKKESHI_LAKE">
+			<Text>Akkeshi Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAKE_HACHIR">
+			<Text>Lake Hachirō</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAKE_TAZAWA">
+			<Text>Lake Tazawa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAKE_MASH">
+			<Text>Lake Mashū</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAKE_JSAN">
+			<Text>Lake Jūsan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAKE_KUTCHARO">
+			<Text>Lake Kutcharo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAKE_SUWA">
+			<Text>Lake Suwa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAKE_AKAN">
+			<Text>Lake Akan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAKE_CHZENJI">
+			<Text>Lake Chūzenji</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAKE_INBA">
+			<Text>Lake Inba</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAKE_IKEDA">
+			<Text>Lake Ikeda</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAKE_HIBARA">
+			<Text>Lake Hibara</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAKE_KUTTARA">
+			<Text>Lake Kuttara</Text>
+		</Row>
+
+		<!-- 		
+=========================== 
+Rivers 
+=========================== 
+-->
+		<Row Tag="TXT_KEY_NAME_ML_TAKASE_RIVER">
+			<Text>Takase River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MABECHI_RIVER">
+			<Text>Mabechi River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_KITAKAMI_RIVER">
+			<Text>Kitakami River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_NARUSE_RIVER">
+			<Text>Naruse River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_NATORI_RIVER">
+			<Text>Natori River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ABUKUMA_RIVER">
+			<Text>Abukuma River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_YONESHIRO_RIVER">
+			<Text>Yoneshiro River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_OMONO_RIVER">
+			<Text>Omono River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_KOYOSHI_RIVER">
+			<Text>Koyoshi River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOGAMI_RIVER">
+			<Text>Mogami River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_AKA_RIVER">
+			<Text>Aka River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ARA_RIVER">
+			<Text>Ara River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_AGANO_RIVER">
+			<Text>Agano River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SHINANO_RIVER">
+			<Text>Shinano River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SEKI_RIVER">
+			<Text>Seki River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_HIME_RIVER">
+			<Text>Hime River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_KUROBE_RIVER">
+			<Text>Kurobe River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_JGANJI_RIVER">
+			<Text>Jōganji River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_JINZ_RIVER">
+			<Text>Jinzū River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SH_RIVER">
+			<Text>Shō River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_OYABE_RIVER">
+			<Text>Oyabe River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_TEDORI_RIVER">
+			<Text>Tedori River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_KAKEHASHI_RIVER">
+			<Text>Kakehashi River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SENDAI_RIVER">
+			<Text>Sendai River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_TENJIN_RIVER">
+			<Text>Tenjin River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_HINO_RIVER">
+			<Text>Hino River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_HII_RIVER">
+			<Text>Hii River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_G_G_RIVER">
+			<Text>Gō Gō River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_TAKATSU_RIVER">
+			<Text>Takatsu River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_YOSHII_RIVER">
+			<Text>Yoshii River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ASAHI_RIVER">
+			<Text>Asahi River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_TAKAHASHI_RIVER">
+			<Text>Takahashi River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ASHIDA_RIVER">
+			<Text>Ashida River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_RIVER_TA">
+			<Text>River Ōta</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_OSE_RIVER">
+			<Text>Ose River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SABA_RIVER">
+			<Text>Saba River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_OHEO_GULCH_STREAM">
+			<Text>'Ohe'o Gulch Stream</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ANAHULU_RIVER">
+			<Text>Anahulu River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_HALAWA_STREAM">
+			<Text>Halawa Stream</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_HANAKAPIAI_STREAM">
+			<Text>Hanakapiai Stream</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_HANAKOA_STREAM">
+			<Text>Hanakoa Stream</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_HANALEI_RIVER">
+			<Text>Hanalei River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_HANAWI_STREAM">
+			<Text>Hanawi Stream</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_HONOLEWA_STREAM">
+			<Text>Honolewa Stream</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_HONOLII_STREAM">
+			<Text>Honolii Stream</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_HONOMU_STREAM">
+			<Text>Honomu Stream</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_KAHAKULOA_STREAM">
+			<Text>Kahakuloa Stream</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_KAUKONAHUA_STREAM">
+			<Text>Kaukonahua Stream</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_KAHANA_STREAM">
+			<Text>Kahana Stream</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_KAIWILAHILAHI_STREAM">
+			<Text>Kaiwilahilahi Stream</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_KALALAU_STREAM">
+			<Text>Kalalau Stream</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_KALIHIWAI_RIVER">
+			<Text>Kalihiwai River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_KALUANUI_STREAM">
+			<Text>Kaluanui Stream</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_KAPEHU_STREAM">
+			<Text>Kapehu Stream</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_KAPIA_STREAM">
+			<Text>Kapia Stream</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_KAWAINUI_STREAM">
+			<Text>Kawainui Stream</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_KOAIE_STREAM">
+			<Text>Koaie Stream</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_KOLEKOLE_STREAM">
+			<Text>Kolekole Stream</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_KOLOA_GULCH">
+			<Text>Koloa Gulch</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LIMAHULI_STREAM">
+			<Text>Limahuli Stream</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LUMAHAI_RIVER">
+			<Text>Lumahai River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MANOLOA_STREAM">
+			<Text>Manoloa Stream</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_NINOLE_STREAM">
+			<Text>Ninole Stream</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_NUALOLO_AINA_STREAM">
+			<Text>Nualolo Aina Stream</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_OPEA_STREAM">
+			<Text>Opea Stream</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_PAHEEHEE_STREAM">
+			<Text>Paheehee Stream</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_PAUKAUILA_STREAM">
+			<Text>Paukauila Stream</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_PELEKUNU_STREAM">
+			<Text>Pelekunu Stream</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_WAIALAE_STREAM">
+			<Text>Waialae Stream</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_WAIKOLU_STREAM">
+			<Text>Waikolu Stream</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_WAILAU_STREAM">
+			<Text>Wailau Stream</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_WAILUA_RIVER">
+			<Text>Wailua River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_WAILUKU_RIVER">
+			<Text>Wailuku River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_WAIMANU_STREAM">
+			<Text>Waimanu Stream</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_WAIMEA_RIVER">
+			<Text>Waimea River</Text>
+		</Row>
+
+
+		<!-- 
+=========================== 
+Forests 
+=========================== 
+-->
+		<Row Tag="TXT_KEY_NAME_ML_NAKOGAI_FOREST">
+			<Text>Nakogai Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SAKA_FOREST">
+			<Text>Saka Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SHIKI_FOREST">
+			<Text>Shiki Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_TSAKA_FOREST">
+			<Text>Tsaka Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_KIYOSURA_FOREST">
+			<Text>Kiyosura Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_TAMASU_FOREST">
+			<Text>Tamasu Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MIZAWA_FOREST">
+			<Text>Mizawa Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_DEGI_FOREST">
+			<Text>Degi Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_KUSHIRA_FOREST">
+			<Text>Kushira Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_KARUGI_FOREST">
+			<Text>Karugi Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_NAZUKA_FOREST">
+			<Text>Nazuka Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_NAGANAO_FOREST">
+			<Text>Naganao Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MIZUNO_FOREST">
+			<Text>Mizuno Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_OTSURAN_FOREST">
+			<Text>Otsuran Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MINANO_FOREST">
+			<Text>Minano Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_KAYAMA_FOREST">
+			<Text>Kayama Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_KIYOSUKI_FOREST">
+			<Text>Kiyosuki Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_KANAI_FOREST">
+			<Text>Kanai Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_KIRASU_FOREST">
+			<Text>Kirasu Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SHIRIYA_FOREST">
+			<Text>Shiriya Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FOREST_OF_WAIPAHU">
+			<Text>Forest of Waipahu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FOREST_OF_KIHEI">
+			<Text>Forest of Kihei</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FOREST_OF_MANELE">
+			<Text>Forest of Manele</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FOREST_OF_KALAELOA">
+			<Text>Forest of Kalaeloa</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_NAME_ML_HANA_FOREST">
+			<Text>Hana Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_WAINAKU_FOREST">
+			<Text>Wainaku Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_PUNALUU_FOREST">
+			<Text>Punaluu Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_OLINDA_FOREST">
+			<Text>Olinda Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_HAWI_FOREST">
+			<Text>Hawi Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_KAANAPALI_FOREST">
+			<Text>Kaanapali Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_POIPU_FOREST">
+			<Text>Poipu Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_HALIIMAILE_FOREST">
+			<Text>Haliimaile Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_PAHOA_FOREST">
+			<Text>Pahoa Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MAHINAHINA_FOREST">
+			<Text>Mahinahina Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_NAALEHU_FOREST">
+			<Text>Naalehu Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_WAIKANE_FOREST">
+			<Text>Waikane Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_PUAKO_FOREST">
+			<Text>Puako Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_KAUMAKANI_FOREST">
+			<Text>Kaumakani Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_PAAUILO_FOREST">
+			<Text>Paauilo Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAUNIUPOKO_FOREST">
+			<Text>Launiupoko Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAUPAHOEHOE_FOREST">
+			<Text>Laupahoehoe Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_HONOMU_FOREST">
+			<Text>Honomu Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_HALAULA_FOREST">
+			<Text>Halaula Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_HANALEI_FOREST">
+			<Text>Hanalei Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_HAENA_FOREST">
+			<Text>Haena Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_KALIHIWAI_FOREST">
+			<Text>Kalihiwai Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_PAUKAA_FOREST">
+			<Text>Paukaa Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_UALAPUE_FOREST">
+			<Text>Ualapu'e Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MAUNALOA_FOREST">
+			<Text>Maunaloa Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_KAPALUA_FOREST">
+			<Text>Kapalua Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FOREST_OF_MAALAEA">
+			<Text>Forest of Maalaea</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FOREST_OF_KUKUIHAELE">
+			<Text>Forest of Kukuihaele</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FOREST_OF_KAWELA">
+			<Text>Forest of Kawela</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FOREST_OF_WAINIHA">
+			<Text>Forest of Wainiha</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FOREST_OF_PAKALA">
+			<Text>Forest of Pakala</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FOREST_OF_WAIOHINU">
+			<Text>Forest of Waiohinu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FOREST_OF_MAKENA">
+			<Text>Forest of Makena</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FOREST_OF_OLOWALU">
+			<Text>Forest of Olowalu</Text>
+		</Row>
+
+		<!--
+=========================== 
+Deserts 
+=========================== 
+-->
+		<Row Tag="TXT_KEY_NAME_ML_LANAI_DESERT">
+			<Text>Lanai Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_AINALOA_DESERT">
+			<Text>Ainaloa Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_WAIKAPU_DESERT">
+			<Text>Waikapu Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_PUHI_DESERT">
+			<Text>Puhi Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_KILAUEA_DESERT">
+			<Text>Kilauea Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_PAIA_DESERT">
+			<Text>Paia Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_HANAPEPE_DESERT">
+			<Text>Hanapepe Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_KAHUKU_DESERT">
+			<Text>Kahuku Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_VOLCANO_DESERT">
+			<Text>Volcano Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_HONAUNAU_DESERT">
+			<Text>Honaunau Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_NAPOOPOO_DESERT">
+			<Text>Napoopoo Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_HONALO_DESERT">
+			<Text>Honalo Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ELEELE_DESERT">
+			<Text>Eleele Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAWAI_DESERT">
+			<Text>Lawai Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_HONOKAA_DESERT">
+			<Text>Honokaa Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_WAILUA_DESERT">
+			<Text>Wailua Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_KEAAU_DESERT">
+			<Text>Keaau Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ANAHOLA_DESERT">
+			<Text>Anahola Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_PRINCEVILLE_DESERT">
+			<Text>Princeville Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_KOLOA_DESERT">
+			<Text>Koloa Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MAUNAWILI_DESERT">
+			<Text>Maunawili Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_KUALAPUU_DESERT">
+			<Text>Kualapuu Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_KEALAKEKUA_DESERT">
+			<Text>Kealakekua Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_WAIMEA_DESERT">
+			<Text>Waimea Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOKULEIA_DESERT">
+			<Text>Mokuleia Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_KO_OLINA_DESERT">
+			<Text>Ko Olina Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_PEPEEKEO_DESERT">
+			<Text>Pepeekeo Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_KAICHIMA_DESERT">
+			<Text>Kaichima Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_DESERT_OF_NAGAURA">
+			<Text>Desert of Nagaura</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_DESERT_OF_HANE">
+			<Text>Desert of Hane</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_DESERT_OF_KITOSU">
+			<Text>Desert of Kitosu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_DESERT_OF_MANO">
+			<Text>Desert of Mano</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_DESERT_OF_IMASHIN">
+			<Text>Desert of Imashin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_DESERT_OF_NAGAWA">
+			<Text>Desert of Nagawa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_DESERT_OF_NISHIRA">
+			<Text>Desert of Nishira</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_DESERT_OF_YONAHAN">
+			<Text>Desert of Yonahan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_DESERT_OF_HIRI">
+			<Text>Desert of Hiri</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_DESERT_OF_YARAKURA">
+			<Text>Desert of Yarakura</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_DESERT_OF_SENNE">
+			<Text>Desert of Senne</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_DESERT_OF_YARANEN">
+			<Text>Desert of Yaranen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_DESERT_OF_MONBE">
+			<Text>Desert of Monbe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_DESERT_OF_OSHIKAN">
+			<Text>Desert of Oshikan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_DESERT_OF_DAWADO">
+			<Text>Desert of Dawado</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FUKEFU_DESERT">
+			<Text>Fukefu Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_KAHINO_DESERT">
+			<Text>Kahino Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_KITAKI_DESERT">
+			<Text>Kitaki Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_KISHI_DESERT">
+			<Text>Kishi Desert</Text>
+		</Row>
+
+
+	</Language_en_US>
+</GameData>

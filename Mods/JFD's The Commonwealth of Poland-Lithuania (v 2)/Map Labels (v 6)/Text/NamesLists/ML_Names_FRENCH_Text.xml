@@ -1,0 +1,774 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+*****************************************
+*			Map Labels					*
+*	by Hazel (hazel16 @ CivFanatics)	*
+*****************************************
+-->
+<GameData>
+	<Language_en_US>
+		<!-- Template:
+		<Row Tag="TXT_KEY_NAME_ML_KILIMANJARO">
+			<Text>Mount Kilimanjaro</Text>
+		</Row>
+		-->
+		<!-- 
+=========================== 
+Regions 
+=========================== 
+-->
+
+		<Row Tag="TXT_KEY_NAME_MLADD_LA_BRETAGNE">
+			<Text>La Bretagne</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_L_ALSACE">
+			<Text>L’ Alsace</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_LA_PROVENCE">
+			<Text>La Provence</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_LAUVERGNE">
+			<Text>L’Auvergne</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_LA_TOURAINE">
+			<Text>La Touraine</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_LAQUITAINE">
+			<Text>L’Aquitaine</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_LA_BOURGOGNE">
+			<Text>La Bourgogne</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_LANJOU">
+			<Text>L’Anjou</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_LA_SAINTONGE">
+			<Text>La Saintonge</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_LAUNIS">
+			<Text>L’Aunis</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_LE_POITOU">
+			<Text>Le Poitou</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_LE_LIMOUSIN">
+			<Text>Le Limousin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_LE_BERRY">
+			<Text>Le Berry</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_LA_NORMANDIE">
+			<Text>La Normandie</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_LE_LANGUEDOC">
+			<Text>Le Languedoc</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_LE_DAUPHIN">
+			<Text>Le Dauphiné</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_LA_PICARDIE">
+			<Text>La Picardie</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_LE_BARN">
+			<Text>Le Béarn</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_LE_ROUSSILLON">
+			<Text>Le Roussillon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_LA_FLANDRE">
+			<Text>La Flandre</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_LA_FRANCHECOMT">
+			<Text>La Franche-Comté</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_LA_SAVOIE">
+			<Text>La Savoie</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_LA_CHAMPAGNE">
+			<Text>La Champagne</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_LES_ARDENNES">
+			<Text>Les Ardennes</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_LLEDEFRANCE">
+			<Text>Lîle-de-France</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_COMT_DARTOIS">
+			<Text>Comté d’Artois</Text>
+		</Row>
+
+
+
+		<!-- 
+=========================== 
+Oceans 
+=========================== 
+-->
+		<Row Tag="TXT_KEY_NAME_MLADD_LA_CTE_DAZUR">
+			<Text>La Côte d’Azur</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_LA_CTE_BASQUE">
+			<Text>La Côte basque</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_LA_CTE_SAUVAGE">
+			<Text>La Côte Sauvage</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_LA_CTE_DAMOUR">
+			<Text>La Côte d’Amour</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_LA_CTE_DARGENT">
+			<Text>La Côte d’Argent</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_LA_CTE_DOPALE">
+			<Text>La Côte d’Opale</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_LA_CTE_DE_BEAUT">
+			<Text>La Côte de Beauté</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_LE_GOLFE_DE_GASCOGNE">
+			<Text>Le Golfe de Gascogne</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_LE_GOLFE_DU_LION">
+			<Text>Le Golfe du Lion</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_LE_GOLFE_DU_MORBIHAN">
+			<Text>Le Golfe du Morbihan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_LA_BAIE_DU_MONT_SAINT_MICHEL">
+			<Text>La Baie du Mont Saint Michel</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_LA_BAIE_DE_SOMME">
+			<Text>La Baie de Somme</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_LA_BAIE_DES_ANGES">
+			<Text>La Baie des Anges</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_LA_MANCHE">
+			<Text>La Manche</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_LA_MER_DU_NORD">
+			<Text>La Mer du Nord</Text>
+		</Row>
+
+
+
+
+
+		<!--	
+=========================== 
+Islands 
+=========================== 
+-->
+
+		<Row Tag="TXT_KEY_NAME_MLADD_LA_CORSE">
+			<Text>La Corse</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_LLE_DAIX">
+			<Text>L’île d’Aix</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_LLE_DE_R">
+			<Text>L’île de Ré</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_LLE_DOLRON">
+			<Text>L’île d’Oléron</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_LLE_DYEU">
+			<Text>L’île d’Yeu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_LLE_DE_NOIRMOUTIER">
+			<Text>L’île de Noirmoutier</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_LLE_MADAME">
+			<Text>L’île Madame</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_LLE_DE_GROIX">
+			<Text>Lîle de Groix</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_LLE_AUX_OISEAUX">
+			<Text>Lîle aux Oiseaux</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_LLE_DE_PORQUEROLLES">
+			<Text>L’île de Porquerolles</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_BELLELEENMER">
+			<Text>Belle-Île-en-Mer</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_LLE_DE_SEIN">
+			<Text>L’Île de Sein</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_OUESSANT">
+			<Text>Ouessant</Text>
+		</Row>
+
+
+		<!--		
+=========================== 
+Mountains 
+=========================== 
+-->
+		
+		<Row Tag="TXT_KEY_NAME_MLADD_LE_MORVAN">
+			<Text>Le Morvan </Text>
+		</Row>
+
+
+		<Row Tag="TXT_KEY_NAME_MLADD_LES_ALPES">
+			<Text>Les Alpes</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_LES_PYRNES">
+			<Text>Les Pyrénées</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_LE_MASSIF_CENTRAL">
+			<Text>Le Massif Central</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_LE_JURA">
+			<Text>Le Jura</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_LES_VOSGES">
+			<Text>Les Vosges</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_LE_MASSIF_ARMORICAIN">
+			<Text>Le Massif Armoricain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_LES_CVENNES">
+			<Text>Les Cévennes</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_LE_FOREZ">
+			<Text>Le Forez</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_LES_CAUSSES">
+			<Text>Les Causses</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_NAME_MLADD_LES_ALPILLES">
+			<Text>Les Alpilles</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_LE_MONT_BLANC">
+			<Text>Le Mont Blanc</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_LE_PIC_DU_VIGNEMALE">
+			<Text>Le Pic du Vignemale</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_LE_CRT_DE_LA_NEIGE">
+			<Text>Le Crêt de la Neige</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_LE_PUY_DE_SANCY">
+			<Text>Le Puy de Sancy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_LE_BALLON_DE_GUEBWILLER">
+			<Text>Le Ballon de Guebwiller</Text>
+		</Row>
+
+
+
+
+		<!--
+=========================== 
+Lakes 
+=========================== 
+-->
+		<Row Tag="TXT_KEY_NAME_ML_GOUR_DE_TAZENAT">
+			<Text>Gour de Tazenat</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAC_DAYDAT">
+			<Text>Lac d'Aydat</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAC_DE_BORTLESORGUES">
+			<Text>Lac de Bort-Les-Orgues</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAC_CHAMBON">
+			<Text>Lac Chambon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAC_CHAUVET">
+			<Text>Lac Chauvet</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAC_DENBAS_GODEVILLE">
+			<Text>Lac d'En-Bas Godeville</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAC_DENHAUT_GODEVILLE">
+			<Text>Lac d'En-Haut Godeville</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAC_DE_GURY">
+			<Text>Lac de Guéry</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAC_PAVIN">
+			<Text>Lac Pavin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAC_DE_SAINTPARDOUX">
+			<Text>Lac de Saint-Pardoux</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAC_SERVIRES">
+			<Text>Lac Servières</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAC_DE_VASSIVIRE">
+			<Text>Lac de Vassivière</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAC_DE_GRARDMER">
+			<Text>Lac de Gérardmer</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAC_DE_LONGEMER">
+			<Text>Lac de Longemer</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAC_DE_RETOURNEMER">
+			<Text>Lac de Retournemer</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAC_DE_CHAMBON">
+			<Text>Lac de Chambon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_TANGS_DE_SOLOGNE">
+			<Text>Étangs de Sologne</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAC_DE_GRANDLIEU">
+			<Text>Lac de Grand-Lieu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAC_DU_DERCHANTECOQ">
+			<Text>Lac du Der-Chantecoq</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_TANGS_DES_DOMBES">
+			<Text>Étangs des Dombes</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAC_DE_SAINTECROIX">
+			<Text>Lac de Sainte-Croix</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_TANG_DE_BISCAROSSE">
+			<Text>Étang de Biscarosse</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_TANG_DE_LACANAU">
+			<Text>Étang de Lacanau</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_TANG_DE_BERRE">
+			<Text>Étang de Berre</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_TANG_DE_THAU">
+			<Text>Étang de Thau</Text>
+		</Row>
+
+
+
+		<!-- 		
+=========================== 
+Rivers 
+=========================== 
+-->
+		<Row Tag="TXT_KEY_NAME_MLADD_LA_SEINE">
+			<Text>La Seine</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_LE_RHNE">
+			<Text>Le Rhône</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_LA_LOIRE">
+			<Text>La Loire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_LA_GARONNE">
+			<Text>La Garonne</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_LA_SOMME">
+			<Text>La Somme</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_LOISE">
+			<Text>L’Oise</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_LAISNE">
+			<Text>L’Aisne</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_LA_MARNE">
+			<Text>La Marne</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_LA_MEUSE">
+			<Text>La Meuse</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_LA_MOSELLE">
+			<Text>La Moselle</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_LA_SAONE">
+			<Text>La Saone</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_LE_DOUBS">
+			<Text>Le Doubs</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_LA_DURANCE">
+			<Text>La Durance</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_LISRE">
+			<Text>L’Isère</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_LA_DORDOGNE">
+			<Text>La Dordogne</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_LA_CHARENTE">
+			<Text>La Charente</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_LA_VIENNE">
+			<Text>La Vienne</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_LE_CHER">
+			<Text>Le Cher</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_LINDRE">
+			<Text>L’Indre</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_LE_LOIR">
+			<Text>Le Loir</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_LA_SARTHE">
+			<Text>La Sarthe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_LA_MAYENNE">
+			<Text>La Mayenne</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_LALLIER">
+			<Text>L’Allier</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_LA_VILAINE">
+			<Text>La Vilaine</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_LE_LOT">
+			<Text>Le Lot</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_LA_VZRE">
+			<Text>La Vézère</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_LE_TARN">
+			<Text>Le Tarn</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_LARDCHE">
+			<Text>L’Ardèche</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_LA_CREUSE">
+			<Text>La Creuse</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_LE_VAR">
+			<Text>Le Var</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_LA_DRME">
+			<Text>La Drôme</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_LEURE">
+			<Text>L’Eure</Text>
+		</Row>
+
+
+
+
+		<!-- 
+=========================== 
+Forests 
+=========================== 
+-->
+		<Row Tag="TXT_KEY_NAME_ML_FOREST_OF_HARDT">
+			<Text>Forest of Hardt</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FOREST_DONON">
+			<Text>Forest Donon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_HAGUENAU_FOREST">
+			<Text>Haguenau Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FOREST_OBERNAI">
+			<Text>Forest Obernai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_IRATI_FOREST">
+			<Text>Irati Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LANDES_FOREST">
+			<Text>Landes Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FOREST_LEGE_ET_GARONNE">
+			<Text>Forest Lege et Garonne</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FOREST_GROSBOIS">
+			<Text>Forest Gros-Bois</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FOREST_MARIGNY">
+			<Text>Forest Marigny</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FOREST_MESSARGES">
+			<Text>Forest Messarges</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FOREST_PRIORIES_MALADIER">
+			<Text>Forest Priories Maladier</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_TRONAIS">
+			<Text>Tronçais</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FOREST_CARNOT">
+			<Text>Forest Carnoët</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FOREST_COTQUEN">
+			<Text>Forest Coëtquen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FOREST_CRANOU">
+			<Text>Forest Cranou</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FOREST_FERNS">
+			<Text>Forest Ferns</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FOREST_FRAU">
+			<Text>Forest Fréau</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_HUELGOAT_FOREST">
+			<Text>Huelgoat Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FOREST_HUNAUDAYE">
+			<Text>Forest Hunaudaye</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_THE_HUGUENOT_FOREST">
+			<Text>The Huguenot Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FOREST_LIFFR">
+			<Text>Forest Liffré</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MESNIL_FOREST">
+			<Text>Mesnil Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_PAIMPONT_FOREST">
+			<Text>Paimpont Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FOREST_RENNES_IN_LIFFR">
+			<Text>Forest Rennes in Liffré</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FOREST_OF_SAINTAUBINDUCORMIER">
+			<Text>Forest of Saint-Aubin-du-Cormier</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LANOUE_FOREST">
+			<Text>Lanouée Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_WOOD_FAYS">
+			<Text>Wood Fays</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_WOOD_MONTCLAIMS">
+			<Text>Wood Montclaims</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FOREST_ARCENBARROIS">
+			<Text>Forest Arc-en-Barrois</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ARGONNE_FOREST">
+			<Text>Argonne Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FOREST_OF_ARDEN">
+			<Text>Forest of Arden</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FOREST_BASSICAN">
+			<Text>Forest Bassican</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FOREST_CLAIRVAUX">
+			<Text>Forest Clairvaux</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FOREST_CORGEBIN">
+			<Text>Forest Corgebin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FOREST_DER">
+			<Text>Forest Der</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FOREST_DHUITS">
+			<Text>Forest Dhuits</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FOREST_STAR">
+			<Text>Forest Star</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FOREST_LA_GARENNE">
+			<Text>Forest La Garenne</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FOREST_OF_THE_MONTAGNE_DE_REIMS">
+			<Text>Forest of the Montagne de Reims</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FOREST_OF_MONTDIEU">
+			<Text>Forest of Mont-Dieu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ORIENT_FOREST">
+			<Text>Orient Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_OTHE_FOREST">
+			<Text>Othe Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_RETZ_FOREST">
+			<Text>Retz Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FOREST_ROMILLY">
+			<Text>Forest Romilly</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FOREST_AUMONT">
+			<Text>Forest Aumont</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FOREST_CROGNY">
+			<Text>Forest Crogny</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FOREST_CUSSANGY">
+			<Text>Forest Cussangy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_BOIS_DE_BOULOGNE">
+			<Text>Bois de Boulogne</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_BOIS_DE_LA_TOUR_DU_LAY">
+			<Text>Bois de la Tour du Lay</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_BOIS_DE_VILLIERS_BOIS_DE_LA_BUCAILLE">
+			<Text>Bois de Villiers , Bois de la Bucaille</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_BOIS_DE_VINCENNES">
+			<Text>Bois de Vincennes</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FOREST_OF_ALLUETS">
+			<Text>Forest of Alluets</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FOREST_OF_ARMAINVILLIERS">
+			<Text>Forest of Armainvilliers</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FOREST_OF_CARNELLE">
+			<Text>Forest of Carnelle</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FOREST_OF_FONTAINEBLEAU">
+			<Text>Forest of Fontainebleau</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FOREST_OF_LISLEADAM">
+			<Text>Forest of L'Isle-Adam</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FOREST_OF_JOUY">
+			<Text>Forest of Jouy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FOREST_OF_MARLY">
+			<Text>Forest of Marly</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FOREST_OF_MEUDON">
+			<Text>Forest of Meudon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FOREST_OF_HARVEST">
+			<Text>Forest of Harvest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FOREST_OF_MONTMORENCY">
+			<Text>Forest of Montmorency</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FOREST_BEAUMONT">
+			<Text>Forest Beaumont</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FOREST_OF_BRETEUIL">
+			<Text>Forest of Breteuil</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_BROTONNE_FOREST">
+			<Text>Brotonne Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FOREST_CONCHES">
+			<Text>Forest Conches</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_IN_FOREST">
+			<Text>In Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FOREST_OF_EVREUX">
+			<Text>Forest of Evreux</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FOREST_LOUVIERS">
+			<Text>Forest Louviers</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FOREST_BONNEVAUX">
+			<Text>Forest Bonnevaux</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FOREST_CHAMBARAN">
+			<Text>Forest Chambaran</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FOREST_OF_THE_GRANDE_CHARTREUSE">
+			<Text>Forest of the Grande Chartreuse</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SAOU_FOREST">
+			<Text>Saou Forest</Text>
+		</Row>
+
+
+		<!--
+=========================== 
+Deserts 
+=========================== 
+-->
+		<Row Tag="TXT_KEY_NAME_ML_DESERT_OF_CHENE">
+			<Text>Desert of Chene</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_DESERT_OF_NEVOIE">
+			<Text>Desert of Nevoie</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_DESERT_OF_HYERE">
+			<Text>Desert of Hyere</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_DESERT_OF_LAISE">
+			<Text>Desert of Laise</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_DESERT_OF_CELLE">
+			<Text>Desert of Celle</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_DESERT_OF_NISSE">
+			<Text>Desert of Nisse</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_DESERT_OF_BEZY">
+			<Text>Desert of Bezy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_CHIONVOIE_DESERT">
+			<Text>Chionvoie Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_CENE_DESERT">
+			<Text>Cene Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MONTE_DESERT">
+			<Text>Monte Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ARSEIS_DESERT">
+			<Text>Arseis Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_TRESEAU_DESERT">
+			<Text>Treseau Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_BESE_DESERT">
+			<Text>Bese Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_CONY_DESERT">
+			<Text>Cony Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_CHILTIA_DESERT">
+			<Text>Chiltia Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_PANTE_DESERT">
+			<Text>Pante Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_RESE_DESERT">
+			<Text>Rese Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SCHATOU_DESERT">
+			<Text>Schatou Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MAHY_DESERT">
+			<Text>Mahy Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LENCE_DESERT">
+			<Text>Lence Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_DRIGNE_DESERT">
+			<Text>Drigne Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MINY_DESERT">
+			<Text>Miny Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MARY_DESERT">
+			<Text>Mary Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_CAHE_DESERT">
+			<Text>Cahe Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_BETHY_DESERT">
+			<Text>Bethy Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_HATE_DESERT">
+			<Text>Hate Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MEILE_DESERT">
+			<Text>Meile Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_CLETOU_DESERT">
+			<Text>Cletou Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_PARY_DESERT">
+			<Text>Pary Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_BEZY_DESERT">
+			<Text>Bezy Desert</Text>
+		</Row>
+
+
+	</Language_en_US>
+</GameData>

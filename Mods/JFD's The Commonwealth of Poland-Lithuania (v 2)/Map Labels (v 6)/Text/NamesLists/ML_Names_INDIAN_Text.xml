@@ -1,0 +1,889 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+*****************************************
+*			Map Labels					*
+*	by Hazel (hazel16 @ CivFanatics)	*
+*****************************************
+-->
+<GameData>
+	<Language_en_US>
+		<!-- Template:
+		<Row Tag="TXT_KEY_NAME_ML_KILIMANJARO">
+			<Text>Mount Kilimanjaro</Text>
+		</Row>
+		-->
+		<!-- 
+=========================== 
+Regions 
+=========================== 
+-->
+		<Row Tag="TXT_KEY_NAME_ML_KARONDA_MANDAL">
+			<Text>Karonda Mandal</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_KOSAL">
+			<Text>Kosal</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_KALAHANDI_BALANGIR">
+			<Text>Kalahandi Balangir</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_BENGAL">
+			<Text>Bengal</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_NAME_ML_BIHAR">
+			<Text>Bihar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_JHARKHAND">
+			<Text>Jharkhand</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_CHHATISGARH">
+			<Text>Chhatisgarh</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ODISHA">
+			<Text>Odisha</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ARUNACHAL_PRADESH">
+			<Text>Arunachal Pradesh</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ASSAM">
+			<Text>Assam</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MANIPUR">
+			<Text>Manipur</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MEGHALAYA">
+			<Text>Meghalaya</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MIZORAM">
+			<Text>Mizoram</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_NAGALAND">
+			<Text>Nagaland</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_TRIPURA">
+			<Text>Tripura</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_CHAROTAR">
+			<Text>Charotar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_DADRA">
+			<Text>Dadra</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_DAMAN">
+			<Text>Daman</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_DESH">
+			<Text>Desh</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_DIU">
+			<Text>Diu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_HALAAR_GUJARAT">
+			<Text>Halaar Gujarat</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_KATHIAWAR">
+			<Text>Kathiawar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SAURASHTRA">
+			<Text>Saurashtra</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_KHANDESH">
+			<Text>Khandesh</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_KONKAN">
+			<Text>Konkan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_KUTCH">
+			<Text>Kutch</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MARATHWADA">
+			<Text>Marathwada</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_NAGAR_HAVELI">
+			<Text>Nagar Haveli</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SORATH_GUJARAT">
+			<Text>Sorath Gujarat</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_VIDARBHA">
+			<Text>Vidarbha</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_BERAR">
+			<Text>Berar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MALWA">
+			<Text>Malwa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_NIMAR">
+			<Text>Nimar</Text>
+		</Row>
+
+		<!-- 
+=========================== 
+Oceans 
+=========================== 
+-->
+		<Row Tag="TXT_KEY_NAME_ML_BAY_OF_BENGAL">
+			<Text>Bay of Bengal</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_KUTCH_SEA">
+			<Text>Kutch Sea</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_KHAMBAT_SEA">
+			<Text>Khambat Sea</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_BABELMANDEB_SEA">
+			<Text>Bab-el-Mandeb  Sea</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_GULF_OF_KHAMBAT">
+			<Text>Gulf of Khambat</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ANDAMAN_SEA">
+			<Text>Andaman Sea</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_GULF_OF_MANNAR">
+			<Text>Gulf of Mannar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LACCADIVE_SEA">
+			<Text>Laccadive Sea</Text>
+		</Row>
+
+
+		<!--	
+=========================== 
+Islands 
+=========================== 
+-->
+		<Row Tag="TXT_KEY_NAME_ML_NICOBAR_ISLAND">
+			<Text>Nicobar Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SRIRANGAPATNA_ISLAND">
+			<Text>Srirangapatna Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SHIVANASAMUDRAM_ISLAND">
+			<Text>Shivanasamudram Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SRI_RANGA_ISLAND">
+			<Text>Sri Ranga Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_VAAN_ISLAND">
+			<Text>Vaan Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_KOSWARI_ISLAND">
+			<Text>Koswari Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_VILANGUCHALLI_ISLAND">
+			<Text>Vilanguchalli Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_KARIYACHALLI_ISLAND">
+			<Text>Kariyachalli Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_UPP_ISLAND">
+			<Text>Upp Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_PULUVIN_ISLAND">
+			<Text>Puluvin Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_NALL_ISLAND">
+			<Text>Nall Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ANAIPAR_ISLAND">
+			<Text>Anaipar Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_VAL_ISLAND">
+			<Text>Val Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_POOVARASA_ISLAND">
+			<Text>Poovarasa. Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_APPA_ISLAND">
+			<Text>Appa Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_TALAIRI_ISLAND">
+			<Text>Talairi Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_VALA_ISLAND">
+			<Text>Vala Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MULLI_ISLAND">
+			<Text>Mulli Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MUSAL_ISLAND">
+			<Text>Musal Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ISLAND_OF_MANOLI">
+			<Text>Island of Manoli</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ISLAND_OF_MANOLIPUTT">
+			<Text>Island of Manoli-Putt</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ISLAND_OF_POOMARICHA">
+			<Text>Island of Poomaricha</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ISLAND_OF_PULLIVASAL">
+			<Text>Island of Pullivasal</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ISLAND_OF_KURUSADAI">
+			<Text>Island of Kurusadai</Text>
+		</Row>
+
+
+		<!--		
+=========================== 
+Mountains 
+=========================== 
+-->
+		<Row Tag="TXT_KEY_NAME_ML_ANGINDA_MOUNTAIN">
+			<Text>Anginda Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_BAMBA_DHURA_MOUNTAIN">
+			<Text>Bamba Dhura Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_BANDARPUNCH_MOUNTAIN">
+			<Text>Bandarpunch Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_BLUE_MOUNTAIN_MOUNTAIN">
+			<Text>Blue Mountain Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_BURPHU_DHURA_MOUNTAIN">
+			<Text>Burphu Dhura Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_CHANDRASHILA_MOUNTAIN">
+			<Text>Chandrashila Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_CHANGUCH_MOUNTAIN">
+			<Text>Changuch Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_CHAUDHARA_MOUNTAIN">
+			<Text>Chaudhara Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_CHAUKHAMBA_MOUNTAIN">
+			<Text>Chaukhamba Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_CHIRING_WE_MOUNTAIN">
+			<Text>Chiring We Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_CHONG_KUMDAN_MOUNTAIN">
+			<Text>Chong Kumdan Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_DODDABETTA_MOUNTAIN">
+			<Text>Doddabetta Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_GANGOTRI_GROUP_MOUNTAIN">
+			<Text>Gangotri Group Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_GAURI_PARBAT_MOUNTAIN">
+			<Text>Gauri Parbat Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_GIMMIGELA_CHULI_MOUNTAIN">
+			<Text>Gimmigela Chuli Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_GREFTAGIME_MOUNTAIN">
+			<Text>Greftagime Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_GURU_SHIKHAR_MOUNTAIN">
+			<Text>Guru Shikhar Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_HARDEOL_MOUNTAIN">
+			<Text>Hardeol Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_HAATHI_PARVAT_MOUNTAIN">
+			<Text>Haathi Parvat Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_JONGLINGKONG_MOUNTAIN">
+			<Text>Jonglingkong Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_KALSUBAI_MOUNTAIN">
+			<Text>Kalsubai Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_KALANAG_MOUNTAIN">
+			<Text>Kalanag Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOUNT_KAMET">
+			<Text>Mount Kamet</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOUNT_KANGCHENJUNGA">
+			<Text>Mount Kangchenjunga</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOUNT_KANG_YATZE">
+			<Text>Mount Kang Yatze</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOUNT_KAPILASH">
+			<Text>Mount Kapilash</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOUNT_KATPHORI_TIBA">
+			<Text>Mount Katphori Tiba</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOUNT_KEDARNATH">
+			<Text>Mount Kedarnath</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOUNT_KIRAT_CHULI">
+			<Text>Mount Kirat Chuli</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOUNT_KODACHADRI">
+			<Text>Mount Kodachadri</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOUNT_KUMARA_PARVATHA">
+			<Text>Mount Kumara Parvatha</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOUNT_MAMOSTONG_KANGRI">
+			<Text>Mount Mamostong Kangri</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOUNT_MAIKTOLI">
+			<Text>Mount Maiktoli</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOUNT_MENTOK">
+			<Text>Mount Mentok</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOUNT_MOL_LEN">
+			<Text>Mount Mol Len</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOUNT_GYA">
+			<Text>Mount Gya</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOUNT_MULLAYANAGIRI">
+			<Text>Mount Mullayanagiri</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOUNT_NAGALAPHU">
+			<Text>Mount Nagalaphu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOUNT_NAG_TIBBA">
+			<Text>Mount Nag Tibba</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_NANDA_DEVI_MOUNTAIN">
+			<Text>Nanda Devi Mountain</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_NAME_ML_NANDA_GOND_MOUNTAIN">
+			<Text>Nanda Gond Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_NANDA_KOT_MOUNTAIN">
+			<Text>Nanda Kot Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_NANDA_PAL_MOUNTAIN">
+			<Text>Nanda Pal Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_NANDA_KHAT_MOUNTAIN">
+			<Text>Nanda Khat Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_NANDA_GHUNTI_MOUNTAIN">
+			<Text>Nanda Ghunti Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_NILKANTHA_MOUNTAIN">
+			<Text>Nilkantha Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_NUN_KUN_MOUNTAIN">
+			<Text>Nun Kun Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_PANCHCHULI_MOUNTAIN">
+			<Text>Panchchuli Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_PANDIM_MOUNTAIN">
+			<Text>Pandim Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_RAJRAMBHA_MOUNTAIN">
+			<Text>Rajrambha Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_RIMO_MOUNTAIN">
+			<Text>Rimo Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_RISHI_PAHAR_MOUNTAIN">
+			<Text>Rishi Pahar Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SALTORO_KANGRI_MOUNTAIN">
+			<Text>Saltoro Kangri Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SASER_KANGRI_MOUNTAIN">
+			<Text>Saser Kangri Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SANGTHANG_MOUNTAIN">
+			<Text>Sangthang Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SISPARA_MOUNTAIN">
+			<Text>Sispara Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SINIOLCHU_MOUNTAIN">
+			<Text>Siniolchu Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SUJ_TILLA_MOUNTAIN">
+			<Text>Suj Tilla Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SUJARKAMILTAN_MOUNTAIN">
+			<Text>Sujarkamiltan Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SULI_TOP_MOUNTAIN">
+			<Text>Suli Top Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SWARGAROHINI_MOUNTAIN">
+			<Text>Swargarohini Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_TRISHULI_MOUNTAIN">
+			<Text>Trishuli Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_TRISUL_MOUNTAIN">
+			<Text>Trisul Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_YAMNOTRI_MOUNTAIN">
+			<Text>Yamnotri Mountain</Text>
+		</Row>
+
+		<!--
+=========================== 
+Lakes 
+=========================== 
+-->
+		<Row Tag="TXT_KEY_NAME_ML_KOLLERU_LAKE">
+			<Text>Kolleru Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_PULICAT_LAKE">
+			<Text>Pulicat Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_HAMIRSAR_LAKE">
+			<Text>Hamirsar Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_KANKARIA_LAKE">
+			<Text>Kankaria Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_NAL_SAROVAR_LAKE">
+			<Text>Nal Sarovar Lake</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_NAME_ML_NARAYAN_SAROVAR_LAKE">
+			<Text>Narayan Sarovar Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SARDAR_SAROVAR_LAKE">
+			<Text>Sardar Sarovar Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_THOL_LAKE">
+			<Text>Thol Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_VASTRAPUR_LAKE">
+			<Text>Vastrapur Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAKHOTA_LAKE">
+			<Text>Lakhota Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SURSAGAR_LAKE">
+			<Text>Sursagar Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_BRIGHU_LAKE">
+			<Text>Brighu Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_DAL_LAKE">
+			<Text>Dal Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_DASHAIR_LAKE">
+			<Text>Dashair Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_GHADHASARU_LAKE">
+			<Text>Ghadhasaru Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_KARERI_LAKE">
+			<Text>Kareri Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_KHAJJIAR_LAKE">
+			<Text>Khajjiar Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAMA_DAL_NAUN_LAKE">
+			<Text>Lama Dal Naun Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MACCHIAL_LAKE">
+			<Text>Macchial Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MAHARANA_PRATAP_SAGAR_LAKE">
+			<Text>Maharana Pratap Sagar Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MANIMAHESH_LAKE">
+			<Text>Manimahesh Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_NAKO_LAKE">
+			<Text>Nako Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_PANDOH_LAKE">
+			<Text>Pandoh Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_PRASHAR_LAKE">
+			<Text>Prashar Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_RENUKA_LAKE">
+			<Text>Renuka Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_REWALSAR_LAKE">
+			<Text>Rewalsar Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SERUVALSAR_LAKE">
+			<Text>Seruvalsar Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SURAJ_TAL_LAKE">
+			<Text>Suraj Tal Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_CHANDRA_TAAL_LAKE">
+			<Text>Chandra Taal Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_BADKHAL_LAKE">
+			<Text>Badkhal Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_BRAHMA_SAROVAR_LAKE">
+			<Text>Brahma Sarovar Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_KARNA_LAKE">
+			<Text>Karna Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SANNIHIT_SAROVAR_LAKE">
+			<Text>Sannihit Sarovar Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SURAJKUND_LAKE">
+			<Text>Surajkund Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_TILYAR_LAKE">
+			<Text>Tilyar Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_PANGONG_TSO_LAKE">
+			<Text>Pangong Tso Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_TSO_MORIRI_LAKE">
+			<Text>Tso Moriri Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_WULAR_LAKE">
+			<Text>Wular Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MANASBAL_LAKE">
+			<Text>Manasbal Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MANSAR_LAKE">
+			<Text>Mansar Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SHESHNAG_LAKE">
+			<Text>Sheshnag Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_GOREWADA_LAKE">
+			<Text>Gorewada Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_KHINDSI_LAKE">
+			<Text>Khindsi Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LONAR_LAKE">
+			<Text>Lonar Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_PASHAN_LAKE">
+			<Text>Pashan Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_POWAI_LAKE">
+			<Text>Powai Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_RANKALA_LAKE">
+			<Text>Rankala Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SALIM_ALI_LAKE">
+			<Text>Salim Ali Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SHIVASAGAR_LAKE">
+			<Text>Shivasagar lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_TALAO_PALI_LAKE">
+			<Text>Talao Pali Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_UPVAN_LAKE">
+			<Text>Upvan Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_VENNA_LAKE">
+			<Text>Venna Lake</Text>
+		</Row>
+
+		<!-- 		
+=========================== 
+Rivers 
+=========================== 
+-->
+		<Row Tag="TXT_KEY_NAME_ML_PADMA_RIVER">
+			<Text>Padma River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_DHALESHWARI_RIVER">
+			<Text>Dhaleshwari River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_DAKATUA_RIVER">
+			<Text>Dakatua River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_GUMTI_RIVER">
+			<Text>Gumti River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FENI_RIVER">
+			<Text>Feni River</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_NAME_ML_BRAHMAPUTRA_RIVER">
+			<Text>Brahmaputra River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_HAORA_RIVER">
+			<Text>Haora River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SURMA_RIVER">
+			<Text>Surma River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_KANGSHA_RIVER">
+			<Text>Kangsha River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SOMESHWARI_RIVER">
+			<Text>Someshwari River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_KUSHIYARA_RIVER">
+			<Text>Kushiyara River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MANU_RIVER">
+			<Text>Manu River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_BARAK_RIVER">
+			<Text>Barak River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_BHUGDOI_RIVER">
+			<Text>Bhugdoi River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_DHANSIRI_RIVER">
+			<Text>Dhansiri River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MORA_DHANSIRI_RIVER">
+			<Text>Mora Dhansiri River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_DHARLA_RIVER">
+			<Text>Dharla River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_JALDHAKA_RIVER">
+			<Text>Jaldhaka River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_DIBANG_RIVER">
+			<Text>Dibang River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_DIKHOU_RIVER">
+			<Text>Dikhou River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_NAMDANG_RIVER">
+			<Text>Namdang River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_DIHING_RIVER">
+			<Text>Dihing River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_TIRAP_RIVER">
+			<Text>Tirap River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_NAMPHUK_RIVER">
+			<Text>Namphuk River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_DISANG_RIVER">
+			<Text>Disang River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_DORIKA_RIVERS">
+			<Text>Dorika Rivers</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_KAKODONGA_RIVER">
+			<Text>Kakodonga River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_KAMENG_RIVER">
+			<Text>Kameng River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_KAPILI_RIVER">
+			<Text>Kapili River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_KOLONG_RIVER">
+			<Text>Kolong River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LOHIT_RIVER">
+			<Text>Lohit River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MANAS_RIVER">
+			<Text>Manas River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_PAGLADIYA_RIVER">
+			<Text>Pagladiya River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_RIVER_DIPHLU">
+			<Text>River Diphlu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_RIVER_MORA_DIPHLU">
+			<Text>River Mora Diphlu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SANKOSH_RIVER">
+			<Text>Sankosh River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_RAIDK_RIVER">
+			<Text>Raidāk River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SUBANSIRI_RIVER">
+			<Text>Subansiri River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_TEESTA_RIVER">
+			<Text>Teesta River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_RANGEET_RIVER">
+			<Text>Rangeet River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LACHEN_RIVER">
+			<Text>Lachen River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LACHUNG_RIVER">
+			<Text>Lachung River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_TORSA_RIVER">
+			<Text>Torsa River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_GHARGHARIA_RIVER">
+			<Text>Ghargharia River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_BURI_TORSA_RIVER">
+			<Text>Buri Torsa River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_YAMUNA_RIVER">
+			<Text>Yamuna River</Text>
+		</Row>
+
+		<!-- 
+=========================== 
+Forests 
+=========================== 
+-->
+		<Row Tag="TXT_KEY_NAME_MLADD_ABUJMARH">
+			<Text>Abujmarh</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_BAIKUNTHAPUR_FOREST">
+			<Text>Baikunthapur Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_MOLAI_FOREST">
+			<Text>Molai Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_MULAI_KATHONI">
+			<Text>Mulai Kathoni</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_PICHAVARAM">
+			<Text>Pichavaram</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_PUNIT_VAN">
+			<Text>Punit Van</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_ARABARI">
+			<Text>Arabari</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_BANKURA_FOREST">
+			<Text>Bankura Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_CHILAPATA_FOREST">
+			<Text>Chilapata Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_SARANDA_FOREST">
+			<Text>Saranda Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_DANDAKA_FOREST">
+			<Text>Dandaka Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_DVAITA_FOREST">
+			<Text>Dvaita Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_KAMYAKA_FOREST">
+			<Text>Kamyaka Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_KHANDAVA_FOREST">
+			<Text>Khandava Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_MADHU_FOREST">
+			<Text>Madhu Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_NAIMISHA_FOREST">
+			<Text>Naimisha Forest</Text>
+		</Row>
+
+
+
+		<!--
+=========================== 
+Deserts 
+=========================== 
+-->
+		<Row Tag="TXT_KEY_NAME_ML_PURAMA_DESERT">
+			<Text>Purama Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_PURATU_DESERT">
+			<Text>Puratu Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FATONGA_DESERT">
+			<Text>Fatonga Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_KARAHA_DESERT">
+			<Text>Karaha Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MANGALA_DESERT">
+			<Text>Mangala Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SAGARE_DESERT">
+			<Text>Sagare Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FATAMLI_DESERT">
+			<Text>Fatamli Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOHAWA_DESERT">
+			<Text>Mohawa Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_KUMBHRI_DESERT">
+			<Text>Kumbhri Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_THAR_DESERT">
+			<Text>Thar Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_VARY_DESERT">
+			<Text>Vary Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SURAPUR_DESERT">
+			<Text>Surapur Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_BETULI_DESERT">
+			<Text>Betuli Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_BANAGA_DESERT">
+			<Text>Banaga Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_KHOLAWA_DESERT">
+			<Text>Kholawa Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FARAURKA_DESERT">
+			<Text>Faraurka Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SIKONA_DESERT">
+			<Text>Sikona Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_GARHIKA_DESERT">
+			<Text>Garhika Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_DESERT_OF_JALE">
+			<Text>Desert of Jale</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_DESERT_OF_SIKRINI">
+			<Text>Desert of Sikrini</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_DESERT_OF_RAMEERA">
+			<Text>Desert of Rameera</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_DESERT_OF_GARTINI">
+			<Text>Desert of Gartini</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_DESERT_OF_BARI">
+			<Text>Desert of Bari</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_DESERT_OF_ARAR">
+			<Text>Desert of Arar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_DESERT_OF_VILLAMU">
+			<Text>Desert of Villamu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_DESERT_OF_KATAWA">
+			<Text>Desert of Katawa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_DESERT_OF_VALSAURA">
+			<Text>Desert of Valsaura</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_DESERT_OF_YAPUR">
+			<Text>Desert of Yapur</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_DESERT_OF_BILAMA">
+			<Text>Desert of Bilama</Text>
+		</Row>
+
+
+	</Language_en_US>
+</GameData>

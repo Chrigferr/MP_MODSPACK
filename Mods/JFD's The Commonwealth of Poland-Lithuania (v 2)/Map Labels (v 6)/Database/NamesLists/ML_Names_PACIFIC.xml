@@ -1,0 +1,400 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+*****************************************
+*			Map Labels					*
+*	by Hazel (hazel16 @ CivFanatics)	*
+*****************************************
+-->
+<GameData>
+	<ML_Labels_Dynamic>
+		<!-- Template:
+			
+		-->
+
+		<!-- 
+=========================== 
+Regions 
+=========================== 
+-->
+		<Row Name="TXT_KEY_NAME_ML_MELANESIA" MainType="REGION" SubType="REGION" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_MICRONESIA" MainType="REGION" SubType="REGION" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_OCEANIA" MainType="REGION" SubType="REGION" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_POLYNESIA" MainType="REGION" SubType="REGION" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_MALAY" MainType="REGION" SubType="REGION" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_HOKKAIDO" MainType="REGION" SubType="REGION" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_TOHOKU" MainType="REGION" SubType="REGION" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_KANTO" MainType="REGION" SubType="REGION" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_CHUBU" MainType="REGION" SubType="REGION" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_KINKI" MainType="REGION" SubType="REGION" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_CHUGOKU" MainType="REGION" SubType="REGION" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_SHIKOKU" MainType="REGION" SubType="REGION" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_KYUSHUOKINAWA" MainType="REGION" SubType="REGION" CultureType="PACIFIC"/>
+
+
+		<!-- 
+=========================== 
+Oceans 
+=========================== 
+-->
+		<Row Name="TXT_KEY_NAME_ML_KORO_SEA" MainType="REGION" SubType="OCEAN" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_SIBUTU_SEA" MainType="REGION" SubType="OCEAN" CultureType="PACIFIC"/>
+
+		<Row Name="TXT_KEY_NAME_ML_BISMARCK_SEA" MainType="REGION" SubType="OCEAN" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_BOHOL_SEA" MainType="REGION" SubType="OCEAN" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_CELEBES_SEA" MainType="REGION" SubType="OCEAN" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_CORAL_SEA" MainType="REGION" SubType="OCEAN" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_SALISH_SEA" MainType="REGION" SubType="OCEAN" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_SOLOMON_SEA" MainType="REGION" SubType="OCEAN" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_SULU_SEA" MainType="REGION" SubType="OCEAN" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_TASMAN_SEA" MainType="REGION" SubType="OCEAN" CultureType="PACIFIC"/>
+
+
+		<!--	
+=========================== 
+Islands 
+=========================== 
+-->
+		<Row Name="TXT_KEY_NAME_ML_AUNUU_ISLAND" MainType="REGION" SubType="ISLAND" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_OFU_ISLAND" MainType="REGION" SubType="ISLAND" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_OLOSEGA_ISLAND" MainType="REGION" SubType="ISLAND" CultureType="PACIFIC"/>
+
+		<Row Name="TXT_KEY_NAME_ML_OLOHEGA_ISLAND" MainType="REGION" SubType="ISLAND" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_TAU_ISLAND" MainType="REGION" SubType="ISLAND" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_TUTUILA_ISLAND" MainType="REGION" SubType="ISLAND" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_ISLAND_OF_POHNPEI" MainType="REGION" SubType="ISLAND" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_ISLAND_OF_YAP" MainType="REGION" SubType="ISLAND" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_ISLAND_OF_ULITHI" MainType="REGION" SubType="ISLAND" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_ISLAND_OF_CHUUK" MainType="REGION" SubType="ISLAND" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_ISLAND_OF_PULUWAT" MainType="REGION" SubType="ISLAND" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_ISLAND_OF_KOSRAE" MainType="REGION" SubType="ISLAND" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_ISLAND_OF_PALAU" MainType="REGION" SubType="ISLAND" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_ISLAND_OF_BABELDAOB" MainType="REGION" SubType="ISLAND" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_ISLAND_OF_IOUELDAOB" MainType="REGION" SubType="ISLAND" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_KOROR_ISLAND" MainType="REGION" SubType="ISLAND" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_AITUTAKI_ISLAND" MainType="REGION" SubType="ISLAND" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_ATIU_ISLAND" MainType="REGION" SubType="ISLAND" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_PAMATI_ISLAND" MainType="REGION" SubType="ISLAND" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_MANGAIA_ISLAND" MainType="REGION" SubType="ISLAND" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_MANIHIKI_ISLAND" MainType="REGION" SubType="ISLAND" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_MANUAE_ISLAND" MainType="REGION" SubType="ISLAND" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_MAUKE_ISLAND" MainType="REGION" SubType="ISLAND" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_MITIARO_ISLAND" MainType="REGION" SubType="ISLAND" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_NASSAU_ISLAND" MainType="REGION" SubType="ISLAND" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_PUKAPUKA_ISLAND" MainType="REGION" SubType="ISLAND" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_RAKAHANGA_ISLAND" MainType="REGION" SubType="ISLAND" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_RAROTONGA_ISLAND" MainType="REGION" SubType="ISLAND" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_SUWARROW_ISLAND" MainType="REGION" SubType="ISLAND" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_TAKUTEA_ISLAND" MainType="REGION" SubType="ISLAND" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_TONGAREVA_ISLAND" MainType="REGION" SubType="ISLAND" CultureType="PACIFIC"/>
+
+
+		<!--		
+=========================== 
+Mountains 
+=========================== 
+-->
+		<Row Name="TXT_KEY_NAME_ML_ALAID_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_AORAKI_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_ASAHIDAKE_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_BARBEAU_PEAK" MainType="FEATURE" SubType="MOUNTAIN" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_BEERENBERG_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="PACIFIC"/>
+
+		<Row Name="TXT_KEY_NAME_ML_BUKU_SIBELA_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_BULU_RANTEMARIO_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_GOLDEN_HINDE_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_GUNUNG_BINAIYA_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_GUNUNG_TATA_MAILAU_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_HALEAKALA_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_HVANNADALSHNKUR_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_JADE_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_KANLAON_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_LAMBEL_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_MAROMOKOTRO_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_MAUNA_KEA_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_MAWSON_PEAK" MainType="FEATURE" SubType="MOUNTAIN" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_MOUNT_AGUNG" MainType="FEATURE" SubType="MOUNTAIN" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_MOUNT_APO" MainType="FEATURE" SubType="MOUNTAIN" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_MOUNT_BALBI" MainType="FEATURE" SubType="MOUNTAIN" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_MOUNT_EREBUS" MainType="FEATURE" SubType="MOUNTAIN" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_MOUNT_ETNA" MainType="FEATURE" SubType="MOUNTAIN" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_MOUNT_FOGO" MainType="FEATURE" SubType="MOUNTAIN" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_MOUNT_FOSTER" MainType="FEATURE" SubType="MOUNTAIN" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_MOUNT_FRANCAIS" MainType="FEATURE" SubType="MOUNTAIN" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_MOUNT_FUJI" MainType="FEATURE" SubType="MOUNTAIN" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_MOUNT_GAUDRY" MainType="FEATURE" SubType="MOUNTAIN" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_MOUNT_GUITINGGUITING" MainType="FEATURE" SubType="MOUNTAIN" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_MOUNT_HALCN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_MOUNT_IDA" MainType="FEATURE" SubType="MOUNTAIN" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_MOUNT_KAPALATMADA" MainType="FEATURE" SubType="MOUNTAIN" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_MOUNT_KARTHALA" MainType="FEATURE" SubType="MOUNTAIN" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_MOUNT_KERINCI" MainType="FEATURE" SubType="MOUNTAIN" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_MOUNT_KINABALU" MainType="FEATURE" SubType="MOUNTAIN" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_MOUNT_MADIAAS" MainType="FEATURE" SubType="MOUNTAIN" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_MOUNT_MAKUSHIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_MOUNT_MANTALINGAHAN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_MOUNT_OROHENA" MainType="FEATURE" SubType="MOUNTAIN" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_MOUNT_POPOMANASEU" MainType="FEATURE" SubType="MOUNTAIN" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_MOUNT_PULAG" MainType="FEATURE" SubType="MOUNTAIN" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_MOUNT_RINJANI" MainType="FEATURE" SubType="MOUNTAIN" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_MOUNT_RUAPEHU" MainType="FEATURE" SubType="MOUNTAIN" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_MOUNT_SHISHALDIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_MOUNT_SIPLE" MainType="FEATURE" SubType="MOUNTAIN" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_MOUNT_TAMBORA" MainType="FEATURE" SubType="MOUNTAIN" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_MOUNT_ULAWUN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_MOUNT_VINEUO" MainType="FEATURE" SubType="MOUNTAIN" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_MOUNT_VSEVIDOF" MainType="FEATURE" SubType="MOUNTAIN" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_OTHONA_PEAK" MainType="FEATURE" SubType="MOUNTAIN" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_OUTLOOK_PEAK" MainType="FEATURE" SubType="MOUNTAIN" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_PALUP_QAQA_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_PIDURUTALAGALA_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_POCO_MANDASAWU_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_PUNCAK_JAYA_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_SEMERU_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_TEIDE_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="PACIFIC"/>
+
+		<!--
+=========================== 
+Lakes 
+=========================== 
+-->
+		<Row Name="TXT_KEY_NAME_ML_ONGEIML_TKETAU_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_LAKE_HALULU" MainType="FEATURE" SubType="LAKE" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_LAKE_WAIAU" MainType="FEATURE" SubType="LAKE" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_KA_LOKO_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_KUALAPUU_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_WAHIAWA_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="PACIFIC"/>
+
+		<Row Name="TXT_KEY_NAME_ML_BIWA_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_KASUMIGAURA_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_SAROMA_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_INAWASHIRO_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_NAKAUMI_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_KUSSHARO_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_SHINJI_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_SHIKOTSU_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_TYA_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_HAMANA_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_OGAWARA_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_TOWADA_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_NOTORO_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_FREN_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_KITAURA_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_ABASHIRI_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_AKKESHI_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_LAKE_HACHIR" MainType="FEATURE" SubType="LAKE" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_LAKE_TAZAWA" MainType="FEATURE" SubType="LAKE" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_LAKE_MASH" MainType="FEATURE" SubType="LAKE" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_LAKE_JSAN" MainType="FEATURE" SubType="LAKE" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_LAKE_KUTCHARO" MainType="FEATURE" SubType="LAKE" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_LAKE_SUWA" MainType="FEATURE" SubType="LAKE" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_LAKE_AKAN" MainType="FEATURE" SubType="LAKE" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_LAKE_CHZENJI" MainType="FEATURE" SubType="LAKE" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_LAKE_INBA" MainType="FEATURE" SubType="LAKE" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_LAKE_IKEDA" MainType="FEATURE" SubType="LAKE" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_LAKE_HIBARA" MainType="FEATURE" SubType="LAKE" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_LAKE_KUTTARA" MainType="FEATURE" SubType="LAKE" CultureType="PACIFIC"/>
+
+
+		<!-- 		
+=========================== 
+Rivers 
+=========================== 
+-->
+		<Row Name="TXT_KEY_NAME_ML_TAKASE_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_MABECHI_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_KITAKAMI_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_NARUSE_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_NATORI_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_ABUKUMA_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_YONESHIRO_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_OMONO_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_KOYOSHI_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_MOGAMI_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_AKA_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_ARA_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_AGANO_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_SHINANO_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_SEKI_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_HIME_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_KUROBE_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_JGANJI_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_JINZ_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_SH_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_OYABE_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_TEDORI_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_KAKEHASHI_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_SENDAI_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_TENJIN_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_HINO_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_HII_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_G_G_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_TAKATSU_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_YOSHII_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_ASAHI_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_TAKAHASHI_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_ASHIDA_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_RIVER_TA" MainType="FEATURE" SubType="RIVER" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_OSE_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_SABA_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_OHEO_GULCH_STREAM" MainType="FEATURE" SubType="RIVER" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_ANAHULU_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_HALAWA_STREAM" MainType="FEATURE" SubType="RIVER" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_HANAKAPIAI_STREAM" MainType="FEATURE" SubType="RIVER" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_HANAKOA_STREAM" MainType="FEATURE" SubType="RIVER" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_HANALEI_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_HANAWI_STREAM" MainType="FEATURE" SubType="RIVER" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_HONOLEWA_STREAM" MainType="FEATURE" SubType="RIVER" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_HONOLII_STREAM" MainType="FEATURE" SubType="RIVER" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_HONOMU_STREAM" MainType="FEATURE" SubType="RIVER" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_KAHAKULOA_STREAM" MainType="FEATURE" SubType="RIVER" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_KAUKONAHUA_STREAM" MainType="FEATURE" SubType="RIVER" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_KAHANA_STREAM" MainType="FEATURE" SubType="RIVER" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_KAIWILAHILAHI_STREAM" MainType="FEATURE" SubType="RIVER" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_KALALAU_STREAM" MainType="FEATURE" SubType="RIVER" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_KALIHIWAI_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_KALUANUI_STREAM" MainType="FEATURE" SubType="RIVER" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_KAPEHU_STREAM" MainType="FEATURE" SubType="RIVER" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_KAPIA_STREAM" MainType="FEATURE" SubType="RIVER" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_KAWAINUI_STREAM" MainType="FEATURE" SubType="RIVER" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_KOAIE_STREAM" MainType="FEATURE" SubType="RIVER" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_KOLEKOLE_STREAM" MainType="FEATURE" SubType="RIVER" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_KOLOA_GULCH" MainType="FEATURE" SubType="RIVER" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_LIMAHULI_STREAM" MainType="FEATURE" SubType="RIVER" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_LUMAHAI_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_MANOLOA_STREAM" MainType="FEATURE" SubType="RIVER" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_NINOLE_STREAM" MainType="FEATURE" SubType="RIVER" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_NUALOLO_AINA_STREAM" MainType="FEATURE" SubType="RIVER" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_OPEA_STREAM" MainType="FEATURE" SubType="RIVER" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_PAHEEHEE_STREAM" MainType="FEATURE" SubType="RIVER" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_PAUKAUILA_STREAM" MainType="FEATURE" SubType="RIVER" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_PELEKUNU_STREAM" MainType="FEATURE" SubType="RIVER" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_WAIALAE_STREAM" MainType="FEATURE" SubType="RIVER" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_WAIKOLU_STREAM" MainType="FEATURE" SubType="RIVER" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_WAILAU_STREAM" MainType="FEATURE" SubType="RIVER" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_WAILUA_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_WAILUKU_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_WAIMANU_STREAM" MainType="FEATURE" SubType="RIVER" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_WAIMEA_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="PACIFIC"/>
+
+
+		<!-- 
+=========================== 
+Forests 
+=========================== 
+-->
+		<Row Name="TXT_KEY_NAME_ML_NAKOGAI_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_SAKA_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_SHIKI_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_TSAKA_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_KIYOSURA_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_TAMASU_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_MIZAWA_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_DEGI_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_KUSHIRA_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_KARUGI_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_NAZUKA_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_NAGANAO_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_MIZUNO_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_OTSURAN_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_MINANO_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_KAYAMA_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_KIYOSUKI_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_KANAI_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_KIRASU_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_SHIRIYA_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_FOREST_OF_WAIPAHU" MainType="FEATURE" SubType="FOREST" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_FOREST_OF_KIHEI" MainType="FEATURE" SubType="FOREST" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_FOREST_OF_MANELE" MainType="FEATURE" SubType="FOREST" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_FOREST_OF_KALAELOA" MainType="FEATURE" SubType="FOREST" CultureType="PACIFIC"/>
+
+		<Row Name="TXT_KEY_NAME_ML_HANA_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_WAINAKU_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_PUNALUU_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_OLINDA_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_HAWI_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_KAANAPALI_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_POIPU_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_HALIIMAILE_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_PAHOA_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_MAHINAHINA_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_NAALEHU_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_WAIKANE_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_PUAKO_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_KAUMAKANI_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_PAAUILO_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_LAUNIUPOKO_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_LAUPAHOEHOE_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_HONOMU_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_HALAULA_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_HANALEI_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_HAENA_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_KALIHIWAI_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_PAUKAA_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_UALAPUE_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_MAUNALOA_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_KAPALUA_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_FOREST_OF_MAALAEA" MainType="FEATURE" SubType="FOREST" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_FOREST_OF_KUKUIHAELE" MainType="FEATURE" SubType="FOREST" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_FOREST_OF_KAWELA" MainType="FEATURE" SubType="FOREST" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_FOREST_OF_WAINIHA" MainType="FEATURE" SubType="FOREST" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_FOREST_OF_PAKALA" MainType="FEATURE" SubType="FOREST" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_FOREST_OF_WAIOHINU" MainType="FEATURE" SubType="FOREST" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_FOREST_OF_MAKENA" MainType="FEATURE" SubType="FOREST" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_FOREST_OF_OLOWALU" MainType="FEATURE" SubType="FOREST" CultureType="PACIFIC"/>
+
+		<!--
+=========================== 
+Deserts 
+=========================== 
+-->
+		<Row Name="TXT_KEY_NAME_ML_LANAI_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_AINALOA_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_WAIKAPU_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_PUHI_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_KILAUEA_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_PAIA_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_HANAPEPE_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_KAHUKU_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_VOLCANO_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_HONAUNAU_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_NAPOOPOO_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_HONALO_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_ELEELE_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_LAWAI_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_HONOKAA_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_WAILUA_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_KEAAU_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_ANAHOLA_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_PRINCEVILLE_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_KOLOA_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_MAUNAWILI_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_KUALAPUU_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_KEALAKEKUA_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_WAIMEA_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_MOKULEIA_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_KO_OLINA_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_PEPEEKEO_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_KAICHIMA_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_DESERT_OF_NAGAURA" MainType="FEATURE" SubType="DESERT" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_DESERT_OF_HANE" MainType="FEATURE" SubType="DESERT" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_DESERT_OF_KITOSU" MainType="FEATURE" SubType="DESERT" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_DESERT_OF_MANO" MainType="FEATURE" SubType="DESERT" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_DESERT_OF_IMASHIN" MainType="FEATURE" SubType="DESERT" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_DESERT_OF_NAGAWA" MainType="FEATURE" SubType="DESERT" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_DESERT_OF_NISHIRA" MainType="FEATURE" SubType="DESERT" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_DESERT_OF_YONAHAN" MainType="FEATURE" SubType="DESERT" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_DESERT_OF_HIRI" MainType="FEATURE" SubType="DESERT" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_DESERT_OF_YARAKURA" MainType="FEATURE" SubType="DESERT" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_DESERT_OF_SENNE" MainType="FEATURE" SubType="DESERT" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_DESERT_OF_YARANEN" MainType="FEATURE" SubType="DESERT" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_DESERT_OF_MONBE" MainType="FEATURE" SubType="DESERT" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_DESERT_OF_OSHIKAN" MainType="FEATURE" SubType="DESERT" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_DESERT_OF_DAWADO" MainType="FEATURE" SubType="DESERT" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_FUKEFU_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_KAHINO_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_KITAKI_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="PACIFIC"/>
+		<Row Name="TXT_KEY_NAME_ML_KISHI_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="PACIFIC"/>
+
+
+	</ML_Labels_Dynamic>
+</GameData>

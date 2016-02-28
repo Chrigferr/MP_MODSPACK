@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+*****************************************
+*			Map Labels					*
+*	by Hazel (hazel16 @ CivFanatics)	*
+*****************************************
+-->
+<GameData>
+	<ML_Labels_Dynamic>
+		<!-- Template:
+			
+		-->
+
+		<!-- 
+=========================== 
+Regions 
+=========================== 
+-->
+		<Row Name="TXT_KEY_NAME_MLADD_SMOLENSCHINA" MainType="REGION" SubType="REGION" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_MLADD_KUBAN_KRAI" MainType="REGION" SubType="REGION" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_MLADD_DON_VOISKO" MainType="REGION" SubType="REGION" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_MLADD_TRANSBAIKAL" MainType="REGION" SubType="REGION" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_MLADD_YAKUTIA" MainType="REGION" SubType="REGION" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_MLADD_TAYMYR" MainType="REGION" SubType="REGION" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_MLADD_CHERKESSIA" MainType="REGION" SubType="REGION" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_MLADD_SEVERSHCHINA" MainType="REGION" SubType="REGION" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_MLADD_YUGRA_KRAI" MainType="REGION" SubType="REGION" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_MLADD_MASOVIA" MainType="REGION" SubType="REGION" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_MLADD_KUYAVIA" MainType="REGION" SubType="REGION" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_MLADD_LUSATIA" MainType="REGION" SubType="REGION" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_MLADD_PODLASIE" MainType="REGION" SubType="REGION" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_MLADD_POLESIE" MainType="REGION" SubType="REGION" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_MLADD_POMERANIA" MainType="REGION" SubType="REGION" CultureType="SLAVIC"/>
+
+		<Row Name="TXT_KEY_NAME_MLADD_SILESIA" MainType="REGION" SubType="REGION" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_MLADD_SUBCARPATHIA" MainType="REGION" SubType="REGION" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_MLADD_GALICIA" MainType="REGION" SubType="REGION" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_MLADD_LODOMERIA" MainType="REGION" SubType="REGION" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_MLADD_PODOLIA" MainType="REGION" SubType="REGION" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_MLADD_VOLHYNIA" MainType="REGION" SubType="REGION" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_MLADD_WARMIA" MainType="REGION" SubType="REGION" CultureType="SLAVIC"/>
+
+
+		<!-- 
+=========================== 
+Oceans 
+=========================== 
+-->
+		<Row Name="TXT_KEY_NAME_ML_SIBERIAN_SEA" MainType="REGION" SubType="OCEAN" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_ML_KARA_SEA" MainType="REGION" SubType="OCEAN" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_ML_LAPTEV_SEA" MainType="REGION" SubType="OCEAN" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_ML_SEA_OF_OKHOTSK" MainType="REGION" SubType="OCEAN" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_ML_PECHORA_SEA" MainType="REGION" SubType="OCEAN" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_ML_SEA_OF_AZOV" MainType="REGION" SubType="OCEAN" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_ML_BARENTS_SEA" MainType="REGION" SubType="OCEAN" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_ML_BERING_SEA" MainType="REGION" SubType="OCEAN" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_ML_CHUKCHI_SEA" MainType="REGION" SubType="OCEAN" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_MLADD_BLACK_SEA" MainType="REGION" SubType="OCEAN" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_MLADD_BALTIC_SEA" MainType="REGION" SubType="OCEAN" CultureType="SLAVIC"/>
+
+
+
+
+		<!--	
+=========================== 
+Islands 
+=========================== 
+-->
+		<Row Name="TXT_KEY_NAME_MLADD_NOVAYA_ZEMLYA" MainType="REGION" SubType="ISLAND" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_MLADD_WOLIN_ISLAND" MainType="REGION" SubType="ISLAND" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_MLADD_UZNAM_ISLAND" MainType="REGION" SubType="ISLAND" CultureType="SLAVIC"/>
+
+
+
+		<!--		
+=========================== 
+Mountains 
+=========================== 
+-->
+		<Row Name="TXT_KEY_NAME_ML_MOUNT_VYSOKAYA" MainType="FEATURE" SubType="MOUNTAIN" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_ML_ADZHIGARDAK_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_ML_ANGVUNDASCHORR_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_ML_ANIK_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_ML_ATSONUPURI_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_ML_BARANSKY_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_ML_BASEGI_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_ML_BELALAKAYA_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_ML_BELUKHA_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_ML_BERILL_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_ML_BERUTARUBE_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_ML_BESHTAU_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_ML_CHIRIP_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_ML_CHUGUSH_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_ML_DIKLOSMTA_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_ML_DOMBAYULGEN_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_ML_DONGUZ_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_ML_DYKHTAU_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_ML_DZHANGITAU_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_ML_GORNAYA_SHORIA_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_ML_ICHINSKY_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_ML_ILYINSKY_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_ML_IREMEL_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_ML_KAMBALNY_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_ML_KAMEN_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_ML_KARYMSKY_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_ML_KEBENEY_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_ML_KELL_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_ML_KHANGAR_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_ML_KHODUTKA_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_ML_KHOLAT_SYAKHL_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_ML_KHUVKHOITUN_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_ML_KIKHPINYCH_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_ML_KIZIMEN_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_ML_KLYUCHEVSKAYA_SOPKA_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_ML_KO_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_ML_KOMAROV_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_ML_KONZHAKOVSKIY_KAMEN_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_ML_KORVATUNTURI_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_ML_KORYAKSKY_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_ML_KOSHELEV_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_ML_KOSHTANTAU_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_ML_KOSTAKAN_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_ML_KOSVINSKY_KAMEN_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_ML_KRASHENINNIKOV_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_ML_KRONOTSKY_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_ML_KSUDACH_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_ML_KVARKUSH_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_ML_LATSGA_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_ML_LESSER_KHINGAN_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_ML_LEUTONGEY_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_ML_MALAKATYNTAS_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_ML_MALY_PAYALPAN_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_ML_MALY_SEMYACHIK_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_ML_MANARAGA_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_ML_MASHKOVTSEV_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_ML_MASHUK_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_ML_MONKH_SARIDAG_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_ML_MOUNT_AKHUN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_ML_MOUNT_BAZARDZ" MainType="FEATURE" SubType="MOUNTAIN" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_ML_MOUNT_DZHIMARA" MainType="FEATURE" SubType="MOUNTAIN" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_ML_MOUNT_ELBRUS" MainType="FEATURE" SubType="MOUNTAIN" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_ML_MOUNT_FISHT" MainType="FEATURE" SubType="MOUNTAIN" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_ML_MOUNT_KAMEN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_ML_MOUNT_KARPINSKY" MainType="FEATURE" SubType="MOUNTAIN" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_ML_MOUNT_KHOLODILNIK" MainType="FEATURE" SubType="MOUNTAIN" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_ML_MOUNT_LIVADIYSKAYA" MainType="FEATURE" SubType="MOUNTAIN" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_ML_MOUNT_NARODNAYA" MainType="FEATURE" SubType="MOUNTAIN" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_ML_MOUNT_SHANI" MainType="FEATURE" SubType="MOUNTAIN" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_ML_MOUNT_YAMANTAU" MainType="FEATURE" SubType="MOUNTAIN" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_ML_MOUNTAIN_SHORIYA" MainType="FEATURE" SubType="MOUNTAIN" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_ML_MUSKHAYA_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_ML_MUTNOVSKY_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_ML_OBSHCHY_SYRT_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_ML_OPALA_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_ML_OSLYANKA_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_ML_OSTRY_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_ML_OZERNOY_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_ML_PAYKHOY_RIDGE" MainType="FEATURE" SubType="MOUNTAIN" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_ML_PEAK_POBEDA_SAKHA_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_ML_PLOSKY_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_ML_POGRANICHNY_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_ML_ROMANOVKA_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="SLAVIC"/>
+
+		<Row Name="TXT_KEY_NAME_ML_SHISHEL_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_ML_SHIVELUCH_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_ML_SHKHARA_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_ML_SHOTA_RUSTAVELI_PEAK" MainType="FEATURE" SubType="MOUNTAIN" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_ML_SNEGOVOY_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_ML_TAUNSHITS_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_ML_TAVAN_BOGD_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_ML_TEBULOSMTA_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_ML_TITILA_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_ML_TOLBACHIK_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_ML_TORDOKI_YANI_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_ML_TULYMSKY_KAMEN_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="SLAVIC"/>
+
+
+		<Row Name="TXT_KEY_NAME_ML_TUZOVSKY_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_ML_UDINA_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_ML_UKSICHAN_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_ML_USHKOVSKY_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_ML_VALDAI_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_ML_VERKHOVOY_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_ML_VILYUCHIK_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_ML_VOYAMPOLSKY_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_ML_VYSOKY_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_ML_YELOVSKY_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_ML_ZHELTOVSKY_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_ML_ZHUPANOVSKY_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_ML_ZIMIN_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="SLAVIC"/>
+
+
+		<Row Name="TXT_KEY_NAME_MLADD_GERLACH_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_MLADD_RYSY_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_MLADD_KOSCIELEC_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_MLADD_GIEWONT_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_MLADD_MNICH_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_MLADD_THREE_CROWNS_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_MLADD_KASPROWY_WIERCH" MainType="FEATURE" SubType="MOUNTAIN" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_MLADD_WOLOWIEC_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_MLADD_BABIA_GORA" MainType="FEATURE" SubType="MOUNTAIN" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_MLADD_LYSA_GORA" MainType="FEATURE" SubType="MOUNTAIN" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_MLADD_SNIEZKA_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="SLAVIC"/>
+
+
+
+		<!--
+=========================== 
+Lakes 
+=========================== 
+-->
+		<Row Name="TXT_KEY_NAME_ML_LAKE_BAIKAL" MainType="FEATURE" SubType="LAKE" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_ML_LAKE_BELOYE" MainType="FEATURE" SubType="LAKE" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_ML_LAKE_BROSNO" MainType="FEATURE" SubType="LAKE" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_ML_LAKE_BUSTAKH" MainType="FEATURE" SubType="LAKE" CultureType="SLAVIC"/>
+
+		<Row Name="TXT_KEY_NAME_ML_LAKE_CHANY" MainType="FEATURE" SubType="LAKE" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_ML_LAKE_CHUKCHAGIRSKOYE" MainType="FEATURE" SubType="LAKE" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_ML_LAKE_ILMEN" MainType="FEATURE" SubType="LAKE" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_ML_LAKE_IMANDRA" MainType="FEATURE" SubType="LAKE" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_ML_LAKE_KEZANOI" MainType="FEATURE" SubType="LAKE" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_ML_LAKE_KHANKA" MainType="FEATURE" SubType="LAKE" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_ML_LAKE_KHANTAYSKOYE" MainType="FEATURE" SubType="LAKE" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_ML_LAKE_KIZI" MainType="FEATURE" SubType="LAKE" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_ML_LAKE_KUBENSKOYE" MainType="FEATURE" SubType="LAKE" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_ML_LAKE_KULUNDINSKOYE" MainType="FEATURE" SubType="LAKE" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_ML_LAKE_LADOGA" MainType="FEATURE" SubType="LAKE" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_ML_LOVOZERO_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_ML_NERO_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_ML_ONEGA_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_ML_OREL_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_ML_OZHOGINO_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_ML_PLESHCHEYEVO_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_ML_LAKE_PEIPUS" MainType="FEATURE" SubType="LAKE" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_ML_SEGOZERO_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_ML_SELIGER_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_ML_TAIMYR_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_ML_TELETSKOYE_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_ML_TOPOZERO_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_ML_UVS_NUUR_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_ML_VALDAYSKOYE_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_ML_VISTYTIS_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_ML_YESSEY_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_MLADD_SNIARDWY_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_MLADD_MAMRY_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_MLADD_LEBSKO_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_MLADD_GOPLO_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_MLADD_JEZIORAK_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_MLADD_NIEGOCIN_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_MLADD_GARDNO_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_MLADD_JAMNO_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_MLADD_WIGRY_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_MLADD_HANCZA_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_MLADD_DRAWSKO_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_MLADD_NIDZKIE_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_MLADD_CZORSZTYN_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_MLADD_SOLINA_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_MLADD_MORSKIE_OKO_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="SLAVIC"/>
+
+
+
+		<!-- 		
+=========================== 
+Rivers 
+=========================== 
+-->
+		<Row Name="TXT_KEY_NAME_MLADD_DON_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_MLADD_VOLGA_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_MLADD_VORSKLA_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_MLADD_MOSKVA_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_MLADD_DNIEPER_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_MLADD_OKA_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_MLADD_OB_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_MLADD_YENISEI_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="SLAVIC"/>
+
+
+		<!-- 
+=========================== 
+Forests 
+=========================== 
+-->
+		<Row Name="TXT_KEY_NAME_ML_AKHMEROVSKY_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_ML_ARYMAS_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_ML_BARSKY_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_ML_BITSA_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_ML_CHERNYAYEVSKY_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_ML_GENKO_FOREST_BELT" MainType="FEATURE" SubType="FOREST" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_ML_KARAKAN_PINE_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_ML_KHIMKI_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_ML_KOVALEVSKY_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_ML_KRASNY_BOR_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_ML_LUKUNSKY_GROVE" MainType="FEATURE" SubType="FOREST" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_ML_ROMINCKA_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_ML_SARMATIC_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_ML_UORULLUBUT_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_ML_KOMI_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_MLADD_AUGUSTOW_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_MLADD_WHITE_WILDERNESS" MainType="FEATURE" SubType="FOREST" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_MLADD_BIALOWIEZA_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_MLADD_KAMPINOS_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_MLADD_NIEPOLOMICE_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_MLADD_TUCHOLA_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_MLADD_KNYSZYN_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_MLADD_KRAJNA_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_MLADD_KURPIE_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="SLAVIC"/>
+
+
+
+		<!--
+=========================== 
+Deserts 
+=========================== 
+-->
+		<Row Name="TXT_KEY_NAME_ML_HULAI_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_ML_ARBAN_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_ML_KUZHAA_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_ML_NIJNY_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_ML_NALCHI_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_ML_DESERT_OF_JEBTSA" MainType="FEATURE" SubType="DESERT" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_ML_DESERT_OF_QUTAI" MainType="FEATURE" SubType="DESERT" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_ML_DESERT_OF_MANGU" MainType="FEATURE" SubType="DESERT" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_ML_DESERT_OF_TEMA" MainType="FEATURE" SubType="DESERT" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_ML_DESERT_OF_TAKA" MainType="FEATURE" SubType="DESERT" CultureType="SLAVIC"/>
+		<Row Name="TXT_KEY_NAME_MLADD_BLEDOW_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="SLAVIC"/>
+
+
+
+	</ML_Labels_Dynamic>
+</GameData>

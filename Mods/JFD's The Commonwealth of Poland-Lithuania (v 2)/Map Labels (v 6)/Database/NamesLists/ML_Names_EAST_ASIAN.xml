@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+*****************************************
+*			Map Labels					*
+*	by Hazel (hazel16 @ CivFanatics)	*
+*****************************************
+-->
+<GameData>
+	<ML_Labels_Dynamic>
+		<!-- Template:
+			<Row Name="TXT_KEY_NAME_ML_KILIMANJARO" CultureType="AFRICA" MainType="FEATURE" SubType="MOUNTAIN" />
+		-->
+
+		<!-- 
+=========================== 
+Regions 
+=========================== 
+-->
+		<Row Name="TXT_KEY_NAME_ML_ANHUI" MainType="REGION" SubType="REGION" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_FUJIAN" MainType="REGION" SubType="REGION" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_JIANGSU" MainType="REGION" SubType="REGION" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_JIANGXI" MainType="REGION" SubType="REGION" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_SHANDONG" MainType="REGION" SubType="REGION" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_ZHEJIANG" MainType="REGION" SubType="REGION" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_TIANJIN" MainType="REGION" SubType="REGION" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_HEBEI" MainType="REGION" SubType="REGION" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_SHANXI" MainType="REGION" SubType="REGION" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_HEILONGJIANG" MainType="REGION" SubType="REGION" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_JILIN" MainType="REGION" SubType="REGION" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_LIAONING" MainType="REGION" SubType="REGION" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_GANSU" MainType="REGION" SubType="REGION" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_QUINGHAI" MainType="REGION" SubType="REGION" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_NINGXIA" MainType="REGION" SubType="REGION" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_SICHUAN" MainType="REGION" SubType="REGION" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_HUNAN" MainType="REGION" SubType="REGION" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_LGII" MainType="REGION" SubType="REGION" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_DARKHAN" MainType="REGION" SubType="REGION" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_ALTAI" MainType="REGION" SubType="REGION" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_MANDALGOVI" MainType="REGION" SubType="REGION" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_SAINSHAND" MainType="REGION" SubType="REGION" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_ULAANGOM" MainType="REGION" SubType="REGION" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_ULIASTAI" MainType="REGION" SubType="REGION" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_HWANGHAE" MainType="REGION" SubType="REGION" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_NAMPO" MainType="REGION" SubType="REGION" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_GANGWON" MainType="REGION" SubType="REGION" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_INCHEON" MainType="REGION" SubType="REGION" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_DAEJEON" MainType="REGION" SubType="REGION" CultureType="EAST_ASIAN"/>
+
+
+		<!-- 
+=========================== 
+Oceans 
+=========================== 
+-->
+		<Row Name="TXT_KEY_NAME_ML_YELLOW_SEA" MainType="REGION" SubType="OCEAN" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_SEA_OF_TATAR" MainType="REGION" SubType="OCEAN" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_GULF_OF_TONKIN" MainType="REGION" SubType="OCEAN" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_LUZON_SEA" MainType="REGION" SubType="OCEAN" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_SEA_OF_MALACCA" MainType="REGION" SubType="OCEAN" CultureType="EAST_ASIAN"/>
+
+
+
+		<!--	
+=========================== 
+Islands 
+=========================== 
+-->
+		<Row Name="TXT_KEY_NAME_ML_CHANGSHAN_ISLANDS" MainType="REGION" SubType="ISLAND" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_CHONGMING_ISLAND" MainType="REGION" SubType="ISLAND" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_DAMANG_ISLAND" MainType="REGION" SubType="ISLAND" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_GULANGYU_ISLAND" MainType="REGION" SubType="ISLAND" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_HAINAN_ISLAND" MainType="REGION" SubType="ISLAND" CultureType="EAST_ASIAN"/>
+
+		<Row Name="TXT_KEY_NAME_ML_CHEUNG_CHAU" MainType="REGION" SubType="ISLAND" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_LAMMA_ISLAND" MainType="REGION" SubType="ISLAND" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_LANTAU_ISLAND" MainType="REGION" SubType="ISLAND" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_MA_WAN_ISLAND" MainType="REGION" SubType="ISLAND" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_PENG_CHAU" MainType="REGION" SubType="ISLAND" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_PO_TOI_ISLAND" MainType="REGION" SubType="ISLAND" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_TSING_YI_ISLAND" MainType="REGION" SubType="ISLAND" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_HEBAO_ISLAND" MainType="REGION" SubType="ISLAND" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_ISLAND_OF_COLOANE" MainType="REGION" SubType="ISLAND" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_ISLAND_OF_TAIPA" MainType="REGION" SubType="ISLAND" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_MEIZHOU_ISLAND" MainType="REGION" SubType="ISLAND" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_PINGTAN_ISLAND" MainType="REGION" SubType="ISLAND" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_SHAMIAN_ISLAND" MainType="REGION" SubType="ISLAND" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_SHANGCHUAN_ISLAND" MainType="REGION" SubType="ISLAND" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_XIEYANG_ISLANDS" MainType="REGION" SubType="ISLAND" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_WEIZHOU_ISLAND" MainType="REGION" SubType="ISLAND" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_XIACHUAN_ISLAND" MainType="REGION" SubType="ISLAND" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_XIAMEN_ISLAND" MainType="REGION" SubType="ISLAND" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_ZHIFU_ISLAND" MainType="REGION" SubType="ISLAND" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_ZHOUSHAN_ISLAND" MainType="REGION" SubType="ISLAND" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_ISLAND_OF_BEOLSEOM" MainType="REGION" SubType="ISLAND" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_ISLAND_OF_BUDO" MainType="REGION" SubType="ISLAND" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_ISLAND_OF_DORYANGDO" MainType="REGION" SubType="ISLAND" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_ISLAND_OF_GYESEOM" MainType="REGION" SubType="ISLAND" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_ISLAND_OF_GWANDO" MainType="REGION" SubType="ISLAND" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_ISLAND_OF_GWANGDAEDO" MainType="REGION" SubType="ISLAND" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_ISLAND_OF_JIDO" MainType="REGION" SubType="ISLAND" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_ISLAND_OF_MEONGAESEOM" MainType="REGION" SubType="ISLAND" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_ISLAND_OF_NABDO" MainType="REGION" SubType="ISLAND" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_ISLAND_OF_OSEOM" MainType="REGION" SubType="ISLAND" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_ISLAND_OF_ULDO" MainType="REGION" SubType="ISLAND" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_ISLAND_OF_YEONPYEONGDO" MainType="REGION" SubType="ISLAND" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_ISLAND_OF_DAEYEONPYEONGDO" MainType="REGION" SubType="ISLAND" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_ISLAND_OF_SOYEONPYEONGDO" MainType="REGION" SubType="ISLAND" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_ISLAND_OF_CHAEKDO" MainType="REGION" SubType="ISLAND" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_ISLAND_OF_MOIDO" MainType="REGION" SubType="ISLAND" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_ISLAND_OF_KUJIDO" MainType="REGION" SubType="ISLAND" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_ISLAND_OF_GEODO" MainType="REGION" SubType="ISLAND" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_ISLAND_OF_SOYADO" MainType="REGION" SubType="ISLAND" CultureType="EAST_ASIAN"/>
+
+
+		<!--		
+=========================== 
+Mountains 
+=========================== 
+-->
+
+		<Row Name="TXT_KEY_NAME_ML_AMNE_MACHIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_BADALING" MainType="FEATURE" SubType="MOUNTAIN" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_BAEKDU_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_BAIYUN_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_MOUNT_BEIWUDANG" MainType="FEATURE" SubType="MOUNTAIN" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_BIJIA_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_BOGDA_PEAK" MainType="FEATURE" SubType="MOUNTAIN" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_BOLORTAGH" MainType="FEATURE" SubType="MOUNTAIN" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_BROAD_PEAK" MainType="FEATURE" SubType="MOUNTAIN" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_BUKADABAN_FENG" MainType="FEATURE" SubType="MOUNTAIN" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_MOUNT_CANGYAN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_CHAKRAGIL" MainType="FEATURE" SubType="MOUNTAIN" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_DAHEI_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_MOUNT_DANXIA" MainType="FEATURE" SubType="MOUNTAIN" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_DAXUE_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_DINGHU_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_MOUNT_DINGJUN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_MOUNT_DU" MainType="FEATURE" SubType="MOUNTAIN" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_DUNHEGER" MainType="FEATURE" SubType="MOUNTAIN" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_DUNHONG" MainType="FEATURE" SubType="MOUNTAIN" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_MOUNT_EMEI" MainType="FEATURE" SubType="MOUNTAIN" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_MOUNT_ERLANG" MainType="FEATURE" SubType="MOUNTAIN" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_MOUNT_EVEREST" MainType="FEATURE" SubType="MOUNTAIN" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_GASHERBRUM" MainType="FEATURE" SubType="MOUNTAIN" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_GAURI_SANKAR" MainType="FEATURE" SubType="MOUNTAIN" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_GELADAINDONG_PEAK" MainType="FEATURE" SubType="MOUNTAIN" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_MOUNT_GENYEN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_MOUNT_GONGGA" MainType="FEATURE" SubType="MOUNTAIN" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_GORA_ALAGORDY" MainType="FEATURE" SubType="MOUNTAIN" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_HABA_XUESHAN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_MOUNT_HUA" MainType="FEATURE" SubType="MOUNTAIN" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_MOUNT_HUANGBO" MainType="FEATURE" SubType="MOUNTAIN" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_HUANGYAJIAN_PEAK" MainType="FEATURE" SubType="MOUNTAIN" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_HITEN_PEAK" MainType="FEATURE" SubType="MOUNTAIN" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_JADE_DRAGON_SNOW_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_JENGISH_CHOKUSU" MainType="FEATURE" SubType="MOUNTAIN" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_JIANGJUN_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_MOUNT_JIANGLANG" MainType="FEATURE" SubType="MOUNTAIN" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_MOUNT_JIUHUA" MainType="FEATURE" SubType="MOUNTAIN" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_MOUNT_JIZU" MainType="FEATURE" SubType="MOUNTAIN" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_JONGSONG_PEAK" MainType="FEATURE" SubType="MOUNTAIN" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_MOUNT_KAILASH" MainType="FEATURE" SubType="MOUNTAIN" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_KALAMELY_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_KANGPENQING" MainType="FEATURE" SubType="MOUNTAIN" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_KANGTO" MainType="FEATURE" SubType="MOUNTAIN" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_KAWAGARBO" MainType="FEATURE" SubType="MOUNTAIN" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_KEZHEN_PEAK" MainType="FEATURE" SubType="MOUNTAIN" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_KHUMBUTSE" MainType="FEATURE" SubType="MOUNTAIN" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_KITTEN_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_KONGUR_TAGH" MainType="FEATURE" SubType="MOUNTAIN" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_LABUCHE_KANG" MainType="FEATURE" SubType="MOUNTAIN" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_LAOJUN_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_MOUNT_LANGYA" MainType="FEATURE" SubType="MOUNTAIN" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_MOUNT_LAO" MainType="FEATURE" SubType="MOUNTAIN" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_LHOTSE" MainType="FEATURE" SubType="MOUNTAIN" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_MOUNT_LIANG" MainType="FEATURE" SubType="MOUNTAIN" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_MOUNT_LINGYAN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_MOUNT_LI" MainType="FEATURE" SubType="MOUNTAIN" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_LIUSHI_SHAN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_MOUNT_LONGHU" MainType="FEATURE" SubType="MOUNTAIN" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_LUNPO_GANGRI" MainType="FEATURE" SubType="MOUNTAIN" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_MOUNT_LUOFU" MainType="FEATURE" SubType="MOUNTAIN" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_MOUNT_LU" MainType="FEATURE" SubType="MOUNTAIN" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_MAKALU" MainType="FEATURE" SubType="MOUNTAIN" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_MAZONG_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_MIANZIMU" MainType="FEATURE" SubType="MOUNTAIN" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_MOUNT_JINFO" MainType="FEATURE" SubType="MOUNTAIN" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_MOUNT_MOGAN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_MUZTAGH_ATA" MainType="FEATURE" SubType="MOUNTAIN" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_NAIRAMDAL_PEAK" MainType="FEATURE" SubType="MOUNTAIN" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_NYEGYI_KANSANG" MainType="FEATURE" SubType="MOUNTAIN" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_MOUNT_PAN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_PHU_SI_LUNG" MainType="FEATURE" SubType="MOUNTAIN" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_MOUNT_POMIU" MainType="FEATURE" SubType="MOUNTAIN" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_PORONG_RI" MainType="FEATURE" SubType="MOUNTAIN" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_PURPLE_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_MOUNT_PUTUO" MainType="FEATURE" SubType="MOUNTAIN" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_QIANLING_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_MOUNT_QINGCHENG" MainType="FEATURE" SubType="MOUNTAIN" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_QIXIA_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_MOUNT_QIYUN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_MOUNT_SANQING" MainType="FEATURE" SubType="MOUNTAIN" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_SAUYR_ZHOTASY" MainType="FEATURE" SubType="MOUNTAIN" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_SHENGUANG_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_SHENNONG_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_SHICENG_DASHAN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_SHIREN_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_SIGUANG_RI" MainType="FEATURE" SubType="MOUNTAIN" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_SHISHAPANGMA" MainType="FEATURE" SubType="MOUNTAIN" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_SIMIAN_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="EAST_ASIAN"/>
+
+
+		<!--
+=========================== 
+Lakes 
+=========================== 
+-->
+
+		<Row Name="TXT_KEY_NAME_ML_AIBI_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_AILIK_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_AYDING_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_BOSTEN_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_CHAIWOPU_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_CHAO_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_DAGZE_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_DIAN_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_DIANSHAN_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_DONGQIAN_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_DONGTING_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_ERHAI_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_GAOYOU_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_HONGZE_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_HULUN_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_LUGU_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_LUMAJANGDONG" MainType="FEATURE" SubType="LAKE" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_LUOMA_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_MANAS_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_NANSI_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_PANGONG_TSO" MainType="FEATURE" SubType="LAKE" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_POYANG_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_QIANDAO_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_QINGHAI_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="EAST_ASIAN"/>
+
+		<Row Name="TXT_KEY_NAME_ML_TAIHU_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_TIANCHI_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_XINGKAI_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_YANGCHENG_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_ANDONG_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_JINYANG_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_SAPUNG_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_LAKE_KHASAN" MainType="FEATURE" SubType="LAKE" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_UVS_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_KHVSGL_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_KHARUS_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_KHYARGAS_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_BUIR_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_KHAR_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_DRGN_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_ACHIT_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_BN_TSAGAAN_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_REG_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_TELMEN_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_ULAAN_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_SANGIIN_DALAI_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_AIRAG_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_OROG_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_YAKHI_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_TOLBO_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_KHURGAN_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_DAYAN_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_DOOD_TSAGAAN_NUUR" MainType="FEATURE" SubType="LAKE" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_BAYAN_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_OIGON_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_TERKHIIN_TSAGAAN_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_KHOTON_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="EAST_ASIAN"/>
+
+		<!-- 		
+=========================== 
+Rivers 
+=========================== 
+-->
+		<Row Name="TXT_KEY_NAME_ML_ANZI_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_FUZHOU_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_DALIAO_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="EAST_ASIAN"/>
+
+		<Row Name="TXT_KEY_NAME_ML_LIAO_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_TAIZI_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_HUN_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_LIU_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_XILIAO_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_XAR_MORON_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_DALING_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_YANTAI_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_LIUGU_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_SHI_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_GOU_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_DASHI_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_JIUJIANG_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_DAI_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_YANG_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_CHAOBAI_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_CHAO_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_BAI_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_WEI_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_SANGGAN_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_YANG_HE" MainType="FEATURE" SubType="RIVER" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_DAQING_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_JUMA_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_TUHAI_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_YELLOW_RIVER_BASIN" MainType="FEATURE" SubType="RIVER" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_YELLOW_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_LUO_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_QIN_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_YAN_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_WUDING_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_KUYE_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_DAHEI_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_QINGSHUI_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_ZULI_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_TAO_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_DAXIA_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_STAR_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_WHITE_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_XIAOQING" MainType="FEATURE" SubType="RIVER" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_ZIHE_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_TAHE_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_YANGHE_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_ZHANGSENG_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_MIHE_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="EAST_ASIAN"/>
+
+		<!-- 
+=========================== 
+Forests 
+=========================== 
+-->
+		<Row Name="TXT_KEY_NAME_ML_FOREST_OF_XUSHUI" MainType="FEATURE" SubType="FOREST" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_FOREST_OF_TAIWEI" MainType="FEATURE" SubType="FOREST" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_FOREST_OF_BAYANGALAN" MainType="FEATURE" SubType="FOREST" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_FOREST_OF_CHUTEEG" MainType="FEATURE" SubType="FOREST" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_FOREST_OF_HYESAN" MainType="FEATURE" SubType="FOREST" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_FOREST_OF_KUWANG" MainType="FEATURE" SubType="FOREST" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_FOREST_OF_KIMCHO" MainType="FEATURE" SubType="FOREST" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_FOREST_OF_QINCHONG" MainType="FEATURE" SubType="FOREST" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_FOREST_OF_TENGHOU" MainType="FEATURE" SubType="FOREST" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_FOREST_OF_ORSHAAT" MainType="FEATURE" SubType="FOREST" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_FOREST_OF_BIGOR" MainType="FEATURE" SubType="FOREST" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_FOREST_OF_HAECHO" MainType="FEATURE" SubType="FOREST" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_FOREST_OF_GIMCHEOK" MainType="FEATURE" SubType="FOREST" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_FOREST_OF_DANGSU" MainType="FEATURE" SubType="FOREST" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_FOREST_OF_SHANGHOU" MainType="FEATURE" SubType="FOREST" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_FOREST_OF_SHANMEN" MainType="FEATURE" SubType="FOREST" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_FOREST_OF_JANLUUT" MainType="FEATURE" SubType="FOREST" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_JAVGOL_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_GWANGJU_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_UISU_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_NAMCHAEK_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_SUGONG_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_SHAOHUA_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_BAGANUUR_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_BUUTTONT_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_NONGYE_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_YEOGYE_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_GWAPO_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="EAST_ASIAN"/>
+
+
+		<!--
+=========================== 
+Deserts 
+=========================== 
+-->
+		<Row Name="TXT_KEY_NAME_ML_BADAIN_JARAN_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="EAST_ASIAN"/>
+
+		<Row Name="TXT_KEY_NAME_ML_DZUNGARIA_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_GOBI_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_GURBANTNGGT_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_HAMI_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_KUMTAG_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_LOP_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_MU_US_SANDYLAND" MainType="FEATURE" SubType="DESERT" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_ORDOS_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_SHAPOTOU_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_TAKLAMAKAN_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_TENGGER_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_DESERT_OF_SUHAI" MainType="FEATURE" SubType="DESERT" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_DESERT_OF_MUDANZUISHAN" MainType="FEATURE" SubType="DESERT" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_DESERT_OF_SAIKHLANT" MainType="FEATURE" SubType="DESERT" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_DESERT_OF_BATTTAI" MainType="FEATURE" SubType="DESERT" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_DESERT_OF_SINUIGYE" MainType="FEATURE" SubType="DESERT" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_DESERT_OF_SARICHAEK" MainType="FEATURE" SubType="DESERT" CultureType="EAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_DESERT_OF_KIMWANG" MainType="FEATURE" SubType="DESERT" CultureType="EAST_ASIAN"/>
+
+	</ML_Labels_Dynamic>
+</GameData>

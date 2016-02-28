@@ -1,0 +1,884 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+*****************************************
+*			Map Labels					*
+*	by Hazel (hazel16 @ CivFanatics)	*
+*****************************************
+-->
+<GameData>
+	<ML_Labels_Dynamic>
+		<!-- Template:
+			
+		-->
+<!--
+*****************************************
+MOD_TP_AUSTRALIAN
+*****************************************
+-->
+		<!-- 
+=========================== 
+Regions 
+=========================== 
+-->
+		<Row Name="TXT_KEY_NAME_TP_THE_NULLARBOR" MainType="REGION" SubType="REGION" CultureType="MOD_TP_AUSTRALIAN"/>
+		<Row Name="TXT_KEY_NAME_TP_ILLAWARA" MainType="REGION" SubType="REGION" CultureType="MOD_TP_AUSTRALIAN"/>
+		<Row Name="TXT_KEY_NAME_TP_RIVERINA" MainType="REGION" SubType="REGION" CultureType="MOD_TP_AUSTRALIAN"/>
+		<Row Name="TXT_KEY_NAME_TP_SUNRAYSIA" MainType="REGION" SubType="REGION" CultureType="MOD_TP_AUSTRALIAN"/>
+		<Row Name="TXT_KEY_NAME_TP_ARNHEM_LAND" MainType="REGION" SubType="REGION" CultureType="MOD_TP_AUSTRALIAN"/>
+		<Row Name="TXT_KEY_NAME_TP_TOP_END" MainType="REGION" SubType="REGION" CultureType="MOD_TP_AUSTRALIAN"/>
+		<Row Name="TXT_KEY_NAME_TP_DARLING_DOWNS" MainType="REGION" SubType="REGION" CultureType="MOD_TP_AUSTRALIAN"/>
+		<Row Name="TXT_KEY_NAME_TP_KIMBERLY" MainType="REGION" SubType="REGION" CultureType="MOD_TP_AUSTRALIAN"/>
+		<Row Name="TXT_KEY_NAME_TP_PILBARA" MainType="REGION" SubType="REGION" CultureType="MOD_TP_AUSTRALIAN"/>
+		<Row Name="TXT_KEY_NAME_TP_YARRA" MainType="REGION" SubType="REGION" CultureType="MOD_TP_AUSTRALIAN"/>
+
+
+		<!-- 
+=========================== 
+Oceans 
+=========================== 
+-->
+		<Row Name="TXT_KEY_NAME_TP_ARAFURA_SEA" MainType="REGION" SubType="OCEAN" CultureType="MOD_TP_AUSTRALIAN"/>
+		<Row Name="TXT_KEY_NAME_TP_CORAL_SEA" MainType="REGION" SubType="OCEAN" CultureType="MOD_TP_AUSTRALIAN"/>
+		<Row Name="TXT_KEY_NAME_TP_TASMAN_SEA" MainType="REGION" SubType="OCEAN" CultureType="MOD_TP_AUSTRALIAN"/>
+		<Row Name="TXT_KEY_NAME_TP_BACKSTAIRS_PASSAGE" MainType="REGION" SubType="OCEAN" CultureType="MOD_TP_AUSTRALIAN"/>
+		<Row Name="TXT_KEY_NAME_TP_BEAGLE_GULF" MainType="REGION" SubType="OCEAN" CultureType="MOD_TP_AUSTRALIAN"/>
+		<Row Name="TXT_KEY_NAME_TP_CAMBRIDGE_GULF" MainType="REGION" SubType="OCEAN" CultureType="MOD_TP_AUSTRALIAN"/>
+		<Row Name="TXT_KEY_NAME_TP_GREAT_MOD_TP_AUSTRALIANN_BIGHT" MainType="REGION" SubType="OCEAN" CultureType="MOD_TP_AUSTRALIAN"/>
+		<Row Name="TXT_KEY_NAME_TP_GULF_OF_CARPENTARIA" MainType="REGION" SubType="OCEAN" CultureType="MOD_TP_AUSTRALIAN"/>
+		<Row Name="TXT_KEY_NAME_TP_TORRES_STRAIT" MainType="REGION" SubType="OCEAN" CultureType="MOD_TP_AUSTRALIAN"/>
+		<Row Name="TXT_KEY_NAME_TP_BASS_STRAIT" MainType="REGION" SubType="OCEAN" CultureType="MOD_TP_AUSTRALIAN"/>
+
+
+
+		<!--	
+=========================== 
+Islands 
+=========================== 
+-->
+		<Row Name="TXT_KEY_NAME_TP_COCKATOO_ISLAND" MainType="REGION" SubType="ISLAND" CultureType="MOD_TP_AUSTRALIAN"/>
+		<Row Name="TXT_KEY_NAME_TP_KANGAROO_ISLAND" MainType="REGION" SubType="ISLAND" CultureType="MOD_TP_AUSTRALIAN"/>
+		<Row Name="TXT_KEY_NAME_TP_SCOTLAND_ISLAND" MainType="REGION" SubType="ISLAND" CultureType="MOD_TP_AUSTRALIAN"/>
+		<Row Name="TXT_KEY_NAME_TP_CROCODILE_ISLANDS" MainType="REGION" SubType="ISLAND" CultureType="MOD_TP_AUSTRALIAN"/>
+		<Row Name="TXT_KEY_NAME_TP_ALBINO_ROCK" MainType="REGION" SubType="ISLAND" CultureType="MOD_TP_AUSTRALIAN"/>
+		<Row Name="TXT_KEY_NAME_TP_FRASER_ISLAND" MainType="REGION" SubType="ISLAND" CultureType="MOD_TP_AUSTRALIAN"/>
+		<Row Name="TXT_KEY_NAME_TP_MAGNETIC_ISLAND" MainType="REGION" SubType="ISLAND" CultureType="MOD_TP_AUSTRALIAN"/>
+		<Row Name="TXT_KEY_NAME_TP_BATHURST_ISLAND" MainType="REGION" SubType="ISLAND" CultureType="MOD_TP_AUSTRALIAN"/>
+		<Row Name="TXT_KEY_NAME_TP_MORNINGTON_ISLAND" MainType="REGION" SubType="ISLAND" CultureType="MOD_TP_AUSTRALIAN"/>
+		<Row Name="TXT_KEY_NAME_TP_GROOTE_EYLANDT" MainType="REGION" SubType="ISLAND" CultureType="MOD_TP_AUSTRALIAN"/>
+
+
+
+		<!--		
+=========================== 
+Mountains 
+=========================== 
+-->
+		<Row Name="TXT_KEY_NAME_TP_THREE_SISTERS" MainType="FEATURE" SubType="MOUNTAIN" CultureType="MOD_TP_AUSTRALIAN"/>
+		<Row Name="TXT_KEY_NAME_TP_MOUNT_KOSCIUSZKO" MainType="FEATURE" SubType="MOUNTAIN" CultureType="MOD_TP_AUSTRALIAN"/>
+		<Row Name="TXT_KEY_NAME_TP_MOUNT_PERISHER" MainType="FEATURE" SubType="MOUNTAIN" CultureType="MOD_TP_AUSTRALIAN"/>
+		<Row Name="TXT_KEY_NAME_TP_THREDBO" MainType="FEATURE" SubType="MOUNTAIN" CultureType="MOD_TP_AUSTRALIAN"/>
+		<Row Name="TXT_KEY_NAME_TP_SUGARLOAF_RANGE" MainType="FEATURE" SubType="MOUNTAIN" CultureType="MOD_TP_AUSTRALIAN"/>
+		<Row Name="TXT_KEY_NAME_TP_GRAMPIANS" MainType="FEATURE" SubType="MOUNTAIN" CultureType="MOD_TP_AUSTRALIAN"/>
+		<Row Name="TXT_KEY_NAME_TP_MOUNT_LOFTY" MainType="FEATURE" SubType="MOUNTAIN" CultureType="MOD_TP_AUSTRALIAN"/>
+		<Row Name="TXT_KEY_NAME_TP_WARRUMBUNGLES" MainType="FEATURE" SubType="MOUNTAIN" CultureType="MOD_TP_AUSTRALIAN"/>
+		<Row Name="TXT_KEY_NAME_TP_THE_OLGAS" MainType="FEATURE" SubType="MOUNTAIN" CultureType="MOD_TP_AUSTRALIAN"/>
+		<Row Name="TXT_KEY_NAME_TP_CRADLE_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="MOD_TP_AUSTRALIAN"/>
+
+
+		<!--
+=========================== 
+Lakes 
+=========================== 
+-->
+		<Row Name="TXT_KEY_NAME_TP_LAKE_ARGYLE" MainType="FEATURE" SubType="LAKE" CultureType="MOD_TP_AUSTRALIAN"/>
+		<Row Name="TXT_KEY_NAME_TP_LAKE_EYRE" MainType="FEATURE" SubType="LAKE" CultureType="MOD_TP_AUSTRALIAN"/>
+		<Row Name="TXT_KEY_NAME_TP_LAKE_GAIRDNER" MainType="FEATURE" SubType="LAKE" CultureType="MOD_TP_AUSTRALIAN"/>
+		<Row Name="TXT_KEY_NAME_TP_LAKE_AMADEUS" MainType="FEATURE" SubType="LAKE" CultureType="MOD_TP_AUSTRALIAN"/>
+		<Row Name="TXT_KEY_NAME_TP_LAKE_HILLIER" MainType="FEATURE" SubType="LAKE" CultureType="MOD_TP_AUSTRALIAN"/>
+		<Row Name="TXT_KEY_NAME_TP_LAKE_BATHURST" MainType="FEATURE" SubType="LAKE" CultureType="MOD_TP_AUSTRALIAN"/>
+		<Row Name="TXT_KEY_NAME_TP_LAKE_CORANGAMITE" MainType="FEATURE" SubType="LAKE" CultureType="MOD_TP_AUSTRALIAN"/>
+		<Row Name="TXT_KEY_NAME_TP_LAKE_BARLEE" MainType="FEATURE" SubType="LAKE" CultureType="MOD_TP_AUSTRALIAN"/>
+		<Row Name="TXT_KEY_NAME_TP_LAKE_DALRYMPLE" MainType="FEATURE" SubType="LAKE" CultureType="MOD_TP_AUSTRALIAN"/>
+		<Row Name="TXT_KEY_NAME_TP_LAKE_BURLEY_GRIFFIN" MainType="FEATURE" SubType="LAKE" CultureType="MOD_TP_AUSTRALIAN"/>
+
+
+
+		<!-- 		
+=========================== 
+Rivers 
+=========================== 
+-->
+		<Row Name="TXT_KEY_NAME_TP_SNOWY_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="MOD_TP_AUSTRALIAN"/>
+		<Row Name="TXT_KEY_NAME_TP_MURRAY_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="MOD_TP_AUSTRALIAN"/>
+		<Row Name="TXT_KEY_NAME_TP_MURRUMBIDGEE_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="MOD_TP_AUSTRALIAN"/>
+		<Row Name="TXT_KEY_NAME_TP_CULGOA_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="MOD_TP_AUSTRALIAN"/>
+		<Row Name="TXT_KEY_NAME_TP_COOPER_CREEK" MainType="FEATURE" SubType="RIVER" CultureType="MOD_TP_AUSTRALIAN"/>
+		<Row Name="TXT_KEY_NAME_TP_BARWON_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="MOD_TP_AUSTRALIAN"/>
+		<Row Name="TXT_KEY_NAME_TP_WARREGO_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="MOD_TP_AUSTRALIAN"/>
+		<Row Name="TXT_KEY_NAME_TP_PARRAMATTA_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="MOD_TP_AUSTRALIAN"/>
+		<Row Name="TXT_KEY_NAME_TP_MACQUARIE_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="MOD_TP_AUSTRALIAN"/>
+		<Row Name="TXT_KEY_NAME_TP_DARLING_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="MOD_TP_AUSTRALIAN"/>
+
+
+		<!-- 
+=========================== 
+Forests 
+=========================== 
+-->
+		<Row Name="TXT_KEY_NAME_TP_THE_DAINTREE" MainType="FEATURE" SubType="FOREST" CultureType="MOD_TP_AUSTRALIAN"/>
+		<Row Name="TXT_KEY_NAME_TP_SPRINGBROOK" MainType="FEATURE" SubType="FOREST" CultureType="MOD_TP_AUSTRALIAN"/>
+		<Row Name="TXT_KEY_NAME_TP_LIMPINWOOD" MainType="FEATURE" SubType="FOREST" CultureType="MOD_TP_AUSTRALIAN"/>
+		<Row Name="TXT_KEY_NAME_TP_GONDWANALAND_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="MOD_TP_AUSTRALIAN"/>
+		<Row Name="TXT_KEY_NAME_TP_KARAWATHA_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="MOD_TP_AUSTRALIAN"/>
+		<Row Name="TXT_KEY_NAME_TP_LAMINGTON_PARK" MainType="FEATURE" SubType="FOREST" CultureType="MOD_TP_AUSTRALIAN"/>
+		<Row Name="TXT_KEY_NAME_TP_TARKINE" MainType="FEATURE" SubType="FOREST" CultureType="MOD_TP_AUSTRALIAN"/>
+		<Row Name="TXT_KEY_NAME_TP_WOLLEMI" MainType="FEATURE" SubType="FOREST" CultureType="MOD_TP_AUSTRALIAN"/>
+		<Row Name="TXT_KEY_NAME_TP_WIELANGTA_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="MOD_TP_AUSTRALIAN"/>
+		<Row Name="TXT_KEY_NAME_TP_PILLIGA_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="MOD_TP_AUSTRALIAN"/>
+
+
+		<!--
+=========================== 
+Deserts 
+=========================== 
+-->
+		<Row Name="TXT_KEY_NAME_TP_GREAT_SANDY_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="MOD_TP_AUSTRALIAN"/>
+		<Row Name="TXT_KEY_NAME_TP_SIMPSON_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="MOD_TP_AUSTRALIAN"/>
+		<Row Name="TXT_KEY_NAME_TP_TANAMI_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="MOD_TP_AUSTRALIAN"/>
+		<Row Name="TXT_KEY_NAME_TP_GIBSON_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="MOD_TP_AUSTRALIAN"/>
+		<Row Name="TXT_KEY_NAME_TP_STURT_STONY_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="MOD_TP_AUSTRALIAN"/>
+		<Row Name="TXT_KEY_NAME_TP_OUTBACK" MainType="FEATURE" SubType="DESERT" CultureType="MOD_TP_AUSTRALIAN"/>
+		<Row Name="TXT_KEY_NAME_TP_LITTLE_SANDY_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="MOD_TP_AUSTRALIAN"/>
+		<Row Name="TXT_KEY_NAME_TP_TIRARARI_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="MOD_TP_AUSTRALIAN"/>
+		<Row Name="TXT_KEY_NAME_TP_PEDIRKA_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="MOD_TP_AUSTRALIAN"/>
+
+
+
+		<!--
+*****************************************
+MOD_TP_CANADIAN
+*****************************************
+-->
+		<!-- 
+=========================== 
+Regions 
+=========================== 
+-->
+		<Row Name="TXT_KEY_NAME_TP_YUKON" MainType="REGION" SubType="REGION" CultureType="MOD_TP_CANADIAN"/>
+		<Row Name="TXT_KEY_NAME_TP_NUNAVUT" MainType="REGION" SubType="REGION" CultureType="MOD_TP_CANADIAN"/>
+		<Row Name="TXT_KEY_NAME_TP_SASKATCHEWAN" MainType="REGION" SubType="REGION" CultureType="MOD_TP_CANADIAN"/>
+		<Row Name="TXT_KEY_NAME_TP_NEWFOUNDLAND" MainType="REGION" SubType="REGION" CultureType="MOD_TP_CANADIAN"/>
+		<Row Name="TXT_KEY_NAME_TP_KLONDIKE" MainType="REGION" SubType="REGION" CultureType="MOD_TP_CANADIAN"/>
+		<Row Name="TXT_KEY_NAME_TP_NUNATSIAQ" MainType="REGION" SubType="REGION" CultureType="MOD_TP_CANADIAN"/>
+		<Row Name="TXT_KEY_NAME_TP_MANITOBA" MainType="REGION" SubType="REGION" CultureType="MOD_TP_CANADIAN"/>
+		<Row Name="TXT_KEY_NAME_TP_ONTARIO" MainType="REGION" SubType="REGION" CultureType="MOD_TP_CANADIAN"/>
+		<Row Name="TXT_KEY_NAME_TP_QUBEC" MainType="REGION" SubType="REGION" CultureType="MOD_TP_CANADIAN"/>
+		<Row Name="TXT_KEY_NAME_TP_SIMILKAMEEN" MainType="REGION" SubType="REGION" CultureType="MOD_TP_CANADIAN"/>
+
+
+		<!-- 
+=========================== 
+Oceans 
+=========================== 
+-->
+		<Row Name="TXT_KEY_NAME_TP_BEAUFORT_SEA" MainType="REGION" SubType="OCEAN" CultureType="MOD_TP_CANADIAN"/>
+		<Row Name="TXT_KEY_NAME_TP_BAY_OF_FUNDY" MainType="REGION" SubType="OCEAN" CultureType="MOD_TP_CANADIAN"/>
+		<Row Name="TXT_KEY_NAME_TP_SKOOKUMCHUCK_NARROWS" MainType="REGION" SubType="OCEAN" CultureType="MOD_TP_CANADIAN"/>
+		<Row Name="TXT_KEY_NAME_TP_DESOLATION_SOUNDS" MainType="REGION" SubType="OCEAN" CultureType="MOD_TP_CANADIAN"/>
+		<Row Name="TXT_KEY_NAME_TP_INDIAN_ARM" MainType="REGION" SubType="OCEAN" CultureType="MOD_TP_CANADIAN"/>
+		<Row Name="TXT_KEY_NAME_TP_SAGLEK_BAY" MainType="REGION" SubType="OCEAN" CultureType="MOD_TP_CANADIAN"/>
+		<Row Name="TXT_KEY_NAME_TP_HUDSONS_BAY" MainType="REGION" SubType="OCEAN" CultureType="MOD_TP_CANADIAN"/>
+		<Row Name="TXT_KEY_NAME_TP_MISSISSAGI_STRAIT" MainType="REGION" SubType="OCEAN" CultureType="MOD_TP_CANADIAN"/>
+		<Row Name="TXT_KEY_NAME_TP_ABEGWEIT_PASSAGE" MainType="REGION" SubType="OCEAN" CultureType="MOD_TP_CANADIAN"/>
+		<Row Name="TXT_KEY_NAME_TP_CHEDABUCTO_BAY" MainType="REGION" SubType="OCEAN" CultureType="MOD_TP_CANADIAN"/>
+
+
+
+		<!--	
+=========================== 
+Islands 
+=========================== 
+-->
+		<Row Name="TXT_KEY_NAME_TP_BAFFIN_ISLAND" MainType="REGION" SubType="ISLAND" CultureType="MOD_TP_CANADIAN"/>
+		<Row Name="TXT_KEY_NAME_TP_ELLESMERE_ISLAND" MainType="REGION" SubType="ISLAND" CultureType="MOD_TP_CANADIAN"/>
+		<Row Name="TXT_KEY_NAME_TP_CORNWALLIS_ISLAND" MainType="REGION" SubType="ISLAND" CultureType="MOD_TP_CANADIAN"/>
+		<Row Name="TXT_KEY_NAME_TP_MELVILLE_ISLAND" MainType="REGION" SubType="ISLAND" CultureType="MOD_TP_CANADIAN"/>
+		<Row Name="TXT_KEY_NAME_TP_AKIMISKI_ISLAND" MainType="REGION" SubType="ISLAND" CultureType="MOD_TP_CANADIAN"/>
+		<Row Name="TXT_KEY_NAME_TP_MANITOULIN_ISLAND" MainType="REGION" SubType="ISLAND" CultureType="MOD_TP_CANADIAN"/>
+		<Row Name="TXT_KEY_NAME_TP_AXEL_HEIBERG_ISLAND" MainType="REGION" SubType="ISLAND" CultureType="MOD_TP_CANADIAN"/>
+		<Row Name="TXT_KEY_NAME_TP_LE_VANIER" MainType="REGION" SubType="ISLAND" CultureType="MOD_TP_CANADIAN"/>
+		<Row Name="TXT_KEY_NAME_TP_RENLEVASSEUR" MainType="REGION" SubType="ISLAND" CultureType="MOD_TP_CANADIAN"/>
+		<Row Name="TXT_KEY_NAME_TP_VICTORIA_ISLAND" MainType="REGION" SubType="ISLAND" CultureType="MOD_TP_CANADIAN"/>
+
+
+
+		<!--		
+=========================== 
+Mountains 
+=========================== 
+-->
+		<Row Name="TXT_KEY_NAME_TP_MOUNT_ASSINIBOINE" MainType="FEATURE" SubType="MOUNTAIN" CultureType="MOD_TP_CANADIAN"/>
+		<Row Name="TXT_KEY_NAME_TP_MOUNT_GOODSIR" MainType="FEATURE" SubType="MOUNTAIN" CultureType="MOD_TP_CANADIAN"/>
+		<Row Name="TXT_KEY_NAME_TP_MOUNT_LOGAN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="MOD_TP_CANADIAN"/>
+		<Row Name="TXT_KEY_NAME_TP_CHIEF_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="MOD_TP_CANADIAN"/>
+		<Row Name="TXT_KEY_NAME_TP_MOUNT_MALASPINA" MainType="FEATURE" SubType="MOUNTAIN" CultureType="MOD_TP_CANADIAN"/>
+		<Row Name="TXT_KEY_NAME_TP_RAZORBACK_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="MOD_TP_CANADIAN"/>
+		<Row Name="TXT_KEY_NAME_TP_TSAYDAYCHUZ_PEAK" MainType="FEATURE" SubType="MOUNTAIN" CultureType="MOD_TP_CANADIAN"/>
+		<Row Name="TXT_KEY_NAME_TP_BARBEAU_PEAK" MainType="FEATURE" SubType="MOUNTAIN" CultureType="MOD_TP_CANADIAN"/>
+		<Row Name="TXT_KEY_NAME_TP_MOUNT_WADDINGTON" MainType="FEATURE" SubType="MOUNTAIN" CultureType="MOD_TP_CANADIAN"/>
+		<Row Name="TXT_KEY_NAME_TP_MOUNT_STEELE" MainType="FEATURE" SubType="MOUNTAIN" CultureType="MOD_TP_CANADIAN"/>
+
+
+
+		<!--
+=========================== 
+Lakes 
+=========================== 
+-->
+		<Row Name="TXT_KEY_NAME_TP_LAKE_SUPERIOR" MainType="FEATURE" SubType="LAKE" CultureType="MOD_TP_CANADIAN"/>
+		<Row Name="TXT_KEY_NAME_TP_LAKE_HURON" MainType="FEATURE" SubType="LAKE" CultureType="MOD_TP_CANADIAN"/>
+		<Row Name="TXT_KEY_NAME_TP_LAKE_ERIE" MainType="FEATURE" SubType="LAKE" CultureType="MOD_TP_CANADIAN"/>
+		<Row Name="TXT_KEY_NAME_TP_GREAT_SLAVE_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="MOD_TP_CANADIAN"/>
+		<Row Name="TXT_KEY_NAME_TP_GREAT_BEAR_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="MOD_TP_CANADIAN"/>
+		<Row Name="TXT_KEY_NAME_TP_ATHABASCA_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="MOD_TP_CANADIAN"/>
+		<Row Name="TXT_KEY_NAME_TP_LAKE_OF_THE_WOODS" MainType="FEATURE" SubType="LAKE" CultureType="MOD_TP_CANADIAN"/>
+		<Row Name="TXT_KEY_NAME_TP_WINNIPEG_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="MOD_TP_CANADIAN"/>
+		<Row Name="TXT_KEY_NAME_TP_NIAGARA_WHIRLPOOL" MainType="FEATURE" SubType="LAKE" CultureType="MOD_TP_CANADIAN"/>
+		<Row Name="TXT_KEY_NAME_TP_REINDEER_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="MOD_TP_CANADIAN"/>
+
+
+
+		<!-- 		
+=========================== 
+Rivers 
+=========================== 
+-->
+		<Row Name="TXT_KEY_NAME_TP_GRAND_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="MOD_TP_CANADIAN"/>
+		<Row Name="TXT_KEY_NAME_TP_MATTAWA_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="MOD_TP_CANADIAN"/>
+		<Row Name="TXT_KEY_NAME_TP_WHITE_HORSE_RAPIDS" MainType="FEATURE" SubType="RIVER" CultureType="MOD_TP_CANADIAN"/>
+		<Row Name="TXT_KEY_NAME_TP_LONG_SAULT" MainType="FEATURE" SubType="RIVER" CultureType="MOD_TP_CANADIAN"/>
+		<Row Name="TXT_KEY_NAME_TP_KICKING_HORSE_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="MOD_TP_CANADIAN"/>
+		<Row Name="TXT_KEY_NAME_TP_TATSHENSHINI_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="MOD_TP_CANADIAN"/>
+		<Row Name="TXT_KEY_NAME_TP_SEAL_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="MOD_TP_CANADIAN"/>
+		<Row Name="TXT_KEY_NAME_TP_THELON_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="MOD_TP_CANADIAN"/>
+		<Row Name="TXT_KEY_NAME_TP_ARCTIC_RED_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="MOD_TP_CANADIAN"/>
+		<Row Name="TXT_KEY_NAME_TP_ALSEK_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="MOD_TP_CANADIAN"/>
+
+
+		<!-- 
+=========================== 
+Forests 
+=========================== 
+-->
+		<Row Name="TXT_KEY_NAME_TP_BANFF" MainType="FEATURE" SubType="FOREST" CultureType="MOD_TP_CANADIAN"/>
+		<Row Name="TXT_KEY_NAME_TP_KEJIMKUJIK" MainType="FEATURE" SubType="FOREST" CultureType="MOD_TP_CANADIAN"/>
+		<Row Name="TXT_KEY_NAME_TP_PUKASKWA" MainType="FEATURE" SubType="FOREST" CultureType="MOD_TP_CANADIAN"/>
+		<Row Name="TXT_KEY_NAME_TP_TERRA_NOVA" MainType="FEATURE" SubType="FOREST" CultureType="MOD_TP_CANADIAN"/>
+		<Row Name="TXT_KEY_NAME_TP_WOOD_BUFFALO" MainType="FEATURE" SubType="FOREST" CultureType="MOD_TP_CANADIAN"/>
+		<Row Name="TXT_KEY_NAME_TP_YOHO" MainType="FEATURE" SubType="FOREST" CultureType="MOD_TP_CANADIAN"/>
+		<Row Name="TXT_KEY_NAME_TP_NAATSIHCHOH_RESERVE" MainType="FEATURE" SubType="FOREST" CultureType="MOD_TP_CANADIAN"/>
+		<Row Name="TXT_KEY_NAME_TP_NAHANNI_RESERVE" MainType="FEATURE" SubType="FOREST" CultureType="MOD_TP_CANADIAN"/>
+		<Row Name="TXT_KEY_NAME_TP_WHITE_BEAR_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="MOD_TP_CANADIAN"/>
+		<Row Name="TXT_KEY_NAME_TP_OBABIKA_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="MOD_TP_CANADIAN"/>
+
+
+		<!--
+=========================== 
+Deserts 
+=========================== 
+-->
+		<Row Name="TXT_KEY_NAME_TP_OKANAGAN_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="MOD_TP_CANADIAN"/>
+		<Row Name="TXT_KEY_NAME_TP_CARCROSS_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="MOD_TP_CANADIAN"/>
+		<Row Name="TXT_KEY_NAME_TP_BIG_MUDDY_BADLANDS" MainType="FEATURE" SubType="DESERT" CultureType="MOD_TP_CANADIAN"/>
+		<Row Name="TXT_KEY_NAME_TP_DRUMHELLER" MainType="FEATURE" SubType="DESERT" CultureType="MOD_TP_CANADIAN"/>
+		<Row Name="TXT_KEY_NAME_TP_SKAHA_BLUFFS" MainType="FEATURE" SubType="DESERT" CultureType="MOD_TP_CANADIAN"/>
+		<Row Name="TXT_KEY_NAME_TP_HELLS_GATE" MainType="FEATURE" SubType="DESERT" CultureType="MOD_TP_CANADIAN"/>
+		<Row Name="TXT_KEY_NAME_TP_LILLOOET" MainType="FEATURE" SubType="DESERT" CultureType="MOD_TP_CANADIAN"/>
+		<Row Name="TXT_KEY_NAME_TP_THOMPSON_COUNTRY" MainType="FEATURE" SubType="DESERT" CultureType="MOD_TP_CANADIAN"/>
+		<Row Name="TXT_KEY_NAME_TP_COLUMBIA_PLATEAU" MainType="FEATURE" SubType="DESERT" CultureType="MOD_TP_CANADIAN"/>
+
+
+
+
+		<!--
+*****************************************
+MOD_TP_MESO_AMERICAN
+*****************************************
+-->
+		<!-- 
+=========================== 
+Regions 
+=========================== 
+-->
+		<Row Name="TXT_KEY_NAME_TP_CAMPECHE" MainType="REGION" SubType="REGION" CultureType="MOD_TP_MESO_AMERICAN"/>
+		<Row Name="TXT_KEY_NAME_TP_GUERRERO" MainType="REGION" SubType="REGION" CultureType="MOD_TP_MESO_AMERICAN"/>
+		<Row Name="TXT_KEY_NAME_TP_BAJO" MainType="REGION" SubType="REGION" CultureType="MOD_TP_MESO_AMERICAN"/>
+		<Row Name="TXT_KEY_NAME_TP_HISPANIOLA" MainType="REGION" SubType="REGION" CultureType="MOD_TP_MESO_AMERICAN"/>
+		<Row Name="TXT_KEY_NAME_TP_CIENFUEGOS" MainType="REGION" SubType="REGION" CultureType="MOD_TP_MESO_AMERICAN"/>
+		<Row Name="TXT_KEY_NAME_TP_CHIAPAS" MainType="REGION" SubType="REGION" CultureType="MOD_TP_MESO_AMERICAN"/>
+		<Row Name="TXT_KEY_NAME_TP_EL_SALVADOR" MainType="REGION" SubType="REGION" CultureType="MOD_TP_MESO_AMERICAN"/>
+		<Row Name="TXT_KEY_NAME_TP_GUAYMURAS" MainType="REGION" SubType="REGION" CultureType="MOD_TP_MESO_AMERICAN"/>
+		<Row Name="TXT_KEY_NAME_TP_BANNABA" MainType="REGION" SubType="REGION" CultureType="MOD_TP_MESO_AMERICAN"/>
+		<Row Name="TXT_KEY_NAME_TP_GUANTNAMO" MainType="REGION" SubType="REGION" CultureType="MOD_TP_MESO_AMERICAN"/>
+
+
+		<!-- 
+=========================== 
+Oceans 
+=========================== 
+-->
+		<Row Name="TXT_KEY_NAME_TP_CARIBBEAN_SEA" MainType="REGION" SubType="OCEAN" CultureType="MOD_TP_MESO_AMERICAN"/>
+		<Row Name="TXT_KEY_NAME_TP_GULF_OF_MEXICO" MainType="REGION" SubType="OCEAN" CultureType="MOD_TP_MESO_AMERICAN"/>
+		<Row Name="TXT_KEY_NAME_TP_GULF_OF_GONVE" MainType="REGION" SubType="OCEAN" CultureType="MOD_TP_MESO_AMERICAN"/>
+		<Row Name="TXT_KEY_NAME_TP_LADDER_BAY" MainType="REGION" SubType="OCEAN" CultureType="MOD_TP_MESO_AMERICAN"/>
+		<Row Name="TXT_KEY_NAME_TP_GUADELOUPE_PASSAGE" MainType="REGION" SubType="OCEAN" CultureType="MOD_TP_MESO_AMERICAN"/>
+		<Row Name="TXT_KEY_NAME_TP_JAMAICA_CHANNEL" MainType="REGION" SubType="OCEAN" CultureType="MOD_TP_MESO_AMERICAN"/>
+		<Row Name="TXT_KEY_NAME_TP_MONA_PASSAGE" MainType="REGION" SubType="OCEAN" CultureType="MOD_TP_MESO_AMERICAN"/>
+		<Row Name="TXT_KEY_NAME_TP_WINWARD_PASSAGE" MainType="REGION" SubType="OCEAN" CultureType="MOD_TP_MESO_AMERICAN"/>
+		<Row Name="TXT_KEY_NAME_TP_OLD_BAHAMA_CHANNEL" MainType="REGION" SubType="OCEAN" CultureType="MOD_TP_MESO_AMERICAN"/>
+		<Row Name="TXT_KEY_NAME_TP_GULF_OF_DARIN" MainType="REGION" SubType="OCEAN" CultureType="MOD_TP_MESO_AMERICAN"/>
+
+
+
+		<!--	
+=========================== 
+Islands 
+=========================== 
+-->
+		<Row Name="TXT_KEY_NAME_TP_SAINT_MARTIN" MainType="REGION" SubType="ISLAND" CultureType="MOD_TP_MESO_AMERICAN"/>
+		<Row Name="TXT_KEY_NAME_TP_ANTIGUA" MainType="REGION" SubType="ISLAND" CultureType="MOD_TP_MESO_AMERICAN"/>
+		<Row Name="TXT_KEY_NAME_TP_SAINT_CROIX" MainType="REGION" SubType="ISLAND" CultureType="MOD_TP_MESO_AMERICAN"/>
+		<Row Name="TXT_KEY_NAME_TP_GRAND_CAYMAN" MainType="REGION" SubType="ISLAND" CultureType="MOD_TP_MESO_AMERICAN"/>
+		<Row Name="TXT_KEY_NAME_TP_BARBUDA" MainType="REGION" SubType="ISLAND" CultureType="MOD_TP_MESO_AMERICAN"/>
+		<Row Name="TXT_KEY_NAME_TP_PALM_ISLAND" MainType="REGION" SubType="ISLAND" CultureType="MOD_TP_MESO_AMERICAN"/>
+		<Row Name="TXT_KEY_NAME_TP_TORTOLA" MainType="REGION" SubType="ISLAND" CultureType="MOD_TP_MESO_AMERICAN"/>
+		<Row Name="TXT_KEY_NAME_TP_VIRGIN_GORDA" MainType="REGION" SubType="ISLAND" CultureType="MOD_TP_MESO_AMERICAN"/>
+		<Row Name="TXT_KEY_NAME_TP_MONTSERRAT" MainType="REGION" SubType="ISLAND" CultureType="MOD_TP_MESO_AMERICAN"/>
+		<Row Name="TXT_KEY_NAME_TP_GRENADA" MainType="REGION" SubType="ISLAND" CultureType="MOD_TP_MESO_AMERICAN"/>
+
+
+
+		<!--		
+=========================== 
+Mountains 
+=========================== 
+-->
+		<Row Name="TXT_KEY_NAME_TP_PICO_DE_ORIZABA" MainType="FEATURE" SubType="MOUNTAIN" CultureType="MOD_TP_MESO_AMERICAN"/>
+		<Row Name="TXT_KEY_NAME_TP_SIERRA_MADRE" MainType="FEATURE" SubType="MOUNTAIN" CultureType="MOD_TP_MESO_AMERICAN"/>
+		<Row Name="TXT_KEY_NAME_TP_PICO_DUARTE" MainType="FEATURE" SubType="MOUNTAIN" CultureType="MOD_TP_MESO_AMERICAN"/>
+		<Row Name="TXT_KEY_NAME_TP_MOUNT_LIAMUIGA" MainType="FEATURE" SubType="MOUNTAIN" CultureType="MOD_TP_MESO_AMERICAN"/>
+		<Row Name="TXT_KEY_NAME_TP_GROS_PITON" MainType="FEATURE" SubType="MOUNTAIN" CultureType="MOD_TP_MESO_AMERICAN"/>
+		<Row Name="TXT_KEY_NAME_TP_SOUFRIRE_HILLS" MainType="FEATURE" SubType="MOUNTAIN" CultureType="MOD_TP_MESO_AMERICAN"/>
+		<Row Name="TXT_KEY_NAME_TP_MOUNT_ALVERNIA" MainType="FEATURE" SubType="MOUNTAIN" CultureType="MOD_TP_MESO_AMERICAN"/>
+		<Row Name="TXT_KEY_NAME_TP_PETIT_PITON" MainType="FEATURE" SubType="MOUNTAIN" CultureType="MOD_TP_MESO_AMERICAN"/>
+		<Row Name="TXT_KEY_NAME_TP_AGUAJITO" MainType="FEATURE" SubType="MOUNTAIN" CultureType="MOD_TP_MESO_AMERICAN"/>
+		<Row Name="TXT_KEY_NAME_TP_MOUNT_TLALOC" MainType="FEATURE" SubType="MOUNTAIN" CultureType="MOD_TP_MESO_AMERICAN"/>
+
+
+
+		<!--
+=========================== 
+Lakes 
+=========================== 
+-->
+		<Row Name="TXT_KEY_NAME_TP_LAKE_TEXCOCO" MainType="FEATURE" SubType="LAKE" CultureType="MOD_TP_MESO_AMERICAN"/>
+		<Row Name="TXT_KEY_NAME_TP_LAKE_CHAPALA" MainType="FEATURE" SubType="LAKE" CultureType="MOD_TP_MESO_AMERICAN"/>
+		<Row Name="TXT_KEY_NAME_TP_LAKE_NICARAGUA" MainType="FEATURE" SubType="LAKE" CultureType="MOD_TP_MESO_AMERICAN"/>
+		<Row Name="TXT_KEY_NAME_TP_LAKE_ATITLN" MainType="FEATURE" SubType="LAKE" CultureType="MOD_TP_MESO_AMERICAN"/>
+		<Row Name="TXT_KEY_NAME_TP_LAKE_IZABAL" MainType="FEATURE" SubType="LAKE" CultureType="MOD_TP_MESO_AMERICAN"/>
+		<Row Name="TXT_KEY_NAME_TP_LAKE_GIJA" MainType="FEATURE" SubType="LAKE" CultureType="MOD_TP_MESO_AMERICAN"/>
+		<Row Name="TXT_KEY_NAME_TP_LEMOA" MainType="FEATURE" SubType="LAKE" CultureType="MOD_TP_MESO_AMERICAN"/>
+		<Row Name="TXT_KEY_NAME_TP_LAKE_MANAGUA" MainType="FEATURE" SubType="LAKE" CultureType="MOD_TP_MESO_AMERICAN"/>
+		<Row Name="TXT_KEY_NAME_TP_GREAT_SALT_POND" MainType="FEATURE" SubType="LAKE" CultureType="MOD_TP_MESO_AMERICAN"/>
+		<Row Name="TXT_KEY_NAME_TP_GRAND_ETANG_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="MOD_TP_MESO_AMERICAN"/>
+
+
+
+		<!-- 		
+=========================== 
+Rivers 
+=========================== 
+-->
+		<Row Name="TXT_KEY_NAME_TP_GUARACARA_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="MOD_TP_MESO_AMERICAN"/>
+		<Row Name="TXT_KEY_NAME_TP_BALTHAZAR_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="MOD_TP_MESO_AMERICAN"/>
+		<Row Name="TXT_KEY_NAME_TP_FOND_FIGUES_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="MOD_TP_MESO_AMERICAN"/>
+		<Row Name="TXT_KEY_NAME_TP_CARGILL_CREEK" MainType="FEATURE" SubType="RIVER" CultureType="MOD_TP_MESO_AMERICAN"/>
+		<Row Name="TXT_KEY_NAME_TP_CONSTITUTION_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="MOD_TP_MESO_AMERICAN"/>
+		<Row Name="TXT_KEY_NAME_TP_BALSAS_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="MOD_TP_MESO_AMERICAN"/>
+		<Row Name="TXT_KEY_NAME_TP_USUMACINTA_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="MOD_TP_MESO_AMERICAN"/>
+		<Row Name="TXT_KEY_NAME_TP_PNUCO_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="MOD_TP_MESO_AMERICAN"/>
+		<Row Name="TXT_KEY_NAME_TP_LERMA_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="MOD_TP_MESO_AMERICAN"/>
+		<Row Name="TXT_KEY_NAME_TP_HONDO_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="MOD_TP_MESO_AMERICAN"/>
+
+
+		<!-- 
+=========================== 
+Forests 
+=========================== 
+-->
+		<Row Name="TXT_KEY_NAME_TP_EL_YUNQUE" MainType="FEATURE" SubType="FOREST" CultureType="MOD_TP_MESO_AMERICAN"/>
+		<Row Name="TXT_KEY_NAME_TP_LACANDON_JUNGLE" MainType="FEATURE" SubType="FOREST" CultureType="MOD_TP_MESO_AMERICAN"/>
+		<Row Name="TXT_KEY_NAME_TP_YUCATN_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="MOD_TP_MESO_AMERICAN"/>
+		<Row Name="TXT_KEY_NAME_TP_SELVA_ZOQUE" MainType="FEATURE" SubType="FOREST" CultureType="MOD_TP_MESO_AMERICAN"/>
+		<Row Name="TXT_KEY_NAME_TP_BOSQUE_EL_NIXTICUIL" MainType="FEATURE" SubType="FOREST" CultureType="MOD_TP_MESO_AMERICAN"/>
+		<Row Name="TXT_KEY_NAME_TP_MADREAN_WOODLANDS" MainType="FEATURE" SubType="FOREST" CultureType="MOD_TP_MESO_AMERICAN"/>
+		<Row Name="TXT_KEY_NAME_TP_CLOUD_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="MOD_TP_MESO_AMERICAN"/>
+		<Row Name="TXT_KEY_NAME_TP_SIBUN_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="MOD_TP_MESO_AMERICAN"/>
+		<Row Name="TXT_KEY_NAME_TP_LOS_TUXTLAS" MainType="FEATURE" SubType="FOREST" CultureType="MOD_TP_MESO_AMERICAN"/>
+		<Row Name="TXT_KEY_NAME_TP_LA_MOSQUITIA" MainType="FEATURE" SubType="FOREST" CultureType="MOD_TP_MESO_AMERICAN"/>
+
+
+		<!--
+=========================== 
+Deserts 
+=========================== 
+-->
+		<Row Name="TXT_KEY_NAME_TP_ARIKOK" MainType="FEATURE" SubType="DESERT" CultureType="MOD_TP_MESO_AMERICAN"/>
+		<Row Name="TXT_KEY_NAME_TP_CHIHUAHUAN_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="MOD_TP_MESO_AMERICAN"/>
+		<Row Name="TXT_KEY_NAME_TP_SONORAN_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="MOD_TP_MESO_AMERICAN"/>
+		<Row Name="TXT_KEY_NAME_TP_BAJA_CALIFORNIA_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="MOD_TP_MESO_AMERICAN"/>
+		<Row Name="TXT_KEY_NAME_TP_VIZCANO_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="MOD_TP_MESO_AMERICAN"/>
+		<Row Name="TXT_KEY_NAME_TP_YUMA_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="MOD_TP_MESO_AMERICAN"/>
+		<Row Name="TXT_KEY_NAME_TP_OASISAMERICA" MainType="FEATURE" SubType="DESERT" CultureType="MOD_TP_MESO_AMERICAN"/>
+		<Row Name="TXT_KEY_NAME_TP_GRAN_DESIERTO_DE_ALTAR" MainType="FEATURE" SubType="DESERT" CultureType="MOD_TP_MESO_AMERICAN"/>
+
+
+
+
+		<!--
+*****************************************
+MOD_TP_SOUTH_AMERICAN
+*****************************************
+-->
+		<!-- 
+=========================== 
+Regions 
+=========================== 
+-->
+		<Row Name="TXT_KEY_NAME_TP_ALTIPLANO" MainType="REGION" SubType="REGION" CultureType="MOD_TP_SOUTH_AMERICAN"/>
+		<Row Name="TXT_KEY_NAME_TP_CAATINGA" MainType="REGION" SubType="REGION" CultureType="MOD_TP_SOUTH_AMERICAN"/>
+		<Row Name="TXT_KEY_NAME_TP_CERRADO" MainType="REGION" SubType="REGION" CultureType="MOD_TP_SOUTH_AMERICAN"/>
+		<Row Name="TXT_KEY_NAME_TP_GUIANA_SHIELD" MainType="REGION" SubType="REGION" CultureType="MOD_TP_SOUTH_AMERICAN"/>
+		<Row Name="TXT_KEY_NAME_TP_PAMPAS" MainType="REGION" SubType="REGION" CultureType="MOD_TP_SOUTH_AMERICAN"/>
+		<Row Name="TXT_KEY_NAME_TP_PANTANAL" MainType="REGION" SubType="REGION" CultureType="MOD_TP_SOUTH_AMERICAN"/>
+		<Row Name="TXT_KEY_NAME_TP_PRAMO" MainType="REGION" SubType="REGION" CultureType="MOD_TP_SOUTH_AMERICAN"/>
+		<Row Name="TXT_KEY_NAME_TP_PATAGONIA" MainType="REGION" SubType="REGION" CultureType="MOD_TP_SOUTH_AMERICAN"/>
+		<Row Name="TXT_KEY_NAME_TP_CABEA_DO_CACHORRO" MainType="REGION" SubType="REGION" CultureType="MOD_TP_SOUTH_AMERICAN"/>
+		<Row Name="TXT_KEY_NAME_TP_THE_GUIANAS" MainType="REGION" SubType="REGION" CultureType="MOD_TP_SOUTH_AMERICAN"/>
+
+
+		<!-- 
+=========================== 
+Oceans 
+=========================== 
+-->
+		<Row Name="TXT_KEY_NAME_TP_MEETING_OF_WATERS" MainType="REGION" SubType="OCEAN" CultureType="MOD_TP_SOUTH_AMERICAN"/>
+		<Row Name="TXT_KEY_NAME_TP_BEAGLE_CHANNEL" MainType="REGION" SubType="OCEAN" CultureType="MOD_TP_SOUTH_AMERICAN"/>
+		<Row Name="TXT_KEY_NAME_TP_INTIL_BAY" MainType="REGION" SubType="OCEAN" CultureType="MOD_TP_SOUTH_AMERICAN"/>
+		<Row Name="TXT_KEY_NAME_TP_BAHIA_POSSESSION" MainType="REGION" SubType="OCEAN" CultureType="MOD_TP_SOUTH_AMERICAN"/>
+		<Row Name="TXT_KEY_NAME_TP_LE_MAIRE_STRAIT" MainType="REGION" SubType="OCEAN" CultureType="MOD_TP_SOUTH_AMERICAN"/>
+		<Row Name="TXT_KEY_NAME_TP_BOCAS_DEL_DRAGN" MainType="REGION" SubType="OCEAN" CultureType="MOD_TP_SOUTH_AMERICAN"/>
+		<Row Name="TXT_KEY_NAME_TP_COLUMBUS_CHANNEL" MainType="REGION" SubType="OCEAN" CultureType="MOD_TP_SOUTH_AMERICAN"/>
+		<Row Name="TXT_KEY_NAME_TP_GULF_OF_SAN_JORGE" MainType="REGION" SubType="OCEAN" CultureType="MOD_TP_SOUTH_AMERICAN"/>
+		<Row Name="TXT_KEY_NAME_TP_RO_DE_LA_PLATA" MainType="REGION" SubType="OCEAN" CultureType="MOD_TP_SOUTH_AMERICAN"/>
+
+
+		<!--	
+=========================== 
+Islands 
+=========================== 
+-->
+		<Row Name="TXT_KEY_NAME_TP_TIERRA_DEL_FUEGO" MainType="REGION" SubType="ISLAND" CultureType="MOD_TP_SOUTH_AMERICAN"/>
+		<Row Name="TXT_KEY_NAME_TP_THE_FALKLANDS" MainType="REGION" SubType="ISLAND" CultureType="MOD_TP_SOUTH_AMERICAN"/>
+		<Row Name="TXT_KEY_NAME_TP_ROBINSON_CRUSOE_ISLAND" MainType="REGION" SubType="ISLAND" CultureType="MOD_TP_SOUTH_AMERICAN"/>
+		<Row Name="TXT_KEY_NAME_TP_SANTA_CRUZ_ISLAND" MainType="REGION" SubType="ISLAND" CultureType="MOD_TP_SOUTH_AMERICAN"/>
+		<Row Name="TXT_KEY_NAME_TP_ISLA_MARGARITA" MainType="REGION" SubType="ISLAND" CultureType="MOD_TP_SOUTH_AMERICAN"/>
+		<Row Name="TXT_KEY_NAME_TP_LA_TORTUGA_ISLAND" MainType="REGION" SubType="ISLAND" CultureType="MOD_TP_SOUTH_AMERICAN"/>
+		<Row Name="TXT_KEY_NAME_TP_HERMITE_ISLANDS" MainType="REGION" SubType="ISLAND" CultureType="MOD_TP_SOUTH_AMERICAN"/>
+		<Row Name="TXT_KEY_NAME_TP_CABUAGA" MainType="REGION" SubType="ISLAND" CultureType="MOD_TP_SOUTH_AMERICAN"/>
+		<Row Name="TXT_KEY_NAME_TP_ILHA_GRANDE" MainType="REGION" SubType="ISLAND" CultureType="MOD_TP_SOUTH_AMERICAN"/>
+		<Row Name="TXT_KEY_NAME_TP_FERNANDO_DE_NORONHA" MainType="REGION" SubType="ISLAND" CultureType="MOD_TP_SOUTH_AMERICAN"/>
+
+
+
+		<!--		
+=========================== 
+Mountains 
+=========================== 
+-->
+		<Row Name="TXT_KEY_NAME_TP_ACONCAGUA" MainType="FEATURE" SubType="MOUNTAIN" CultureType="MOD_TP_SOUTH_AMERICAN"/>
+		<Row Name="TXT_KEY_NAME_TP_OJOS_DE_SALADO" MainType="FEATURE" SubType="MOUNTAIN" CultureType="MOD_TP_SOUTH_AMERICAN"/>
+		<Row Name="TXT_KEY_NAME_TP_CERRO_BONETE" MainType="FEATURE" SubType="MOUNTAIN" CultureType="MOD_TP_SOUTH_AMERICAN"/>
+		<Row Name="TXT_KEY_NAME_TP_FITZ_ROY" MainType="FEATURE" SubType="MOUNTAIN" CultureType="MOD_TP_SOUTH_AMERICAN"/>
+		<Row Name="TXT_KEY_NAME_TP_MOUNT_RORAIMA" MainType="FEATURE" SubType="MOUNTAIN" CultureType="MOD_TP_SOUTH_AMERICAN"/>
+		<Row Name="TXT_KEY_NAME_TP_ALPAMAYO" MainType="FEATURE" SubType="MOUNTAIN" CultureType="MOD_TP_SOUTH_AMERICAN"/>
+		<Row Name="TXT_KEY_NAME_TP_TUPUNGATO" MainType="FEATURE" SubType="MOUNTAIN" CultureType="MOD_TP_SOUTH_AMERICAN"/>
+		<Row Name="TXT_KEY_NAME_TP_MERCEDARIO" MainType="FEATURE" SubType="MOUNTAIN" CultureType="MOD_TP_SOUTH_AMERICAN"/>
+		<Row Name="TXT_KEY_NAME_TP_LICANCABUR" MainType="FEATURE" SubType="MOUNTAIN" CultureType="MOD_TP_SOUTH_AMERICAN"/>
+		<Row Name="TXT_KEY_NAME_TP_SUGARLOAF_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="MOD_TP_SOUTH_AMERICAN"/>
+
+
+
+		<!--
+=========================== 
+Lakes 
+=========================== 
+-->
+		<Row Name="TXT_KEY_NAME_TP_LAKE_TITICACA" MainType="FEATURE" SubType="LAKE" CultureType="MOD_TP_SOUTH_AMERICAN"/>
+		<Row Name="TXT_KEY_NAME_TP_LAKE_MARACAIBO" MainType="FEATURE" SubType="LAKE" CultureType="MOD_TP_SOUTH_AMERICAN"/>
+		<Row Name="TXT_KEY_NAME_TP_SAN_MARTN_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="MOD_TP_SOUTH_AMERICAN"/>
+		<Row Name="TXT_KEY_NAME_TP_GENERAL_CARRERA_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="MOD_TP_SOUTH_AMERICAN"/>
+		<Row Name="TXT_KEY_NAME_TP_VIEDMA_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="MOD_TP_SOUTH_AMERICAN"/>
+		<Row Name="TXT_KEY_NAME_TP_NAHUEL_HUAPI_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="MOD_TP_SOUTH_AMERICAN"/>
+		<Row Name="TXT_KEY_NAME_TP_LAGUNA_DEL_CARBN" MainType="FEATURE" SubType="LAKE" CultureType="MOD_TP_SOUTH_AMERICAN"/>
+		<Row Name="TXT_KEY_NAME_TP_DEL_TORO_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="MOD_TP_SOUTH_AMERICAN"/>
+		<Row Name="TXT_KEY_NAME_TP_YELCHO_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="MOD_TP_SOUTH_AMERICAN"/>
+		<Row Name="TXT_KEY_NAME_TP_CHINCHAYQUCHA" MainType="FEATURE" SubType="LAKE" CultureType="MOD_TP_SOUTH_AMERICAN"/>
+
+
+
+		<!-- 		
+=========================== 
+Rivers 
+=========================== 
+-->
+		<Row Name="TXT_KEY_NAME_TP_AMAZON_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="MOD_TP_SOUTH_AMERICAN"/>
+		<Row Name="TXT_KEY_NAME_TP_ORINOCO" MainType="FEATURE" SubType="RIVER" CultureType="MOD_TP_SOUTH_AMERICAN"/>
+		<Row Name="TXT_KEY_NAME_TP_PARAN_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="MOD_TP_SOUTH_AMERICAN"/>
+		<Row Name="TXT_KEY_NAME_TP_PARAGUAY_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="MOD_TP_SOUTH_AMERICAN"/>
+		<Row Name="TXT_KEY_NAME_TP_SOLIMES_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="MOD_TP_SOUTH_AMERICAN"/>
+		<Row Name="TXT_KEY_NAME_TP_MADEIRA_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="MOD_TP_SOUTH_AMERICAN"/>
+		<Row Name="TXT_KEY_NAME_TP_XINGU_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="MOD_TP_SOUTH_AMERICAN"/>
+		<Row Name="TXT_KEY_NAME_TP_UCAYALI_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="MOD_TP_SOUTH_AMERICAN"/>
+		<Row Name="TXT_KEY_NAME_TP_MARAN_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="MOD_TP_SOUTH_AMERICAN"/>
+
+
+		<!-- 
+=========================== 
+Forests 
+=========================== 
+-->
+		<Row Name="TXT_KEY_NAME_TP_YUNGAS" MainType="FEATURE" SubType="FOREST" CultureType="MOD_TP_SOUTH_AMERICAN"/>
+		<Row Name="TXT_KEY_NAME_TP_ACRE_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="MOD_TP_SOUTH_AMERICAN"/>
+		<Row Name="TXT_KEY_NAME_TP_RONDONIA_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="MOD_TP_SOUTH_AMERICAN"/>
+		<Row Name="TXT_KEY_NAME_TP_RORAIMA_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="MOD_TP_SOUTH_AMERICAN"/>
+		<Row Name="TXT_KEY_NAME_TP_MATO_GROSSO_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="MOD_TP_SOUTH_AMERICAN"/>
+		<Row Name="TXT_KEY_NAME_TP_TOCANTINS_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="MOD_TP_SOUTH_AMERICAN"/>
+		<Row Name="TXT_KEY_NAME_TP_CERRADO_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="MOD_TP_SOUTH_AMERICAN"/>
+		<Row Name="TXT_KEY_NAME_TP_BRAULIO_CARRILLO" MainType="FEATURE" SubType="FOREST" CultureType="MOD_TP_SOUTH_AMERICAN"/>
+		<Row Name="TXT_KEY_NAME_TP_VALDIVIAN_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="MOD_TP_SOUTH_AMERICAN"/>
+		<Row Name="TXT_KEY_NAME_TP_BELLAVISTA_CLOUD_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="MOD_TP_SOUTH_AMERICAN"/>
+
+
+		<!--
+=========================== 
+Deserts 
+=========================== 
+-->
+		<Row Name="TXT_KEY_NAME_TP_FLOWERING_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="MOD_TP_SOUTH_AMERICAN"/>
+		<Row Name="TXT_KEY_NAME_TP_ATACAMA_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="MOD_TP_SOUTH_AMERICAN"/>
+		<Row Name="TXT_KEY_NAME_TP_SALVADOR_DAL_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="MOD_TP_SOUTH_AMERICAN"/>
+		<Row Name="TXT_KEY_NAME_TP_SALINAS_GRANDES" MainType="FEATURE" SubType="DESERT" CultureType="MOD_TP_SOUTH_AMERICAN"/>
+		<Row Name="TXT_KEY_NAME_TP_LA_GUAJIRA_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="MOD_TP_SOUTH_AMERICAN"/>
+		<Row Name="TXT_KEY_NAME_TP_PATAGONIAN_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="MOD_TP_SOUTH_AMERICAN"/>
+		<Row Name="TXT_KEY_NAME_TP_SECHURA_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="MOD_TP_SOUTH_AMERICAN"/>
+		<Row Name="TXT_KEY_NAME_TP_SALAR_DE_ARIZARO" MainType="FEATURE" SubType="DESERT" CultureType="MOD_TP_SOUTH_AMERICAN"/>
+		<Row Name="TXT_KEY_NAME_TP_MDANOS_DE_CORO" MainType="FEATURE" SubType="DESERT" CultureType="MOD_TP_SOUTH_AMERICAN"/>
+
+
+
+		<!--
+*****************************************
+MOD_TP_SOUTHEAST_ASIAN
+*****************************************
+-->
+		<!-- 
+=========================== 
+Regions 
+=========================== 
+-->
+		<Row Name="TXT_KEY_NAME_TP_SARAWAK" MainType="REGION" SubType="REGION" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_TP_BATTAMBANG" MainType="REGION" SubType="REGION" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_TP_YOGYAKARTA" MainType="REGION" SubType="REGION" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_TP_SAVANNAKHET" MainType="REGION" SubType="REGION" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_TP_YANGON" MainType="REGION" SubType="REGION" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_TP_SELANGOR" MainType="REGION" SubType="REGION" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_TP_IFUGAO" MainType="REGION" SubType="REGION" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_TP_BANAUE" MainType="REGION" SubType="REGION" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_TP_HA_TINH" MainType="REGION" SubType="REGION" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+
+		<Row Name="TXT_KEY_NAME_MLADD_AYEYARWADY" MainType="REGION" SubType="REGION" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_MLADD_BAGO" MainType="REGION" SubType="REGION" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_MLADD_MAGWAY" MainType="REGION" SubType="REGION" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_MLADD_MANDALAY" MainType="REGION" SubType="REGION" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_MLADD_SAGAING" MainType="REGION" SubType="REGION" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_MLADD_TANINTHAYI" MainType="REGION" SubType="REGION" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+
+		<Row Name="TXT_KEY_NAME_MLADD_PHAYAP" MainType="REGION" SubType="REGION" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_MLADD_MAHARAT" MainType="REGION" SubType="REGION" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_MLADD_PHETCHABUN" MainType="REGION" SubType="REGION" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_MLADD_NAKHON_RATCHASIMA" MainType="REGION" SubType="REGION" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_MLADD_ISAN" MainType="REGION" SubType="REGION" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_MLADD_ROIET" MainType="REGION" SubType="REGION" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_MLADD_UBON" MainType="REGION" SubType="REGION" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_MLADD_UDON" MainType="REGION" SubType="REGION" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_MLADD_PHUKET" MainType="REGION" SubType="REGION" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_MLADD_CHUMPHON" MainType="REGION" SubType="REGION" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_MLADD_NAKHON_SI_THAMMARAT" MainType="REGION" SubType="REGION" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_MLADD_PATTANI" MainType="REGION" SubType="REGION" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_MLADD_KEDAH" MainType="REGION" SubType="REGION" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_MLADD_KRUNG_THEP" MainType="REGION" SubType="REGION" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_MLADD_AYUTTHAYA" MainType="REGION" SubType="REGION" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_MLADD_RATCHABURI" MainType="REGION" SubType="REGION" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_MLADD_NAKHON_CHAI_SI" MainType="REGION" SubType="REGION" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_MLADD_PRACHINBURI" MainType="REGION" SubType="REGION" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_MLADD_BURAPA" MainType="REGION" SubType="REGION" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_MLADD_CHANTHABURI" MainType="REGION" SubType="REGION" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_MLADD_BANTEAY_MEANCHEY" MainType="REGION" SubType="REGION" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_MLADD_BATTAMBANG" MainType="REGION" SubType="REGION" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_MLADD_KAMPONG_CHAM" MainType="REGION" SubType="REGION" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_MLADD_KAMPONG_CHHNANG" MainType="REGION" SubType="REGION" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_MLADD_KAMPONG_SPEU" MainType="REGION" SubType="REGION" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_MLADD_KAMPONG_THOM" MainType="REGION" SubType="REGION" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_MLADD_KAMPOT" MainType="REGION" SubType="REGION" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_MLADD_KANDAL" MainType="REGION" SubType="REGION" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_MLADD_KOH_KONG" MainType="REGION" SubType="REGION" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_MLADD_KRATI" MainType="REGION" SubType="REGION" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_MLADD_MONDULKIRI" MainType="REGION" SubType="REGION" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_MLADD_ODDAR_MEANCHEAY" MainType="REGION" SubType="REGION" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_MLADD_PURSAT" MainType="REGION" SubType="REGION" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_MLADD_PREAH_VIHEAR" MainType="REGION" SubType="REGION" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_MLADD_PREY_VENG" MainType="REGION" SubType="REGION" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_MLADD_RATANAKIRI" MainType="REGION" SubType="REGION" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_MLADD_SIEM_REAP" MainType="REGION" SubType="REGION" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_MLADD_STUNG_TRENG" MainType="REGION" SubType="REGION" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_MLADD_SVAY_RIENG" MainType="REGION" SubType="REGION" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_MLADD_TAKO" MainType="REGION" SubType="REGION" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+
+
+
+		<!-- 
+=========================== 
+Oceans 
+=========================== 
+-->
+		<Row Name="TXT_KEY_NAME_TP_BOHOL_SEA" MainType="REGION" SubType="OCEAN" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_TP_SULU_SEA" MainType="REGION" SubType="OCEAN" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_TP_CELEBES_SEA" MainType="REGION" SubType="OCEAN" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_TP_MINDORO_STRAIT" MainType="REGION" SubType="OCEAN" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_TP_RAGAY_GULF" MainType="REGION" SubType="OCEAN" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_TP_JAVA_SEA" MainType="REGION" SubType="OCEAN" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_TP_TIMOR_SEA" MainType="REGION" SubType="OCEAN" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_TP_SAVU_SEA" MainType="REGION" SubType="OCEAN" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_TP_MOLUCCA_SEA" MainType="REGION" SubType="OCEAN" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_TP_MALACCA_PASSAGE" MainType="REGION" SubType="OCEAN" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+
+		<Row Name="TXT_KEY_NAME_MLADD_GULF_OF_SIAM" MainType="REGION" SubType="OCEAN" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_MLADD_GULF_OF_TONKIN" MainType="REGION" SubType="OCEAN" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_MLADD_ANDAMAN_SEA" MainType="REGION" SubType="OCEAN" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+
+
+
+
+		<!--	
+=========================== 
+Islands 
+=========================== 
+-->
+		<Row Name="TXT_KEY_NAME_TP_BORNEO" MainType="REGION" SubType="ISLAND" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_TP_BALI" MainType="REGION" SubType="ISLAND" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_TP_PALAWAN" MainType="REGION" SubType="ISLAND" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_TP_SUMATRA" MainType="REGION" SubType="ISLAND" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_TP_NEW_GUINEA" MainType="REGION" SubType="ISLAND" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_TP_TIMOR" MainType="REGION" SubType="ISLAND" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_TP_SUNDA_ISLANDS" MainType="REGION" SubType="ISLAND" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_TP_LUZON" MainType="REGION" SubType="ISLAND" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_TP_SULAWESI" MainType="REGION" SubType="ISLAND" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_TP_MALUKU_ISLANDS" MainType="REGION" SubType="ISLAND" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_MLADD_AINGDAING" MainType="REGION" SubType="ISLAND" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_MLADD_CHEDUBA_ISLAND" MainType="REGION" SubType="ISLAND" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_MLADD_COCO_ISLANDS" MainType="REGION" SubType="ISLAND" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_MLADD_KALEGAUK_ISLAND" MainType="REGION" SubType="ISLAND" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_MLADD_KOKUNYE_KYUN" MainType="REGION" SubType="ISLAND" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_MLADD_KYUNGYI_ISLAND" MainType="REGION" SubType="ISLAND" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_MLADD_MOSCOS_ISLANDS" MainType="REGION" SubType="ISLAND" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_MLADD_MYINGUN_ISLAND" MainType="REGION" SubType="ISLAND" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_MLADD_PREPARIS" MainType="REGION" SubType="ISLAND" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_MLADD_RAMREE_ISLAND" MainType="REGION" SubType="ISLAND" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_MLADD_WA_KYUN" MainType="REGION" SubType="ISLAND" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+
+
+
+
+		<!--		
+=========================== 
+Mountains 
+=========================== 
+-->
+		<Row Name="TXT_KEY_NAME_TP_HKAKABO_RAZI" MainType="FEATURE" SubType="MOUNTAIN" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_TP_PUNCAK_JAYA" MainType="FEATURE" SubType="MOUNTAIN" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_TP_MOUNT_KINABALU" MainType="FEATURE" SubType="MOUNTAIN" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_TP_FANSIPAN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_TP_MOUNT_APO" MainType="FEATURE" SubType="MOUNTAIN" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_TP_PEGUNUNGAN_ARFAK" MainType="FEATURE" SubType="MOUNTAIN" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_TP_PHOU_BIA" MainType="FEATURE" SubType="MOUNTAIN" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_TP_CHOCOLATE_HILLS" MainType="FEATURE" SubType="MOUNTAIN" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_TP_MOUNT_TAPULAO" MainType="FEATURE" SubType="MOUNTAIN" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_TP_MAYON_VOLCANO" MainType="FEATURE" SubType="MOUNTAIN" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+
+		<Row Name="TXT_KEY_NAME_MLADD_HKAKABO_RAZI" MainType="FEATURE" SubType="MOUNTAIN" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_MLADD_MOUNT_POPA" MainType="FEATURE" SubType="MOUNTAIN" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_MLADD_MOUNT_SARAMATI" MainType="FEATURE" SubType="MOUNTAIN" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_MLADD_NAT_MA_TAUNG" MainType="FEATURE" SubType="MOUNTAIN" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_MLADD_BUMHPA_BUM" MainType="FEATURE" SubType="MOUNTAIN" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_MLADD_GAMLANG_RAZI" MainType="FEATURE" SubType="MOUNTAIN" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_MLADD_LOI_LENG" MainType="FEATURE" SubType="MOUNTAIN" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_MLADD_LOI_PANGNAO" MainType="FEATURE" SubType="MOUNTAIN" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_MLADD_SANGPANG_BUM" MainType="FEATURE" SubType="MOUNTAIN" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_MLADD_DOI_INTHANON" MainType="FEATURE" SubType="MOUNTAIN" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_MLADD_PHU_CHI_FA" MainType="FEATURE" SubType="MOUNTAIN" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_MLADD_DOI_CHIANG_DAO" MainType="FEATURE" SubType="MOUNTAIN" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_MLADD_DOI_NANG_NON" MainType="FEATURE" SubType="MOUNTAIN" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_MLADD_DOI_SUTHEP" MainType="FEATURE" SubType="MOUNTAIN" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_MLADD_KHAO_LUANG" MainType="FEATURE" SubType="MOUNTAIN" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_MLADD_DOI_TUNG" MainType="FEATURE" SubType="MOUNTAIN" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_MLADD_DOI_ANG_KHANG" MainType="FEATURE" SubType="MOUNTAIN" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_MLADD_PHU_RUEA" MainType="FEATURE" SubType="MOUNTAIN" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_MLADD_PHNOM_AURAL" MainType="FEATURE" SubType="MOUNTAIN" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_MLADD_PHNOM_BOK" MainType="FEATURE" SubType="MOUNTAIN" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_MLADD_PHNOM_CHISOR" MainType="FEATURE" SubType="MOUNTAIN" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_MLADD_PHNOM_DEI" MainType="FEATURE" SubType="MOUNTAIN" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_MLADD_PHNOM_KROM" MainType="FEATURE" SubType="MOUNTAIN" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_MLADD_PHNOM_MALAI" MainType="FEATURE" SubType="MOUNTAIN" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_MLADD_PHNOM_KULEN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_MLADD_PHNOM_SANTUK" MainType="FEATURE" SubType="MOUNTAIN" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_MLADD_PHNOM_SAMKOS" MainType="FEATURE" SubType="MOUNTAIN" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_MLADD_TUMPOR" MainType="FEATURE" SubType="MOUNTAIN" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_MLADD_PHNOM_VOAR" MainType="FEATURE" SubType="MOUNTAIN" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+
+
+
+		<!--
+=========================== 
+Lakes 
+=========================== 
+-->
+		<Row Name="TXT_KEY_NAME_TP_TONL_SAP" MainType="FEATURE" SubType="LAKE" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_TP_LAKE_TOBA" MainType="FEATURE" SubType="LAKE" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_TP_LAKE_LANAO" MainType="FEATURE" SubType="LAKE" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_TP_LAKE_TOWUTI" MainType="FEATURE" SubType="LAKE" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_TP_LAKE_POSO" MainType="FEATURE" SubType="LAKE" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_TP_BA_B_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_TP_LAKE_SEGARA_ANAK" MainType="FEATURE" SubType="LAKE" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_TP_LAKE_SINGKARAK" MainType="FEATURE" SubType="LAKE" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_TP_LAKE_MANINJAU" MainType="FEATURE" SubType="LAKE" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_TP_TAAL_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_MLADD_INLE_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_MLADD_KANDAWGYI_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_MLADD_INYA_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_MLADD_INDAWGYI_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_MLADD_NAWNG_YANG" MainType="FEATURE" SubType="LAKE" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_MLADD_MEIKTILA_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_MLADD_BUENG_BORAPHET" MainType="FEATURE" SubType="LAKE" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_MLADD_CHEOW_LAN_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_MLADD_BANG_LANG_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_MLADD_NONG_HAN_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_MLADD_PHAYAO_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_MLADD_SONGKHLA_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_MLADD_BOEUNG_KAK" MainType="FEATURE" SubType="LAKE" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_MLADD_YEAK_LAOM" MainType="FEATURE" SubType="LAKE" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_MLADD_TONLE_BATI" MainType="FEATURE" SubType="LAKE" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_MLADD_TONL_SAP" MainType="FEATURE" SubType="LAKE" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+
+
+
+
+		<!-- 		
+=========================== 
+Rivers 
+=========================== 
+-->
+		<Row Name="TXT_KEY_NAME_TP_MEKONG_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_TP_SALWEEN_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_TP_CHAO_PHRAYA_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_TP_IRRAWADDY_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_TP_RED_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_TP_RIO_GRANDE_DE_MINDANAO" MainType="FEATURE" SubType="RIVER" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_TP_RAJANG_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_TP_CHINDWIN_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_TP_PASIG_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_TP_SINGAPORE_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+
+
+		<Row Name="TXT_KEY_NAME_MLADD_IRRAWADDY_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_MLADD_SALWEEN_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_MLADD_CHINDWIN_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_MLADD_MEKONG_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_MLADD_SITTAUNG_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_MLADD_MYITNGE_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_MLADD_KOK_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_MLADD_GREAT_TENASSERIM_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_MLADD_NAN_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_MLADD_PING_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_MLADD_YOM_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_MLADD_THA_CHIN_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_MLADD_MUN_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_MLADD_WANG_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_MLADD_CHAO_PHRAYA_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_MLADD_BANG_PAKONG_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_MLADD_BASSAC_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_MLADD_KONG_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_MLADD_SREPOK_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_MLADD_STUNG_SEN_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_MLADD_SANGKAE_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_MLADD_SAIGON_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_MLADD_SIEM_REAP_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+
+
+
+		<!-- 
+=========================== 
+Forests 
+=========================== 
+-->
+		<Row Name="TXT_KEY_NAME_TP_MONDOLKIRI" MainType="FEATURE" SubType="FOREST" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_TP_SUNDA_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_TP_LUANG_PRABANG_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_TP_MON_LIMESTONE_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_TP_MINDANAO_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_TP_CN_GI_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_TP_AGUSAN_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_TP_HUON_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_TP_KINABLU_PARK" MainType="FEATURE" SubType="FOREST" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_TP_CARDAMOM_FORESTS" MainType="FEATURE" SubType="FOREST" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+
+
+		<!--
+=========================== 
+Deserts 
+=========================== 
+-->
+		<Row Name="TXT_KEY_NAME_TP_MUI_NE" MainType="FEATURE" SubType="DESERT" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_TP_LA_PAZ" MainType="FEATURE" SubType="DESERT" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_TP_BAO_TRANG" MainType="FEATURE" SubType="DESERT" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_TP_PAOAY" MainType="FEATURE" SubType="DESERT" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_TP_GUMUK_PASIR" MainType="FEATURE" SubType="DESERT" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_TP_PARANGTRITIS" MainType="FEATURE" SubType="DESERT" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_TP_PHAN_THIET" MainType="FEATURE" SubType="DESERT" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_TP_PARANGKUSUMO" MainType="FEATURE" SubType="DESERT" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_TP_BANTAY_BIMMABOY" MainType="FEATURE" SubType="DESERT" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_MLADD_PATOLON_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_MLADD_TAUNGDWIN_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_MLADD_KHAO_YAI" MainType="FEATURE" SubType="FOREST" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_MLADD_SAI_YOK_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_MLADD_NA_YUNG_NAM_SOM_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_MLADD_THUNG_SALAENG_LUANG" MainType="FEATURE" SubType="FOREST" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_MLADD_PRANBURI_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_MLADD_BOTUM_SAKOR" MainType="FEATURE" SubType="FOREST" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_MLADD_PREAH_MONIVONG" MainType="FEATURE" SubType="FOREST" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+		<Row Name="TXT_KEY_NAME_MLADD_REAM_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="MOD_TP_SOUTHEAST_ASIAN"/>
+
+
+
+	</ML_Labels_Dynamic>
+</GameData>

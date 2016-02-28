@@ -1,0 +1,1162 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+*****************************************
+*			Map Labels					*
+*	by Hazel (hazel16 @ CivFanatics)	*
+*****************************************
+-->
+<GameData>
+	<Language_en_US>
+		<!-- Template:
+		<Row Tag="TXT_KEY_NAME_ML_KILIMANJARO">
+			<Text>Mount Kilimanjaro</Text>
+		</Row>
+		-->
+		<!-- 
+=========================== 
+Regions 
+=========================== 
+-->
+		<Row Tag="TXT_KEY_NAME_ML_YORKSHIRE">
+			<Text>Yorkshire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_THE_HUMBER">
+			<Text>The Humber</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MIDLANDS">
+			<Text>Midlands</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ABERDEEN">
+			<Text>Aberdeen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_GRAMPIAN">
+			<Text>Grampian</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ANGUS">
+			<Text>Angus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_DUNDEE">
+			<Text>Dundee</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ARGYLL">
+			<Text>Argyll</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_AYRSHIRE">
+			<Text>Ayrshire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_DUMFRIES">
+			<Text>Dumfries</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_GALLOWAY">
+			<Text>Galloway</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LOTHIANS">
+			<Text>Lothians</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FIFE">
+			<Text>Fife</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_CLYDE">
+			<Text>Clyde</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ORKNEY">
+			<Text>Orkney</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_HEBRIDES">
+			<Text>Hebrides</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_PERTHSHIRE">
+			<Text>Perthshire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SHETLAND">
+			<Text>Shetland</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_TROSSACHS">
+			<Text>Trossachs</Text>
+		</Row>
+
+
+		<!-- 
+=========================== 
+Oceans 
+=========================== 
+-->
+		<Row Tag="TXT_KEY_NAME_ML_HEBRIDGES_SEA">
+			<Text>Hebridges Sea</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FAEROES_SEA">
+			<Text>Faeroes Sea</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_BAY_OF_BISCAY">
+			<Text>Bay of Biscay</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FITZROY_SEA">
+			<Text>FitzRoy Sea</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SOLE_SEA">
+			<Text>Sole Sea</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ROCKALL_SEA">
+			<Text>Rockall Sea</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_BAILEY_SEA">
+			<Text>Bailey Sea</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SHANNON_SEA">
+			<Text>Shannon Sea</Text>
+		</Row>
+
+
+		<!--	
+=========================== 
+Islands 
+=========================== 
+-->
+		<Row Tag="TXT_KEY_NAME_ML_ANNET_ISLE">
+			<Text>Annet Isle</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ASPARAGUS_ISLAND">
+			<Text>Asparagus Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_BAKERS_ISLAND">
+			<Text>Baker's Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_BARROW_ISLAND">
+			<Text>Barrow Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_BIRNBECK_ISLAND">
+			<Text>Birnbeck Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_BLACK_NAB_ISLE">
+			<Text>Black Nab Isle</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_BROWNSEA_ISLAND">
+			<Text>Brownsea Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_BRYHER_ISLE">
+			<Text>Bryher Isle</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_BURGH_ISLAND">
+			<Text>Burgh Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_BURNT_ISLAND">
+			<Text>Burnt Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_BURNTWICK_ISLAND">
+			<Text>Burntwick Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_BURROW_ISLAND">
+			<Text>Burrow Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_CANVEY_ISLAND">
+			<Text>Canvey Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_CHAPEL_ISLAND">
+			<Text>Chapel Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_CINDERY_ISLAND">
+			<Text>Cindery Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_COBMARSH_ISLAND">
+			<Text>Cobmarsh Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_COQUET_ISLAND">
+			<Text>Coquet Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_CROW_ISLAND">
+			<Text>Crow Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_DEADMANS_ISLAND">
+			<Text>Deadmans Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_DENNY_ISLAND">
+			<Text>Denny Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_DRAKES_ISLAND">
+			<Text>Drake's Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_DOVA_HAW">
+			<Text>Dova Haw</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ENGLISH_ISLAND">
+			<Text>English Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FOULNESS_ISLAND">
+			<Text>Foulness Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FOULNEY_ISLAND">
+			<Text>Foulney Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FOWLEY_ISLAND">
+			<Text>Fowley Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FURZEY_ISLAND">
+			<Text>Furzey Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_GIGGERS_ISLAND">
+			<Text>Gigger's Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_GODREVY_ISLAND">
+			<Text>Godrevy Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_GORREGAN_ISLAND">
+			<Text>Gorregan Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_GUGH_ISLAND">
+			<Text>Gugh Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_GULL_ISLAND">
+			<Text>Gull Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_GUTHERS_ISLAND">
+			<Text>Guther's Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_GWEAL_ISLAND">
+			<Text>Gweal Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_HANJAGUE_ISLE">
+			<Text>Hanjague Isle</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_HAVENGORE_ISLAND">
+			<Text>Havengore Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_HAVERGATE_ISLAND">
+			<Text>Havergate Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_HAYLING_ISLAND">
+			<Text>Hayling Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_HEADIN_HAW">
+			<Text>Headin Haw</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_HEDGEEND_ISLAND">
+			<Text>Hedge-end Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_HILBRE_ISLAND">
+			<Text>Hilbre Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_HORSEA_ISLAND">
+			<Text>Horsea Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_HORSEY_ISLAND">
+			<Text>Horsey Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_INNER_FARNE">
+			<Text>Inner Farne</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LINDISFARNE">
+			<Text>Lindisfarne</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LONGSHIPS">
+			<Text>Longships</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LOWER_HORSE_ISLAND">
+			<Text>Lower Horse Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LUNDY">
+			<Text>Lundy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MENAWETHAN">
+			<Text>Menawethan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MERRICK_ISLAND">
+			<Text>Merrick Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MERSEA_ISLAND">
+			<Text>Mersea Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MIDDLE_EYE">
+			<Text>Middle Eye</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MULLION_ISLAND">
+			<Text>Mullion Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_NEW_ENGLAND_ISLAND">
+			<Text>New England Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_NORNOUR">
+			<Text>Nornour</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_NAME_ML_OLD_HARRY_ROCKS">
+			<Text>Old Harry Rocks</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_OSEA_ISLAND">
+			<Text>Osea Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_OUTER_TRIAL_BANK">
+			<Text>Outer Trial Bank</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_PEWIT_ISLAND">
+			<Text>Pewit Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_PIEL_ISLAND">
+			<Text>Piel Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_PILSEY_ISLAND">
+			<Text>Pilsey Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_PLUMB_ISLAND">
+			<Text>Plumb Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_PORTSEA_ISLAND">
+			<Text>Portsea Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_POTTON_ISLAND">
+			<Text>Potton Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_PUFFIN_ISLAND">
+			<Text>Puffin Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_RAGGED_ISLAND">
+			<Text>Ragged Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_RAMSEY_ISLAND">
+			<Text>Ramsey Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ROA_ISLAND">
+			<Text>Roa Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ROSEVEAR">
+			<Text>Rosevear</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ROUND_ISLAND">
+			<Text>Round Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_RUSHLEY_ISLAND">
+			<Text>Rushley Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SCOLT_HEAD_ISLAND">
+			<Text>Scolt Head Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ST_AGNES">
+			<Text>St Agnes</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ST_CLEMENTS_ISLE">
+			<Text>St Clement's Isle</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ST_HELENS_ISLE">
+			<Text>St Helen's Isle</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ST_MARTINS_ISLE">
+			<Text>St Martin's Isle</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ST_MARYS_ISLE">
+			<Text>St Mary's Isle</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ST_MICHAELS_MOUNT">
+			<Text>St Michael's Mount</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ST_MARYS_ISLAND">
+			<Text>St. Mary's Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SAMSON_ISLAND">
+			<Text>Samson Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SHEEP_ISLAND">
+			<Text>Sheep Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ISLE_OF_SHEPPEY">
+			<Text>Isle of Sheppey</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SKIPPERS_ISLAND">
+			<Text>Skipper's Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_STAPLE_ISLAND">
+			<Text>Staple Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_STEEP_HOLM">
+			<Text>Steep Holm</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_STERT_ISLAND">
+			<Text>Stert Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_STONY_ISLAND">
+			<Text>Stony Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_TEAN_ISLAND">
+			<Text>Tean Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_THATCHER_ROCK">
+			<Text>Thatcher Rock</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_THE_MEWSTONE">
+			<Text>The Mewstone</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_THORNEY_ISLAND">
+			<Text>Thorney Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_TOLLS_ISLAND">
+			<Text>Toll's Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_TRESCO_ISLAND">
+			<Text>Tresco Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_TWO_TREE_ISLAND">
+			<Text>Two Tree Island</Text>
+		</Row>
+
+		<!--		
+=========================== 
+Mountains 
+=========================== 
+-->
+		<Row Tag="TXT_KEY_NAME_ML_BERKSHIRE_DOWNS">
+			<Text>Berkshire Downs</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_BODMIN_MOOR">
+			<Text>Bodmin Moor</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_CHEVIOT_HILLS">
+			<Text>Cheviot Hills</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_CHILTERNS">
+			<Text>Chilterns</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_COTSWOLDS">
+			<Text>Cotswolds</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_DARTMOOR_MOUNTAIN">
+			<Text>Dartmoor Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_EXMOOR_MOUNTAINS">
+			<Text>Exmoor Mountains</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAKE_DISTRICT">
+			<Text>Lake District</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LINCOLNSHIRE_WOLDS">
+			<Text>Lincolnshire Wolds</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MALVERN_HILLS">
+			<Text>Malvern Hills</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MENDIP_HILLS">
+			<Text>Mendip Hills</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_NAME_ML_PEAK_DISTRICT">
+			<Text>Peak District</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_PENNINES_MOUNTAINS">
+			<Text>Pennines Mountains</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_QUANTOCK_HILLS">
+			<Text>Quantock Hills</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SHROPSHIRE_HILLS">
+			<Text>Shropshire Hills</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_YORKSHIRE_WOLDS">
+			<Text>Yorkshire Wolds</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_BERWYN_RANGE">
+			<Text>Berwyn range</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_BLACK_MOUNTAINS">
+			<Text>Black Mountains</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_CADER_IDRIS_MOUNTAIN">
+			<Text>Cader Idris Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_CAMBRIAN_MOUNTAINS">
+			<Text>Cambrian Mountains</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_CARNEDDAU_MOUNTAIN">
+			<Text>Carneddau Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_CLWYDIAN_HILLS">
+			<Text>Clwydian Hills</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_GLYDERAU_MOUNTAIN">
+			<Text>Glyderau Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOELWYNION_MOUNTAIN">
+			<Text>Moelwynion Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_NANTLLE_RIDGE">
+			<Text>Nantlle Ridge</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_PRESELI_HILLS">
+			<Text>Preseli Hills</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_PUMLUMON_MOUNTAIN">
+			<Text>Pumlumon Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_RHINOGYDD_MOUNTAIN">
+			<Text>Rhinogydd Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SNOWDONIA_MOUNTAINS">
+			<Text>Snowdonia Mountains</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_CAIRNGORMS_MOUNTAINS">
+			<Text>Cairngorms Mountains</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_GRAMPIANS_MOUNTAINS">
+			<Text>Grampians Mountains</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_OCHIL_HILLS">
+			<Text>Ochil Hills</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SCOTTISH_HIGHLANDS">
+			<Text>Scottish Highlands</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SIDLAWS_MOUNTAINS">
+			<Text>Sidlaws Mountains</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_TORRIDON_HILLS">
+			<Text>Torridon Hills</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_CUILLIN_MOUNTAIN">
+			<Text>Cuillin Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_CAMPSIE_FELLS">
+			<Text>Campsie Fells</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_GALLOWAY_HILLS">
+			<Text>Galloway Hills</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LOWTHER_HILLS">
+			<Text>Lowther Hills</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOFFAT_HILLS">
+			<Text>Moffat Hills</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_PENTLAND_HILLS">
+			<Text>Pentland Hills</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOORFOOT_HILLS">
+			<Text>Moorfoot Hills</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAMMERMUIR_HILLS">
+			<Text>Lammermuir Hills</Text>
+		</Row>
+
+
+		<!--
+=========================== 
+Lakes 
+=========================== 
+-->
+		<Row Tag="TXT_KEY_NAME_ML_WINDERMERE_LAKE">
+			<Text>Windermere Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ULLSWATER_LAKE">
+			<Text>Ullswater Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_BASSENTHWAITE_LAKE">
+			<Text>Bassenthwaite Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_DERWENT_WATER">
+			<Text>Derwent Water</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_RUTLAND_WATER">
+			<Text>Rutland Water</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_KIELDER_WATER">
+			<Text>Kielder Water</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAKE_VYRNWY">
+			<Text>Lake Vyrnwy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_PITSFORD_WATER">
+			<Text>Pitsford Water</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_GRAFHAM_WATER">
+			<Text>Grafham Water</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_CHEW_VALLEY_LAKE">
+			<Text>Chew Valley Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_TRAWSFYNYDD_LAKE">
+			<Text>Trawsfynydd Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LLYN_CLYWEDOG">
+			<Text>Llyn Clywedog</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_CARRON_VALLEY">
+			<Text>Carron Valley</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_HAWESWATER">
+			<Text>Haweswater</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_DERWENT_LAKE">
+			<Text>Derwent Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LLYN_BRENIG_LAKE">
+			<Text>Llyn Brenig Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_THIRLMERE_LAKE">
+			<Text>Thirlmere Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LLYN_CELYN_LAKE">
+			<Text>Llyn Celyn Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LLYN_ALAW_LAKE">
+			<Text>Llyn Alaw Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAKE_BALA">
+			<Text>Lake Bala</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LOUGH_NEAGH">
+			<Text>Lough Neagh</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LOUGH_ERNE">
+			<Text>Lough Erne</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LOCH_LOMOND">
+			<Text>Loch Lomond</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LOCH_NESS">
+			<Text>Loch Ness</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LOCH_AWE">
+			<Text>Loch Awe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LOCH_MAREE">
+			<Text>Loch Maree</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LOCH_MORAR">
+			<Text>Loch Morar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LOCH_TAY">
+			<Text>Loch Tay</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LOCH_SHIN">
+			<Text>Loch Shin</Text>
+		</Row>
+
+
+		<!-- 		
+=========================== 
+Rivers 
+=========================== 
+-->
+		<Row Tag="TXT_KEY_NAME_ML_RIVER_AVON">
+			<Text>River Avon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_RIVER_TRYM">
+			<Text>River Trym</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_HAZEL_BROOK">
+			<Text>Hazel Brook</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_RIVER_FROME">
+			<Text>River Frome</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_RIVER_MALAGO">
+			<Text>River Malago</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_BRISLINGTON_BROOK">
+			<Text>Brislington Brook</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SISTON_BROOK">
+			<Text>Siston Brook</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_RIVER_CHEW">
+			<Text>River Chew</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_RIVER_BOYD">
+			<Text>River Boyd</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_NEWTON_BROOK">
+			<Text>Newton Brook</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAM_BROOK">
+			<Text>Lam Brook</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_BY_BROOK">
+			<Text>By Brook</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MIDFORD_BROOK">
+			<Text>Midford Brook</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_CAM_BROOK">
+			<Text>Cam Brook</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_WELLOW_BROOK">
+			<Text>Wellow Brook</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_RIVER_SOMER">
+			<Text>River Somer</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_HENHAMBRIDGE_BROOK">
+			<Text>Henhambridge Brook</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MELLS_RIVER">
+			<Text>Mells River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_EGFORD_BROOK">
+			<Text>Egford Brook</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_RODDEN_BROOK">
+			<Text>Rodden Brook</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_REDFORD_WATER">
+			<Text>Redford Water</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_RIVER_BISS">
+			<Text>River Biss</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SEMINGTON_BROOK">
+			<Text>Semington Brook</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_COCKLEMORE_BROOK">
+			<Text>Cocklemore Brook</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_RIVER_MARDEN">
+			<Text>River Marden</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_BRINKWORTH_BROOK">
+			<Text>Brinkworth Brook</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_GAUZE_BROOK">
+			<Text>Gauze Brook</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_WOODBRIDGE_BROOK">
+			<Text>Woodbridge Brook</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_BERVIE_WATER">
+			<Text>Bervie Water</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_CARRON_WATER">
+			<Text>Carron Water</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_COWIE_WATER">
+			<Text>Cowie Water</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_BURN_OF_MONBOYS">
+			<Text>Burn of Monboys</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_COWTON_BURN">
+			<Text>Cowton Burn</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_BURN_OF_MUCHALLS">
+			<Text>Burn of Muchalls</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_BURN_OF_PHEPPIE">
+			<Text>Burn of Pheppie</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_BURN_OF_ELSICK">
+			<Text>Burn of Elsick</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_BURN_OF_FINDON">
+			<Text>Burn of Findon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_RIVER_ALMOND">
+			<Text>River Almond</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SHOCHIE_BURN">
+			<Text>Shochie Burn</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ORDIE_BURN">
+			<Text>Ordie Burn</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_RIVER_ISLA">
+			<Text>River Isla</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_RIVER_ERICHT">
+			<Text>River Ericht</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LUNAN_BURN">
+			<Text>Lunan Burn</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LORNTY_BURN">
+			<Text>Lornty Burn</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SHEE_WATER">
+			<Text>Shee Water</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ALLT_A_GHLINNE_BHIG">
+			<Text>Allt a' Ghlinne Bhig</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_GLEN_LOCHSIE_BURN">
+			<Text>Glen Lochsie Burn</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_RIVER_ARDLE">
+			<Text>River Ardle</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ALLT_FEARNACH">
+			<Text>Allt Fearnach</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_BRERACHAN_WATER">
+			<Text>Brerachan Water</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_DEAN_WATER">
+			<Text>Dean Water</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ALYTH_BURN">
+			<Text>Alyth Burn</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MELGAM_WATER">
+			<Text>Melgam Water</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_RIVER_BRAAN">
+			<Text>River Braan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_BALLINLOAN_BURN">
+			<Text>Ballinloan Burn</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_COCHILL_BURN">
+			<Text>Cochill Burn</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_RIVER_QUAICH">
+			<Text>River Quaich</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_RIVER_TUMMEL">
+			<Text>River Tummel</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_RIVER_GARRY">
+			<Text>River Garry</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ALLT_GIRNAIG">
+			<Text>Allt Girnaig</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_RIVER_TILT">
+			<Text>River Tilt</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_TARF_WATER">
+			<Text>Tarf Water</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ERROCHTY_WATER">
+			<Text>Errochty Water</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_EDENDON_WATER">
+			<Text>Edendon Water</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_RIVER_CONWY">
+			<Text>River Conwy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_AFON_GYFFIN">
+			<Text>Afon Gyffin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_AFON_ROE">
+			<Text>Afon Roe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_AFON_DULYN">
+			<Text>Afon Dulyn</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_AFON_DDU">
+			<Text>Afon Ddu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_AFON_GARREGWEN">
+			<Text>Afon Garreg-wen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FFRWD_CERRIGUNIAWN">
+			<Text>Ffrwd Cerriguniawn</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_AFON_MELYNLLYN">
+			<Text>Afon Melynllyn</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_AFON_PORTHLLWYD">
+			<Text>Afon Porth-llwyd</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_AFON_EIGIAU">
+			<Text>Afon Eigiau</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_AFON_CRAFNANT">
+			<Text>Afon Crafnant</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_AFON_GEIRIONYDD">
+			<Text>Afon Geirionydd</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_AFON_GALLT_Y_GWG">
+			<Text>Afon Gallt y Gwg</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_NANT_Y_GORON">
+			<Text>Nant y Goron</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_AFON_LLUGWY">
+			<Text>Afon Llugwy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_NANTYGWRYD">
+			<Text>Nantygwryd</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_AFON_LLEDR">
+			<Text>Afon Lledr</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_AFON_WYBRNANT">
+			<Text>Afon Wybrnant</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_AFON_MAESGWM">
+			<Text>Afon Maesgwm</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_AFON_YSTUMIAU">
+			<Text>Afon Ystumiau</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_AFON_MACHNO">
+			<Text>Afon Machno</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_AFON_GLASGWM">
+			<Text>Afon Glasgwm</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_AFON_IWRCH">
+			<Text>Afon Iwrch</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_AFON_EIDDA">
+			<Text>Afon Eidda</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MERDDWR">
+			<Text>Merddwr</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_AFON_CALETWR">
+			<Text>Afon Caletwr</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_AFON_SERW">
+			<Text>Afon Serw</Text>
+		</Row>
+
+
+		<!-- 
+=========================== 
+Forests 
+=========================== 
+-->
+		<Row Tag="TXT_KEY_NAME_ML_MEBLUFF_FOREST">
+			<Text>Mebluff Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_HYHEATH_FOREST">
+			<Text>Hyheath Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_TEDON_FOREST">
+			<Text>Tedon Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_REBROOK_FOREST">
+			<Text>Rebrook Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_CHAIHILL_FOREST">
+			<Text>Chaihill Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_CHAIBLUFF_FOREST">
+			<Text>Chaibluff Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ESWOLD_FOREST">
+			<Text>Eswold Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_COBROOK_FOREST">
+			<Text>Cobrook Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_DEATHORP_FOREST">
+			<Text>Deathorp Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_BYGROVE_FOREST">
+			<Text>Bygrove Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FITON_FOREST">
+			<Text>Fiton Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MAYHAM_FOREST">
+			<Text>Mayham Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_GEFALLS_FOREST">
+			<Text>Gefalls Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SEGATE_FOREST">
+			<Text>Segate Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_HEBROOK_FOREST">
+			<Text>Hebrook Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ERFIELD_FOREST">
+			<Text>Erfield Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MEHEATH_FOREST">
+			<Text>Meheath Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_HAWICK_FOREST">
+			<Text>Hawick Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_COSTEAD_FOREST">
+			<Text>Costead Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_YEASWOOD_FOREST">
+			<Text>Yeaswood Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_PABRYCG_FOREST">
+			<Text>Pabrycg Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FOREST_OF_BASTOW">
+			<Text>Forest of Bastow</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FOREST_OF_ELSTOW">
+			<Text>Forest of Elstow</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FOREST_OF_CAMOR">
+			<Text>Forest of Camor</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FOREST_OF_PAMOR">
+			<Text>Forest of Pamor</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FOREST_OF_BAWIC">
+			<Text>Forest of Bawic</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FOREST_OF_DAHAM">
+			<Text>Forest of Daham</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FOREST_OF_TASTOW">
+			<Text>Forest of Tastow</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FOREST_OF_DADUN">
+			<Text>Forest of Dadun</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FOREST_OF_HAWIC">
+			<Text>Forest of Hawic</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FOREST_OF_TAWIC">
+			<Text>Forest of Tawic</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FOREST_OF_LAFORD">
+			<Text>Forest of Laford</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FOREST_OF_ELDUN">
+			<Text>Forest of Eldun</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FOREST_OF_CAFORD">
+			<Text>Forest of Caford</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FOREST_OF_WAFELD">
+			<Text>Forest of Wafeld</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FOREST_OF_GREMOR">
+			<Text>Forest of Gremor</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FOREST_OF_ELBRYCG">
+			<Text>Forest of Elbrycg</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FOREST_OF_DASTOW">
+			<Text>Forest of Dastow</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FOREST_OF_CABRYCG">
+			<Text>Forest of Cabrycg</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FOREST_OF_HASTOW">
+			<Text>Forest of Hastow</Text>
+		</Row>
+
+
+		<!--
+=========================== 
+Deserts 
+=========================== 
+-->
+		<Row Tag="TXT_KEY_NAME_ML_LAFORD_DESERT">
+			<Text>Laford Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_CABURH_DESERT">
+			<Text>Caburh Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_PAFORD_DESERT">
+			<Text>Paford Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_PADUN_DESERT">
+			<Text>Padun Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_PABRYCG_DESERT">
+			<Text>Pabrycg Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_HADUN_DESERT">
+			<Text>Hadun Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SWAFORD_DESERT">
+			<Text>Swaford Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_TAHAM_DESERT">
+			<Text>Taham Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_CALEAH_DESERT">
+			<Text>Caleah Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_BATUN_DESERT">
+			<Text>Batun Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_CRAHAM_DESERT">
+			<Text>Craham Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_HALEAH_DESERT">
+			<Text>Haleah Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FAHYRST_DESERT">
+			<Text>Fahyrst Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_TABURH_DESERT">
+			<Text>Taburh Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_BIBURH_DESERT">
+			<Text>Biburh Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ANTBRYCG_DESERT">
+			<Text>Antbrycg Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FAWIC_DESERT">
+			<Text>Fawic Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_INLEAH_DESERT">
+			<Text>Inleah Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_BAMOR_DESERT">
+			<Text>Bamor Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_AMPFALLS_DESERT">
+			<Text>Ampfalls Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_HEAWOOD_DESERT">
+			<Text>Heawood Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ERMOOR_DESERT">
+			<Text>Ermoor Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_BEOWICH_DESERT">
+			<Text>Beowich Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LEHEATH_DESERT">
+			<Text>Leheath Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LEWOOD_DESERT">
+			<Text>Lewood Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_BEEFORD_DESERT">
+			<Text>Beeford Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FRAWOLD_DESERT">
+			<Text>Frawold Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_BEOTHORP_DESERT">
+			<Text>Beothorp Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_BREGROVE_DESERT">
+			<Text>Bregrove Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ENDON_DESERT">
+			<Text>Endon Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FIWOLD_DESERT">
+			<Text>Fiwold Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_REFORD_DESERT">
+			<Text>Reford Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_CLESTONE_DESERT">
+			<Text>Clestone Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_EARNHEATH_DESERT">
+			<Text>Earnheath Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SESTEAD_DESERT">
+			<Text>Sestead Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_CHYPOOL_DESERT">
+			<Text>Chypool Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_WHOBROOK_DESERT">
+			<Text>Whobrook Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_HOOSTEAD_DESERT">
+			<Text>Hoostead Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_COFORD_DESERT">
+			<Text>Coford Desert</Text>
+		</Row>
+
+
+	</Language_en_US>
+</GameData>

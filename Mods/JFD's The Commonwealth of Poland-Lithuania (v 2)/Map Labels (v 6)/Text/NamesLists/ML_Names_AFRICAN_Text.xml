@@ -1,0 +1,821 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+*****************************************
+*			Map Labels					*
+*	by Hazel (hazel16 @ CivFanatics)	*
+*****************************************
+-->
+<GameData>
+	<Language_en_US>
+		<!-- Template:
+		<Row Tag="TXT_KEY_NAME_ML_KILIMANJARO">
+			<Text>Mount Kilimanjaro</Text>
+		</Row>
+		-->
+		<!-- 
+=========================== 
+Regions 
+=========================== 
+-->
+		<Row Tag="TXT_KEY_NAME_ML_SAHARA">
+			<Text>Sahara</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MAGHREB">
+			<Text>Maghreb</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SAHEL">
+			<Text>Sahel</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_HORN_OF_AFRICA">
+			<Text>Horn of Africa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_RIFT_VALLEY">
+			<Text>Rift Valley</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_HADZA">
+			<Text>Hadza</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SINDAWE">
+			<Text>Sindawe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_KHOIS">
+			<Text>Khois</Text>
+		</Row>
+
+
+		<!-- 
+=========================== 
+Oceans 
+=========================== 
+-->
+		<Row Tag="TXT_KEY_NAME_ML_MUDA_SEA">
+			<Text>Muda Sea</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_BOKA_SEA">
+			<Text>Boka Sea</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_CHOMBA_SEA">
+			<Text>Chomba Sea</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_CHINGWA_SEA">
+			<Text>Chingwa Sea</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_BONGA_SEA">
+			<Text>Bonga Sea</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_KINDA_SEA">
+			<Text>Kinda Sea</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MIDA_SEA">
+			<Text>Mida Sea</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_CHANSA_SEA">
+			<Text>Chansa Sea</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MULA_SEA">
+			<Text>Mula Sea</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_KONNO_SEA">
+			<Text>Konno Sea</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_NENI_SEA">
+			<Text>Neni Sea</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_GHERA_SEA">
+			<Text>Ghera Sea</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SEA_OF_MUTA">
+			<Text>Sea of Muta</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SEA_OF_MUNYA">
+			<Text>Sea of Munya</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SEA_OF_ABTEN">
+			<Text>Sea of Abten</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SEA_OF_KESA">
+			<Text>Sea of Kesa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SEA_OF_MAKA">
+			<Text>Sea of Maka</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SEA_OF_SAMAU">
+			<Text>Sea of Samau</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SEA_OF_BARKI">
+			<Text>Sea of Barki</Text>
+		</Row>
+
+
+
+		<!--	
+=========================== 
+Islands 
+=========================== 
+-->
+		<Row Tag="TXT_KEY_NAME_ML_ANJOUAN_ISLAND">
+			<Text>Anjouan Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOHLI_ISLAND">
+			<Text>Mohéli Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MAYOTTE_ISLAND">
+			<Text>Mayotte Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_COTIVY_ISLAND">
+			<Text>Coëtivy Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_BIJOUTIER_ISLAND">
+			<Text>Bijoutier Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MANAHAS_ISLAND">
+			<Text>Manahas Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_POLYMNIE_ISLAND">
+			<Text>Polymnie Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MALABAR_ISLAND">
+			<Text>Malabar Island</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_NAME_ML_FOGO_ISLAND">
+			<Text>Fogo Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MAIO_ISLAND">
+			<Text>Maio Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SAL_ISLAND">
+			<Text>Sal Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ROLAS_ISLAND">
+			<Text>Rolas Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MASKALI_ISLAND_ISLAND">
+			<Text>Maskali Island Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOUCHA_ISLAND_ISLAND">
+			<Text>Moucha Island Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ANNOBN_ISLAND">
+			<Text>Annobón Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_BIOKO_ISLAND">
+			<Text>Bioko Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_CORISCO_ISLAND">
+			<Text>Corisco Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_DAHLAK_ISLAND">
+			<Text>Dahlak Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FATUMA_ISLAND">
+			<Text>Fatuma Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_HALIB_ISLAND">
+			<Text>Halib Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_HOWAKIL_ISLAND">
+			<Text>Howakil Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MASSAWA_ISLAND">
+			<Text>Massawa Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_BIJAGOS_ISLAND">
+			<Text>Bijagos Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAMU_ISLAND">
+			<Text>Lamu Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MANDA_ISLAND">
+			<Text>Manda Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SAMULI_ISLAND">
+			<Text>Samuli Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_CHIZUMULU_ISLAND">
+			<Text>Chizumulu Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LIKOMA_ISLAND">
+			<Text>Likoma Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_INHACA_ISLAND">
+			<Text>Inhaca Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ADDILO_ISLAND">
+			<Text>Addilo Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_AMBUU_ISLAND">
+			<Text>Ambuu Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_BANDARKA_ISLAND">
+			<Text>Bandarka Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_BANGADINI_ISLAND">
+			<Text>Bangadini Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_BANTAABSI_ISLAND">
+			<Text>Bantaabsi Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_BAVADI_ISLAND">
+			<Text>Bavadi Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_BAWAADI_ISLAND">
+			<Text>Bawaadi Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_BENGADIIENE_ISLAND">
+			<Text>Bengadiiene Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_BIRAMLIDE_ISLAND">
+			<Text>Biramlide Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ISLAND_OF_DJERBA">
+			<Text>Island of Djerba</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ISLAND_OF_KERKENNAH">
+			<Text>Island of Kerkennah</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ISLAND_OF_CHERGUI">
+			<Text>Island of Chergui</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ISLAND_OF_GHARBI">
+			<Text>Island of Gharbi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ISLAND_OF_ZEMBRA">
+			<Text>Island of Zembra</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ISLAND_OF_SSESE">
+			<Text>Island of Ssese</Text>
+		</Row>
+
+
+		<!--		
+=========================== 
+Mountains 
+=========================== 
+-->
+		<Row Tag="TXT_KEY_NAME_ML_MOUNTAINS_OF_KONG">
+			<Text>Mountains of Kong</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_KILIMAMBOGO_MOUNTAIN">
+			<Text>Kilimambogo Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOUNT_WUTEVE">
+			<Text>Mount Wuteve</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOUNT_MOCO">
+			<Text>Mount Moco</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_NAME_ML_ABUYE_MEDA_MOUNTAIN">
+			<Text>Abuye Meda Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ADWA_MOUNTAIN">
+			<Text>Adwa Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_AFDERA_MOUNTAIN">
+			<Text>Afdera Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ALE_BAGU_MOUNTAIN">
+			<Text>Ale Bagu Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_AMBA_ALAGI_MOUNTAIN">
+			<Text>Amba Alagi Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_AMBA_ARADAM_MOUNTAIN">
+			<Text>Amba Aradam Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_AMBA_GESHEN_MOUNTAIN">
+			<Text>Amba Geshen Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ASAVYO_MOUNTAIN">
+			<Text>Asavyo Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_BORALE_ALE_MOUNTAIN">
+			<Text>Borale Ale Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_BORAWLI_MOUNTAIN">
+			<Text>Borawli Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FUGUG_MOUNTAIN">
+			<Text>Fugug Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FURI_MOUNTAIN">
+			<Text>Furi Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_GADA_ALE_MOUNTAIN">
+			<Text>Gada Ale Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_GUGHE_MOUNTAIN">
+			<Text>Gughe Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_H_CONT_MOUNTAIN">
+			<Text>H cont. Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_HAYLI_GUBBI_MOUNTAIN">
+			<Text>Hayli Gubbi Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_KULIBI_MOUNTAIN">
+			<Text>Kulibi Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_KUNDUDO_MOUNTAIN">
+			<Text>Kundudo Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOUNT_AYALU">
+			<Text>Mount Ayalu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOUNT_BATU">
+			<Text>Mount Batu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOUNT_BWAHIT">
+			<Text>Mount Bwahit</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOUNT_CHILALO">
+			<Text>Mount Chilalo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOUNT_CHOQA">
+			<Text>Mount Choqa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOUNT_DAMA_ALI">
+			<Text>Mount Dama Ali</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOUNT_DENDI">
+			<Text>Mount Dendi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOUNT_ENTOTO">
+			<Text>Mount Entoto</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOUNT_FENTALE">
+			<Text>Mount Fentale</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOUNT_GUGU">
+			<Text>Mount Gugu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOUNT_GUNA">
+			<Text>Mount Guna</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOUNT_GURAGE">
+			<Text>Mount Gurage</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOUNT_HAY">
+			<Text>Mount Hay</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOUNT_MA_ALALTA">
+			<Text>Mount Ma Alalta</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOUNT_SARKALI">
+			<Text>Mount Sarkali</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOUNT_TULLU_DIMTU">
+			<Text>Mount Tullu Dimtu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOUNT_WELEL">
+			<Text>Mount Welel</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOUNT_ZUQUALLA">
+			<Text>Mount Zuqualla</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOUNT_MOUSA_ALI">
+			<Text>Mount Mousa Ali</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOUNT_OA_CALDERA">
+			<Text>Mount O'a Caldera</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOUNT_RAS_DASHEN">
+			<Text>Mount Ras Dashen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOUNT_SORK_ALE">
+			<Text>Mount Sork Ale</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOUNT_TAT_ALI">
+			<Text>Mount Tat Ali</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOUNT_WEHNI">
+			<Text>Mount Wehni</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOUNT_MUMPU">
+			<Text>Mount Mumpu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOUNT_MWANDA_PEAK">
+			<Text>Mount Mwanda</Text>
+		</Row>
+
+		<!--
+=========================== 
+Lakes 
+=========================== 
+-->
+		<Row Tag="TXT_KEY_NAME_ML_LAKE_RUKWA">
+			<Text>Lake Rukwa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAKE_MWERU">
+			<Text>Lake Mweru</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAKE_KIVU">
+			<Text>Lake Kivu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAKE_TANGANYIKA">
+			<Text>Lake Tanganyika</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAKE_NYASSA">
+			<Text>Lake Nyassa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAKE_ABAYA">
+			<Text>Lake Abaya</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAKE_ABBE">
+			<Text>Lake Abbe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAKE_ABIJATTA">
+			<Text>Lake Abijatta</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAKE_AFAMBO">
+			<Text>Lake Afambo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAKE_AFRERA">
+			<Text>Lake Afrera</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAKE_ARDIBBO">
+			<Text>Lake Ardibbo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAKE_ASHENGE">
+			<Text>Lake Ashenge</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_NAME_ML_LAKE_AWASA">
+			<Text>Lake Awasa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAKE_BARIO">
+			<Text>Lake Bario</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAKE_BASAKA">
+			<Text>Lake Basaka</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAKE_CHAMO">
+			<Text>Lake Chamo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAKE_CHEW_BAHIR">
+			<Text>Lake Chew Bahir</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAKE_GUMMARE">
+			<Text>Lake Gummare</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAKE_HAYQ">
+			<Text>Lake Hayq</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAKE_KARUM">
+			<Text>Lake Karum</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAKE_LANGANO">
+			<Text>Lake Langano</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAKE_SHALA">
+			<Text>Lake Shala</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAKE_TANA">
+			<Text>Lake Tana</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAKE_TURKANA">
+			<Text>Lake Turkana</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ZENGENA_LAKE">
+			<Text>Zengena Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAKE_ZWAY">
+			<Text>Lake Zway</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_BUMHURURU_LAKE">
+			<Text>Bumhururu Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAKE_CHIVERO">
+			<Text>Lake Chivero</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAKE_MUTIRIKWE">
+			<Text>Lake Mutirikwe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAKE_KARIBA">
+			<Text>Lake Kariba</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_KAINJI_LAKE">
+			<Text>Kainji Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_OGUTA_LAKE">
+			<Text>Oguta Lake</Text>
+		</Row>
+
+		<!-- 		
+=========================== 
+Rivers 
+=========================== 
+-->
+		<Row Tag="TXT_KEY_NAME_ML_CUANZA_RIVER">
+			<Text>Cuanza River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_GROOT_RIVER">
+			<Text>Groot River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_GAMTOOS_RIVER">
+			<Text>Gamtoos River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_IHOSY_RIVER">
+			<Text>Ihosy River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_KAFUE_RIVER">
+			<Text>Kafue River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_KUISEB_RIVER">
+			<Text>Kuiseb River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_KUNENE_RIVER">
+			<Text>Kunene River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_KWANDO_RIVER">
+			<Text>Kwando River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LIMPOPO_RIVER">
+			<Text>Limpopo River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LUANGWA_RIVER">
+			<Text>Luangwa River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MANIA_RIVER">
+			<Text>Mania River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOLOPO_RIVER">
+			<Text>Molopo River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_OKAVANGO_RIVER">
+			<Text>Okavango River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ONILAHY_RIVER">
+			<Text>Onilahy River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ORANGE_RIVER">
+			<Text>Orange River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_CALEDON_RIVER">
+			<Text>Caledon River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_VAAL_RIVER">
+			<Text>Vaal River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FISH_RIVER">
+			<Text>Fish River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SHANGANI_RIVER">
+			<Text>Shangani River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SWAKOP_RIVER">
+			<Text>Swakop River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_TUGELA_RIVER">
+			<Text>Tugela River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ZAMBEZI_RIVER">
+			<Text>Zambezi River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_AWASH_RIVER">
+			<Text>Awash River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_JUBBA_RIVER">
+			<Text>Jubba River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_DAWA_RIVER">
+			<Text>Dawa River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_GANALE_DORYA_RIVER">
+			<Text>Ganale Dorya River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_KERIO_RIVER">
+			<Text>Kerio River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MAPUTO_RIVER">
+			<Text>Maputo River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MARA_RIVER">
+			<Text>Mara River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_OMO_RIVER">
+			<Text>Omo River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_RUFIJI_RIVER">
+			<Text>Rufiji River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_RUVUMA_RIVER">
+			<Text>Ruvuma River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SHEBELLE_RIVER">
+			<Text>Shebelle River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_TANA_RIVER">
+			<Text>Tana River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_KAZINGA_RIVER">
+			<Text>Kazinga River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_KAGERA_RIVER">
+			<Text>Kagera River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SONDU_MIRIU_RIVER">
+			<Text>Sondu Miriu River</Text>
+		</Row>
+
+
+		<!-- 
+=========================== 
+Forests 
+=========================== 
+-->
+		<Row Tag="TXT_KEY_NAME_ML_FOREST_OF_HOHO">
+			<Text>Forest of Hoho</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FOREST_OF_BALA">
+			<Text>Forest of Bala</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FOREST_OF_BEDA">
+			<Text>Forest of Beda</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FOREST_OF_WARYA">
+			<Text>Forest of Warya</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FOREST_OF_KORA">
+			<Text>Forest of Kora</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FOREST_OF_BERHO">
+			<Text>Forest of Berho</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FOREST_OF_KIPKA">
+			<Text>Forest of Kipka</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FOREST_OF_WERA">
+			<Text>Forest of Wera</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FOREST_OF_MAGO">
+			<Text>Forest of Mago</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FOREST_OF_DDURYA">
+			<Text>Forest of Ddurya</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FOREST_OF_BARKA">
+			<Text>Forest of Barka</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FOREST_OF_KABBO">
+			<Text>Forest of Kabbo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FOREST_OF_MATA">
+			<Text>Forest of Mata</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FOREST_OF_KONDA">
+			<Text>Forest of Konda</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MUSA_FOREST">
+			<Text>Musa Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ASSAYER_FOREST">
+			<Text>Assayer Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_GUEFE_FOREST">
+			<Text>Guefe Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_OMBED_FOREST">
+			<Text>Ombed Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_KESAYE_FOREST">
+			<Text>Kesaye Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_KESA_FOREST">
+			<Text>Kesa Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_KASSA_FOREST">
+			<Text>Kassa Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_CHIVUNG_FOREST">
+			<Text>Chivung Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MWIRI_FOREST">
+			<Text>Mwiri Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_CHAMBA_FOREST">
+			<Text>Chamba Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MULEO_FOREST">
+			<Text>Muleo Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_NKASA_FOREST">
+			<Text>Nkasa Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MULYA_FOREST">
+			<Text>Mulya Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LULA_FOREST">
+			<Text>Lula Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_CHIPA_FOREST">
+			<Text>Chipa Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_KONGA_FOREST">
+			<Text>Konga Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_KADA_FOREST">
+			<Text>Kada Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MUAMBA_FOREST">
+			<Text>Muamba Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_BANDA_FOREST">
+			<Text>Banda Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MULU_FOREST">
+			<Text>Mulu Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_CHABA_FOREST">
+			<Text>Chaba Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_CHAWA_FOREST">
+			<Text>Chawa Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LUME_FOREST">
+			<Text>Lume Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_TSHADA_FOREST">
+			<Text>Tshada Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_KATE_FOREST">
+			<Text>Kate Forest</Text>
+		</Row>
+
+
+		<!--
+=========================== 
+Deserts 
+=========================== 
+-->
+		<Row Tag="TXT_KEY_NAME_ML_SAHARA_DESERT">
+			<Text>Sahara Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_DJURAB_DESERT">
+			<Text>Djurab Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_BARA_DESERT">
+			<Text>Bara Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOMEDES_DESERT">
+			<Text>Moçâmedes Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_DANAKIL_DEPRESSION">
+			<Text>Danakil Depression</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_KALAHARI_DESERT">
+			<Text>Kalahari Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_CHALBI_DESERT">
+			<Text>Chalbi Desert</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_NAME_ML_NYIRI_DESERT">
+			<Text>Nyiri Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_TALAKE_DESERT">
+			<Text>Talake Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_DESERT_ERG_OF_BILMA">
+			<Text>Desert Erg of Bilma</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_TAUREG_DESERT">
+			<Text>Taureg Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_KSOUR_DESERT">
+			<Text>Ksour Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_KAOUAR_DESERT">
+			<Text>Kaouar Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_KEL_AHAGGAR_DESERT">
+			<Text>Kel Ahaggar Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_KEL_AJJER_DESERT">
+			<Text>Kel Ajjer Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_KSAR_DESERT">
+			<Text>Ksar Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_AZALAI_DESERT">
+			<Text>Azalai Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_AZJAR_DESERT">
+			<Text>Azjar Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ERG_CHIGAGA_DESERT">
+			<Text>Erg Chigaga Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FACHI_DESERT">
+			<Text>Fachi Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FUNQUL_DESERT">
+			<Text>Funqul Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_HOGGAR_DESERT">
+			<Text>Hoggar Desert</Text>
+		</Row>
+
+	</Language_en_US>
+</GameData>

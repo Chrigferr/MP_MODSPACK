@@ -1,0 +1,414 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+*****************************************
+*Map Labels*
+*by Hazel (hazel16 @ CivFanatics)*
+*****************************************
+-->
+<GameData>
+	<Language_en_US>
+		<!-- NOTIFICATION -->
+		<Row Tag="TXT_KEY_ML_NOTIFY">
+			<Text>
+				[ICON_ML_WORLD2] Welcome to the Map Labels mod. To toggle label display and access the Map Labels panel, open the [COLOR_HIGHLIGHT_TEXT]Map Options Menu[ENDCOLOR].[NEWLINE][NEWLINE]
+				[TAB]Shortcuts:[NEWLINE]
+				[TAB][COLOR_WARNING_TEXT]CTRL-SHIFT-L[ENDCOLOR] - open Map Labels panel[NEWLINE]
+				[TAB][COLOR_WARNING_TEXT]CTRL-SHIFT-A[ENDCOLOR] - add new label[NEWLINE]
+				[TAB][COLOR_WARNING_TEXT]CTRL-A[ENDCOLOR] - quickly add icon-only label
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ML_NOTIFY_HEADER">
+			<Text>Map Labels</Text>
+		</Row>
+		
+		<!--MINIMAP MENU-->
+		<Row Tag="TXT_KEY_ML_MM_SHOWLABELS">
+			<Text>Map Labels</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ML_MM_SHOWLABELS_TT">
+			<Text>Show/Hide labels on map</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ML_MM_OPENPOPUP_TT">
+			<Text>Open Map Labels Panel</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ML_MM_OPENOPTIONS_TT">
+			<Text>Open Map Labels Options</Text>
+		</Row>
+		
+		<!--POPUP-->
+		<Row Tag="TXT_KEY_ML_TITLE">
+			<Text>MAP               LABELS</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ML_POPUP_CLOSE">
+			<Text>Close</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ML_POPUP_OPTIONS">
+			<Text>OPTIONS</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ML_POPUP_OPTIONS_TT">
+			<Text>Click here to open Options</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ML_POPUP_BACK_TT">
+			<Text>Return to Main Menu</Text>
+		</Row>
+		
+		<!--POPUP:MAIN-->
+		<Row Tag="TXT_KEY_ML_GOTO_LABEL">
+			<Text>Go to map label</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ML_EDIT">
+			<Text>Edit</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ML_DELETE">
+			<Text>Delete</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ML_POPUP_ALL_LABELS">
+			<Text>All Labels</Text>
+		</Row>
+		
+		<!--POPUP:OPTIONS-->
+		<Row Tag="TXT_KEY_ML_POPUP_SHOW_LABELS">
+			<Text>Label Display</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ML_POPUP_APPEARANCE">
+			<Text>Label Appearance</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ML_POPUP_BATTLE">
+			<Text>Battle Labels</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ML_POPUP_GENERATOR">
+			<Text>Dynamic Labels Generator</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ML_POPUP_ICONS">
+			<Text>Icons</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ML_POPUP_OTHER">
+			<Text>Other Options</Text>
+		</Row>
+		
+		<!--POPUP:OPTIONS:DISPLAY-->
+		<Row Tag="TXT_KEY_ML_OPTIONS_LABELDISPLAY">
+			<Text>Map Label Display</Text>
+		</Row>
+		
+		<!--POPUP:OPTIONS:APPEARANCE-->
+		<Row Tag="TXT_KEY_ML_OPTIONS_FONTSIZE">
+			<Text>Font Size</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ML_OPTIONS_FONTSTYLE">
+			<Text>Font Style</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ML_OPTIONS_FONTCOLOR">
+			<Text>Font Color</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ML_OPTIONS_SHADOWCOLOR">
+			<Text>Font Shadow Color</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ML_OPTIONS_BACKGROUNDCOLOR">
+			<Text>Background Color</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ML_OPTIONS_BORDERCOLOR">
+			<Text>Border Color</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ML_OPTIONS_COLOR_R">
+			<Text>Red</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ML_OPTIONS_COLOR_G">
+			<Text>Green</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ML_OPTIONS_COLOR_B">
+			<Text>Blue</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ML_OPTIONS_ALPHA">
+			<Text>Visibility</Text>
+		</Row>
+		
+		<!--POPUP:OPTIONS:ICONS-->
+		<Row Tag="TXT_KEY_ML_OPTIONS_ICON">
+			<Text>Icon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ML_MAINTYPE_OTHER">
+			<Text>Other</Text>
+		</Row>
+		
+		
+		<!--POPUP:OPTIONS:BATTLE-->
+		<Row Tag="TXT_KEY_ML_BATTLE_MINUNITS">
+			<Text>Minimum Units Killed [ICON_ML_QUESTION]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ML_BATTLE_MINUNITS_TT">
+			<Text>Minimum units on both sides killed to be considered battle site</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ML_BATTLE_MAXSIZE">
+			<Text>Maximum Battle Size [ICON_ML_QUESTION]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ML_BATTLE_MAXSIZE_TT">
+			<Text>Maximum spread of battle (in plots)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ML_BATTLE_MAXYEARS">
+			<Text>Maximum Battle Length [ICON_ML_QUESTION]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ML_BATTLE_MAXYEARS_TT">
+			<Text>Maximum length of single battle (in years)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ML_BATTLE_ENABLED">
+			<Text>Enable Battle Site Labels</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ML_BATTLE_ENABLED_TT">
+			<Text>Disabling this will stop generation of labels for battle sites; to temporarily hide battle labels instead, go to Options->Label Display->Battle and select "Hidden"</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ML_RAZED_ENABLED">
+			<Text>Enable Razed City Labels</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ML_RAZED_ENABLED_TT">
+			<Text>Disabling this will stop generation of labels when cities are razed; to temporarily hide battle labels instead, go to Options->Label Display->Battle and select "Hidden"</Text>
+		</Row>
+		
+		<!--POPUP:OPTIONS:DLG-->
+		<Row Tag="TXT_KEY_ML_STATIC_EXPLAIN">
+			<Text>
+				[COLOR_WARNING_TEXT][ICON_ML_EXCLAMATION2] Dynamic Labels Generator is[NEWLINE]  not supported.[ENDCOLOR][NEWLINE]
+				This map comes with preset[NEWLINE]  Region and Feature labels.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ML_OPENDLG">
+			<Text>OPEN</Text>
+		</Row>
+		
+		<!--POPUP:OPTIONS:OTHER-->
+		<Row Tag="TXT_KEY_ML_RESTOREDEFAULTS">
+			<Text>Restore Default Settings</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ML_RESTOREDEFAULTS_TT">
+			<Text>Restore default values for label appearance, battle options and dynamic label generator options.</Text>
+		</Row>
+		
+		
+		
+		<!--DLG-->
+		<Row Tag="TXT_KEY_ML_DLG_TITLE">
+			<Text>DYNAMIC LABELS GENERATOR</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ML_DYNAMIC_BUTTON">
+			<Text>Generate Map Labels</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ML_OPTIONS_CULTURE">
+			<Text>Culture</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ML_OPTIONS_CULTURE_RANDOM">
+			<Text>Random</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ML_OPTIONS_CULTURE_BYCIV">
+			<Text>By Civilization</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ML_OPTIONS_CULTURE_ONECULTURE">
+			<Text>Single Culture</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ML_CHOOSECIVCULTURES">
+			<Text>Assign</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ML_CHOOSECIVCULTURES_TT">
+			<Text>Assign cultures to civilizations</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_ML_REGIONS_HEADER_CLOSED">
+			<Text>[ICON_PLUS] Regions</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ML_REGIONS_HEADER_OPEN">
+			<Text>[ICON_MINUS] Regions</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ML_FEATURES_CLOSED">
+			<Text>[ICON_PLUS] Features</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ML_FEATURES_OPEN">
+			<Text>[ICON_MINUS] Features</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ML_ENABLED">
+			<Text>Enabled</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ML_OPTIONS_MINPLOTSINCHUNK">
+			<Text>Minimum Plots [ICON_ML_QUESTION]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ML_OPTIONS_MINPLOTSINCHUNK_TT">
+			<Text>Number of plots required to be assigned a label</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ML_OPTIONS_MINPLOTDISTANCE">
+			<Text>Min Distance [ICON_ML_QUESTION]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ML_OPTIONS_MINPLOTDISTANCE_TT">
+			<Text>Distance (in plots) between labels on map</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ML_OPTIONS_GLOBALMINPLOTDISTANCE">
+			<Text>Minimum Distance [ICON_ML_QUESTION]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ML_OPTIONS_GLOBALMINPLOTDISTANCE_TT">
+			<Text>Distance (in plots) between labels on map</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ML_OPTIONS_GLOBALMAXCHUNKS">
+			<Text>Maximum Labels [ICON_ML_QUESTION]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ML_OPTIONS_GLOBALMAXCHUNKS_TT">
+			<Text>Maximum labels to place on map</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ML_OPTIONS_MAXPLOTSINCHUNK">
+			<Text>Maximum Plots [ICON_ML_QUESTION]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ML_OPTIONS_MAXPLOTSINCHUNK_TT">
+			<Text>Maximum number of plots an island can have</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ML_OPTIONS_MAXCHUNKS">
+			<Text>Max Labels [ICON_ML_QUESTION]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ML_OPTIONS_MAXCHUNKS_TT">
+			<Text>Maximum labels to place on map</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ML_NOMIN">
+			<Text>No Min</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ML_NOMAX">
+			<Text>No Max</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_ML_DLG_REDO">
+			<Text>REDO</Text>
+		</Row>
+		
+		<!--DLG:CULTURES-->
+		<Row Tag="TXT_KEY_ML_DLG_SELECTCULTURES">
+			<Text>Assign Cultures</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ML_ADDCULTURE">
+			<Text>Add Culture</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ML_DELETECULTURE">
+			<Text>Remove Culture</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ML_DLGDEFAULT_ANCIENT">
+			<Text>Ancient World Cultures</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ML_DLGDEFAULT_ANCIENT_TT">
+			<Text>Assign early era cultures to civilizations</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ML_DLGDEFAULT_MODERN">
+			<Text>Modern World Cultures</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ML_DLGDEFAULT_MODERN_TT">
+			<Text>Assign modern, post-colonial era cultures to civilizations</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ML_DLGCULTURES_HEADER">
+			<Text>Select Culture:</Text>
+		</Row>
+		
+		<!--MESSAGES-->
+		<Row Tag="TXT_KEY_ML_DONE">
+			<Text>DONE</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ML_CANCEL">
+			<Text>CANCEL</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ML_CONTINUE">
+			<Text>CONTINUE</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ML_MSG_TITLE_DYNAMIC">
+			<Text>CONFIRM LABELS DELETE</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ML_MSG_TXT_DYNAMIC">
+			<Text>[COLOR_WARNING_TEXT]Running the Dynamic Labels Generator will delete all current Region and Feature labels.[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ML_MSG_TITLE_DELETE">
+			<Text>CONFIRM LABEL DELETE</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ML_MSG_TXT_DELETE">
+			<Text>[COLOR_WARNING_TEXT]This label will be DELETED.[ENDCOLOR] There is no option to undo.[NEWLINE][NEWLINE]To hide this label type instead, go to [NEWLINE][ICON_GREAT_ENGINEER] OPTIONS: Label Display.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ML_MSG_TITLE_ERROR">
+			<Text>ERROR</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ML_MSG_TITLE_DEFAULTS">
+			<Text>RESTORE DEFAULT SETTINGS</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ML_MSG_TXT_DEFAULTS">
+			<Text>[COLOR_WARNING_TEXT]Restoring default settings will remove all changes made to label appearance, battle options and dynamic label generator options.[ENDCOLOR]</Text>
+		</Row>
+		
+		
+		<!--ICON WINDOW-->
+		<Row Tag="TXT_KEY_ML_ICON_HEADER">
+			<Text>CHOOSE AN ICON:</Text>
+		</Row>
+		
+		<!--ADD/EDIT WINDOW-->
+		<Row Tag="TXT_KEY_ML_TITLE_ADD">
+			<Text>ADD NEW LABEL</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ML_TITLE_EDIT">
+			<Text>EDIT LABEL</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ML_SAVE">
+			<Text>SAVE</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ML_ADD_NAME">
+			<Text>Name</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ML_ADD_TOOLTIP">
+			<Text>Tooltip[COLOR_GREY] (optional)[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ML_ADD_TYPE">
+			<Text>Label Type:</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ML_ADD_ICON">
+			<Text>Icon:</Text>
+		</Row>
+		
+		<!--MODES-->
+		<Row Tag="TXT_KEY_ML_MODE_ADD">
+			<Text>ADD NEW MAP LABEL</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ML_MODE_EDIT">
+			<Text>EDIT MAP LABEL</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ML_MODE_MOVE">
+			<Text>MOVE MAP LABEL</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ML_MODE_MOVETWO">
+			<Text>MOVE MAP LABEL</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ML_MODE_DELETE">
+			<Text>DELETE MAP LABEL</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ML_MODE_INSTRUCTIONS_ADD">
+			<Text>Left-Click on a plot to [ICON_ML_PLUS] Add a new label.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ML_MODE_INSTRUCTIONS_EDIT">
+			<Text>Left-Click on the Map Label[NEWLINE]you want to [ICON_ML_EDIT] Edit.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ML_MODE_INSTRUCTIONS_MOVE">
+			<Text>Left-Click on the Map Label[NEWLINE]you want to [ICON_ML_TARGET2] Move.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ML_MODE_INSTRUCTIONS_MOVETWO">
+			<Text>Left-Click on the new plot[NEWLINE]you want to [ICON_ML_TARGET2] Move the label to.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ML_MODE_INSTRUCTIONS_DELETE">
+			<Text>Left-Click on a Map Label to [ICON_ML_MINUS] Delete.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ML_MODE_INSTRUCTIONS_CANCEL">
+			<Text>To cancel, press ESCAPE.</Text>
+		</Row>
+		
+		<!--LABELS-->
+		<Row Tag="TXT_KEY_ML_BATTLE_NAME">
+			<Text>Battle of </Text>
+		</Row>
+		<Row Tag="TXT_KEY_ML_BATTLE_NAME_SHORT">
+			<Text>Battle</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ML_RAZED_NAME">
+			<Text>Ruins of </Text>
+		</Row>
+		<Row Tag="TXT_KEY_ML_RAZED_TOOLTIP">
+			<Text>razed </Text>
+		</Row>
+
+
+	</Language_en_US>
+</GameData>

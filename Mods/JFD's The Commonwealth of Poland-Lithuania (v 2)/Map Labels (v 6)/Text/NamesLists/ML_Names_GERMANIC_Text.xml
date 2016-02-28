@@ -1,0 +1,1272 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+*****************************************
+*			Map Labels					*
+*	by Hazel (hazel16 @ CivFanatics)	*
+*****************************************
+-->
+<GameData>
+	<Language_en_US>
+		<!-- Template:
+		<Row Tag="TXT_KEY_NAME_ML_KILIMANJARO">
+			<Text>Mount Kilimanjaro</Text>
+		</Row>
+		-->
+		<!-- 
+=========================== 
+Regions 
+=========================== 
+-->
+		<Row Tag="TXT_KEY_NAME_ML_ALTBAYERN">
+			<Text>Altbayern</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_NAME_ML_BERGISCHES_LAND">
+			<Text>Bergisches Land</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_BREISGAU">
+			<Text>Breisgau</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_HEGAU">
+			<Text>Hegau</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_HELLWEG_BRDE">
+			<Text>Hellweg Börde</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_KELLERWALD">
+			<Text>Kellerwald</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_KRAICHGAU">
+			<Text>Kraichgau</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_BEZIRK_LOTHRINGEN">
+			<Text>Bezirk Lothringen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MARKGRFLERLAND">
+			<Text>Markgräflerland</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MECKLENBURG">
+			<Text>Mecklenburg</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_RAMMACHGAU">
+			<Text>Rammachgau</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_RHINELAND">
+			<Text>Rhineland</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_RHINLUCH">
+			<Text>Rhinluch</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_RUHR">
+			<Text>Ruhr</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SAUERLAND">
+			<Text>Sauerland</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SCHLESWIGHOLSTEIN">
+			<Text>Schleswig-Holstein</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SIEGERLAND">
+			<Text>Siegerland</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SLAVINIA">
+			<Text>Slavinia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_STUTTGART">
+			<Text>Stuttgart</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_VOGTLAND">
+			<Text>Vogtland</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_WENDLAND">
+			<Text>Wendland</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_VSTERBOTTEN">
+			<Text>Västerbotten</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_NORRBOTTEN">
+			<Text>Norrbotten</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_UPPSALA">
+			<Text>Uppsala</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SDERMANLAND">
+			<Text>Södermanland</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_STERGTLAND">
+			<Text>Östergötland</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_JNKPING">
+			<Text>Jönköping</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_GOTLAND">
+			<Text>Gotland</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_BLEKINGE">
+			<Text>Blekinge</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SKNE">
+			<Text>Skåne</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_HALLAND">
+			<Text>Halland</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_VSTRA_GTALAND">
+			<Text>Västra Götaland</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_VRMLAND">
+			<Text>Värmland</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_REBRO">
+			<Text>Örebro</Text>
+		</Row>
+
+		<!-- 
+=========================== 
+Oceans 
+=========================== 
+-->
+		<Row Tag="TXT_KEY_NAME_ML_BALTIC_SEA">
+			<Text>Baltic Sea</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SKAGERRAK_SEA">
+			<Text>Skagerrak Sea</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_KATTEGAT_SEA">
+			<Text>Kattegat Sea</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_GULF_OF_BOTHNIA">
+			<Text>Gulf of Bothnia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_HONEUHOFEN_SEA">
+			<Text>Honeuhofen Sea</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_TENEBRUCK_SEA">
+			<Text>Tenebruck Sea</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_HOLLEWALD_SEA">
+			<Text>Hollewald Sea</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_BENERUCK_SEA">
+			<Text>Beneruck Sea</Text>
+		</Row>
+
+
+		<!--	
+=========================== 
+Islands 
+=========================== 
+-->
+		<Row Tag="TXT_KEY_NAME_ML_BORNHOLM_ISLAND">
+			<Text>Bornholm Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FALSTER_ISLAND">
+			<Text>Falster Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FUNEN_ISLAND">
+			<Text>Funen Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LOLLAND_ISLAND">
+			<Text>Lolland Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ZEALAND_ISLAND">
+			<Text>Zealand Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_GOTLAND_ISLAND">
+			<Text>Gotland Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAND_ISLAND">
+			<Text>Öland Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ORUST_ISLAND">
+			<Text>Orust Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_HISINGEN_ISLAND">
+			<Text>Hisingen Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_VRMD_ISLAND">
+			<Text>Värmdö Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_TJRN_ISLAND">
+			<Text>Tjörn Island</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_NAME_ML_FRISIAN_ISLAND">
+			<Text>Frisian Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_WADDEN_ISLAND">
+			<Text>Wadden Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_JUTLANDIC_ISLAND">
+			<Text>Jutlandic Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_JAN_MAYEN_ISLAND">
+			<Text>Jan Mayen Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SVALBARD_ISLAND">
+			<Text>Svalbard Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAND_ISLANDS_ISLAND">
+			<Text>Åland Islands Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FEHMARN_ISLAND">
+			<Text>Fehmarn Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_HAILUOTO_ISLAND">
+			<Text>Hailuoto Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_RGEN_ISLAND">
+			<Text>Rügen Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_USEDOM_ISLAND">
+			<Text>Usedom Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_UZNAM_ISLAND">
+			<Text>Uznam Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_WOLIN_ISLAND">
+			<Text>Wolin Island</Text>
+		</Row>
+
+		<!--		
+=========================== 
+Mountains 
+=========================== 
+-->
+		<Row Tag="TXT_KEY_NAME_ML_GALDHPIGGEN_MOUNTAIN">
+			<Text>Galdhøpiggen Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_GLITTERTIND_MOUNTAIN">
+			<Text>Glittertind Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_STORE_SKAGASTLSTIND_MOUNTAIN">
+			<Text>Store Skagastølstind Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_STORE_STYGGEDALSTINDEN_MOUNTAIN">
+			<Text>Store Styggedalstinden Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SKARSTIND_MOUNTAIN">
+			<Text>Skarstind Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_VESLE_GALDHPIGGEN_MOUNTAIN">
+			<Text>Vesle Galdhøpiggen Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SURTNINGSSUE_MOUNTAIN">
+			<Text>Surtningssue Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_STORE_MEMURUTINDEN_MOUNTAIN">
+			<Text>Store Memurutinden Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_JERVVASSTIND_MOUNTAIN">
+			<Text>Jervvasstind Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SENTRALTIND_MOUNTAIN">
+			<Text>Sentraltind Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_KEBNEKAISE_MOUNTAIN">
+			<Text>Kebnekaise Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SAREKTJKK_MOUNTAIN">
+			<Text>Sarektjåkkå Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_KASKASATJKKA_MOUNTAIN">
+			<Text>Kaskasatjåkka Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_KASKASAPAKTE_MOUNTAIN">
+			<Text>Kaskasapakte Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_AKKA_STORTOPPEN_MOUNTAIN">
+			<Text>Akka Stortoppen Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOUNT_AKKA_NORDVSTTOPPEN">
+			<Text>Mount Akka Nordvästtoppen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOUNT_SAREKTJKK_BUCHTTOPPEN">
+			<Text>Mount Sarektjåkkå Buchttoppen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOUNT_PRTETJKKA">
+			<Text>Mount Pårtetjåkka</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOUNT_PALKATJKKA">
+			<Text>Mount Palkatjåkka</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOUNT_HALTI">
+			<Text>Mount Halti</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOUNT_RIDNITSOHKKA">
+			<Text>Mount Ridnitsohkka</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOUNT_KIEDDITSOHKKA">
+			<Text>Mount Kiedditsohkka</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOUNT_KOVDDOSKAISI">
+			<Text>Mount Kovddoskaisi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOUNT_RUVDNAOAIVI">
+			<Text>Mount Ruvdnaoaivi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOUNT_LOASSONIBBA">
+			<Text>Mount Loassonibba</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOUNT_URTASVAARA">
+			<Text>Mount Urtasvaara</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOUNT_KAHPERUSVAARAT">
+			<Text>Mount Kahperusvaarat</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOUNT_ALDORASSA">
+			<Text>Mount Aldorassa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOUNT_KIEDDOAIVI">
+			<Text>Mount Kieddoaivi</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_NAME_ML_ZUGSPITZE_MOUNTAIN">
+			<Text>Zugspitze Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SCHNEEFERNERKOPF_MOUNTAIN">
+			<Text>Schneefernerkopf Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_WETTERSPITZE_MOUNTAIN">
+			<Text>Wetterspitze Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_HOCHWANNER_MOUNTAIN">
+			<Text>Hochwanner Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_HLLENTALSPITZE_MOUNTAIN">
+			<Text>Höllentalspitze Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_WATZMANN_MOUNTAIN">
+			<Text>Watzmann Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_HOCHBLASSEN_MOUNTAIN">
+			<Text>Hochblassen Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_WETTERWANDECK_MOUNTAIN">
+			<Text>Wetterwandeck Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LEUTASCHER_DREITORSPITZE_MOUNTAIN">
+			<Text>Leutascher Dreitorspitze Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_HINTERREINTALSCHROFEN_MOUNTAIN">
+			<Text>Hinterreintalschrofen Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOUNT_HOCHFROTTSPITZE">
+			<Text>Mount Hochfrottspitze</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOUNT_MDELEGABEL">
+			<Text>Mount Mädelegabel</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOUNT_PARTENKIRCHNER_DREITORSPITZE">
+			<Text>Mount Partenkirchner Dreitorspitze</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOUNT_ALPSPITZE">
+			<Text>Mount Alpspitze</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOUNT_VOLLKARSPITZE">
+			<Text>Mount Vollkarspitze</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOUNT_BOCKKARKOPF">
+			<Text>Mount Bockkarkopf</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOUNT_HOCHKALTER">
+			<Text>Mount Hochkalter</Text>
+		</Row>
+
+
+		<!--
+=========================== 
+Lakes 
+=========================== 
+-->
+		<Row Tag="TXT_KEY_NAME_ML_AMMERSEE_LAKE">
+			<Text>Ammersee Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ARENDSEE_LAKE">
+			<Text>Arendsee Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_AUENALSTER_LAKE">
+			<Text>Außenalster Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_BAALENSEE_LAKE">
+			<Text>Baalensee Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_BALDENEYSEE_LAKE">
+			<Text>Baldeneysee Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_BEDERKESAER_LAKE">
+			<Text>Bederkesaer Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_BEETZSEE_LAKE">
+			<Text>Beetzsee Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_BIGGESEE_LAKE">
+			<Text>Biggesee Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_BINNENALSTER_LAKE">
+			<Text>Binnenalster Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_BRAHMSEE_LAKE">
+			<Text>Brahmsee Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_BREITLINGSEE_LAKE">
+			<Text>Breitlingsee Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_BROMBACHSEE_LAKE">
+			<Text>Brombachsee Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_BULLENSEE_LAKE">
+			<Text>Bullensee Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_CHIEMSEE_LAKE">
+			<Text>Chiemsee Lake</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_NAME_ML_DMMERSEE_LAKE">
+			<Text>Dümmersee Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_EDERSEE_LAKE">
+			<Text>Edersee Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_EIBSEE_LAKE">
+			<Text>Eibsee Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ELLBOGENSEE_LAKE">
+			<Text>Ellbogensee Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ESCHBACH_RESERVOIR_LAKE">
+			<Text>Eschbach Reservoir Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FLEESEN_LAKE">
+			<Text>Fleesen Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_GELTERSWOOG_LAKE">
+			<Text>Gelterswoog Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_GOTHEN_LAKE">
+			<Text>Gothen Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_GOTTLEUBA_LAKE">
+			<Text>Gottleuba Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_GROER_LABUS_LAKE">
+			<Text>Großer Labus Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_GROER_MLLROSER_LAKE">
+			<Text>Großer Müllroser Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_GROER_PRIEPERT_LAKE">
+			<Text>Großer Priepert Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_HALTERNER_LAKE">
+			<Text>Halterner Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_HENGSTEY_LAKE">
+			<Text>Hengstey Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_KELLER_LAKE">
+			<Text>Keller Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_KNIGS_LAKE">
+			<Text>Königs Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_KRUMME_LANKE_LAKE">
+			<Text>Krumme Lanke Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MASCH_LAKE">
+			<Text>Masch Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MECHOWER_LAKE">
+			<Text>Mechower Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MHNE_LAKE">
+			<Text>Möhne Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MSERSCHER_LAKE">
+			<Text>Möserscher Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MGGEL_LAKE">
+			<Text>Müggel Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MRITZ_LAKE">
+			<Text>Müritz Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_NORDERTEICH_LAKE">
+			<Text>Norderteich Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ODER_LAKE">
+			<Text>Oder Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_OKER_LAKE">
+			<Text>Oker Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_PARSTEINER_LAKE">
+			<Text>Parsteiner Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_PFAFFENTEICH_LAKE">
+			<Text>Pfaffenteich Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_PLAUER_LAKE">
+			<Text>Plauer Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_PLNER_LAKE">
+			<Text>Plöner Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_PLTZEN_LAKE">
+			<Text>Plötzen Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_QUENZ_LAKE">
+			<Text>Quenz Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_RBLIN_LAKE">
+			<Text>Röblin Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SCHARMTZEL_LAKE">
+			<Text>Scharmützel Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SCHERMTZEL_LAKE">
+			<Text>Schermützel Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SCHLUCH_LAKE">
+			<Text>Schluch Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SCHWERINER_LAKE">
+			<Text>Schweriner Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAKE_SCHMOLLEN">
+			<Text>Lake Schmollen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAKE_SCHWEDT">
+			<Text>Lake Schwedt</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAKE_SEILER">
+			<Text>Lake Seiler</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAKE_SORPE">
+			<Text>Lake Sorpe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAKE_SSE">
+			<Text>Lake Söse</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAKE_STOLP">
+			<Text>Lake Stolp</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAKE_STARNBERG">
+			<Text>Lake Starnberg</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAKE_STEINHUDER">
+			<Text>Lake Steinhuder</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAKE_TEGEL">
+			<Text>Lake Tegel</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAKE_USERINER">
+			<Text>Lake Useriner</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAKE_WANGNITZ">
+			<Text>Lake Wangnitz</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAKE_WANN">
+			<Text>Lake Wann</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAKE_WEND">
+			<Text>Lake Wend</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAKE_WOBLITZ">
+			<Text>Lake Woblitz</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAKE_WOLGAST">
+			<Text>Lake Wolgast</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAKE_ZIERN">
+			<Text>Lake Ziern</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAKE_ZWISCHENAHNER">
+			<Text>Lake Zwischenahner</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAKE_NNSJN">
+			<Text>Lake Ånnsjön</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAKE_RESJN">
+			<Text>Lake Åresjön</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAKE_BOLMEN">
+			<Text>Lake Bolmen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAKE_BOREN">
+			<Text>Lake Boren</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAKE_DELLEN">
+			<Text>Lake Dellen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAKE_GLAN">
+			<Text>Lake Glan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAKE_HJLMAREN">
+			<Text>Lake Hjälmaren</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAKE_IKESJAURE">
+			<Text>Lake Ikesjaure</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAKE_HORNAVAN">
+			<Text>Lake Hornavan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAKE_MLAREN">
+			<Text>Lake Mälaren</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAKE_MIEN">
+			<Text>Lake Mien</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ROXEN_LAKE">
+			<Text>Roxen Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_RUNN_LAKE">
+			<Text>Runn Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SILJAN_LAKE">
+			<Text>Siljan Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SOMMEN_LAKE">
+			<Text>Sommen Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SPARREN_LAKE">
+			<Text>Sparren Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_STORAVAN_LAKE">
+			<Text>Storavan Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_STORSJN_LAKE">
+			<Text>Storsjön Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_TORNETRSK_LAKE">
+			<Text>Torneträsk Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_TKERN_LAKE">
+			<Text>Tåkern Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_VNERN_LAKE">
+			<Text>Vänern Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_VSMAN_LAKE">
+			<Text>Väsman Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_VTTERN_LAKE">
+			<Text>Vättern Lake</Text>
+		</Row>
+
+		<!-- 		
+=========================== 
+Rivers 
+=========================== 
+-->
+		<Row Tag="TXT_KEY_NAME_ML_RIVER_NORRSTRM">
+			<Text>River Norrström</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_RIVER_DALEN">
+			<Text>River Dalen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_RIVER_LJUSNAN">
+			<Text>River Ljusnan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_RIVER_LJUNGAN">
+			<Text>River Ljungan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_RIVER_INDALSEN">
+			<Text>River Indalsen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_RIVER_NGERMANEN">
+			<Text>River Ångermanen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_RIVER_UME">
+			<Text>River Ume</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_RIVER_SKELLEFTE">
+			<Text>River Skellefte</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_RIVER_PITE">
+			<Text>River Pite</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_RIVER_LULE">
+			<Text>River Lule</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_RIVER_KALIX">
+			<Text>River Kalix</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_RIVER_TORNE">
+			<Text>River Torne</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_RIVER_GLOMMA">
+			<Text>River Glomma</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_RIVER_PASVIKELVA">
+			<Text>River Pasvikelva</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_RIVER_IVALOJOKI">
+			<Text>River Ivalojoki</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_RIVER_NUMEDALSLGEN">
+			<Text>River Numedalslågen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_RIVER_GUDBRANDSDALSLGEN">
+			<Text>River Gudbrandsdalslågen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_RIVER_VORMA">
+			<Text>River Vorma</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_RIVER_TANAELVA">
+			<Text>River Tanaelva</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_RIVER_DRAMMENSVASSDRAGET">
+			<Text>River Drammensvassdraget</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_RIVER_SKIENSVASSDRAGET">
+			<Text>River Skiensvassdraget</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_RIVER_BEGNA">
+			<Text>River Begna</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_RIVER_OTRA">
+			<Text>River Otra</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_RIVER_TRYSILELVA">
+			<Text>River Trysilelva</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_RIVER_ALTAELVA">
+			<Text>River Altaelva</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_RIVER_NAMSEN">
+			<Text>River Namsen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_RIVER_HALLINGDALSELVA">
+			<Text>River Hallingdalselva</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_RIVER_SNARUMSELVA">
+			<Text>River Snarumselva</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_RIVER_ARENDALSVASSDRAGET">
+			<Text>River Arendalsvassdraget</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_RIVER_ORKLAELVA">
+			<Text>River Orklaelva</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_RIVER_RENAELVA">
+			<Text>River Renaelva</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_RIVER_VEFSNA">
+			<Text>River Vefsna</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_RIVER_NEANIDELVVASSDRAGET">
+			<Text>River Nea-Nidelvvassdraget</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_RIVER_KARASJOHKA">
+			<Text>River Karasjohka</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_RIVER_GAULA">
+			<Text>River Gaula</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_RIVER_FELLER_BACH">
+			<Text>River Feller Bach</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_RIVER_FILS">
+			<Text>River Fils</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_RIVER_FUHSE">
+			<Text>River Fuhse</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_RIVER_FULDA">
+			<Text>River Fulda</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_RIVER_GARTE">
+			<Text>River Garte</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_RIVER_GERA">
+			<Text>River Gera</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_RIVER_GLAN">
+			<Text>River Glan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_RIVER_GOSEABZUCHT">
+			<Text>River Gose/Abzucht</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_RIVER_GOTTLEUBA">
+			<Text>River Gottleuba</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_RIVER_GROE_LABER">
+			<Text>River Große Laber</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_RIVER_GNZ">
+			<Text>River Günz</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_RIVER_HAMME">
+			<Text>River Hamme</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_RIVER_HASE">
+			<Text>River Hase</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_RIVER_HAUNE">
+			<Text>River Haune</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_RIVER_HAVEL">
+			<Text>River Havel</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_RIVER_HELLER">
+			<Text>River Heller</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_RIVER_HNNE">
+			<Text>River Hönne</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_RIVER_HRSEL">
+			<Text>River Hörsel</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_RIVER_HUNTE">
+			<Text>River Hunte</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_RIVER_IHME">
+			<Text>River Ihme</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_RIVER_ILLER">
+			<Text>River Iller</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_RIVER_ILM">
+			<Text>River Ilm</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_RIVER_ILMENAU">
+			<Text>River Ilmenau</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_RIVER_ILZ">
+			<Text>River Ilz</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_RIVER_INDE">
+			<Text>River Inde</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_RIVER_INN">
+			<Text>River Inn</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_INNERSTE_RIVER">
+			<Text>Innerste River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ISAR_RIVER">
+			<Text>Isar River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ISEN_RIVER">
+			<Text>Isen River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ITZ_RIVER">
+			<Text>Itz River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_JADE_RIVER">
+			<Text>Jade River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_JAGST_RIVER">
+			<Text>Jagst River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_JEETZEL_RIVER">
+			<Text>Jeetzel River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_KAMMEL_RIVER">
+			<Text>Kammel River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_KANDER_RIVER">
+			<Text>Kander River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_KINZIG_RIVER">
+			<Text>Kinzig River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_KOCHER_RIVER">
+			<Text>Kocher River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_KYLL_RIVER">
+			<Text>Kyll River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_PAAR_RIVER">
+			<Text>Paar River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_PADER_RIVER">
+			<Text>Pader River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_PARTHE_RIVER">
+			<Text>Parthe River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_PEENE_RIVER">
+			<Text>Peene River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_PEGNITZ_RIVER">
+			<Text>Pegnitz River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_PFINZ_RIVER">
+			<Text>Pfinz River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_PLANE_RIVER">
+			<Text>Plane River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_PLEIE_RIVER">
+			<Text>Pleiße River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_PRIMS_RIVER">
+			<Text>Prims River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_PRM_RIVER">
+			<Text>Prüm River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_QUEICH_RIVER">
+			<Text>Queich River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_RECKNITZ_RIVER">
+			<Text>Recknitz River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_RED_MAIN_RIVER">
+			<Text>Red Main River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_REDNITZ_RIVER">
+			<Text>Rednitz River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_REGEN_RIVER">
+			<Text>Regen River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_REGNITZ_RIVER">
+			<Text>Regnitz River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_REMS_RIVER">
+			<Text>Rems River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_RENCH_RIVER">
+			<Text>Rench River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_RHEIDER_AU_RIVER">
+			<Text>Rheider Au River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_RHIN_RIVER">
+			<Text>Rhin River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_RHINE_RIVER">
+			<Text>Rhine River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_RHUME_RIVER">
+			<Text>Rhume River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_RI_RIVER">
+			<Text>Riß River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ROT_RIVER">
+			<Text>Rot River</Text>
+		</Row>
+
+
+		<!-- 
+=========================== 
+Forests 
+=========================== 
+-->
+		<Row Tag="TXT_KEY_NAME_ML_MIESEFELS_FOREST">
+			<Text>Miesefels Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_BERAUBRUCK_FOREST">
+			<Text>Beraubruck Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_WARZENDORF_FOREST">
+			<Text>Warzendorf Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_PFURSTELBERG_FOREST">
+			<Text>Pfurstelberg Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ONDENDORF_FOREST">
+			<Text>Ondendorf Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_GENEBACH_FOREST">
+			<Text>Genebach Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_HENEFELD_FOREST">
+			<Text>Henefeld Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_KIRCHEHEIM_FOREST">
+			<Text>Kircheheim Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_HEINESTADT_FOREST">
+			<Text>Heinestadt Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_HENEFELS_FOREST">
+			<Text>Henefels Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_HEINSEFELS_FOREST">
+			<Text>Heinsefels Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_HENEBERG_FOREST">
+			<Text>Heneberg Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ALLENHEIM_FOREST">
+			<Text>Allenheim Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_RAFORCHDORF_FOREST">
+			<Text>Raforchdorf Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_HEINEFELD_FOREST">
+			<Text>Heinefeld Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_GENESTEIN_FOREST">
+			<Text>Genestein Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ITTENDORF_FOREST">
+			<Text>Ittendorf Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_WASSESTEIN_FOREST">
+			<Text>Wassestein Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ZENERUCK_FOREST">
+			<Text>Zeneruck Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_GERSKEFELL_FOREST">
+			<Text>Gerskefell Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_AKOLFRKLIF_FOREST">
+			<Text>Akolfrklif Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_AGNARDALR_FOREST">
+			<Text>Agnardalr Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_HAAKETHORP_FOREST">
+			<Text>Haakethorp Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_HORMITOFT_FOREST">
+			<Text>Hormitoft Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_AKILKLIF_FOREST">
+			<Text>Akilklif Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_HOLMSTEHOLM_FOREST">
+			<Text>Holmsteholm Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_NORESKALI_FOREST">
+			<Text>Noreskali Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FOREST_OF_JORNITHVEIT">
+			<Text>Forest of Jornithveit</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FOREST_OF_BODITOFT">
+			<Text>Forest of Boditoft</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FOREST_OF_HONDIKLIF">
+			<Text>Forest of Hondiklif</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FOREST_OF_ORBENTOFT">
+			<Text>Forest of Orbentoft</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FOREST_OF_BJOLFISETR">
+			<Text>Forest of Bjolfisetr</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FOREST_OF_HULFITHVEIT">
+			<Text>Forest of Hulfithveit</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FOREST_OF_HALLIBEKKR">
+			<Text>Forest of Hallibekkr</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FOREST_OF_ADDORFBYR">
+			<Text>Forest of Addorfbyr</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FOREST_OF_HRUNIBEKKR">
+			<Text>Forest of Hrunibekkr</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FOREST_OF_STEINIHOLM">
+			<Text>Forest of Steiniholm</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FOREST_OF_TORIDALR">
+			<Text>Forest of Toridalr</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FOREST_OF_BORGEHOLM">
+			<Text>Forest of Borgeholm</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_SILKEBORGSKOVENE_FOREST">
+			<Text>Silkeborgskovene Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_ROLD_SKOV_FOREST">
+			<Text>Rold Skov Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_KLOSTERHEDEN_FOREST">
+			<Text>Klosterheden Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_GRIBSKOV_FOREST">
+			<Text>Gribskov Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_ALMINDINGEN_FOREST">
+			<Text>Almindingen Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_KOMPEDAL_PLANTAGE_FOREST">
+			<Text>Kompedal Plantage Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_ALHEDENS_SKOV_FOREST">
+			<Text>Alhedens Skov Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_LVENHOLM_FOREST">
+			<Text>Løvenholm Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_FJELD_FOREST">
+			<Text>Fjeld Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_RAMTEN_FOREST">
+			<Text>Ramten Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_VESTERSKOV_FOREST">
+			<Text>Vesterskov Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_THORS_FOREST">
+			<Text>Thorsø Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_SNDERSKOV_FOREST">
+			<Text>Sønderskov Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_RYE_NRRESKOV_FOREST">
+			<Text>Rye Nørreskov Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_SKRAMS_FOREST">
+			<Text>Skramsø Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_SKRS_FOREST">
+			<Text>Skærsø Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_LYNGSBK_FOREST">
+			<Text>Lyngsbæk Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_SLAGELSESKOVENE_FOREST">
+			<Text>Slagelseskovene Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_TVORUP_FOREST">
+			<Text>Tvorup Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_NYSTRUP_FOREST">
+			<Text>Nystrup Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_VANDET_FOREST">
+			<Text>Vandet Forest</Text>
+		</Row>
+
+
+
+
+		<!--
+=========================== 
+Deserts 
+=========================== 
+-->
+		<Row Tag="TXT_KEY_NAME_ML_ESTGEINGKLIF_DESERT">
+			<Text>Estgeingklif Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ARKIRTOFT_DESERT">
+			<Text>Arkirtoft Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_KETIBYR_DESERT">
+			<Text>Ketibyr Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_REDIVIK_DESERT">
+			<Text>Redivik Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_THAEMGIBEKKR_DESERT">
+			<Text>Thaemgibekkr Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_BLIDIVIK_DESERT">
+			<Text>Blidivik Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ODDIMRSETR_DESERT">
+			<Text>Oddimrsetr Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SEGIHOLM_DESERT">
+			<Text>Segiholm Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_KILITOFT_DESERT">
+			<Text>Kilitoft Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_VARDRESKALI_DESERT">
+			<Text>Vardreskali Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_BERGFIVIK_DESERT">
+			<Text>Bergfivik Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LENDIDALR_DESERT">
+			<Text>Lendidalr Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ALTIRTOFT_DESERT">
+			<Text>Altirtoft Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_VIRIDALR_DESERT">
+			<Text>Viridalr Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_TEINIDALR_DESERT">
+			<Text>Teinidalr Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_HORFRISKALI_DESERT">
+			<Text>Horfriskali Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_HORGIBEKKR_DESERT">
+			<Text>Horgibekkr Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_HALLISKALI_DESERT">
+			<Text>Halliskali Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MUNDISETR_DESERT">
+			<Text>Mundisetr Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LOGIHOLM_DESERT">
+			<Text>Logiholm Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MINDEHOFEN_DESERT">
+			<Text>Mindehofen Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MAINBORNFELD_DESERT">
+			<Text>Mainbornfeld Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_HAITERBRUCK_DESERT">
+			<Text>Haiterbruck Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_HEPPOHLRUCK_DESERT">
+			<Text>Heppohlruck Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ATTELSSTADT_DESERT">
+			<Text>Attelsstadt Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_DEGGERMRUCK_DESERT">
+			<Text>Deggermruck Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_HEIDESTADT_DESERT">
+			<Text>Heidestadt Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_STENEBRUCK_DESERT">
+			<Text>Stenebruck Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_STENEFELS_DESERT">
+			<Text>Stenefels Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_DESEBACH_DESERT">
+			<Text>Desebach Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MUNSTENFELS_DESERT">
+			<Text>Munstenfels Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ALLENSTEIN_DESERT">
+			<Text>Allenstein Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_BAIERSEHEIM_DESERT">
+			<Text>Baierseheim Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_HENEFELS_DESERT">
+			<Text>Henefels Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_HENEUBERG_DESERT">
+			<Text>Heneuberg Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_RASTENBACH_DESERT">
+			<Text>Rastenbach Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MILTAUNSTADT_DESERT">
+			<Text>Miltaunstadt Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ULRINHEIM_DESERT">
+			<Text>Ulrinheim Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_GENEFELD_DESERT">
+			<Text>Genefeld Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_RICHEBERG_DESERT">
+			<Text>Richeberg Desert</Text>
+		</Row>
+
+
+	</Language_en_US>
+</GameData>

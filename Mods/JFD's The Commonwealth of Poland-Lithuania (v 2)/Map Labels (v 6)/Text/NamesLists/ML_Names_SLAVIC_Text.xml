@@ -1,0 +1,887 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+*****************************************
+*			Map Labels					*
+*	by Hazel (hazel16 @ CivFanatics)	*
+*****************************************
+-->
+<GameData>
+	<Language_en_US>
+		<!-- Template:
+		<Row Tag="TXT_KEY_NAME_ML_KILIMANJARO">
+			<Text>Mount Kilimanjaro</Text>
+		</Row>
+		-->
+		<!-- 
+=========================== 
+Regions 
+=========================== 
+-->
+
+		<Row Tag="TXT_KEY_NAME_MLADD_SMOLENSCHINA">
+			<Text>Smolenschina</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_KUBAN_KRAI">
+			<Text>Kuban Krai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_DON_VOISKO">
+			<Text>Don Voisko</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_TRANSBAIKAL">
+			<Text>Transbaikal</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_YAKUTIA">
+			<Text>Yakutia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_TAYMYR">
+			<Text>Taymyr</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_CHERKESSIA">
+			<Text>Cherkessia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_SEVERSHCHINA">
+			<Text>Severshchina</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_YUGRA_KRAI">
+			<Text>Yugra Krai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_MASOVIA">
+			<Text>Masovia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_KUYAVIA">
+			<Text>Kuyavia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_LUSATIA">
+			<Text>Lusatia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_PODLASIE">
+			<Text>Podlasie</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_POLESIE">
+			<Text>Polesie</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_POMERANIA">
+			<Text>Pomerania</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_NAME_MLADD_SILESIA">
+			<Text>Silesia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_SUBCARPATHIA">
+			<Text>Subcarpathia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_GALICIA">
+			<Text>Galicia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_LODOMERIA">
+			<Text>Lodomeria</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_PODOLIA">
+			<Text>Podolia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_VOLHYNIA">
+			<Text>Volhynia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_WARMIA">
+			<Text>Warmia</Text>
+		</Row>
+
+
+
+		<!-- 
+=========================== 
+Oceans 
+=========================== 
+-->
+		<Row Tag="TXT_KEY_NAME_ML_SIBERIAN_SEA">
+			<Text>Siberian Sea</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_KARA_SEA">
+			<Text>Kara Sea</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAPTEV_SEA">
+			<Text>Laptev Sea</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SEA_OF_OKHOTSK">
+			<Text>Sea of Okhotsk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_PECHORA_SEA">
+			<Text>Pechora Sea</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SEA_OF_AZOV">
+			<Text>Sea of Azov</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_BARENTS_SEA">
+			<Text>Barents Sea</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_BERING_SEA">
+			<Text>Bering Sea</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_CHUKCHI_SEA">
+			<Text>Chukchi Sea</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_BLACK_SEA">
+			<Text>Black Sea</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_BALTIC_SEA">
+			<Text>Baltic Sea</Text>
+		</Row>
+
+
+
+
+
+		<!--	
+=========================== 
+Islands 
+=========================== 
+-->
+		<Row Tag="TXT_KEY_NAME_MLADD_NOVAYA_ZEMLYA">
+			<Text>Novaya Zemlya</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_WOLIN_ISLAND">
+			<Text>Wolin Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_UZNAM_ISLAND">
+			<Text>Uznam Island</Text>
+		</Row>
+
+
+
+
+		<!--		
+=========================== 
+Mountains 
+=========================== 
+-->
+		<Row Tag="TXT_KEY_NAME_ML_MOUNT_VYSOKAYA">
+			<Text>Mount Vysokaya</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ADZHIGARDAK_MOUNTAIN">
+			<Text>Adzhigardak Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ANGVUNDASCHORR_MOUNTAIN">
+			<Text>Angvundaschorr Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ANIK_MOUNTAIN">
+			<Text>Anik Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ATSONUPURI_MOUNTAIN">
+			<Text>Atsonupuri Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_BARANSKY_MOUNTAIN">
+			<Text>Baransky Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_BASEGI_MOUNTAIN">
+			<Text>Basegi Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_BELALAKAYA_MOUNTAIN">
+			<Text>Belalakaya Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_BELUKHA_MOUNTAIN">
+			<Text>Belukha Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_BERILL_MOUNTAIN">
+			<Text>Berill Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_BERUTARUBE_MOUNTAIN">
+			<Text>Berutarube Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_BESHTAU_MOUNTAIN">
+			<Text>Beshtau Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_CHIRIP_MOUNTAIN">
+			<Text>Chirip Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_CHUGUSH_MOUNTAIN">
+			<Text>Chugush Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_DIKLOSMTA_MOUNTAIN">
+			<Text>Diklosmta Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_DOMBAYULGEN_MOUNTAIN">
+			<Text>Dombay-Ulgen Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_DONGUZ_MOUNTAIN">
+			<Text>Donguz Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_DYKHTAU_MOUNTAIN">
+			<Text>Dykh-Tau Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_DZHANGITAU_MOUNTAIN">
+			<Text>Dzhangi-Tau Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_GORNAYA_SHORIA_MOUNTAIN">
+			<Text>Gornaya Shoria Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ICHINSKY_MOUNTAIN">
+			<Text>Ichinsky Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ILYINSKY_MOUNTAIN">
+			<Text>Ilyinsky Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_IREMEL_MOUNTAIN">
+			<Text>Iremel Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_KAMBALNY_MOUNTAIN">
+			<Text>Kambalny Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_KAMEN_MOUNTAIN">
+			<Text>Kamen Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_KARYMSKY_MOUNTAIN">
+			<Text>Karymsky Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_KEBENEY_MOUNTAIN">
+			<Text>Kebeney Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_KELL_MOUNTAIN">
+			<Text>Kell Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_KHANGAR_MOUNTAIN">
+			<Text>Khangar Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_KHODUTKA_MOUNTAIN">
+			<Text>Khodutka Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_KHOLAT_SYAKHL_MOUNTAIN">
+			<Text>Kholat Syakhl Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_KHUVKHOITUN_MOUNTAIN">
+			<Text>Khuvkhoitun Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_KIKHPINYCH_MOUNTAIN">
+			<Text>Kikhpinych Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_KIZIMEN_MOUNTAIN">
+			<Text>Kizimen Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_KLYUCHEVSKAYA_SOPKA_MOUNTAIN">
+			<Text>Klyuchevskaya Sopka Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_KO_MOUNTAIN">
+			<Text>Ko Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_KOMAROV_MOUNTAIN">
+			<Text>Komarov Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_KONZHAKOVSKIY_KAMEN_MOUNTAIN">
+			<Text>Konzhakovskiy Kamen Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_KORVATUNTURI_MOUNTAIN">
+			<Text>Korvatunturi Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_KORYAKSKY_MOUNTAIN">
+			<Text>Koryaksky Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_KOSHELEV_MOUNTAIN">
+			<Text>Koshelev Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_KOSHTANTAU_MOUNTAIN">
+			<Text>Koshtan-Tau Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_KOSTAKAN_MOUNTAIN">
+			<Text>Kostakan Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_KOSVINSKY_KAMEN_MOUNTAIN">
+			<Text>Kosvinsky Kamen Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_KRASHENINNIKOV_MOUNTAIN">
+			<Text>Krasheninnikov Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_KRONOTSKY_MOUNTAIN">
+			<Text>Kronotsky Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_KSUDACH_MOUNTAIN">
+			<Text>Ksudach Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_KVARKUSH_MOUNTAIN">
+			<Text>Kvarkush Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LATSGA_MOUNTAIN">
+			<Text>Latsga Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LESSER_KHINGAN_MOUNTAIN">
+			<Text>Lesser Khingan Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LEUTONGEY_MOUNTAIN">
+			<Text>Leutongey Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MALAKATYNTAS_MOUNTAIN">
+			<Text>Malakatyn-Tas Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MALY_PAYALPAN_MOUNTAIN">
+			<Text>Maly Payalpan Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MALY_SEMYACHIK_MOUNTAIN">
+			<Text>Maly Semyachik Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MANARAGA_MOUNTAIN">
+			<Text>Manaraga Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MASHKOVTSEV_MOUNTAIN">
+			<Text>Mashkovtsev Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MASHUK_MOUNTAIN">
+			<Text>Mashuk Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MONKH_SARIDAG_MOUNTAIN">
+			<Text>Monkh Saridag Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOUNT_AKHUN">
+			<Text>Mount Akhun</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOUNT_BAZARDZ">
+			<Text>Mount Bazardüzü</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOUNT_DZHIMARA">
+			<Text>Mount Dzhimara</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOUNT_ELBRUS">
+			<Text>Mount Elbrus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOUNT_FISHT">
+			<Text>Mount Fisht</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOUNT_KAMEN">
+			<Text>Mount Kamen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOUNT_KARPINSKY">
+			<Text>Mount Karpinsky</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOUNT_KHOLODILNIK">
+			<Text>Mount Kholodilnik</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOUNT_LIVADIYSKAYA">
+			<Text>Mount Livadiyskaya</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOUNT_NARODNAYA">
+			<Text>Mount Narodnaya</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOUNT_SHANI">
+			<Text>Mount Shani</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOUNT_YAMANTAU">
+			<Text>Mount Yamantau</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOUNTAIN_SHORIYA">
+			<Text>Mountain Shoriya</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MUSKHAYA_MOUNTAIN">
+			<Text>Mus-Khaya Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MUTNOVSKY_MOUNTAIN">
+			<Text>Mutnovsky Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_OBSHCHY_SYRT_MOUNTAIN">
+			<Text>Obshchy Syrt Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_OPALA_MOUNTAIN">
+			<Text>Opala Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_OSLYANKA_MOUNTAIN">
+			<Text>Oslyanka Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_OSTRY_MOUNTAIN">
+			<Text>Ostry Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_OZERNOY_MOUNTAIN">
+			<Text>Ozernoy Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_PAYKHOY_RIDGE">
+			<Text>Pay-Khoy Ridge</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_PEAK_POBEDA_SAKHA_MOUNTAIN">
+			<Text>Peak Pobeda, Sakha Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_PLOSKY_MOUNTAIN">
+			<Text>Plosky Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_POGRANICHNY_MOUNTAIN">
+			<Text>Pogranichny Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ROMANOVKA_MOUNTAIN">
+			<Text>Romanovka Mountain</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_NAME_ML_SHISHEL_MOUNTAIN">
+			<Text>Shishel Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SHIVELUCH_MOUNTAIN">
+			<Text>Shiveluch Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SHKHARA_MOUNTAIN">
+			<Text>Shkhara Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SHOTA_RUSTAVELI_PEAK">
+			<Text>Shota Rustaveli Peak</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SNEGOVOY_MOUNTAIN">
+			<Text>Snegovoy Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_TAUNSHITS_MOUNTAIN">
+			<Text>Taunshits Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_TAVAN_BOGD_MOUNTAIN">
+			<Text>Tavan Bogd Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_TEBULOSMTA_MOUNTAIN">
+			<Text>Tebulosmta Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_TITILA_MOUNTAIN">
+			<Text>Titila Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_TOLBACHIK_MOUNTAIN">
+			<Text>Tolbachik Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_TORDOKI_YANI_MOUNTAIN">
+			<Text>Tordoki Yani Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_TULYMSKY_KAMEN_MOUNTAIN">
+			<Text>Tulymsky Kamen Mountain</Text>
+		</Row>
+
+
+		<Row Tag="TXT_KEY_NAME_ML_TUZOVSKY_MOUNTAIN">
+			<Text>Tuzovsky Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_UDINA_MOUNTAIN">
+			<Text>Udina Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_UKSICHAN_MOUNTAIN">
+			<Text>Uksichan Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_USHKOVSKY_MOUNTAIN">
+			<Text>Ushkovsky Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_VALDAI_MOUNTAIN">
+			<Text>Valdai Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_VERKHOVOY_MOUNTAIN">
+			<Text>Verkhovoy Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_VILYUCHIK_MOUNTAIN">
+			<Text>Vilyuchik Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_VOYAMPOLSKY_MOUNTAIN">
+			<Text>Voyampolsky Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_VYSOKY_MOUNTAIN">
+			<Text>Vysoky Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_YELOVSKY_MOUNTAIN">
+			<Text>Yelovsky Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ZHELTOVSKY_MOUNTAIN">
+			<Text>Zheltovsky Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ZHUPANOVSKY_MOUNTAIN">
+			<Text>Zhupanovsky Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ZIMIN_MOUNTAIN">
+			<Text>Zimin Mountain</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_NAME_MLADD_GERLACH_MOUNTAIN">
+			<Text>Gerlach Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_RYSY_MOUNTAIN">
+			<Text>Rysy Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_KOSCIELEC_MOUNTAIN">
+			<Text>Koscielec Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_GIEWONT_MOUNTAIN">
+			<Text>Giewont Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_MNICH_MOUNTAIN">
+			<Text>Mnich Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_THREE_CROWNS_MOUNTAIN">
+			<Text>Three Crowns Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_KASPROWY_WIERCH">
+			<Text>Kasprowy Wierch</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_WOLOWIEC_MOUNTAIN">
+			<Text>Wolowiec Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_BABIA_GORA">
+			<Text>Babia Gora</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_LYSA_GORA">
+			<Text>Lysa Gora</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_SNIEZKA_MOUNTAIN">
+			<Text>Sniezka Mountain</Text>
+		</Row>
+
+
+
+
+		<!--
+=========================== 
+Lakes 
+=========================== 
+-->
+		<Row Tag="TXT_KEY_NAME_ML_LAKE_BAIKAL">
+			<Text>Lake Baikal</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAKE_BELOYE">
+			<Text>Lake Beloye</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAKE_BROSNO">
+			<Text>Lake Brosno</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAKE_BUSTAKH">
+			<Text>Lake Bustakh</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_NAME_ML_LAKE_CHANY">
+			<Text>Lake Chany</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAKE_CHUKCHAGIRSKOYE">
+			<Text>Lake Chukchagirskoye</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAKE_ILMEN">
+			<Text>Lake Ilmen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAKE_IMANDRA">
+			<Text>Lake Imandra</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAKE_KEZANOI">
+			<Text>Lake Kezanoi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAKE_KHANKA">
+			<Text>Lake Khanka</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAKE_KHANTAYSKOYE">
+			<Text>Lake Khantayskoye</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAKE_KIZI">
+			<Text>Lake Kizi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAKE_KUBENSKOYE">
+			<Text>Lake Kubenskoye</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAKE_KULUNDINSKOYE">
+			<Text>Lake Kulundinskoye</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAKE_LADOGA">
+			<Text>Lake Ladoga</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LOVOZERO_LAKE">
+			<Text>Lovozero Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_NERO_LAKE">
+			<Text>Nero Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ONEGA_LAKE">
+			<Text>Onega Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_OREL_LAKE">
+			<Text>Orel Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_OZHOGINO_LAKE">
+			<Text>Ozhogino Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_PLESHCHEYEVO_LAKE">
+			<Text>Pleshcheyevo Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAKE_PEIPUS">
+			<Text>Lake Peipus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SEGOZERO_LAKE">
+			<Text>Segozero Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SELIGER_LAKE">
+			<Text>Seliger Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_TAIMYR_LAKE">
+			<Text>Taimyr Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_TELETSKOYE_LAKE">
+			<Text>Teletskoye Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_TOPOZERO_LAKE">
+			<Text>Topozero Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_UVS_NUUR_LAKE">
+			<Text>Uvs Nuur Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_VALDAYSKOYE_LAKE">
+			<Text>Valdayskoye Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_VISTYTIS_LAKE">
+			<Text>Vistytis Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_YESSEY_LAKE">
+			<Text>Yessey Lake</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_NAME_MLADD_SNIARDWY_LAKE">
+			<Text>Sniardwy Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_MAMRY_LAKE">
+			<Text>Mamry Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_LEBSKO_LAKE">
+			<Text>Lebsko Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_GOPLO_LAKE">
+			<Text>Goplo Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_JEZIORAK_LAKE">
+			<Text>Jeziorak Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_NIEGOCIN_LAKE">
+			<Text>Niegocin Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_GARDNO_LAKE">
+			<Text>Gardno Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_JAMNO_LAKE">
+			<Text>Jamno Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_WIGRY_LAKE">
+			<Text>Wigry Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_HANCZA_LAKE">
+			<Text>Hancza Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_DRAWSKO_LAKE">
+			<Text>Drawsko Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_NIDZKIE_LAKE">
+			<Text>Nidzkie Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_CZORSZTYN_LAKE">
+			<Text>Czorsztyn Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_SOLINA_LAKE">
+			<Text>Solina Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_MORSKIE_OKO_LAKE">
+			<Text>Morskie Oko Lake</Text>
+		</Row>
+
+
+
+
+		<!-- 		
+=========================== 
+Rivers 
+=========================== 
+-->
+		<Row Tag="TXT_KEY_NAME_MLADD_DON_RIVER">
+			<Text>Don River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_VOLGA_RIVER">
+			<Text>Volga River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_VORSKLA_RIVER">
+			<Text>Vorskla River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_MOSKVA_RIVER">
+			<Text>Moskva River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_DNIEPER_RIVER">
+			<Text>Dnieper River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_OKA_RIVER">
+			<Text>Oka River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_OB_RIVER">
+			<Text>Ob River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_YENISEI_RIVER">
+			<Text>Yenisei River</Text>
+		</Row>
+
+
+
+		<!-- 
+=========================== 
+Forests 
+=========================== 
+-->
+		<Row Tag="TXT_KEY_NAME_ML_AKHMEROVSKY_FOREST">
+			<Text>Akhmerovsky Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ARYMAS_FOREST">
+			<Text>Ary-Mas Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_BARSKY_FOREST">
+			<Text>Barsky Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_BITSA_FOREST">
+			<Text>Bitsa Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_CHERNYAYEVSKY_FOREST">
+			<Text>Chernyayevsky Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_GENKO_FOREST_BELT">
+			<Text>Genko Forest Belt</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_KARAKAN_PINE_FOREST">
+			<Text>Karakan Pine Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_KHIMKI_FOREST">
+			<Text>Khimki Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_KOVALEVSKY_FOREST">
+			<Text>Kovalevsky Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_KRASNY_BOR_FOREST">
+			<Text>Krasny Bor Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LUKUNSKY_GROVE">
+			<Text>Lukunsky Grove</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ROMINCKA_FOREST">
+			<Text>Romincka Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SARMATIC_FOREST">
+			<Text>Sarmatic Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_UORULLUBUT_FOREST">
+			<Text>Uorullubut Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_KOMI_FOREST">
+			<Text>Komi Forest</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_NAME_MLADD_AUGUSTOW_FOREST">
+			<Text>Augustow Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_WHITE_WILDERNESS">
+			<Text>White Wilderness</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_BIALOWIEZA_FOREST">
+			<Text>Bialowieza Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_KAMPINOS_FOREST">
+			<Text>Kampinos Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_NIEPOLOMICE_FOREST">
+			<Text>Niepolomice Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_TUCHOLA_FOREST">
+			<Text>Tuchola Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_KNYSZYN_FOREST">
+			<Text>Knyszyn Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_KRAJNA_FOREST">
+			<Text>Krajna Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_KURPIE_FOREST">
+			<Text>Kurpie Forest</Text>
+		</Row>
+
+
+
+
+		<!--
+=========================== 
+Deserts 
+=========================== 
+-->
+		<Row Tag="TXT_KEY_NAME_ML_BYNE_DESERT">
+			<Text>Byne Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_QOYORA_DESERT">
+			<Text>Qoyora Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_QADU_DESERT">
+			<Text>Qadu Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_HULAI_DESERT">
+			<Text>Hulai Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ARBAN_DESERT">
+			<Text>Arban Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_KUZHAA_DESERT">
+			<Text>Kuzhaa Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_NIJNY_DESERT">
+			<Text>Nijny Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_NALCHI_DESERT">
+			<Text>Nalchi Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_BANE_DESERT">
+			<Text>Bane Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_TOQA_DESERT">
+			<Text>Toqa Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MERKE_DESERT">
+			<Text>Merke Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_BATAI_DESERT">
+			<Text>Batai Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_DORGE_DESERT">
+			<Text>Dorge Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_YATAIS_DESERT">
+			<Text>Yatais Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MUGE_DESERT">
+			<Text>Muge Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_QUTE_DESERT">
+			<Text>Qute Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_TEMAY_DESERT">
+			<Text>Temay Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_QUTLI_DESERT">
+			<Text>Qutli Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_YEBTEN_DESERT">
+			<Text>Yebten Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ULUN_DESERT">
+			<Text>Ulun Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_DESERT_OF_GERIA">
+			<Text>Desert of Geria</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_DESERT_OF_CHAGEY">
+			<Text>Desert of Chagey</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_DESERT_OF_KOUANGU">
+			<Text>Desert of Kouangu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_DESERT_OF_GALDAI">
+			<Text>Desert of Galdai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_DESERT_OF_YIDAN">
+			<Text>Desert of Yidan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_DESERT_OF_JEBTSA">
+			<Text>Desert of Jebtsa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_DESERT_OF_QUTAI">
+			<Text>Desert of Qutai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_DESERT_OF_MANGU">
+			<Text>Desert of Mangu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_DESERT_OF_TEMA">
+			<Text>Desert of Tema</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_DESERT_OF_TAKA">
+			<Text>Desert of Taka</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_MLADD_BLEDOW_DESERT">
+			<Text>Bledow Desert</Text>
+		</Row>
+
+
+
+	</Language_en_US>
+</GameData>

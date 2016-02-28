@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+*****************************************
+*			Map Labels					*
+*	by Hazel (hazel16 @ CivFanatics)	*
+*****************************************
+-->
+<GameData>
+
+
+	<ML_Options>
+<!--
+*****************************************
+*			BASIC OPTIONS				*
+*****************************************
+-->
+<!-- MapType: choose 'DYNAMIC' (dynamically generated labels based on features in map using ML_Labels_Dynamic table) or 'STATIC' (worldbuilder map with known labels using ML_Labels_Static table)-->
+		<Row>
+			<Type>MapType</Type>
+			<Description>TXT_KEY_ML_OPTIONS_MAPTYPE</Description>
+			<Value>DYNAMIC</Value>
+		</Row>
+
+		<!--
+*****************************************
+*			DEBUG						*
+*****************************************
+-->
+<!-- DrawLabelsInFog: 0=disabled, 1=enabled-->
+		<Row>
+			<Type>DrawLabelsInFog</Type>
+			<Value>0</Value>
+		</Row>
+
+<!-- CreateUnnamedLabels: In dynamic label generator, if unable to find appropriate culture/feature name for label, will create label anyways. 0=disabled, 1=enabled-->
+		<Row>
+			<Type>CreateUnnamedLabels</Type>
+			<Value>0</Value>
+		</Row>
+
+		<!--
+*****************************************
+*	DYNAMIC LABEL GENERATOR OPTIONS		*
+*****************************************
+-->		
+		
+		
+<!-- CultureType: RANDOM=random cultures, ONECULTURE=single culture, NEARESTCIV=culture of nearest civ-->
+		<Row>
+			<Type>CultureType</Type>
+			<Description>TXT_KEY_ML_OPTIONS_CULTURETYPE</Description>
+			<Value>NEARESTCIV</Value>
+		</Row>
+
+		<Row>
+			<Type>OneCulture</Type>
+			<Description>TXT_KEY_ML_OPTIONS_ONECULTURE</Description>
+			<Value>EAST_ASIAN</Value>
+		</Row>
+		
+<!-- MaxPlotsInChunk: Values over 500 or so cause DLG to run very slowly if there is a large ocean or map covered almost entirely by land -->
+		<Row>
+			<Type>GlobalMaxPlotsInChunk</Type>
+			<Value>700</Value>
+		</Row>
+
+
+<!-- MinPlotDistance: integer, minimum number of plots between features of the same type-->
+		<Row>
+			<Type>GlobalMinPlotDistance</Type>
+			<Description>TXT_KEY_ML_OPTIONS_GLOBALMINPLOTDISTANCE</Description>
+			<Value>3</Value>
+		</Row>
+
+<!-- MaxChunks: integer, maximum number of features on map; will later be adjusted by map size; set to 10,000 to make unlimited-->
+		<Row>
+			<Type>GlobalMaxChunks</Type>
+			<Description>TXT_KEY_ML_OPTIONS_GLOBALMAXCHUNKS</Description>
+			<Value>10000</Value>
+		</Row>
+
+<!-- IslandYMargin: exclude islands from near North/South edges of map (so arctic islands don't get names)-->
+		<Row>
+			<Type>IslandYMargin</Type>
+			<Value>7</Value>
+		</Row>
+
+
+		<!--
+*****************************************
+*		BATTLE LABEL OPTIONS			*
+*****************************************
+-->
+<!-- BattleEnabled: 0=false, 1=true-->
+		<Row>
+			<Type>BattleEnabled</Type>
+			<Value>1</Value>
+		</Row>
+		
+<!-- RazedEnabled: 0=false, 1=true-->
+		<Row>
+			<Type>RazedEnabled</Type>
+			<Value>1</Value>
+		</Row>
+		
+<!--BattleMinUnits: minimum number of units killed to qualify as battle-->		
+		<Row>
+			<Type>BattleMinUnits</Type>
+			<Description>TXT_KEY_ML_OPTIONS_BATTLEMINUNITS</Description>
+			<Value>5</Value>
+		</Row>
+<!--BattleSpreadPlots: maximum distance (in plots) to look for units killed in one battle-->		
+		<Row>
+			<Type>BattleSpreadPlots</Type>
+			<Description>TXT_KEY_ML_OPTIONS_BATTLESPREADPLOTS</Description>
+			<Value>10</Value>
+		</Row>
+<!--BattleLengthYears: maximum number of years (not turns) that a battle can last; this will also determine how often the script will check for new battles-->
+		<Row>
+			<Type>BattleLengthYears</Type>
+			<Description>TXT_KEY_ML_OPTIONS_BATTLELENGTHYEARS</Description>
+			<Value>500</Value>
+		</Row>
+<!--LandmarkSearchRange: maximum distance (in plots) to look for landmark to name battle after; otherwise will just be called "Battle"-->
+		<Row>
+			<Type>LandmarkSearchRange</Type>
+			<Description>TXT_KEY_ML_OPTIONS_LANDMARKSEARCHRANGE</Description>
+			<Value>4</Value>
+		</Row>		
+
+<!--
+*****************************************
+*			APPEARANCE					*
+*****************************************
+-->
+
+
+<!--BoxCushion: margin (in pixels) surrounding label -->
+		<Row>
+			<Type>BoxCushion</Type>
+			<Value>5</Value>
+		</Row>
+
+<!--BoxBorderWidth: (in pixels) -->
+		<Row>
+			<Type>BoxBorderWidth</Type>
+			<Value>2</Value>
+		</Row>
+
+
+<!--LabelOffset: select location of label in relation to hex; choose from X:-30 to 30, Y:-15 to 15-->
+		<Row>
+			<Type>LabelOffsetX</Type>
+			<Description>TXT_KEY_ML_OPTIONS_OFFSET</Description>
+			<Value>0</Value>
+		</Row>
+
+		<Row>
+			<Type>LabelOffsetY</Type>
+			<Description>TXT_KEY_ML_OPTIONS_OFFSET</Description>
+			<Value>15</Value>
+		</Row>
+
+
+		
+	</ML_Options>
+</GameData>

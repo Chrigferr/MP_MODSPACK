@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+*****************************************
+*			Map Labels					*
+*	by Hazel (hazel16 @ CivFanatics)	*
+*****************************************
+-->
+<GameData>
+	<Language_en_US>
+		
+		<!-- Culture Eras -->
+		<Row Tag="TXT_KEY_ML_CULTURE_ERA_ANCIENT">
+			<Text>Ancient Place Names</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ML_CULTURE_ERA_MODERN">
+			<Text>Modern Place Names</Text>
+		</Row>		
+		
+		<!-- Culture Groups -->
+		<Row Tag="TXT_KEY_ML_CULTURE_GROUP_ASIAN">
+			<Text>Asian</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ML_CULTURE_GROUP_MIDEASTERN">
+			<Text>Middle Eastern</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ML_CULTURE_GROUP_PACIFIC">
+			<Text>Pacific/Southeast Asian</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ML_CULTURE_GROUP_AFRICAN">
+			<Text>African</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ML_CULTURE_GROUP_AMERICAN">
+			<Text>American</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ML_CULTURE_GROUP_EUROPEAN">
+			<Text>European</Text>
+		</Row>
+		
+		<!--Cultures-->
+		<Row Tag="TXT_KEY_ML_CULTURE_EAST_ASIAN">
+			<Text>East Asian</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ML_CULTURE_ARABIAN">
+			<Text>Arabian</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ML_CULTURE_MEDITERRANEAN">
+			<Text>Mediterranean</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ML_CULTURE_GERMANIC">
+			<Text>Germanic</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ML_CULTURE_AFRICAN">
+			<Text>African</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ML_CULTURE_FIRST_AMERICANS">
+			<Text>First Americans</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ML_CULTURE_BRITISH">
+			<Text>British</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ML_CULTURE_PACIFIC">
+			<Text>Pacific Islander</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ML_CULTURE_INDIAN">
+			<Text>Indian</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ML_CULTURE_SLAVIC">
+			<Text>Slavic</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ML_CULTURE_SPANISH">
+			<Text>Spanish</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ML_CULTURE_PORTUGUESE">
+			<Text>Portuguese</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ML_CULTURE_FRENCH">
+			<Text>French</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ML_CULTURE_MOD_TP_AUSTRALIAN">
+			<Text>Australian</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ML_CULTURE_MOD_TP_CANADIAN">
+			<Text>Canadian</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ML_CULTURE_MOD_TP_MESO_AMERICAN">
+			<Text>Mesoamerican</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ML_CULTURE_MOD_TP_SOUTH_AMERICAN">
+			<Text>South American</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ML_CULTURE_MOD_TP_SOUTHEAST_ASIAN">
+			<Text>Southeast Asian</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ML_CULTURE_US_WESTERN">
+			<Text>Western United States</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ML_CULTURE_US_SOUTHERN">
+			<Text>Southern United States</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ML_CULTURE_US_NORTHEAST">
+			<Text>Northeastern United States</Text>
+		</Row>		
+		
+		
+		<!-- Suggested Civs-->
+		<Row Tag="TXT_KEY_ML_CULTURE_EAST_ASIAN_SUGGESTEDCIVS">
+			<Text>China, Korea, Mongolia, Siam, Huns</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ML_CULTURE_ARABIAN_SUGGESTEDCIVS">
+			<Text>Arab, Egypt, Ottoman, Persia, Morocco, Assyria, Babylon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ML_CULTURE_MEDITERRANEAN_SUGGESTEDCIVS">
+			<Text>Rome, Greece, Carthage, Venice, Egypt, Byzantine</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ML_CULTURE_GERMANIC_SUGGESTEDCIVS">
+			<Text>Germany, Switzerland, Sweden, Denmark, Netherlands, Polish</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ML_CULTURE_AFRICAN_SUGGESTEDCIVS">
+			<Text>Zulu, Ethiopian, Songhai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ML_CULTURE_FIRST_AMERICANS_SUGGESTEDCIVS">
+			<Text>Iroquois, Aztec, Maya, Inca, Shoshone</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ML_CULTURE_BRITISH_SUGGESTEDCIVS">
+			<Text>England, America, Celts</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ML_CULTURE_PACIFIC_SUGGESTEDCIVS">
+			<Text>Japan, Polynesia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ML_CULTURE_INDIAN_SUGGESTEDCIVS">
+			<Text>India</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ML_CULTURE_SLAVIC_SUGGESTEDCIVS">
+			<Text>Russia, Poland</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ML_CULTURE_SPANISH_SUGGESTEDCIVS">
+			<Text>Spain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ML_CULTURE_PORTUGUESE_SUGGESTEDCIVS">
+			<Text>Portugal, Brazil</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ML_CULTURE_FRENCH_SUGGESTEDCIVS">
+			<Text>France</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ML_CULTURE_MOD_TP_AUSTRALIAN_SUGGESTEDCIVS">
+			<Text>Australia, Kulin, Anangu, Koori</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ML_CULTURE_MOD_TP_CANADIAN_SUGGESTEDCIVS">
+			<Text>Canada, Dene, Iroquois, Blackfoot, Haida, Cree, Wabanaki, Anishinaabe, Inuit, Vinland, Salish</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ML_CULTURE_MOD_TP_MESO_AMERICAN_SUGGESTEDCIVS">
+			<Text>Mexico, Aztecs, Buccaneers, Maya, Zapotecs, Cuba, Haiti, Yucatan
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ML_CULTURE_MOD_TP_SOUTH_AMERICAN_SUGGESTEDCIVS">
+			<Text>Brazil, Inca, Argentina, Tupi, Bolivia, Peru, Chile, Tiwanaku, Chimor, Gran Colombia, Paraguay, Uruguay, Uru
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ML_CULTURE_MOD_TP_SOUTHEAST_ASIAN_SUGGESTEDCIVS">
+			<Text>Indonesia, Champa, Vietnam, Papua, Philippines, Malaysia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ML_CULTURE_US_WESTERN_SUGGESTEDCIVS">
+			<Text>America, Shoshone, Deseret, Cascadia, California, Salish</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ML_CULTURE_US_SOUTHERN_SUGGESTEDCIVS">
+			<Text>America, Texas, Louisiana, Confederate States of America</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ML_CULTURE_US_NORTHEAST_SUGGESTEDCIVS">
+			<Text>America, Iroquois, Appalachia, Pennsylvania, Massachusetts, New Hampshire, West Virginia, Ohio, New York, North Dakota, Illinois, Michigan, Minnesota, and Wisconsin</Text>
+		</Row>
+
+		
+	</Language_en_US>
+</GameData>

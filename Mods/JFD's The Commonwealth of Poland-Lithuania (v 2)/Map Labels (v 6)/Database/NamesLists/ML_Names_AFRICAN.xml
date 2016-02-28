@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+*****************************************
+*			Map Labels					*
+*	by Hazel (hazel16 @ CivFanatics)	*
+*****************************************
+-->
+<GameData>
+	<ML_Labels_Dynamic>
+		<!-- Template:
+			<Row Name="TXT_KEY_NAME_ML_KILIMANJARO" CultureType="AFRICA" MainType="FEATURE" SubType="MOUNTAIN" />
+		-->
+
+		<!-- 
+=========================== 
+Regions 
+=========================== 
+-->
+		<Row Name="TXT_KEY_NAME_ML_SAHARA" MainType="REGION" SubType="REGION" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_MAGHREB" MainType="REGION" SubType="REGION" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_SAHEL" MainType="REGION" SubType="REGION" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_HORN_OF_AFRICA" MainType="REGION" SubType="REGION" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_RIFT_VALLEY" MainType="REGION" SubType="REGION" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_HADZA" MainType="REGION" SubType="REGION" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_SINDAWE" MainType="REGION" SubType="REGION" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_KHOIS" MainType="REGION" SubType="REGION" CultureType="AFRICAN"/>
+
+
+		<!-- 
+=========================== 
+Oceans 
+=========================== 
+-->
+		<Row Name="TXT_KEY_NAME_ML_MUDA_SEA" MainType="REGION" SubType="OCEAN" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_BOKA_SEA" MainType="REGION" SubType="OCEAN" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_CHOMBA_SEA" MainType="REGION" SubType="OCEAN" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_CHINGWA_SEA" MainType="REGION" SubType="OCEAN" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_BONGA_SEA" MainType="REGION" SubType="OCEAN" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_KINDA_SEA" MainType="REGION" SubType="OCEAN" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_MIDA_SEA" MainType="REGION" SubType="OCEAN" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_CHANSA_SEA" MainType="REGION" SubType="OCEAN" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_MULA_SEA" MainType="REGION" SubType="OCEAN" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_KONNO_SEA" MainType="REGION" SubType="OCEAN" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_NENI_SEA" MainType="REGION" SubType="OCEAN" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_GHERA_SEA" MainType="REGION" SubType="OCEAN" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_SEA_OF_MUTA" MainType="REGION" SubType="OCEAN" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_SEA_OF_MUNYA" MainType="REGION" SubType="OCEAN" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_SEA_OF_ABTEN" MainType="REGION" SubType="OCEAN" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_SEA_OF_KESA" MainType="REGION" SubType="OCEAN" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_SEA_OF_MAKA" MainType="REGION" SubType="OCEAN" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_SEA_OF_SAMAU" MainType="REGION" SubType="OCEAN" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_SEA_OF_BARKI" MainType="REGION" SubType="OCEAN" CultureType="AFRICAN"/>
+
+
+
+		<!--	
+=========================== 
+Islands 
+=========================== 
+-->
+		<Row Name="TXT_KEY_NAME_ML_ANJOUAN_ISLAND" MainType="REGION" SubType="ISLAND" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_MOHLI_ISLAND" MainType="REGION" SubType="ISLAND" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_MAYOTTE_ISLAND" MainType="REGION" SubType="ISLAND" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_COTIVY_ISLAND" MainType="REGION" SubType="ISLAND" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_BIJOUTIER_ISLAND" MainType="REGION" SubType="ISLAND" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_MANAHAS_ISLAND" MainType="REGION" SubType="ISLAND" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_POLYMNIE_ISLAND" MainType="REGION" SubType="ISLAND" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_MALABAR_ISLAND" MainType="REGION" SubType="ISLAND" CultureType="AFRICAN"/>
+
+		<Row Name="TXT_KEY_NAME_ML_FOGO_ISLAND" MainType="REGION" SubType="ISLAND" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_MAIO_ISLAND" MainType="REGION" SubType="ISLAND" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_SAL_ISLAND" MainType="REGION" SubType="ISLAND" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_ROLAS_ISLAND" MainType="REGION" SubType="ISLAND" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_MASKALI_ISLAND_ISLAND" MainType="REGION" SubType="ISLAND" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_MOUCHA_ISLAND_ISLAND" MainType="REGION" SubType="ISLAND" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_ANNOBN_ISLAND" MainType="REGION" SubType="ISLAND" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_BIOKO_ISLAND" MainType="REGION" SubType="ISLAND" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_CORISCO_ISLAND" MainType="REGION" SubType="ISLAND" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_DAHLAK_ISLAND" MainType="REGION" SubType="ISLAND" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_FATUMA_ISLAND" MainType="REGION" SubType="ISLAND" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_HALIB_ISLAND" MainType="REGION" SubType="ISLAND" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_HOWAKIL_ISLAND" MainType="REGION" SubType="ISLAND" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_MASSAWA_ISLAND" MainType="REGION" SubType="ISLAND" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_BIJAGOS_ISLAND" MainType="REGION" SubType="ISLAND" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_LAMU_ISLAND" MainType="REGION" SubType="ISLAND" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_MANDA_ISLAND" MainType="REGION" SubType="ISLAND" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_SAMULI_ISLAND" MainType="REGION" SubType="ISLAND" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_CHIZUMULU_ISLAND" MainType="REGION" SubType="ISLAND" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_LIKOMA_ISLAND" MainType="REGION" SubType="ISLAND" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_INHACA_ISLAND" MainType="REGION" SubType="ISLAND" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_ADDILO_ISLAND" MainType="REGION" SubType="ISLAND" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_AMBUU_ISLAND" MainType="REGION" SubType="ISLAND" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_BANDARKA_ISLAND" MainType="REGION" SubType="ISLAND" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_BANGADINI_ISLAND" MainType="REGION" SubType="ISLAND" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_BANTAABSI_ISLAND" MainType="REGION" SubType="ISLAND" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_BAVADI_ISLAND" MainType="REGION" SubType="ISLAND" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_BAWAADI_ISLAND" MainType="REGION" SubType="ISLAND" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_BENGADIIENE_ISLAND" MainType="REGION" SubType="ISLAND" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_BIRAMLIDE_ISLAND" MainType="REGION" SubType="ISLAND" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_ISLAND_OF_DJERBA" MainType="REGION" SubType="ISLAND" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_ISLAND_OF_KERKENNAH" MainType="REGION" SubType="ISLAND" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_ISLAND_OF_CHERGUI" MainType="REGION" SubType="ISLAND" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_ISLAND_OF_GHARBI" MainType="REGION" SubType="ISLAND" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_ISLAND_OF_ZEMBRA" MainType="REGION" SubType="ISLAND" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_ISLAND_OF_SSESE" MainType="REGION" SubType="ISLAND" CultureType="AFRICAN"/>
+
+
+		<!--		
+=========================== 
+Mountains 
+=========================== 
+-->
+		<Row Name="TXT_KEY_NAME_ML_MOUNTAINS_OF_KONG" MainType="FEATURE" SubType="MOUNTAIN" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_KILIMAMBOGO_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_MOUNT_WUTEVE" MainType="FEATURE" SubType="MOUNTAIN" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_MOUNT_MOCO" MainType="FEATURE" SubType="MOUNTAIN" CultureType="AFRICAN"/>
+
+		<Row Name="TXT_KEY_NAME_ML_ABUYE_MEDA_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_ADWA_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_AFDERA_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_ALE_BAGU_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_AMBA_ALAGI_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_AMBA_ARADAM_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_AMBA_GESHEN_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_ASAVYO_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_BORALE_ALE_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_BORAWLI_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_FUGUG_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_FURI_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_GADA_ALE_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_GUGHE_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_H_CONT_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_HAYLI_GUBBI_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_KULIBI_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_KUNDUDO_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_MOUNT_AYALU" MainType="FEATURE" SubType="MOUNTAIN" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_MOUNT_BATU" MainType="FEATURE" SubType="MOUNTAIN" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_MOUNT_BWAHIT" MainType="FEATURE" SubType="MOUNTAIN" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_MOUNT_CHILALO" MainType="FEATURE" SubType="MOUNTAIN" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_MOUNT_CHOQA" MainType="FEATURE" SubType="MOUNTAIN" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_MOUNT_DAMA_ALI" MainType="FEATURE" SubType="MOUNTAIN" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_MOUNT_DENDI" MainType="FEATURE" SubType="MOUNTAIN" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_MOUNT_ENTOTO" MainType="FEATURE" SubType="MOUNTAIN" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_MOUNT_FENTALE" MainType="FEATURE" SubType="MOUNTAIN" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_MOUNT_GUGU" MainType="FEATURE" SubType="MOUNTAIN" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_MOUNT_GUNA" MainType="FEATURE" SubType="MOUNTAIN" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_MOUNT_GURAGE" MainType="FEATURE" SubType="MOUNTAIN" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_MOUNT_HAY" MainType="FEATURE" SubType="MOUNTAIN" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_MOUNT_MA_ALALTA" MainType="FEATURE" SubType="MOUNTAIN" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_MOUNT_SARKALI" MainType="FEATURE" SubType="MOUNTAIN" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_MOUNT_TULLU_DIMTU" MainType="FEATURE" SubType="MOUNTAIN" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_MOUNT_WELEL" MainType="FEATURE" SubType="MOUNTAIN" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_MOUNT_ZUQUALLA" MainType="FEATURE" SubType="MOUNTAIN" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_MOUNT_MOUSA_ALI" MainType="FEATURE" SubType="MOUNTAIN" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_MOUNT_OA_CALDERA" MainType="FEATURE" SubType="MOUNTAIN" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_MOUNT_RAS_DASHEN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_MOUNT_SORK_ALE" MainType="FEATURE" SubType="MOUNTAIN" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_MOUNT_TAT_ALI" MainType="FEATURE" SubType="MOUNTAIN" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_MOUNT_WEHNI" MainType="FEATURE" SubType="MOUNTAIN" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_MOUNT_MUMPU" MainType="FEATURE" SubType="MOUNTAIN" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_MOUNT_MWANDA_PEAK" MainType="FEATURE" SubType="MOUNTAIN" CultureType="AFRICAN"/>
+
+
+		<!--
+=========================== 
+Lakes 
+=========================== 
+-->
+		<Row Name="TXT_KEY_NAME_ML_LAKE_RUKWA" MainType="FEATURE" SubType="LAKE" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_LAKE_MWERU" MainType="FEATURE" SubType="LAKE" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_LAKE_KIVU" MainType="FEATURE" SubType="LAKE" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_LAKE_TANGANYIKA" MainType="FEATURE" SubType="LAKE" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_LAKE_NYASSA" MainType="FEATURE" SubType="LAKE" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_LAKE_ABAYA" MainType="FEATURE" SubType="LAKE" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_LAKE_ABBE" MainType="FEATURE" SubType="LAKE" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_LAKE_ABIJATTA" MainType="FEATURE" SubType="LAKE" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_LAKE_AFAMBO" MainType="FEATURE" SubType="LAKE" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_LAKE_AFRERA" MainType="FEATURE" SubType="LAKE" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_LAKE_ARDIBBO" MainType="FEATURE" SubType="LAKE" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_LAKE_ASHENGE" MainType="FEATURE" SubType="LAKE" CultureType="AFRICAN"/>
+
+		<Row Name="TXT_KEY_NAME_ML_LAKE_AWASA" MainType="FEATURE" SubType="LAKE" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_LAKE_BARIO" MainType="FEATURE" SubType="LAKE" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_LAKE_BASAKA" MainType="FEATURE" SubType="LAKE" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_LAKE_CHAMO" MainType="FEATURE" SubType="LAKE" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_LAKE_CHEW_BAHIR" MainType="FEATURE" SubType="LAKE" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_LAKE_GUMMARE" MainType="FEATURE" SubType="LAKE" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_LAKE_HAYQ" MainType="FEATURE" SubType="LAKE" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_LAKE_KARUM" MainType="FEATURE" SubType="LAKE" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_LAKE_LANGANO" MainType="FEATURE" SubType="LAKE" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_LAKE_SHALA" MainType="FEATURE" SubType="LAKE" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_LAKE_TANA" MainType="FEATURE" SubType="LAKE" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_LAKE_TURKANA" MainType="FEATURE" SubType="LAKE" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_ZENGENA_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_LAKE_ZWAY" MainType="FEATURE" SubType="LAKE" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_BUMHURURU_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_LAKE_CHIVERO" MainType="FEATURE" SubType="LAKE" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_LAKE_MUTIRIKWE" MainType="FEATURE" SubType="LAKE" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_LAKE_KARIBA" MainType="FEATURE" SubType="LAKE" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_KAINJI_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_OGUTA_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="AFRICAN"/>
+
+
+		<!-- 		
+=========================== 
+Rivers 
+=========================== 
+-->
+		<Row Name="TXT_KEY_NAME_ML_CUANZA_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_GROOT_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_GAMTOOS_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_IHOSY_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_KAFUE_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_KUISEB_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_KUNENE_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_KWANDO_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_LIMPOPO_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_LUANGWA_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_MANIA_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_MOLOPO_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_OKAVANGO_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_ONILAHY_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_ORANGE_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_CALEDON_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_VAAL_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_FISH_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_SHANGANI_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_SWAKOP_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_TUGELA_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_ZAMBEZI_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_AWASH_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_JUBBA_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_DAWA_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_GANALE_DORYA_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_KERIO_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_MAPUTO_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_MARA_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_OMO_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_RUFIJI_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_RUVUMA_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_SHEBELLE_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_TANA_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_KAZINGA_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_KAGERA_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_SONDU_MIRIU_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="AFRICAN"/>
+
+
+		<!-- 
+=========================== 
+Forests 
+=========================== 
+-->
+		<Row Name="TXT_KEY_NAME_ML_FOREST_OF_HOHO" MainType="FEATURE" SubType="FOREST" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_FOREST_OF_BALA" MainType="FEATURE" SubType="FOREST" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_FOREST_OF_BEDA" MainType="FEATURE" SubType="FOREST" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_FOREST_OF_WARYA" MainType="FEATURE" SubType="FOREST" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_FOREST_OF_KORA" MainType="FEATURE" SubType="FOREST" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_FOREST_OF_BERHO" MainType="FEATURE" SubType="FOREST" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_FOREST_OF_KIPKA" MainType="FEATURE" SubType="FOREST" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_FOREST_OF_WERA" MainType="FEATURE" SubType="FOREST" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_FOREST_OF_MAGO" MainType="FEATURE" SubType="FOREST" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_FOREST_OF_DDURYA" MainType="FEATURE" SubType="FOREST" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_FOREST_OF_BARKA" MainType="FEATURE" SubType="FOREST" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_FOREST_OF_KABBO" MainType="FEATURE" SubType="FOREST" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_FOREST_OF_MATA" MainType="FEATURE" SubType="FOREST" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_FOREST_OF_KONDA" MainType="FEATURE" SubType="FOREST" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_MUSA_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_ASSAYER_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_GUEFE_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_OMBED_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_KESAYE_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_KESA_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_KASSA_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_CHIVUNG_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_MWIRI_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_CHAMBA_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_MULEO_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_NKASA_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_MULYA_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_LULA_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_CHIPA_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_KONGA_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_KADA_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_MUAMBA_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_BANDA_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_MULU_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_CHABA_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_CHAWA_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_LUME_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_TSHADA_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_KATE_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="AFRICAN"/>
+
+
+		<!--
+=========================== 
+Deserts 
+=========================== 
+-->
+		<Row Name="TXT_KEY_NAME_ML_SAHARA_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_DJURAB_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_BARA_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_MOMEDES_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_DANAKIL_DEPRESSION" MainType="FEATURE" SubType="DESERT" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_KALAHARI_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_CHALBI_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="AFRICAN"/>
+
+		<Row Name="TXT_KEY_NAME_ML_NYIRI_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_TALAKE_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_DESERT_ERG_OF_BILMA" MainType="FEATURE" SubType="DESERT" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_TAUREG_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_KSOUR_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_KAOUAR_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_KEL_AHAGGAR_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_KEL_AJJER_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_KSAR_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_AZALAI_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_AZJAR_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_ERG_CHIGAGA_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_FACHI_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_FUNQUL_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="AFRICAN"/>
+		<Row Name="TXT_KEY_NAME_ML_HOGGAR_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="AFRICAN"/>
+
+	</ML_Labels_Dynamic>
+</GameData>

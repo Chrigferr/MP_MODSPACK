@@ -1,0 +1,763 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+*****************************************
+*			Map Labels					*
+*	by Hazel (hazel16 @ CivFanatics)	*
+*****************************************
+-->
+<GameData>
+	<Language_en_US>
+		<!-- Template:
+		<Row Tag="TXT_KEY_NAME_ML_KILIMANJARO">
+			<Text>Mount Kilimanjaro</Text>
+		</Row>
+		-->
+		<!-- 
+=========================== 
+Regions 
+=========================== 
+-->
+		<Row Tag="TXT_KEY_NAME_ML_ALANBAR">
+			<Text>Al-Anbar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_BBIL">
+			<Text>Bābil</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ALBASRAH">
+			<Text>Al-Basrah</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_DH_QR">
+			<Text>Dhī Qār</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_DIYL">
+			<Text>Diyālā</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_DOHUK">
+			<Text>Dohuk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ERBL">
+			<Text>Erbīl</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_HALABJA">
+			<Text>Halabja</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_KARBAL">
+			<Text>Karbalā'</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_KIRKUK">
+			<Text>Kirkuk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MAYSN">
+			<Text>Maysān</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ALMUTHANN">
+			<Text>Al-Muthannā</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ANNAJAF">
+			<Text>An-Najaf</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_NNAW">
+			<Text>Nīnawā</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ALQDISIYYAH">
+			<Text>Al-Qādisiyyah</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SALH_ADDN">
+			<Text>Salāh ad-Dīn</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ASSULAYMNIYYAH">
+			<Text>As-Sulaymāniyyah</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_WSIT">
+			<Text>Wāsit</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_HAIL">
+			<Text>Ha'il</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_QASSIM">
+			<Text>Qassim</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_RIYADH">
+			<Text>Riyadh</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_TABUK">
+			<Text>Tabuk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MADINAH">
+			<Text>Madinah</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MAKKAH">
+			<Text>Makkah</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_BAHAH">
+			<Text>Bahah</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_JAWF">
+			<Text>Jawf</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_JIZAN">
+			<Text>Jizan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_NAJRAN">
+			<Text>Najran</Text>
+		</Row>
+
+
+		<!-- 
+=========================== 
+Oceans 
+=========================== 
+-->
+		<Row Tag="TXT_KEY_NAME_ML_ARABIAN_SEA">
+			<Text>Arabian Sea</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_RED_SEA">
+			<Text>Red Sea</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_PERSIAN_GULF">
+			<Text>Persian Gulf</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SEA_OF_THAMMI">
+			<Text>Sea of Thammi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SEA_OF_GHAFJI">
+			<Text>Sea of Ghafji</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SEA_OF_TIFUL">
+			<Text>Sea of Tiful</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SEA_OF_IZWAN">
+			<Text>Sea of Izwan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SEA_OF_HAIMI">
+			<Text>Sea of Haimi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_JADDAH_SEA">
+			<Text>Jaddah Sea</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_KHABI_SEA">
+			<Text>Khabi Sea</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ABAH_SEA">
+			<Text>Abah Sea</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SAYLI_SEA">
+			<Text>Sayli Sea</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MUDHA_SEA">
+			<Text>Mudha Sea</Text>
+		</Row>
+
+
+		<!--	
+=========================== 
+Islands 
+=========================== 
+-->
+
+		<Row Tag="TXT_KEY_NAME_ML_AL_MARJAN_ISLAND">
+			<Text>Al Marjan Island</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_NAME_ML_DAS_ISLAND">
+			<Text>Das Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_HALAT_BAHRANI_ISLAND">
+			<Text>Halat Bahrani Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_JAZIRAT_BADIYAH_ISLAND">
+			<Text>Jazirat Badiyah Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_NUJOOM_ISLAND">
+			<Text>Nujoom Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SAADIYAT_ISLAND">
+			<Text>Saadiyat Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ABU_NUAYR_ISLAND">
+			<Text>Abu Nu’ayr Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ABU_AL_ABYAD_ISLAND">
+			<Text>Abu al Abyad Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_AL_FUTAISI">
+			<Text>Al Futaisi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_AL_LULU_ISLAND">
+			<Text>Al Lulu Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_AL_REEM_ISLAND">
+			<Text>Al Reem Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ALARYAM_ISLAND">
+			<Text>Al-Aryam Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_DALMA_ISLAND">
+			<Text>Dalma Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MARAWAH_ISLAND">
+			<Text>Marawah Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_BANI_YAS">
+			<Text>Bani Yas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_YAS_ISLAND">
+			<Text>Yas Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MASIRAH_ISLAND">
+			<Text>Masirah Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_JEZIRA_HAFT_TALAR_ISLAND">
+			<Text>Jezira Haft Talar Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SOQOTRA_ISLAND">
+			<Text>Soqotra Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_DAHLAK_KEBIR_ISLAND">
+			<Text>Dahlak Kebir Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FARASAN_ISLAND">
+			<Text>Farasan Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_HANISH_ISLANDS">
+			<Text>Hanish Islands</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_HARMIL">
+			<Text>Harmil</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_JABAL_ALTAIR_ISLAND">
+			<Text>Jabal al-Tair Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_KAA_DBALI_ISLAND">
+			<Text>Kaḏḏa Dâbali Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_KAMARAN_ISLAND">
+			<Text>Kamaran Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MUKAWWA_ISLAND">
+			<Text>Mukawwa Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_NAHALEG_ISLAND">
+			<Text>Nahaleg Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_PERIM_ISLAND">
+			<Text>Perim Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SAJID_ISLAND">
+			<Text>Sajid Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_S_CONT">
+			<Text>S cont.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SANAFIR_ISLAND">
+			<Text>Sanafir Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SASO_ISLAND">
+			<Text>Saso Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SHADWAN_ISLAND">
+			<Text>Shadwan Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_TIRAN_ISLAND">
+			<Text>Tiran Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ZUQAR_ISLAND">
+			<Text>Zuqar Island</Text>
+		</Row>
+
+		<!--		
+=========================== 
+Mountains 
+=========================== 
+-->
+
+		<Row Tag="TXT_KEY_NAME_ML_MOUNT_PONTUS">
+			<Text>Mount Pontus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOUNT_TAURUS">
+			<Text>Mount Taurus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOUNT_ARARAT">
+			<Text>Mount Ararat</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOUNT_ELBURZ">
+			<Text>Mount Elburz</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOUNT_ZAGROS">
+			<Text>Mount Zagros</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOUNT_JEBEL_AL_AKHDAR">
+			<Text>Mount Jebel al Akhdar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ASIR">
+			<Text>Mount Asir</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_HEJAZ_MOUNTAIN">
+			<Text>Hejaz Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ZAGROS_MOUNTAIN">
+			<Text>Zagros Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_PAMIR_MOUNTAIN">
+			<Text>Pamir Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_TIEN_SHAN_MOUNTAIN">
+			<Text>Tien Shan Mountain</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_NAME_ML_ABU_KUBAIS_MOUNTAIN">
+			<Text>Abu Kubais Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ALMANIFA_MOUNTAIN">
+			<Text>Al-Manifa Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_JABAL_ATHERB_MOUNTAIN">
+			<Text>Jabal Atherb Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_JABAL_ALDUKHAN_MOUNTAIN">
+			<Text>Jabal al-Dukhan Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_JABAL_ALLAWZ_MOUNTAIN">
+			<Text>Jabal al-Lawz Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_NAJD_MOUNTAIN">
+			<Text>Najd Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_JABAL_ALNOUR_MOUNTAIN">
+			<Text>Jabal al-Nour Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_JABAL_SAWDA_MOUNTAIN">
+			<Text>Jabal Sawda Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_JABAL_THAWR_MOUNTAIN">
+			<Text>Jabal Thawr Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_UHUD_MOUNTAIN">
+			<Text>Uhud Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ALFAF_MOUNTAIN">
+			<Text>Alfaf Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_BRADOST_MOUNTAIN">
+			<Text>Bradost Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_CHEEKHA_DAR_MOUNTAIN">
+			<Text>Cheekha Dar Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_GIRE_KUMAR_MOUNTAIN">
+			<Text>Gir-e Kumar Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_JABAL_KUMAR_MOUNTAIN">
+			<Text>Jabal Kumar Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_KUHE_HAJI_EBRAHIM_MOUNTAIN">
+			<Text>Kuhe Haji Ebrahim Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MAR_DANIEL_MOUNTAIN">
+			<Text>Mar Daniel Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_HAMRIN_MOUNTAINS">
+			<Text>Hamrin Mountains</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_QANDIL_MOUNTAINS">
+			<Text>Qandil Mountains</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SINJAR_MOUNTAINS">
+			<Text>Sinjar Mountains</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ZAGROS_MOUNTAINS">
+			<Text>Zagros Mountains</Text>
+		</Row>
+
+		<!--
+=========================== 
+Lakes 
+=========================== 
+-->
+		<Row Tag="TXT_KEY_NAME_ML_ALMA_GOL_LAKE">
+			<Text>Alma Gol Lake</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_NAME_ML_BAKHTEGAN_LAKE">
+			<Text>Bakhtegan Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_QOURI_GOL_LAKE">
+			<Text>Qouri Gol Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_HAMUN_LAKE">
+			<Text>Hamun Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_HAMUNE_HELMAND_LAKE">
+			<Text>Hamun-e Helmand Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MAHARLOO_LAKE">
+			<Text>Maharloo Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_NAMAK_LAKE">
+			<Text>Namak Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_OVAN_LAKE">
+			<Text>Ovan Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAKE_PARISHAN">
+			<Text>Lake Parishan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SHORABIL_LAKE">
+			<Text>Shorabil Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAKE_URMIA">
+			<Text>Lake Urmia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ZARIVAR_LAKE">
+			<Text>Zarivar Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SABKHAT_MATTI_LAKE">
+			<Text>Sabkhat Matti Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAKE_HABBANIYAH">
+			<Text>Lake Habbaniyah</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAKE_HAMMAR">
+			<Text>Lake Hammar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAKE_HAMRIN">
+			<Text>Lake Hamrin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAKE_QADISIYAH">
+			<Text>Lake Qadisiyah</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAKE_MILH">
+			<Text>Lake Milh</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAKE_THARTHAR">
+			<Text>Lake Tharthar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_UMM_AL_BINNI_LAKE">
+			<Text>Umm al Binni lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAKE_ASSAD">
+			<Text>Lake Assad</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAKE_HOMS">
+			<Text>Lake Homs</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAKE_RAM">
+			<Text>Lake Ram</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SABKHAT_ALJABBUL_LAKE">
+			<Text>Sabkhat al-Jabbul Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ZARZAR_LAKE">
+			<Text>Zarzar Lake</Text>
+		</Row>
+
+
+		<!-- 		
+=========================== 
+Rivers 
+=========================== 
+-->
+
+		<Row Tag="TXT_KEY_NAME_ML_HAFFAR_RIVER">
+			<Text>Haffar River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_KARUN_RIVER">
+			<Text>Karun River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MARUN_RIVER">
+			<Text>Marun River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_DEZ_RIVER">
+			<Text>Dez River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_BAKHTIARI_RIVER">
+			<Text>Bakhtiari River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_KOOHRANG">
+			<Text>Koohrang</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_TIGRIS_RIVER">
+			<Text>Tigris River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_KARKHEH_RIVER">
+			<Text>Karkheh River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SEIMAREH_RIVER">
+			<Text>Seimareh River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_CHANKULA_RIVER">
+			<Text>Chankula River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SIRWAN_RIVER">
+			<Text>Sirwan River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_DIYALA_RIVER">
+			<Text>Diyala River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ALWAND_RIVER">
+			<Text>Alwand River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ZAB_RIVER">
+			<Text>Zab River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_BAHMANSHIR_RIVER">
+			<Text>Bahmanshir River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_JARAHI_RIVER">
+			<Text>Jarahi River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ZOHREH_RIVER">
+			<Text>Zohreh River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_HELLEH">
+			<Text>Helleh</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MAND_RIVER">
+			<Text>Mand River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SHUR_RIVER">
+			<Text>Shur River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MEHRAN_RIVER">
+			<Text>Mehran River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_KUL_RIVER">
+			<Text>Kul River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_GOWDEH_RIVER">
+			<Text>Gowdeh River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ROSTAM_RIVER">
+			<Text>Rostam River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_RIVER_WADI_AS_SURR">
+			<Text>River Wadi as Surr</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_RIVER_WADI_ALHAMD">
+			<Text>River Wadi al-Hamd</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_RIVER_WADI_ALJIZL">
+			<Text>River Wadi al-Jizl</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_RIVER_WADI_ALAQIQ">
+			<Text>River Wadi al-Aqiq</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_RIVER_WADI_RABIGH">
+			<Text>River Wadi Rabigh</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_RIVER_WADI_FIMAH">
+			<Text>River Wadi Fāţimah</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_RIVER_WADI_SADYAH">
+			<Text>River Wadi Sa‘dīyah</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_RIVER_WADI_ALLTH">
+			<Text>River Wadi al-Līth</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_NAME_ML_EUPHRATES_RIVER">
+			<Text>Euphrates River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_KHABUR_RIVER">
+			<Text>Khabur River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_KHASA_RIVER">
+			<Text>Khasa River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_KHAWR_ABD_ALLAH_RIVER">
+			<Text>Khawr Abd Allah River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SHATT_ALARAB_RIVER">
+			<Text>Shatt al-Arab River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_TORNADOTUS_RIVER">
+			<Text>Tornadotus River</Text>
+		</Row>
+
+		<!-- 
+=========================== 
+Forests 
+=========================== 
+-->
+		<Row Tag="TXT_KEY_NAME_ML_FOREST_OF_SAHA">
+			<Text>Forest of Saha</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FOREST_OF_MASAF">
+			<Text>Forest of Masaf</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FOREST_OF_SABU">
+			<Text>Forest of Sabu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FOREST_OF_SHABU">
+			<Text>Forest of Shabu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FOREST_OF_KHABI">
+			<Text>Forest of Khabi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FOREST_OF_SANAA">
+			<Text>Forest of Sanaa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FOREST_OF_DAHA">
+			<Text>Forest of Daha</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FOREST_OF_RANA">
+			<Text>Forest of Rana</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FOREST_OF_JAIRA">
+			<Text>Forest of Jaira</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MADHA_FOREST">
+			<Text>Madha Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SURA_FOREST">
+			<Text>Sura Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SADAFT_FOREST">
+			<Text>Sadaft Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_RAHA_FOREST">
+			<Text>Raha Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MASAF_FOREST">
+			<Text>Masaf Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SALI_FOREST">
+			<Text>Sali Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_DHUDAYD_FOREST">
+			<Text>Dhudayd Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_GHASHBI_FOREST">
+			<Text>Ghashbi Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_KHABI_FOREST">
+			<Text>Khabi Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MAHA_FOREST">
+			<Text>Maha Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SAFIR_FOREST">
+			<Text>Safir Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_BATAF_FOREST">
+			<Text>Bataf Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MAMI_FOREST">
+			<Text>Mami Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FAHA_FOREST">
+			<Text>Faha Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FUJI_FOREST">
+			<Text>Fuji Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ANBUN_FOREST">
+			<Text>Anbun Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_DUBI_FOREST">
+			<Text>Dubi Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MUKA_FOREST">
+			<Text>Muka Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MAKKA_FOREST">
+			<Text>Makka Forest</Text>
+		</Row>
+
+
+		<!--
+=========================== 
+Deserts 
+=========================== 
+-->
+		<Row Tag="TXT_KEY_NAME_ML_ADDAHNA_DESERT">
+			<Text>Ad-Dahna Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_AN_NAFUD_DESERT">
+			<Text>An Nafud Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ARABIAN_DESERT">
+			<Text>Arabian Desert</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_NAME_ML_RUB_AL_KHALI_DESERT">
+			<Text>Rub' al Khali Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_DASHTE_KAVIR_DESERT">
+			<Text>Dasht-e Kavir Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_DASHTE_LUT_DESERT">
+			<Text>Dasht-e Lut Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_KAVIR_DESERT">
+			<Text>Kavir Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MARANJAB_DESERT">
+			<Text>Maranjab Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_PETREGAN_DESERT">
+			<Text>Petregan Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_KAVIRELUT_DESERT">
+			<Text>Kavir-e-Lut Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_QAIWI_DESERT">
+			<Text>Qaiwi Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_UDHAYN_DESERT">
+			<Text>Udhayn Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_TANAA_DESERT">
+			<Text>Tanaa Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_AMRAH_DESERT">
+			<Text>Amrah Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_RUWI_DESERT">
+			<Text>Ruwi Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_KHARI_DESERT">
+			<Text>Khari Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_RAIMI_DESERT">
+			<Text>Raimi Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_HAYTAN_DESERT">
+			<Text>Haytan Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_RIYATAF_DESERT">
+			<Text>Riyataf Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MUKA_DESERT">
+			<Text>Muka Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_HABI_DESERT">
+			<Text>Habi Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ADDAH_DESERT">
+			<Text>Addah Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MAHA_DESERT">
+			<Text>Maha Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SALA_DESERT">
+			<Text>Sala Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_DHAMA_DESERT">
+			<Text>Dhama Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SURA_DESERT">
+			<Text>Sura Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_DAHA_DESERT">
+			<Text>Daha Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_BAHA_DESERT">
+			<Text>Baha Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_HAYLA_DESERT">
+			<Text>Hayla Desert</Text>
+		</Row>
+
+	</Language_en_US>
+</GameData>

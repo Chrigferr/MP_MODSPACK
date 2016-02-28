@@ -1,0 +1,472 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+*****************************************
+*			Map Labels					*
+*	by Hazel (hazel16 @ CivFanatics)	*
+*****************************************
+-->
+<GameData>
+	<ML_Labels_Dynamic>
+		<!-- Template:
+			<Row Name="TXT_KEY_NAME_ML_KILIMANJARO" CultureType="AFRICA" MainType="FEATURE" SubType="MOUNTAIN" />
+		-->
+
+		<!-- 
+=========================== 
+Regions 
+=========================== 
+-->
+		<Row Name="TXT_KEY_NAME_ML_ALTBAYERN" MainType="REGION" SubType="REGION" CultureType="GERMANIC"/>
+
+		<Row Name="TXT_KEY_NAME_ML_BERGISCHES_LAND" MainType="REGION" SubType="REGION" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_BREISGAU" MainType="REGION" SubType="REGION" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_HEGAU" MainType="REGION" SubType="REGION" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_HELLWEG_BRDE" MainType="REGION" SubType="REGION" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_KELLERWALD" MainType="REGION" SubType="REGION" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_KRAICHGAU" MainType="REGION" SubType="REGION" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_BEZIRK_LOTHRINGEN" MainType="REGION" SubType="REGION" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_MARKGRFLERLAND" MainType="REGION" SubType="REGION" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_MECKLENBURG" MainType="REGION" SubType="REGION" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_RAMMACHGAU" MainType="REGION" SubType="REGION" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_RHINELAND" MainType="REGION" SubType="REGION" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_RHINLUCH" MainType="REGION" SubType="REGION" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_RUHR" MainType="REGION" SubType="REGION" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_SAUERLAND" MainType="REGION" SubType="REGION" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_SCHLESWIGHOLSTEIN" MainType="REGION" SubType="REGION" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_SIEGERLAND" MainType="REGION" SubType="REGION" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_SLAVINIA" MainType="REGION" SubType="REGION" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_STUTTGART" MainType="REGION" SubType="REGION" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_VOGTLAND" MainType="REGION" SubType="REGION" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_WENDLAND" MainType="REGION" SubType="REGION" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_VSTERBOTTEN" MainType="REGION" SubType="REGION" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_NORRBOTTEN" MainType="REGION" SubType="REGION" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_UPPSALA" MainType="REGION" SubType="REGION" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_SDERMANLAND" MainType="REGION" SubType="REGION" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_STERGTLAND" MainType="REGION" SubType="REGION" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_JNKPING" MainType="REGION" SubType="REGION" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_GOTLAND" MainType="REGION" SubType="REGION" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_BLEKINGE" MainType="REGION" SubType="REGION" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_SKNE" MainType="REGION" SubType="REGION" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_HALLAND" MainType="REGION" SubType="REGION" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_VSTRA_GTALAND" MainType="REGION" SubType="REGION" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_VRMLAND" MainType="REGION" SubType="REGION" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_REBRO" MainType="REGION" SubType="REGION" CultureType="GERMANIC"/>
+
+		<!-- 
+=========================== 
+Oceans 
+=========================== 
+-->
+		<Row Name="TXT_KEY_NAME_ML_BALTIC_SEA" MainType="REGION" SubType="OCEAN" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_SKAGERRAK_SEA" MainType="REGION" SubType="OCEAN" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_KATTEGAT_SEA" MainType="REGION" SubType="OCEAN" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_GULF_OF_BOTHNIA" MainType="REGION" SubType="OCEAN" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_HONEUHOFEN_SEA" MainType="REGION" SubType="OCEAN" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_TENEBRUCK_SEA" MainType="REGION" SubType="OCEAN" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_HOLLEWALD_SEA" MainType="REGION" SubType="OCEAN" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_BENERUCK_SEA" MainType="REGION" SubType="OCEAN" CultureType="GERMANIC"/>
+
+
+		<!--	
+=========================== 
+Islands 
+=========================== 
+-->
+		<Row Name="TXT_KEY_NAME_ML_BORNHOLM_ISLAND" MainType="REGION" SubType="ISLAND" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_FALSTER_ISLAND" MainType="REGION" SubType="ISLAND" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_FUNEN_ISLAND" MainType="REGION" SubType="ISLAND" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_LOLLAND_ISLAND" MainType="REGION" SubType="ISLAND" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_ZEALAND_ISLAND" MainType="REGION" SubType="ISLAND" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_GOTLAND_ISLAND" MainType="REGION" SubType="ISLAND" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_LAND_ISLAND" MainType="REGION" SubType="ISLAND" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_ORUST_ISLAND" MainType="REGION" SubType="ISLAND" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_HISINGEN_ISLAND" MainType="REGION" SubType="ISLAND" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_VRMD_ISLAND" MainType="REGION" SubType="ISLAND" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_TJRN_ISLAND" MainType="REGION" SubType="ISLAND" CultureType="GERMANIC"/>
+
+		<Row Name="TXT_KEY_NAME_ML_FRISIAN_ISLAND" MainType="REGION" SubType="ISLAND" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_WADDEN_ISLAND" MainType="REGION" SubType="ISLAND" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_JUTLANDIC_ISLAND" MainType="REGION" SubType="ISLAND" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_JAN_MAYEN_ISLAND" MainType="REGION" SubType="ISLAND" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_SVALBARD_ISLAND" MainType="REGION" SubType="ISLAND" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_LAND_ISLANDS_ISLAND" MainType="REGION" SubType="ISLAND" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_FEHMARN_ISLAND" MainType="REGION" SubType="ISLAND" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_HAILUOTO_ISLAND" MainType="REGION" SubType="ISLAND" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_RGEN_ISLAND" MainType="REGION" SubType="ISLAND" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_USEDOM_ISLAND" MainType="REGION" SubType="ISLAND" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_UZNAM_ISLAND" MainType="REGION" SubType="ISLAND" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_WOLIN_ISLAND" MainType="REGION" SubType="ISLAND" CultureType="GERMANIC"/>
+
+		<!--		
+=========================== 
+Mountains 
+=========================== 
+-->
+		<Row Name="TXT_KEY_NAME_ML_GALDHPIGGEN_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_GLITTERTIND_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_STORE_SKAGASTLSTIND_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_STORE_STYGGEDALSTINDEN_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_SKARSTIND_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_VESLE_GALDHPIGGEN_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_SURTNINGSSUE_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_STORE_MEMURUTINDEN_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_JERVVASSTIND_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_SENTRALTIND_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_KEBNEKAISE_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_SAREKTJKK_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_KASKASATJKKA_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_KASKASAPAKTE_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_AKKA_STORTOPPEN_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_MOUNT_AKKA_NORDVSTTOPPEN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_MOUNT_SAREKTJKK_BUCHTTOPPEN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_MOUNT_PRTETJKKA" MainType="FEATURE" SubType="MOUNTAIN" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_MOUNT_PALKATJKKA" MainType="FEATURE" SubType="MOUNTAIN" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_MOUNT_HALTI" MainType="FEATURE" SubType="MOUNTAIN" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_MOUNT_RIDNITSOHKKA" MainType="FEATURE" SubType="MOUNTAIN" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_MOUNT_KIEDDITSOHKKA" MainType="FEATURE" SubType="MOUNTAIN" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_MOUNT_KOVDDOSKAISI" MainType="FEATURE" SubType="MOUNTAIN" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_MOUNT_RUVDNAOAIVI" MainType="FEATURE" SubType="MOUNTAIN" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_MOUNT_LOASSONIBBA" MainType="FEATURE" SubType="MOUNTAIN" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_MOUNT_URTASVAARA" MainType="FEATURE" SubType="MOUNTAIN" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_MOUNT_KAHPERUSVAARAT" MainType="FEATURE" SubType="MOUNTAIN" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_MOUNT_ALDORASSA" MainType="FEATURE" SubType="MOUNTAIN" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_MOUNT_KIEDDOAIVI" MainType="FEATURE" SubType="MOUNTAIN" CultureType="GERMANIC"/>
+
+		<Row Name="TXT_KEY_NAME_ML_ZUGSPITZE_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_SCHNEEFERNERKOPF_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_WETTERSPITZE_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_HOCHWANNER_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_HLLENTALSPITZE_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_WATZMANN_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_HOCHBLASSEN_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_WETTERWANDECK_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_LEUTASCHER_DREITORSPITZE_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_HINTERREINTALSCHROFEN_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_MOUNT_HOCHFROTTSPITZE" MainType="FEATURE" SubType="MOUNTAIN" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_MOUNT_MDELEGABEL" MainType="FEATURE" SubType="MOUNTAIN" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_MOUNT_PARTENKIRCHNER_DREITORSPITZE" MainType="FEATURE" SubType="MOUNTAIN" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_MOUNT_ALPSPITZE" MainType="FEATURE" SubType="MOUNTAIN" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_MOUNT_VOLLKARSPITZE" MainType="FEATURE" SubType="MOUNTAIN" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_MOUNT_BOCKKARKOPF" MainType="FEATURE" SubType="MOUNTAIN" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_MOUNT_HOCHKALTER" MainType="FEATURE" SubType="MOUNTAIN" CultureType="GERMANIC"/>
+
+		<!--
+=========================== 
+Lakes 
+=========================== 
+-->
+		<Row Name="TXT_KEY_NAME_ML_AMMERSEE_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_ARENDSEE_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_AUENALSTER_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_BAALENSEE_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_BALDENEYSEE_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_BEDERKESAER_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_BEETZSEE_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_BIGGESEE_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_BINNENALSTER_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_BRAHMSEE_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_BREITLINGSEE_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_BROMBACHSEE_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_BULLENSEE_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_CHIEMSEE_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="GERMANIC"/>
+
+		<Row Name="TXT_KEY_NAME_ML_DMMERSEE_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_EDERSEE_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_EIBSEE_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_ELLBOGENSEE_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_ESCHBACH_RESERVOIR_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_FLEESEN_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_GELTERSWOOG_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_GOTHEN_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_GOTTLEUBA_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_GROER_LABUS_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_GROER_MLLROSER_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_GROER_PRIEPERT_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_HALTERNER_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_HENGSTEY_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_KELLER_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_KNIGS_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_KRUMME_LANKE_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_MASCH_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_MECHOWER_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_MHNE_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_MSERSCHER_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_MGGEL_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_MRITZ_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_NORDERTEICH_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_ODER_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_OKER_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_PARSTEINER_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_PFAFFENTEICH_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_PLAUER_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_PLNER_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_PLTZEN_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_QUENZ_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_RBLIN_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_SCHARMTZEL_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_SCHERMTZEL_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_SCHLUCH_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_SCHWERINER_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_LAKE_SCHMOLLEN" MainType="FEATURE" SubType="LAKE" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_LAKE_SCHWEDT" MainType="FEATURE" SubType="LAKE" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_LAKE_SEILER" MainType="FEATURE" SubType="LAKE" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_LAKE_SORPE" MainType="FEATURE" SubType="LAKE" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_LAKE_SSE" MainType="FEATURE" SubType="LAKE" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_LAKE_STOLP" MainType="FEATURE" SubType="LAKE" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_LAKE_STARNBERG" MainType="FEATURE" SubType="LAKE" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_LAKE_STEINHUDER" MainType="FEATURE" SubType="LAKE" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_LAKE_TEGEL" MainType="FEATURE" SubType="LAKE" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_LAKE_USERINER" MainType="FEATURE" SubType="LAKE" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_LAKE_WANGNITZ" MainType="FEATURE" SubType="LAKE" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_LAKE_WANN" MainType="FEATURE" SubType="LAKE" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_LAKE_WEND" MainType="FEATURE" SubType="LAKE" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_LAKE_WOBLITZ" MainType="FEATURE" SubType="LAKE" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_LAKE_WOLGAST" MainType="FEATURE" SubType="LAKE" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_LAKE_ZIERN" MainType="FEATURE" SubType="LAKE" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_LAKE_ZWISCHENAHNER" MainType="FEATURE" SubType="LAKE" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_LAKE_NNSJN" MainType="FEATURE" SubType="LAKE" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_LAKE_RESJN" MainType="FEATURE" SubType="LAKE" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_LAKE_BOLMEN" MainType="FEATURE" SubType="LAKE" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_LAKE_BOREN" MainType="FEATURE" SubType="LAKE" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_LAKE_DELLEN" MainType="FEATURE" SubType="LAKE" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_LAKE_GLAN" MainType="FEATURE" SubType="LAKE" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_LAKE_HJLMAREN" MainType="FEATURE" SubType="LAKE" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_LAKE_IKESJAURE" MainType="FEATURE" SubType="LAKE" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_LAKE_HORNAVAN" MainType="FEATURE" SubType="LAKE" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_LAKE_MLAREN" MainType="FEATURE" SubType="LAKE" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_LAKE_MIEN" MainType="FEATURE" SubType="LAKE" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_ROXEN_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_RUNN_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_SILJAN_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_SOMMEN_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_SPARREN_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_STORAVAN_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_STORSJN_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_TORNETRSK_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_TKERN_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_VNERN_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_VSMAN_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_VTTERN_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="GERMANIC"/>
+
+
+		<!-- 		
+=========================== 
+Rivers 
+=========================== 
+-->
+		<Row Name="TXT_KEY_NAME_ML_RIVER_NORRSTRM" MainType="FEATURE" SubType="RIVER" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_RIVER_DALEN" MainType="FEATURE" SubType="RIVER" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_RIVER_LJUSNAN" MainType="FEATURE" SubType="RIVER" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_RIVER_LJUNGAN" MainType="FEATURE" SubType="RIVER" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_RIVER_INDALSEN" MainType="FEATURE" SubType="RIVER" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_RIVER_NGERMANEN" MainType="FEATURE" SubType="RIVER" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_RIVER_UME" MainType="FEATURE" SubType="RIVER" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_RIVER_SKELLEFTE" MainType="FEATURE" SubType="RIVER" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_RIVER_PITE" MainType="FEATURE" SubType="RIVER" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_RIVER_LULE" MainType="FEATURE" SubType="RIVER" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_RIVER_KALIX" MainType="FEATURE" SubType="RIVER" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_RIVER_TORNE" MainType="FEATURE" SubType="RIVER" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_RIVER_GLOMMA" MainType="FEATURE" SubType="RIVER" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_RIVER_PASVIKELVA" MainType="FEATURE" SubType="RIVER" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_RIVER_IVALOJOKI" MainType="FEATURE" SubType="RIVER" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_RIVER_NUMEDALSLGEN" MainType="FEATURE" SubType="RIVER" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_RIVER_GUDBRANDSDALSLGEN" MainType="FEATURE" SubType="RIVER" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_RIVER_VORMA" MainType="FEATURE" SubType="RIVER" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_RIVER_TANAELVA" MainType="FEATURE" SubType="RIVER" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_RIVER_DRAMMENSVASSDRAGET" MainType="FEATURE" SubType="RIVER" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_RIVER_SKIENSVASSDRAGET" MainType="FEATURE" SubType="RIVER" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_RIVER_BEGNA" MainType="FEATURE" SubType="RIVER" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_RIVER_OTRA" MainType="FEATURE" SubType="RIVER" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_RIVER_TRYSILELVA" MainType="FEATURE" SubType="RIVER" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_RIVER_ALTAELVA" MainType="FEATURE" SubType="RIVER" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_RIVER_NAMSEN" MainType="FEATURE" SubType="RIVER" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_RIVER_HALLINGDALSELVA" MainType="FEATURE" SubType="RIVER" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_RIVER_SNARUMSELVA" MainType="FEATURE" SubType="RIVER" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_RIVER_ARENDALSVASSDRAGET" MainType="FEATURE" SubType="RIVER" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_RIVER_ORKLAELVA" MainType="FEATURE" SubType="RIVER" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_RIVER_RENAELVA" MainType="FEATURE" SubType="RIVER" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_RIVER_VEFSNA" MainType="FEATURE" SubType="RIVER" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_RIVER_NEANIDELVVASSDRAGET" MainType="FEATURE" SubType="RIVER" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_RIVER_KARASJOHKA" MainType="FEATURE" SubType="RIVER" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_RIVER_GAULA" MainType="FEATURE" SubType="RIVER" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_RIVER_FELLER_BACH" MainType="FEATURE" SubType="RIVER" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_RIVER_FILS" MainType="FEATURE" SubType="RIVER" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_RIVER_FUHSE" MainType="FEATURE" SubType="RIVER" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_RIVER_FULDA" MainType="FEATURE" SubType="RIVER" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_RIVER_GARTE" MainType="FEATURE" SubType="RIVER" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_RIVER_GERA" MainType="FEATURE" SubType="RIVER" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_RIVER_GLAN" MainType="FEATURE" SubType="RIVER" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_RIVER_GOSEABZUCHT" MainType="FEATURE" SubType="RIVER" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_RIVER_GOTTLEUBA" MainType="FEATURE" SubType="RIVER" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_RIVER_GROE_LABER" MainType="FEATURE" SubType="RIVER" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_RIVER_GNZ" MainType="FEATURE" SubType="RIVER" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_RIVER_HAMME" MainType="FEATURE" SubType="RIVER" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_RIVER_HASE" MainType="FEATURE" SubType="RIVER" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_RIVER_HAUNE" MainType="FEATURE" SubType="RIVER" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_RIVER_HAVEL" MainType="FEATURE" SubType="RIVER" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_RIVER_HELLER" MainType="FEATURE" SubType="RIVER" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_RIVER_HNNE" MainType="FEATURE" SubType="RIVER" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_RIVER_HRSEL" MainType="FEATURE" SubType="RIVER" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_RIVER_HUNTE" MainType="FEATURE" SubType="RIVER" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_RIVER_IHME" MainType="FEATURE" SubType="RIVER" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_RIVER_ILLER" MainType="FEATURE" SubType="RIVER" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_RIVER_ILM" MainType="FEATURE" SubType="RIVER" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_RIVER_ILMENAU" MainType="FEATURE" SubType="RIVER" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_RIVER_ILZ" MainType="FEATURE" SubType="RIVER" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_RIVER_INDE" MainType="FEATURE" SubType="RIVER" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_RIVER_INN" MainType="FEATURE" SubType="RIVER" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_INNERSTE_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_ISAR_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_ISEN_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_ITZ_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_JADE_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_JAGST_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_JEETZEL_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_KAMMEL_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_KANDER_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_KINZIG_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_KOCHER_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_KYLL_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_PAAR_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_PADER_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_PARTHE_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_PEENE_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_PEGNITZ_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_PFINZ_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_PLANE_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_PLEIE_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_PRIMS_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_PRM_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_QUEICH_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_RECKNITZ_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_RED_MAIN_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_REDNITZ_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_REGEN_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_REGNITZ_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_REMS_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_RENCH_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_RHEIDER_AU_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_RHIN_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_RHINE_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_RHUME_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_RI_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_ROT_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="GERMANIC"/>
+
+
+		<!-- 
+=========================== 
+Forests 
+=========================== 
+-->
+		<Row Name="TXT_KEY_NAME_ML_MIESEFELS_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_BERAUBRUCK_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_WARZENDORF_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_PFURSTELBERG_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_ONDENDORF_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_GENEBACH_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_HENEFELD_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_KIRCHEHEIM_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_HEINESTADT_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_HENEFELS_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_HEINSEFELS_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_HENEBERG_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_ALLENHEIM_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_RAFORCHDORF_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_HEINEFELD_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_GENESTEIN_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_ITTENDORF_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_WASSESTEIN_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_ZENERUCK_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_GERSKEFELL_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_AKOLFRKLIF_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_AGNARDALR_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_HAAKETHORP_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_HORMITOFT_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_AKILKLIF_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_HOLMSTEHOLM_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_NORESKALI_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_FOREST_OF_JORNITHVEIT" MainType="FEATURE" SubType="FOREST" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_FOREST_OF_BODITOFT" MainType="FEATURE" SubType="FOREST" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_FOREST_OF_HONDIKLIF" MainType="FEATURE" SubType="FOREST" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_FOREST_OF_ORBENTOFT" MainType="FEATURE" SubType="FOREST" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_FOREST_OF_BJOLFISETR" MainType="FEATURE" SubType="FOREST" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_FOREST_OF_HULFITHVEIT" MainType="FEATURE" SubType="FOREST" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_FOREST_OF_HALLIBEKKR" MainType="FEATURE" SubType="FOREST" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_FOREST_OF_ADDORFBYR" MainType="FEATURE" SubType="FOREST" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_FOREST_OF_HRUNIBEKKR" MainType="FEATURE" SubType="FOREST" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_FOREST_OF_STEINIHOLM" MainType="FEATURE" SubType="FOREST" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_FOREST_OF_TORIDALR" MainType="FEATURE" SubType="FOREST" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_FOREST_OF_BORGEHOLM" MainType="FEATURE" SubType="FOREST" CultureType="GERMANIC"/>
+
+		<Row Name="TXT_KEY_NAME_MLADD_SILKEBORGSKOVENE_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_MLADD_ROLD_SKOV_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_MLADD_KLOSTERHEDEN_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_MLADD_GRIBSKOV_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_MLADD_ALMINDINGEN_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_MLADD_KOMPEDAL_PLANTAGE_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_MLADD_ALHEDENS_SKOV_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_MLADD_LVENHOLM_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_MLADD_FJELD_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_MLADD_RAMTEN_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_MLADD_VESTERSKOV_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_MLADD_THORS_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_MLADD_SNDERSKOV_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_MLADD_RYE_NRRESKOV_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_MLADD_SKRAMS_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_MLADD_SKRS_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_MLADD_LYNGSBK_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_MLADD_SLAGELSESKOVENE_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_MLADD_TVORUP_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_MLADD_NYSTRUP_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_MLADD_VANDET_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="GERMANIC"/>
+
+
+		<!--
+=========================== 
+Deserts 
+=========================== 
+-->
+		<Row Name="TXT_KEY_NAME_ML_ESTGEINGKLIF_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_ARKIRTOFT_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_KETIBYR_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_REDIVIK_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_THAEMGIBEKKR_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_BLIDIVIK_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_ODDIMRSETR_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_SEGIHOLM_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_KILITOFT_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_VARDRESKALI_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_BERGFIVIK_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_LENDIDALR_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_ALTIRTOFT_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_VIRIDALR_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_TEINIDALR_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_HORFRISKALI_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_HORGIBEKKR_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_HALLISKALI_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_MUNDISETR_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_LOGIHOLM_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_MINDEHOFEN_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_MAINBORNFELD_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_HAITERBRUCK_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_HEPPOHLRUCK_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_ATTELSSTADT_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_DEGGERMRUCK_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_HEIDESTADT_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_STENEBRUCK_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_STENEFELS_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_DESEBACH_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_MUNSTENFELS_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_ALLENSTEIN_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_BAIERSEHEIM_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_HENEFELS_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_HENEUBERG_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_RASTENBACH_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_MILTAUNSTADT_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_ULRINHEIM_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_GENEFELD_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="GERMANIC"/>
+		<Row Name="TXT_KEY_NAME_ML_RICHEBERG_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="GERMANIC"/>
+
+
+	</ML_Labels_Dynamic>
+</GameData>

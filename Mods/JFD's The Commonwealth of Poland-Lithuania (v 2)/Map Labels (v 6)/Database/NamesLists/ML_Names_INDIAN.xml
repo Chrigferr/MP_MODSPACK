@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+*****************************************
+*			Map Labels					*
+*	by Hazel (hazel16 @ CivFanatics)	*
+*****************************************
+-->
+<GameData>
+	<ML_Labels_Dynamic>
+		<!-- Template:
+			
+		-->
+
+		<!-- 
+=========================== 
+Regions 
+=========================== 
+-->
+		<Row Name="TXT_KEY_NAME_ML_KARONDA_MANDAL" MainType="REGION" SubType="REGION" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_KOSAL" MainType="REGION" SubType="REGION" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_KALAHANDI_BALANGIR" MainType="REGION" SubType="REGION" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_BENGAL" MainType="REGION" SubType="REGION" CultureType="INDIAN"/>
+
+		<Row Name="TXT_KEY_NAME_ML_BIHAR" MainType="REGION" SubType="REGION" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_JHARKHAND" MainType="REGION" SubType="REGION" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_CHHATISGARH" MainType="REGION" SubType="REGION" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_ODISHA" MainType="REGION" SubType="REGION" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_ARUNACHAL_PRADESH" MainType="REGION" SubType="REGION" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_ASSAM" MainType="REGION" SubType="REGION" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_MANIPUR" MainType="REGION" SubType="REGION" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_MEGHALAYA" MainType="REGION" SubType="REGION" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_MIZORAM" MainType="REGION" SubType="REGION" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_NAGALAND" MainType="REGION" SubType="REGION" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_TRIPURA" MainType="REGION" SubType="REGION" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_CHAROTAR" MainType="REGION" SubType="REGION" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_DADRA" MainType="REGION" SubType="REGION" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_DAMAN" MainType="REGION" SubType="REGION" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_DESH" MainType="REGION" SubType="REGION" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_DIU" MainType="REGION" SubType="REGION" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_HALAAR_GUJARAT" MainType="REGION" SubType="REGION" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_KATHIAWAR" MainType="REGION" SubType="REGION" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_SAURASHTRA" MainType="REGION" SubType="REGION" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_KHANDESH" MainType="REGION" SubType="REGION" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_KONKAN" MainType="REGION" SubType="REGION" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_KUTCH" MainType="REGION" SubType="REGION" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_MARATHWADA" MainType="REGION" SubType="REGION" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_NAGAR_HAVELI" MainType="REGION" SubType="REGION" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_SORATH_GUJARAT" MainType="REGION" SubType="REGION" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_VIDARBHA" MainType="REGION" SubType="REGION" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_BERAR" MainType="REGION" SubType="REGION" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_MALWA" MainType="REGION" SubType="REGION" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_NIMAR" MainType="REGION" SubType="REGION" CultureType="INDIAN"/>
+
+		<!-- 
+=========================== 
+Oceans 
+=========================== 
+-->
+		<Row Name="TXT_KEY_NAME_ML_BAY_OF_BENGAL" MainType="REGION" SubType="OCEAN" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_KUTCH_SEA" MainType="REGION" SubType="OCEAN" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_KHAMBAT_SEA" MainType="REGION" SubType="OCEAN" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_BABELMANDEB_SEA" MainType="REGION" SubType="OCEAN" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_GULF_OF_KHAMBAT" MainType="REGION" SubType="OCEAN" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_ANDAMAN_SEA" MainType="REGION" SubType="OCEAN" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_GULF_OF_MANNAR" MainType="REGION" SubType="OCEAN" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_LACCADIVE_SEA" MainType="REGION" SubType="OCEAN" CultureType="INDIAN"/>
+
+
+
+		<!--	
+=========================== 
+Islands 
+=========================== 
+-->
+		<Row Name="TXT_KEY_NAME_ML_NICOBAR_ISLAND" MainType="REGION" SubType="ISLAND" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_SRIRANGAPATNA_ISLAND" MainType="REGION" SubType="ISLAND" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_SHIVANASAMUDRAM_ISLAND" MainType="REGION" SubType="ISLAND" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_SRI_RANGA_ISLAND" MainType="REGION" SubType="ISLAND" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_VAAN_ISLAND" MainType="REGION" SubType="ISLAND" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_KOSWARI_ISLAND" MainType="REGION" SubType="ISLAND" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_VILANGUCHALLI_ISLAND" MainType="REGION" SubType="ISLAND" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_KARIYACHALLI_ISLAND" MainType="REGION" SubType="ISLAND" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_UPP_ISLAND" MainType="REGION" SubType="ISLAND" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_PULUVIN_ISLAND" MainType="REGION" SubType="ISLAND" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_NALL_ISLAND" MainType="REGION" SubType="ISLAND" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_ANAIPAR_ISLAND" MainType="REGION" SubType="ISLAND" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_VAL_ISLAND" MainType="REGION" SubType="ISLAND" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_POOVARASA_ISLAND" MainType="REGION" SubType="ISLAND" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_APPA_ISLAND" MainType="REGION" SubType="ISLAND" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_TALAIRI_ISLAND" MainType="REGION" SubType="ISLAND" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_VALA_ISLAND" MainType="REGION" SubType="ISLAND" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_MULLI_ISLAND" MainType="REGION" SubType="ISLAND" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_MUSAL_ISLAND" MainType="REGION" SubType="ISLAND" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_ISLAND_OF_MANOLI" MainType="REGION" SubType="ISLAND" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_ISLAND_OF_MANOLIPUTT" MainType="REGION" SubType="ISLAND" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_ISLAND_OF_POOMARICHA" MainType="REGION" SubType="ISLAND" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_ISLAND_OF_PULLIVASAL" MainType="REGION" SubType="ISLAND" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_ISLAND_OF_KURUSADAI" MainType="REGION" SubType="ISLAND" CultureType="INDIAN"/>
+
+
+		<!--		
+=========================== 
+Mountains 
+=========================== 
+-->
+		<Row Name="TXT_KEY_NAME_ML_ANGINDA_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_BAMBA_DHURA_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_BANDARPUNCH_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_BLUE_MOUNTAIN_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_BURPHU_DHURA_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_CHANDRASHILA_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_CHANGUCH_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_CHAUDHARA_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_CHAUKHAMBA_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_CHIRING_WE_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_CHONG_KUMDAN_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_DODDABETTA_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_GANGOTRI_GROUP_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_GAURI_PARBAT_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_GIMMIGELA_CHULI_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_GREFTAGIME_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_GURU_SHIKHAR_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_HARDEOL_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_HAATHI_PARVAT_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_JONGLINGKONG_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_KALSUBAI_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_KALANAG_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_MOUNT_KAMET" MainType="FEATURE" SubType="MOUNTAIN" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_MOUNT_KANGCHENJUNGA" MainType="FEATURE" SubType="MOUNTAIN" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_MOUNT_KANG_YATZE" MainType="FEATURE" SubType="MOUNTAIN" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_MOUNT_KAPILASH" MainType="FEATURE" SubType="MOUNTAIN" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_MOUNT_KATPHORI_TIBA" MainType="FEATURE" SubType="MOUNTAIN" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_MOUNT_KEDARNATH" MainType="FEATURE" SubType="MOUNTAIN" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_MOUNT_KIRAT_CHULI" MainType="FEATURE" SubType="MOUNTAIN" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_MOUNT_KODACHADRI" MainType="FEATURE" SubType="MOUNTAIN" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_MOUNT_KUMARA_PARVATHA" MainType="FEATURE" SubType="MOUNTAIN" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_MOUNT_MAMOSTONG_KANGRI" MainType="FEATURE" SubType="MOUNTAIN" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_MOUNT_MAIKTOLI" MainType="FEATURE" SubType="MOUNTAIN" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_MOUNT_MENTOK" MainType="FEATURE" SubType="MOUNTAIN" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_MOUNT_MOL_LEN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_MOUNT_GYA" MainType="FEATURE" SubType="MOUNTAIN" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_MOUNT_MULLAYANAGIRI" MainType="FEATURE" SubType="MOUNTAIN" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_MOUNT_NAGALAPHU" MainType="FEATURE" SubType="MOUNTAIN" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_MOUNT_NAG_TIBBA" MainType="FEATURE" SubType="MOUNTAIN" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_NANDA_DEVI_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="INDIAN"/>
+
+		<Row Name="TXT_KEY_NAME_ML_NANDA_GOND_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_NANDA_KOT_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_NANDA_PAL_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_NANDA_KHAT_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_NANDA_GHUNTI_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_NILKANTHA_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_NUN_KUN_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_PANCHCHULI_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_PANDIM_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_RAJRAMBHA_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_RIMO_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_RISHI_PAHAR_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_SALTORO_KANGRI_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_SASER_KANGRI_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_SANGTHANG_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_SISPARA_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_SINIOLCHU_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_SUJ_TILLA_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_SUJARKAMILTAN_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_SULI_TOP_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_SWARGAROHINI_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_TRISHULI_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_TRISUL_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_YAMNOTRI_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="INDIAN"/>
+
+		<!--
+=========================== 
+Lakes 
+=========================== 
+-->
+		<Row Name="TXT_KEY_NAME_ML_KOLLERU_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_PULICAT_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_HAMIRSAR_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_KANKARIA_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_NAL_SAROVAR_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="INDIAN"/>
+
+		<Row Name="TXT_KEY_NAME_ML_NARAYAN_SAROVAR_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_SARDAR_SAROVAR_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_THOL_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_VASTRAPUR_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_LAKHOTA_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_SURSAGAR_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_BRIGHU_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_DAL_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_DASHAIR_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_GHADHASARU_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_KARERI_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_KHAJJIAR_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_LAMA_DAL_NAUN_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_MACCHIAL_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_MAHARANA_PRATAP_SAGAR_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_MANIMAHESH_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_NAKO_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_PANDOH_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_PRASHAR_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_RENUKA_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_REWALSAR_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_SERUVALSAR_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_SURAJ_TAL_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_CHANDRA_TAAL_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_BADKHAL_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_BRAHMA_SAROVAR_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_KARNA_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_SANNIHIT_SAROVAR_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_SURAJKUND_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_TILYAR_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_PANGONG_TSO_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_TSO_MORIRI_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_WULAR_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_MANASBAL_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_MANSAR_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_SHESHNAG_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_GOREWADA_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_KHINDSI_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_LONAR_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_PASHAN_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_POWAI_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_RANKALA_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_SALIM_ALI_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_SHIVASAGAR_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_TALAO_PALI_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_UPVAN_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_VENNA_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="INDIAN"/>
+
+		<!-- 		
+=========================== 
+Rivers 
+=========================== 
+-->
+		<Row Name="TXT_KEY_NAME_ML_PADMA_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_DHALESHWARI_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_DAKATUA_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_GUMTI_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_FENI_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="INDIAN"/>
+
+		<Row Name="TXT_KEY_NAME_ML_BRAHMAPUTRA_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_HAORA_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_SURMA_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_KANGSHA_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_SOMESHWARI_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_KUSHIYARA_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_MANU_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_BARAK_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_BHUGDOI_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_DHANSIRI_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_MORA_DHANSIRI_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_DHARLA_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_JALDHAKA_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_DIBANG_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_DIKHOU_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_NAMDANG_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_DIHING_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_TIRAP_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_NAMPHUK_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_DISANG_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_DORIKA_RIVERS" MainType="FEATURE" SubType="RIVER" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_KAKODONGA_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_KAMENG_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_KAPILI_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_KOLONG_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_LOHIT_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_MANAS_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_PAGLADIYA_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_RIVER_DIPHLU" MainType="FEATURE" SubType="RIVER" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_RIVER_MORA_DIPHLU" MainType="FEATURE" SubType="RIVER" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_SANKOSH_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_RAIDK_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_SUBANSIRI_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_TEESTA_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_RANGEET_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_LACHEN_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_LACHUNG_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_TORSA_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_GHARGHARIA_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_BURI_TORSA_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_YAMUNA_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="INDIAN"/>
+
+		<!-- 
+=========================== 
+Forests 
+=========================== 
+-->
+
+		<Row Name="TXT_KEY_NAME_MLADD_MOLAI_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_MLADD_MULAI_KATHONI" MainType="FEATURE" SubType="FOREST" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_MLADD_PICHAVARAM" MainType="FEATURE" SubType="FOREST" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_MLADD_PUNIT_VAN" MainType="FEATURE" SubType="FOREST" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_MLADD_ARABARI" MainType="FEATURE" SubType="FOREST" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_MLADD_BANKURA_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_MLADD_CHILAPATA_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_MLADD_SARANDA_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_MLADD_DANDAKA_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_MLADD_DVAITA_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_MLADD_KAMYAKA_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_MLADD_KHANDAVA_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_MLADD_MADHU_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_MLADD_NAIMISHA_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="INDIAN"/>
+
+
+
+		<!--
+=========================== 
+Deserts 
+=========================== 
+-->
+		<Row Name="TXT_KEY_NAME_ML_PURAMA_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_PURATU_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_FATONGA_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_KARAHA_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_MANGALA_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_SAGARE_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_FATAMLI_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_MOHAWA_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_KUMBHRI_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_THAR_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_VARY_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_SURAPUR_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_BETULI_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_BANAGA_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_KHOLAWA_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_FARAURKA_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_SIKONA_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_GARHIKA_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_DESERT_OF_JALE" MainType="FEATURE" SubType="DESERT" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_DESERT_OF_SIKRINI" MainType="FEATURE" SubType="DESERT" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_DESERT_OF_RAMEERA" MainType="FEATURE" SubType="DESERT" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_DESERT_OF_GARTINI" MainType="FEATURE" SubType="DESERT" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_DESERT_OF_BARI" MainType="FEATURE" SubType="DESERT" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_DESERT_OF_ARAR" MainType="FEATURE" SubType="DESERT" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_DESERT_OF_VILLAMU" MainType="FEATURE" SubType="DESERT" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_DESERT_OF_KATAWA" MainType="FEATURE" SubType="DESERT" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_DESERT_OF_VALSAURA" MainType="FEATURE" SubType="DESERT" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_DESERT_OF_YAPUR" MainType="FEATURE" SubType="DESERT" CultureType="INDIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_DESERT_OF_BILAMA" MainType="FEATURE" SubType="DESERT" CultureType="INDIAN"/>
+
+
+	</ML_Labels_Dynamic>
+</GameData>

@@ -1,0 +1,1028 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+*****************************************
+*			Map Labels					*
+*	by Hazel (hazel16 @ CivFanatics)	*
+*****************************************
+-->
+<GameData>
+	<Language_en_US>
+		<!-- Template:
+		<Row Tag="TXT_KEY_NAME_ML_KILIMANJARO">
+			<Text>Mount Kilimanjaro</Text>
+		</Row>
+		-->
+		<!-- 
+=========================== 
+Regions 
+=========================== 
+-->
+		<Row Tag="TXT_KEY_NAME_ML_ANHUI">
+			<Text>Anhui</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FUJIAN">
+			<Text>Fujian</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_JIANGSU">
+			<Text>Jiangsu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_JIANGXI">
+			<Text>Jiangxi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SHANDONG">
+			<Text>Shandong</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ZHEJIANG">
+			<Text>Zhejiang</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_TIANJIN">
+			<Text>Tianjin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_HEBEI">
+			<Text>Hebei</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SHANXI">
+			<Text>Shanxi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_HEILONGJIANG">
+			<Text>Heilongjiang</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_JILIN">
+			<Text>Jilin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LIAONING">
+			<Text>Liaoning</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_GANSU">
+			<Text>Gansu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_QUINGHAI">
+			<Text>Quinghai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_NINGXIA">
+			<Text>Ningxia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SICHUAN">
+			<Text>Sichuan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_HUNAN">
+			<Text>Hunan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LGII">
+			<Text>Ölgii</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_DARKHAN">
+			<Text>Darkhan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ALTAI">
+			<Text>Altai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MANDALGOVI">
+			<Text>Mandalgovi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SAINSHAND">
+			<Text>Sainshand</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ULAANGOM">
+			<Text>Ulaangom</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ULIASTAI">
+			<Text>Uliastai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_HWANGHAE">
+			<Text>Hwanghae</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_NAMPO">
+			<Text>Nampo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_GANGWON">
+			<Text>Gangwon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_INCHEON">
+			<Text>Incheon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_DAEJEON">
+			<Text>Daejeon</Text>
+		</Row>
+
+
+		<!-- 
+=========================== 
+Oceans 
+=========================== 
+-->
+		<Row Tag="TXT_KEY_NAME_ML_YELLOW_SEA">
+			<Text>Yellow Sea</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SEA_OF_TATAR">
+			<Text>Sea of Tatar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_GULF_OF_TONKIN">
+			<Text>Gulf of Tonkin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LUZON_SEA">
+			<Text>Luzon Sea</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SEA_OF_MALACCA">
+			<Text>Sea of Malacca</Text>
+		</Row>
+
+
+		<!--	
+=========================== 
+Islands 
+=========================== 
+-->
+		<Row Tag="TXT_KEY_NAME_ML_CHANGSHAN_ISLANDS">
+			<Text>Changshan Islands</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_CHONGMING_ISLAND">
+			<Text>Chongming Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_DAMANG_ISLAND">
+			<Text>Damang Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_GULANGYU_ISLAND">
+			<Text>Gulangyu Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_HAINAN_ISLAND">
+			<Text>Hainan Island</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_NAME_ML_CHEUNG_CHAU">
+			<Text>Cheung Chau</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAMMA_ISLAND">
+			<Text>Lamma Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LANTAU_ISLAND">
+			<Text>Lantau Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MA_WAN_ISLAND">
+			<Text>Ma Wan Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_PENG_CHAU">
+			<Text>Peng Chau</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_PO_TOI_ISLAND">
+			<Text>Po Toi Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_TSING_YI_ISLAND">
+			<Text>Tsing Yi Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_HEBAO_ISLAND">
+			<Text>Hebao island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ISLAND_OF_COLOANE">
+			<Text>Island of Coloane</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ISLAND_OF_TAIPA">
+			<Text>Island of Taipa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MEIZHOU_ISLAND">
+			<Text>Meizhou Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_PINGTAN_ISLAND">
+			<Text>Pingtan Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SHAMIAN_ISLAND">
+			<Text>Shamian Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SHANGCHUAN_ISLAND">
+			<Text>Shangchuan Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_XIEYANG_ISLANDS">
+			<Text>Xieyang Islands</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_WEIZHOU_ISLAND">
+			<Text>Weizhou Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_XIACHUAN_ISLAND">
+			<Text>Xiachuan Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_XIAMEN_ISLAND">
+			<Text>Xiamen Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ZHIFU_ISLAND">
+			<Text>Zhifu Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ZHOUSHAN_ISLAND">
+			<Text>Zhoushan Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ISLAND_OF_BEOLSEOM">
+			<Text>Island of Beolseom</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ISLAND_OF_BUDO">
+			<Text>Island of Budo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ISLAND_OF_DORYANGDO">
+			<Text>Island of Doryangdo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ISLAND_OF_GYESEOM">
+			<Text>Island of Gyeseom</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ISLAND_OF_GWANDO">
+			<Text>Island of Gwando</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ISLAND_OF_GWANGDAEDO">
+			<Text>Island of Gwangdaedo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ISLAND_OF_JIDO">
+			<Text>Island of Jido</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ISLAND_OF_MEONGAESEOM">
+			<Text>Island of Meongaeseom</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ISLAND_OF_NABDO">
+			<Text>Island of Nabdo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ISLAND_OF_OSEOM">
+			<Text>Island of Oseom</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ISLAND_OF_ULDO">
+			<Text>Island of Uldo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ISLAND_OF_YEONPYEONGDO">
+			<Text>Island of Yeonpyeongdo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ISLAND_OF_DAEYEONPYEONGDO">
+			<Text>Island of Daeyeonpyeongdo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ISLAND_OF_SOYEONPYEONGDO">
+			<Text>Island of Soyeonpyeongdo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ISLAND_OF_CHAEKDO">
+			<Text>Island of Chaekdo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ISLAND_OF_MOIDO">
+			<Text>Island of Moido</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ISLAND_OF_KUJIDO">
+			<Text>Island of Kujido</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ISLAND_OF_GEODO">
+			<Text>Island of Geodo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ISLAND_OF_SOYADO">
+			<Text>Island of Soyado</Text>
+		</Row>
+
+		<!--		
+=========================== 
+Mountains 
+=========================== 
+-->
+
+		<Row Tag="TXT_KEY_NAME_ML_AMNE_MACHIN">
+			<Text>Amne Machin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_BADALING">
+			<Text>Badaling</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_BAEKDU_MOUNTAIN">
+			<Text>Baekdu Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_BAIYUN_MOUNTAIN">
+			<Text>Baiyun Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOUNT_BEIWUDANG">
+			<Text>Mount Beiwudang</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_BIJIA_MOUNTAIN">
+			<Text>Bijia Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_BOGDA_PEAK">
+			<Text>Bogda Peak</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_BOLORTAGH">
+			<Text>Bolor-Tagh</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_BROAD_PEAK">
+			<Text>Broad Peak</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_BUKADABAN_FENG">
+			<Text>Bukadaban Feng</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOUNT_CANGYAN">
+			<Text>Mount Cangyan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_CHAKRAGIL">
+			<Text>Chakragil</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_DAHEI_MOUNTAIN">
+			<Text>Dahei Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOUNT_DANXIA">
+			<Text>Mount Danxia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_DAXUE_MOUNTAIN">
+			<Text>Daxue Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_DINGHU_MOUNTAIN">
+			<Text>Dinghu Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOUNT_DINGJUN">
+			<Text>Mount Dingjun</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOUNT_DU">
+			<Text>Mount Du</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_DUNHEGER">
+			<Text>Dunheger</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_DUNHONG">
+			<Text>Dunhong</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOUNT_EMEI">
+			<Text>Mount Emei</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOUNT_ERLANG">
+			<Text>Mount Erlang</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOUNT_EVEREST">
+			<Text>Mount Everest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_GASHERBRUM">
+			<Text>Gasherbrum</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_GAURI_SANKAR">
+			<Text>Gauri Sankar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_GELADAINDONG_PEAK">
+			<Text>Geladaindong Peak</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOUNT_GENYEN">
+			<Text>Mount Genyen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOUNT_GONGGA">
+			<Text>Mount Gongga</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_GORA_ALAGORDY">
+			<Text>Gora Alagordy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_HABA_XUESHAN">
+			<Text>Haba Xueshan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOUNT_HUA">
+			<Text>Mount Hua</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOUNT_HUANGBO">
+			<Text>Mount Huangbo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_HUANGYAJIAN_PEAK">
+			<Text>Huangyajian Peak</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_HITEN_PEAK">
+			<Text>Hüiten Peak</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_JADE_DRAGON_SNOW_MOUNTAIN">
+			<Text>Jade Dragon Snow Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_JENGISH_CHOKUSU">
+			<Text>Jengish Chokusu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_JIANGJUN_MOUNTAIN">
+			<Text>Jiangjun Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOUNT_JIANGLANG">
+			<Text>Mount Jianglang</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOUNT_JIUHUA">
+			<Text>Mount Jiuhua</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOUNT_JIZU">
+			<Text>Mount Jizu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_JONGSONG_PEAK">
+			<Text>Jongsong Peak</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOUNT_KAILASH">
+			<Text>Mount Kailash</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_KALAMELY_MOUNTAIN">
+			<Text>Kalamely Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_KANGPENQING">
+			<Text>Kangpenqing</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_KANGTO">
+			<Text>Kangto</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_KAWAGARBO">
+			<Text>Kawagarbo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_KEZHEN_PEAK">
+			<Text>Kezhen Peak</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_KHUMBUTSE">
+			<Text>Khumbutse</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_KITTEN_MOUNTAIN">
+			<Text>Kitten Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_KONGUR_TAGH">
+			<Text>Kongur Tagh</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LABUCHE_KANG">
+			<Text>Labuche Kang</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAOJUN_MOUNTAIN">
+			<Text>Laojun Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOUNT_LANGYA">
+			<Text>Mount Langya</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOUNT_LAO">
+			<Text>Mount Lao</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LHOTSE">
+			<Text>Lhotse</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOUNT_LIANG">
+			<Text>Mount Liang</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOUNT_LINGYAN">
+			<Text>Mount Lingyan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOUNT_LI">
+			<Text>Mount Li</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LIUSHI_SHAN">
+			<Text>Liushi Shan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOUNT_LONGHU">
+			<Text>Mount Longhu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LUNPO_GANGRI">
+			<Text>Lunpo Gangri</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOUNT_LUOFU">
+			<Text>Mount Luofu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOUNT_LU">
+			<Text>Mount Lu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MAKALU">
+			<Text>Makalu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MAZONG_MOUNTAIN">
+			<Text>Mazong Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MIANZIMU">
+			<Text>Mianzimu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOUNT_JINFO">
+			<Text>Mount Jinfo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOUNT_MOGAN">
+			<Text>Mount Mogan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MUZTAGH_ATA">
+			<Text>Muztagh Ata</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_NAIRAMDAL_PEAK">
+			<Text>Nairamdal Peak</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_NYEGYI_KANSANG">
+			<Text>Nyegyi Kansang</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOUNT_PAN">
+			<Text>Mount Pan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_PHU_SI_LUNG">
+			<Text>Phu Si Lung</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOUNT_POMIU">
+			<Text>Mount Pomiu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_PORONG_RI">
+			<Text>Porong Ri</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_PURPLE_MOUNTAIN">
+			<Text>Purple Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOUNT_PUTUO">
+			<Text>Mount Putuo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_QIANLING_MOUNTAIN">
+			<Text>Qianling Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOUNT_QINGCHENG">
+			<Text>Mount Qingcheng</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_QIXIA_MOUNTAIN">
+			<Text>Qixia Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOUNT_QIYUN">
+			<Text>Mount Qiyun</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOUNT_SANQING">
+			<Text>Mount Sanqing</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SAUYR_ZHOTASY">
+			<Text>Sauyr Zhotasy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SHENGUANG_MOUNTAIN">
+			<Text>Shenguang Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SHENNONG_MOUNTAIN">
+			<Text>Shennong Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SHICENG_DASHAN">
+			<Text>Shiceng Dashan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SHIREN_MOUNTAIN">
+			<Text>Shiren Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SIGUANG_RI">
+			<Text>Siguang Ri</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SHISHAPANGMA">
+			<Text>Shishapangma</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SIMIAN_MOUNTAIN">
+			<Text>Simian Mountain</Text>
+		</Row>
+
+
+		<!--
+=========================== 
+Lakes 
+=========================== 
+-->
+
+		<Row Tag="TXT_KEY_NAME_ML_AIBI_LAKE">
+			<Text>Aibi Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_AILIK_LAKE">
+			<Text>Ailik Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_AYDING_LAKE">
+			<Text>Ayding Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_BOSTEN_LAKE">
+			<Text>Bosten Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_CHAIWOPU_LAKE">
+			<Text>Chaiwopu Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_CHAO_LAKE">
+			<Text>Chao Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_DAGZE_LAKE">
+			<Text>Dagze Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_DIAN_LAKE">
+			<Text>Dian Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_DIANSHAN_LAKE">
+			<Text>Dianshan Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_DONGQIAN_LAKE">
+			<Text>Dongqian Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_DONGTING_LAKE">
+			<Text>Dongting Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ERHAI_LAKE">
+			<Text>Erhai Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_GAOYOU_LAKE">
+			<Text>Gaoyou Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_HONGZE_LAKE">
+			<Text>Hongze Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_HULUN_LAKE">
+			<Text>Hulun Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LUGU_LAKE">
+			<Text>Lugu Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LUMAJANGDONG">
+			<Text>Lumajangdong</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LUOMA_LAKE">
+			<Text>Luoma Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MANAS_LAKE">
+			<Text>Manas Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_NANSI_LAKE">
+			<Text>Nansi Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_PANGONG_TSO">
+			<Text>Pangong Tso</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_POYANG_LAKE">
+			<Text>Poyang Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_QIANDAO_LAKE">
+			<Text>Qiandao Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_QINGHAI_LAKE">
+			<Text>Qinghai Lake</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_NAME_ML_TAIHU_LAKE">
+			<Text>Taihu Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_TIANCHI_LAKE">
+			<Text>Tianchi Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_XINGKAI_LAKE">
+			<Text>Xingkai Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_YANGCHENG_LAKE">
+			<Text>Yangcheng Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ANDONG_LAKE">
+			<Text>Andong Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_JINYANG_LAKE">
+			<Text>Jinyang Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SAPUNG_LAKE">
+			<Text>Sapung Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAKE_KHASAN">
+			<Text>Lake Khasan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_UVS_LAKE">
+			<Text>Uvs Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_KHVSGL_LAKE">
+			<Text>Khövsgöl Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_KHARUS_LAKE">
+			<Text>Khar-Us Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_KHYARGAS_LAKE">
+			<Text>Khyargas Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_BUIR_LAKE">
+			<Text>Buir Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_KHAR_LAKE">
+			<Text>Khar Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_DRGN_LAKE">
+			<Text>Dörgön Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ACHIT_LAKE">
+			<Text>Achit Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_BN_TSAGAAN_LAKE">
+			<Text>Böön Tsagaan Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_REG_LAKE">
+			<Text>Üüreg Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_TELMEN_LAKE">
+			<Text>Telmen Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ULAAN_LAKE">
+			<Text>Ulaan Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SANGIIN_DALAI_LAKE">
+			<Text>Sangiin Dalai Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_AIRAG_LAKE">
+			<Text>Airag Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_OROG_LAKE">
+			<Text>Orog Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_YAKHI_LAKE">
+			<Text>Yakhi Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_TOLBO_LAKE">
+			<Text>Tolbo Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_KHURGAN_LAKE">
+			<Text>Khurgan Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_DAYAN_LAKE">
+			<Text>Dayan Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_DOOD_TSAGAAN_NUUR">
+			<Text>Dood Tsagaan Nuur</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_BAYAN_LAKE">
+			<Text>Bayan Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_OIGON_LAKE">
+			<Text>Oigon Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_TERKHIIN_TSAGAAN_LAKE">
+			<Text>Terkhiin Tsagaan Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_KHOTON_LAKE">
+			<Text>Khoton Lake</Text>
+		</Row>
+
+		<!-- 		
+=========================== 
+Rivers 
+=========================== 
+-->
+		<Row Tag="TXT_KEY_NAME_ML_ANZI_RIVER">
+			<Text>Anzi River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FUZHOU_RIVER">
+			<Text>Fuzhou River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_DALIAO_RIVER">
+			<Text>Daliao River</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_NAME_ML_LIAO_RIVER">
+			<Text>Liao River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_TAIZI_RIVER">
+			<Text>Taizi River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_HUN_RIVER">
+			<Text>Hun River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LIU_RIVER">
+			<Text>Liu River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_XILIAO_RIVER">
+			<Text>Xiliao River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_XAR_MORON_RIVER">
+			<Text>Xar Moron River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_DALING_RIVER">
+			<Text>Daling River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_YANTAI_RIVER">
+			<Text>Yantai River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LIUGU_RIVER">
+			<Text>Liugu River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SHI_RIVER">
+			<Text>Shi River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_GOU_RIVER">
+			<Text>Gou River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_DASHI_RIVER">
+			<Text>Dashi River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_JIUJIANG_RIVER">
+			<Text>Jiujiang River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_DAI_RIVER">
+			<Text>Dai River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_YANG_RIVER">
+			<Text>Yang River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_CHAOBAI_RIVER">
+			<Text>Chaobai River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_CHAO_RIVER">
+			<Text>Chao River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_BAI_RIVER">
+			<Text>Bai River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_WEI_RIVER">
+			<Text>Wei River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SANGGAN_RIVER">
+			<Text>Sanggan River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_YANG_HE">
+			<Text>Yang He</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_DAQING_RIVER">
+			<Text>Daqing River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_JUMA_RIVER">
+			<Text>Juma River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_TUHAI_RIVER">
+			<Text>Tuhai River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_YELLOW_RIVER_BASIN">
+			<Text>Yellow River Basin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_YELLOW_RIVER">
+			<Text>Yellow River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LUO_RIVER">
+			<Text>Luo River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_QIN_RIVER">
+			<Text>Qin River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_YAN_RIVER">
+			<Text>Yan River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_WUDING_RIVER">
+			<Text>Wuding River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_KUYE_RIVER">
+			<Text>Kuye River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_DAHEI_RIVER">
+			<Text>Dahei River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_QINGSHUI_RIVER">
+			<Text>Qingshui River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ZULI_RIVER">
+			<Text>Zuli River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_TAO_RIVER">
+			<Text>Tao River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_DAXIA_RIVER">
+			<Text>Daxia River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_STAR_RIVER">
+			<Text>Star River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_WHITE_RIVER">
+			<Text>White River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_XIAOQING">
+			<Text>Xiaoqing</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ZIHE_RIVER">
+			<Text>Zihe River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_TAHE_RIVER">
+			<Text>Tahe River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_YANGHE_RIVER">
+			<Text>Yanghe River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ZHANGSENG_RIVER">
+			<Text>Zhangseng River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MIHE_RIVER">
+			<Text>Mihe River</Text>
+		</Row>
+
+		<!-- 
+=========================== 
+Forests 
+=========================== 
+-->
+		<Row Tag="TXT_KEY_NAME_ML_FOREST_OF_XUSHUI">
+			<Text>Forest of Xushui</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FOREST_OF_TAIWEI">
+			<Text>Forest of Taiwei</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FOREST_OF_BAYANGALAN">
+			<Text>Forest of Bayangalan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FOREST_OF_CHUTEEG">
+			<Text>Forest of Chuteeg</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FOREST_OF_HYESAN">
+			<Text>Forest of Hyesan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FOREST_OF_KUWANG">
+			<Text>Forest of Kuwang</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FOREST_OF_KIMCHO">
+			<Text>Forest of Kimcho</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FOREST_OF_QINCHONG">
+			<Text>Forest of Qinchong</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FOREST_OF_TENGHOU">
+			<Text>Forest of Tenghou</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FOREST_OF_ORSHAAT">
+			<Text>Forest of Orshaat</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FOREST_OF_BIGOR">
+			<Text>Forest of Bigor</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FOREST_OF_HAECHO">
+			<Text>Forest of Haecho</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FOREST_OF_GIMCHEOK">
+			<Text>Forest of Gimcheok</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FOREST_OF_DANGSU">
+			<Text>Forest of Dangsu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FOREST_OF_SHANGHOU">
+			<Text>Forest of Shanghou</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FOREST_OF_SHANMEN">
+			<Text>Forest of Shanmen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FOREST_OF_JANLUUT">
+			<Text>Forest of Janluut</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_JAVGOL_FOREST">
+			<Text>Javgol Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_GWANGJU_FOREST">
+			<Text>Gwangju Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_UISU_FOREST">
+			<Text>Uisu Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_NAMCHAEK_FOREST">
+			<Text>Namchaek Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SUGONG_FOREST">
+			<Text>Sugong Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SHAOHUA_FOREST">
+			<Text>Shaohua Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_BAGANUUR_FOREST">
+			<Text>Baganuur Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_BUUTTONT_FOREST">
+			<Text>Buuttont Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_NONGYE_FOREST">
+			<Text>Nongye Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_YEOGYE_FOREST">
+			<Text>Yeogye Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_GWAPO_FOREST">
+			<Text>Gwapo Forest</Text>
+		</Row>
+
+
+		<!--
+=========================== 
+Deserts 
+=========================== 
+-->
+		<Row Tag="TXT_KEY_NAME_ML_BADAIN_JARAN_DESERT">
+			<Text>Badain Jaran Desert</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_NAME_ML_DZUNGARIA_DESERT">
+			<Text>Dzungaria Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_GOBI_DESERT">
+			<Text>Gobi Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_GURBANTNGGT_DESERT">
+			<Text>Gurbantünggüt Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_HAMI_DESERT">
+			<Text>Hami Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_KUMTAG_DESERT">
+			<Text>Kumtag Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LOP_DESERT">
+			<Text>Lop Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MU_US_SANDYLAND">
+			<Text>Mu Us Sandyland</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ORDOS_DESERT">
+			<Text>Ordos Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SHAPOTOU_DESERT">
+			<Text>Shapotou Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_TAKLAMAKAN_DESERT">
+			<Text>Taklamakan Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_TENGGER_DESERT">
+			<Text>Tengger Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_DESERT_OF_SUHAI">
+			<Text>Desert of Suhai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_DESERT_OF_MUDANZUISHAN">
+			<Text>Desert of Mudanzuishan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_DESERT_OF_SAIKHLANT">
+			<Text>Desert of Saikhlant</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_DESERT_OF_BATTTAI">
+			<Text>Desert of Batttai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_DESERT_OF_SINUIGYE">
+			<Text>Desert of Sinuigye</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_DESERT_OF_SARICHAEK">
+			<Text>Desert of Sarichaek</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_DESERT_OF_KIMWANG">
+			<Text>Desert of Kimwang</Text>
+		</Row>
+
+	</Language_en_US>
+</GameData>

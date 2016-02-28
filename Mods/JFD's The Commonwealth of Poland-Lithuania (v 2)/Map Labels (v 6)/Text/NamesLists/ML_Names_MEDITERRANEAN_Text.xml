@@ -1,0 +1,1351 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+*****************************************
+*			Map Labels					*
+*	by Hazel (hazel16 @ CivFanatics)	*
+*****************************************
+-->
+<GameData>
+	<Language_en_US>
+		<!-- Template:
+		<Row Tag="TXT_KEY_NAME_ML_KILIMANJARO">
+			<Text>Mount Kilimanjaro</Text>
+		</Row>
+		-->
+		<!-- 
+=========================== 
+Regions 
+=========================== 
+-->
+
+		<Row Tag="TXT_KEY_NAME_ML_SICILY">
+			<Text>Sicily</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_TRENTINOALTO_ADIGE">
+			<Text>Trentino-Alto Adige</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SDTIROL">
+			<Text>Südtirol</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_AOSTA_VALLEY">
+			<Text>Aosta Valley</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FRIULIVENEZIA_GIULIA">
+			<Text>Friuli-Venezia Giulia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ATTICA">
+			<Text>Attica</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MACEDONIA">
+			<Text>Macedonia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_THRACE">
+			<Text>Thrace</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_EPIRUS">
+			<Text>Epirus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_THESSALY">
+			<Text>Thessaly</Text>
+		</Row>
+
+
+		<!-- 
+=========================== 
+Oceans 
+=========================== 
+-->
+		<Row Tag="TXT_KEY_NAME_ML_MEDITERRANEAN_SEA">
+			<Text>Mediterranean Sea</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LIGURIAN_SEA">
+			<Text>Ligurian Sea</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_TYRRHENIAN_SEA">
+			<Text>Tyrrhenian Sea</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ADRIATIC_SEA">
+			<Text>Adriatic Sea</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_IONIAN_SEA">
+			<Text>Ionian Sea</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_AEGEAN_SEA">
+			<Text>Aegean Sea</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MYRTOAN_SEA">
+			<Text>Myrtoan Sea</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_THRACIAN_SEA">
+			<Text>Thracian Sea</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_CICILIAN_SEA">
+			<Text>Cicilian Sea</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SEA_OF_MARMARA">
+			<Text>Sea of Marmara</Text>
+		</Row>
+
+
+		<!--	
+=========================== 
+Islands 
+=========================== 
+-->
+		<Row Tag="TXT_KEY_NAME_ML_CRETE">
+			<Text>Crete</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_EUBOEA">
+			<Text>Euboea</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LESBOS">
+			<Text>Lesbos</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_RHODES">
+			<Text>Rhodes</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_CHOS">
+			<Text>Chíos</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_CEPHALONIA">
+			<Text>Cephalonia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_CORFU">
+			<Text>Corfu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LEMNOS">
+			<Text>Lemnos</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SAMOS">
+			<Text>Samos</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_NAXOS">
+			<Text>Naxos</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ZAKYNTHOS">
+			<Text>Zakynthos</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_THASSOS">
+			<Text>Thassos</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ANDROS">
+			<Text>Andros</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LEFKADA">
+			<Text>Lefkada</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_KARPATHOS">
+			<Text>Karpathos</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_KOS">
+			<Text>Kos</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_KYTHIRA">
+			<Text>Kythira</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ICARIA">
+			<Text>Icaria</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SKYROS">
+			<Text>Skyros</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_PAROS">
+			<Text>Paros</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_TINOS">
+			<Text>Tinos</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_CAPRI">
+			<Text>Capri</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ISCHIA">
+			<Text>Ischia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_NISIDA">
+			<Text>Nisida</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_PROCIDA">
+			<Text>Procida</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_VIVARA">
+			<Text>Vivara</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_PONTINE_ISLAND">
+			<Text>Pontine Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_PONZA">
+			<Text>Ponza</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_PALMAROLA">
+			<Text>Palmarola</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ZANNONE">
+			<Text>Zannone</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SANTO_STEFANO">
+			<Text>Santo Stefano</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_GAVI">
+			<Text>Gavi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_VENTOTENE">
+			<Text>Ventotene</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SARDINIA">
+			<Text>Sardinia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ASINARA">
+			<Text>Asinara</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SANTANTIOCO">
+			<Text>Sant'Antioco</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SAN_PIETRO">
+			<Text>San Pietro</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LA_MADDALENA">
+			<Text>La Maddalena</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_CAPRERA">
+			<Text>Caprera</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SPARGI">
+			<Text>Spargi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_BUDELLI">
+			<Text>Budelli</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_RAZZOLI">
+			<Text>Razzoli</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SANTA_MARIA">
+			<Text>Santa Maria</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOLARA">
+			<Text>Molara</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_TAVOLARA">
+			<Text>Tavolara</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_NAME_ML_AEGADIAN_ISLAND">
+			<Text>Aegadian Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MARETTIMO">
+			<Text>Marettimo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FAVIGNANA">
+			<Text>Favignana</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LEVANZO">
+			<Text>Levanzo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_AEOLIAN_ISLAND">
+			<Text>Aeolian Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LIPARI">
+			<Text>Lipari</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_VULCANO">
+			<Text>Vulcano</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FILICUDI">
+			<Text>Filicudi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ALICUDI">
+			<Text>Alicudi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_PANAREA">
+			<Text>Panarea</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SALINA">
+			<Text>Salina</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_STROMBOLI">
+			<Text>Stromboli</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_PANTELLERIA">
+			<Text>Pantelleria</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_PELAGIE_ISLANDS">
+			<Text>Pelagie Islands</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAMPEDUSA">
+			<Text>Lampedusa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAMPIONE">
+			<Text>Lampione</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LINOSA">
+			<Text>Linosa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_USTICA">
+			<Text>Ustica</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_TREMITI_ISLANDS">
+			<Text>Tremiti Islands</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_CAPRARA">
+			<Text>Caprara</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_CRETACCIO">
+			<Text>Cretaccio</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_NAME_ML_SAN_DOMINO">
+			<Text>San Domino</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SAN_NICOLA">
+			<Text>San Nicola</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_TUSCAN_ARCHIPELAGO">
+			<Text>Tuscan Archipelago</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_CAPRAIA">
+			<Text>Capraia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ELBA">
+			<Text>Elba</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_GIANNUTRI">
+			<Text>Giannutri</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_GIGLIO">
+			<Text>Giglio</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_GORGONA">
+			<Text>Gorgona</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MONTECRISTO">
+			<Text>Montecristo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_PIANOSA">
+			<Text>Pianosa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_VENETIAN_LAGOON_ISLANDS">
+			<Text>Venetian Lagoon Islands</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_BURANO">
+			<Text>Burano</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LIDO">
+			<Text>Lido</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MURANO">
+			<Text>Murano</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_PELLESTRINA">
+			<Text>Pellestrina</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SAN_LAZZARO_DEGLI_ARMENI">
+			<Text>San Lazzaro degli Armeni</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SANTANDREA">
+			<Text>Sant'Andrea</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_TORCELLO">
+			<Text>Torcello</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MALTESE_ISLAND">
+			<Text>Maltese Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_GOZO">
+			<Text>Gozo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_COMINO">
+			<Text>Comino</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_COMINOTTO">
+			<Text>Cominotto</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FILFLA">
+			<Text>Filfla</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ST_PAULS_ISLAND">
+			<Text>St Paul's Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MANOEL_ISLAND">
+			<Text>Manoel Island</Text>
+		</Row>
+
+
+		<!--		
+=========================== 
+Mountains 
+=========================== 
+-->
+		<Row Tag="TXT_KEY_NAME_ML_ALPI_CUSIANE">
+			<Text>Alpi Cusiane</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_APUAN_MOUNTAINS">
+			<Text>Apuan Mountains</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_AURUNCI_MOUNTAINS">
+			<Text>Aurunci Mountains</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_BERGAMO_MOUNTAINS">
+			<Text>Bergamo Mountains</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_BERNINA_RANGE">
+			<Text>Bernina Range</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_BIELLESE_MOUNTAINS">
+			<Text>Biellese Mountains</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_BREGAGLIA_RANGE">
+			<Text>Bregaglia Range</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_CARINTHIAN_MOUNTAINS">
+			<Text>Carinthian Mountains</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_CARNIC_MOUNTAINS">
+			<Text>Carnic Mountains</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_CARNIC_AND_GAILTAL_MOUNTAINS">
+			<Text>Carnic and Gailtal Mountains</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_CARNIC_PREMOUNTAINS">
+			<Text>Carnic PreMountains</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MONTI_CIMINI">
+			<Text>Monti Cimini</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_COLLE_SESTRIERE">
+			<Text>Colle Sestriere</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_COLLINE_METALLIFERE">
+			<Text>Colline Metallifere</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_CORNI_DI_CANZO">
+			<Text>Corni di Canzo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_COTTIAN_MOUNTAINS">
+			<Text>Cottian Mountains</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_DOLOMITES">
+			<Text>Dolomites</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_EREAN_MOUNTAINS">
+			<Text>Erean Mountains</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MONTI_ERNICI">
+			<Text>Monti Ernici</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FIEMME_MOUNTAINS">
+			<Text>Fiemme Mountains</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_GENNARGENTU">
+			<Text>Gennargentu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_GRAIAN_MOUNTAINS">
+			<Text>Graian Mountains</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_HYBLAEAN_MOUNTAINS">
+			<Text>Hyblaean Mountains</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ITALIAN_JULIAN_MOUNTAINS">
+			<Text>Italian Julian Mountains</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_JULIAN_MOUNTAINS_AND_PREMOUNTAINS">
+			<Text>Julian Mountains and PreMountains</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_KOLOVRAT_RANGE">
+			<Text>Kolovrat Range</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MONTI_DELLA_LAGA">
+			<Text>Monti della Laga</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MONTI_GEMELLI">
+			<Text>Monti Gemelli</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MONTI_LATTARI">
+			<Text>Monti Lattari</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MONTI_LEPINI">
+			<Text>Monti Lepini</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LIVIGNO_MOUNTAINS">
+			<Text>Livigno Mountains</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MADONIE_MOUNTAIN">
+			<Text>Madonie Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MONS_MASSICUS">
+			<Text>Mons Massicus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MONT_BLANC_MASSIF">
+			<Text>Mont Blanc massif</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MONTE_ALBO">
+			<Text>Monte Albo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MONTE_ROSA_MASSIF">
+			<Text>Monte Rosa Massif</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MONTI_AUSONI">
+			<Text>Monti Ausoni</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MONTI_DELLE_MAINARDE">
+			<Text>Monti delle Mainarde</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_NEBRODI">
+			<Text>Nebrodi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_OBERHALBSTEIN_MOUNTAINS">
+			<Text>Oberhalbstein Mountains</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ORTLER_MOUNTAINS">
+			<Text>Ortler Mountains</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_TZTAL_MOUNTAINS">
+			<Text>Ötztal Mountains</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_PELORITANI">
+			<Text>Peloritani</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_PENNINE_MOUNTAINS">
+			<Text>Pennine Mountains</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MONTI_PICENTINI">
+			<Text>Monti Picentini</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_PRATOMAGNO">
+			<Text>Pratomagno</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MONTI_SABATINI">
+			<Text>Monti Sabatini</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SCHIARA">
+			<Text>Schiara</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SERRE_CALABRESI">
+			<Text>Serre Calabresi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SESVENNA_MOUNTAINS">
+			<Text>Sesvenna Mountains</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SIBILLINI_MOUNTAINS">
+			<Text>Sibillini Mountains</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MONTI_SICANI">
+			<Text>Monti Sicani</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LA_SILA">
+			<Text>La Sila</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MONTI_SIMBRUINI">
+			<Text>Monti Simbruini</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SULCIS_MOUNTAINS">
+			<Text>Sulcis Mountains</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MONTI_DELLA_TOLFA">
+			<Text>Monti della Tolfa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_VENETIAN_PREMOUNTAINS">
+			<Text>Venetian PreMountains</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_VICENTINE_MOUNTAINS">
+			<Text>Vicentine Mountains</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MONTI_VOLSINI">
+			<Text>Monti Volsini</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ZILLERTAL_MOUNTAINS">
+			<Text>Zillertal Mountains</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOUNT_AIGALEO">
+			<Text>Mount Aigaleo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOUNT_AINOS">
+			<Text>Mount Ainos</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOUNT_AKARNANIKA">
+			<Text>Mount Akarnanika</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOUNT_ANTICHASIA">
+			<Text>Mount Antichasia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOUNT_ARACHNAIO">
+			<Text>Mount Arachnaio</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOUNT_ARTEMISIO">
+			<Text>Mount Artemisio</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOUNT_ASKIO">
+			<Text>Mount Askio</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOUNT_ATHOS">
+			<Text>Mount Athos</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOUNT_ATTAVYROS">
+			<Text>Mount Attavyros</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOUNT_CHASIA">
+			<Text>Mount Chasia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOUNT_CHOLOMON">
+			<Text>Mount Cholomon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOUNT_CHORTIATIS">
+			<Text>Mount Chortiatis</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOUNT_DIRFI">
+			<Text>Mount Dirfi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOUNT_ELATI">
+			<Text>Mount Elati</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOUNT_ERYMANTHOS">
+			<Text>Mount Erymanthos</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOUNT_EXOBOURGO">
+			<Text>Mount Exobourgo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOUNT_FOLOI">
+			<Text>Mount Foloi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOUNT_GERANEIA">
+			<Text>Mount Geraneia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOUNT_GIONA">
+			<Text>Mount Giona</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOUNT_GRAMOS">
+			<Text>Mount Gramos</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOUNT_HELICON">
+			<Text>Mount Helicon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOUNT_HYMETTUS">
+			<Text>Mount Hymettus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOUNT_KAIMAKTSALAN">
+			<Text>Mount Kaimaktsalan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOUNT_KALIAKOUDA">
+			<Text>Mount Kaliakouda</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOUNT_KALLIDROMO">
+			<Text>Mount Kallidromo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOUNT_KALON_OROS">
+			<Text>Mount Kalon Oros</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOUNT_KANTILI">
+			<Text>Mount Kantili</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOUNT_KARVOUNI">
+			<Text>Mount Karvouni</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOUNT_KEDROS">
+			<Text>Mount Kedros</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOUNT_KERDYLIO">
+			<Text>Mount Kerdylio</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOUNT_KERKIS">
+			<Text>Mount Kerkis</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOUNT_KITHAIRON">
+			<Text>Mount Kithairon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOUNT_KOKKINI_RACHI">
+			<Text>Mount Kokkini Rachi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOUNT_KOULOCHERA">
+			<Text>Mount Koulochera</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOUNT_KYLLINI">
+			<Text>Mount Kyllini</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOUNT_LAKMOS">
+			<Text>Mount Lakmos</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOUNT_LAPITHAS">
+			<Text>Mount Lapithas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOUNT_LEFKA_ORI">
+			<Text>Mount Lefka Ori</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOUNT_LEKANIS">
+			<Text>Mount Lekanis</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_NAME_ML_MOUNT_LYKAION">
+			<Text>Mount Lykaion</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOUNT_LYRKEIO">
+			<Text>Mount Lyrkeio</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOUNT_MAINALO">
+			<Text>Mount Mainalo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOUNT_MENOIKIO">
+			<Text>Mount Menoikio</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOUNT_MINTHI">
+			<Text>Mount Minthi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOUNT_MITSIKELI">
+			<Text>Mount Mitsikeli</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOUNT_MOURGANA">
+			<Text>Mount Mourgana</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOUNT_OCHI">
+			<Text>Mount Ochi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOUNT_OETA">
+			<Text>Mount Oeta</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOUNT_OLIGYRTOS">
+			<Text>Mount Oligyrtos</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOUNT_OLYMPUS">
+			<Text>Mount Olympus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOUNT_ORVILOS">
+			<Text>Mount Orvilos</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOUNT_PAIKO">
+			<Text>Mount Paiko</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_PANACHAIKO_MOUNTAIN">
+			<Text>Panachaiko Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_PANAITOLIKO_MOUNTAIN">
+			<Text>Panaitoliko Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_PANGAION_MOUNTAIN">
+			<Text>Pangaion Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_PARNASSUS_MOUNTAIN">
+			<Text>Parnassus Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_PARNITHA_MOUNTAIN">
+			<Text>Parnitha Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_PARNON_MOUNTAIN">
+			<Text>Parnon Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_PARTHENION_MOUNTAIN">
+			<Text>Parthenion Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_PASTRA_MOUNTAIN">
+			<Text>Pastra Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_PATERAS_MOUNTAIN">
+			<Text>Pateras Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_PELINAIO_MOUNTAIN">
+			<Text>Pelinaio Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_PELION_MOUNTAIN">
+			<Text>Pelion Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_PENTELI_MOUNTAIN">
+			<Text>Penteli Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SMOLIKAS_MOUNTAIN">
+			<Text>Smolikas Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_TELETHRIO_MOUNTAIN">
+			<Text>Telethrio Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_THESPROTIKA_RANGE">
+			<Text>Thesprotika Range</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_TOMAROS_RANGE">
+			<Text>Tomaros Range</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_TSEMPEROU_RANGE">
+			<Text>Tsemperou Range</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_TYMFI_RANGE">
+			<Text>Tymfi Range</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_VARASOVA_RANGE">
+			<Text>Varasova Range</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_VARNOUS_RANGE">
+			<Text>Varnous Range</Text>
+		</Row>
+
+
+
+
+		<!--
+=========================== 
+Lakes 
+=========================== 
+-->
+		<Row Tag="TXT_KEY_NAME_ML_LAGO_DI_GARDA">
+			<Text>Lago di Garda</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAGO_MAGGIORE">
+			<Text>Lago Maggiore</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAGO_DI_COMO">
+			<Text>Lago di Como</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAGO_TRASIMENO">
+			<Text>Lago Trasimeno</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAGO_DI_BOLSENA">
+			<Text>Lago di Bolsena</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAGO_DISEO">
+			<Text>Lago d'Iseo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAGO_DI_BRACCIANO">
+			<Text>Lago di Bracciano</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAGO_DI_LUGANO">
+			<Text>Lago di Lugano</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAGO_OMODEO">
+			<Text>Lago Omodeo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAGO_DORTA">
+			<Text>Lago d'Orta</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAGO_COGHINAS">
+			<Text>Lago Coghinas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAGO_DI_VARESE">
+			<Text>Lago di Varese</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAGO_DI_VICO">
+			<Text>Lago di Vico</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAGO_DIDRO">
+			<Text>Lago d'Idro</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAKE_AMVRAKIA">
+			<Text>Lake Amvrakia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAKE_DOIRANI">
+			<Text>Lake Doirani</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAKE_DYSTOS">
+			<Text>Lake Dystos</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAKE_GAITO">
+			<Text>Lake Gaito</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAKE_IOANNINA">
+			<Text>Lake Ioannina</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAKE_KASTORIA">
+			<Text>Lake Kastoria</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAKE_KERKINI">
+			<Text>Lake Kerkini</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAKE_KORONIA">
+			<Text>Lake Koronia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAKE_LAGKADA">
+			<Text>Lake Lagkada</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAKE_LAMA">
+			<Text>Lake Lama</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAKE_LYSIMACHA">
+			<Text>Lake Lysimacha</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAKE_MITRIKOU">
+			<Text>Lake Mitrikou</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAKE_MORFI">
+			<Text>Lake Morfi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAKE_OZEROS">
+			<Text>Lake Ozeros</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAKE_PRESPA">
+			<Text>Lake Prespa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAKE_MIKRI_PRESPA">
+			<Text>Lake Mikri Prespa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAKE_SALTINI">
+			<Text>Lake Saltini</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAKE_STYMFALIA">
+			<Text>Lake Stymfalia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAKE_TAKA">
+			<Text>Lake Taka</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAKE_TRICHONIDA">
+			<Text>Lake Trichonida</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAKE_VEGORITIDA">
+			<Text>Lake Vegoritida</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAKE_VISTONIDA">
+			<Text>Lake Vistonida</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAKE_VOIVIS">
+			<Text>Lake Voivis</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAKE_VOLVI">
+			<Text>Lake Volvi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAKE_VOULIAGMENI">
+			<Text>Lake Vouliagmeni</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAKE_VOULISMENI">
+			<Text>Lake Voulismeni</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAKE_VOULKARIA">
+			<Text>Lake Voulkaria</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAKE_YLIKI">
+			<Text>Lake Yliki</Text>
+		</Row>
+
+
+
+		<!-- 		
+=========================== 
+Rivers 
+=========================== 
+-->
+		<Row Tag="TXT_KEY_NAME_ML_VARAITA_RIVER">
+			<Text>Varaita River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MAIRA_RIVER">
+			<Text>Maira River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_GRANA_DEL_MONFERRATO_RIVER">
+			<Text>Grana del Monferrato River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ROTALDO_RIVER">
+			<Text>Rotaldo River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_STURA_DEL_MONFERRATO_RIVER">
+			<Text>Stura del Monferrato River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_TANARO_RIVER">
+			<Text>Tanaro River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_BELBO_RIVER">
+			<Text>Belbo River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_TINELLA_RIVER">
+			<Text>Tinella River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_BORBORE_RIVER">
+			<Text>Borbore River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_TRIVERSA_RIVER">
+			<Text>Triversa River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_BORMIDA_RIVER">
+			<Text>Bormida River</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_NAME_ML_ORBA_RIVER">
+			<Text>Orba River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_PIOTA_RIVER">
+			<Text>Piota River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_GORZENTE_RIVER">
+			<Text>Gorzente River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LEMME_RIVER">
+			<Text>Lemme River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_STURA_DI_DEMONTE_RIVER">
+			<Text>Stura di Demonte River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_VERSA_RIVER">
+			<Text>Versa River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SCRIVIA_RIVER">
+			<Text>Scrivia River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_BORBERA_RIVER">
+			<Text>Borbera River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_GRUE_RIVER">
+			<Text>Grue River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_CURONE_RIVER">
+			<Text>Curone River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_TREBBIA_RIVER">
+			<Text>Trebbia River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_NURE_RIVER">
+			<Text>Nure River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ARDA_RIVER">
+			<Text>Arda River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_TARO_RIVER">
+			<Text>Taro River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_CENO_RIVER">
+			<Text>Ceno River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_STIRONE_RIVER">
+			<Text>Stirone River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_PARMA_RIVER">
+			<Text>Parma River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_BAGANZA_RIVER">
+			<Text>Baganza River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_CROSTOLO_RIVER">
+			<Text>Crostolo River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SECCHIA_RIVER">
+			<Text>Secchia River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_PANARO_RIVER">
+			<Text>Panaro River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_THYAMIS_RIVER">
+			<Text>Thyamis River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_TYRIA_RIVER">
+			<Text>Tyria River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ACHERON_RIVER">
+			<Text>Acheron River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LOUROS_RIVER">
+			<Text>Louros River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ARACHTHOS_RIVER">
+			<Text>Arachthos River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ACHELOOS_RIVER">
+			<Text>Acheloos River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MEGDOVAS_RIVER">
+			<Text>Megdovas River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_AGRAFIOTIS_RIVER">
+			<Text>Agrafiotis River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_GRANITSIOTIS_RIVER">
+			<Text>Granitsiotis River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_EVINOS_RIVER">
+			<Text>Evinos River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MORNOS_RIVER">
+			<Text>Mornos River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ELISSONAS_RIVER">
+			<Text>Elissonas River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FONISSA_RIVER">
+			<Text>Fonissa River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ZACHOLITIKOS_RIVER">
+			<Text>Zacholitikos River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_KRIOS_RIVER">
+			<Text>Krios River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_KRATHIS_RIVER">
+			<Text>Krathis River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_VOURAIKOS_RIVER">
+			<Text>Vouraikos River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SELINOUNTAS_RIVER">
+			<Text>Selinountas River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_VOLINAIOS_RIVER">
+			<Text>Volinaios River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_CHARADROS_RIVER">
+			<Text>Charadros River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_GLAFKOS_RIVER">
+			<Text>Glafkos River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_PEIROS_RIVER">
+			<Text>Peiros River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_TYTHEUS_RIVER">
+			<Text>Tytheus River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LARISSOS_RIVER">
+			<Text>Larissos River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_PINEIOS_RIVER">
+			<Text>Pineios River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ALFEIOS_RIVER">
+			<Text>Alfeios River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ERYMANTHOS_RIVER">
+			<Text>Erymanthos River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LADON_RIVER">
+			<Text>Ladon River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_AROANIOS_RIVER">
+			<Text>Aroanios River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LOUSIOS_RIVER">
+			<Text>Lousios River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_NEDA_RIVER">
+			<Text>Neda River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_PERISTERI_RIVER">
+			<Text>Peristeri River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_PAMISOS_RIVER">
+			<Text>Pamisos River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_NEDONAS_RIVER">
+			<Text>Nedonas River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_EUROTAS_RIVER">
+			<Text>Eurotas River</Text>
+		</Row>
+
+		<!-- 
+=========================== 
+Forests 
+=========================== 
+-->
+		<Row Tag="TXT_KEY_NAME_ML_FOREST_OF_AOE">
+			<Text>Forest of Aoe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FOREST_OF_ARINAI">
+			<Text>Forest of Arinai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FOREST_OF_ARKHOI">
+			<Text>Forest of Arkhoi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FOREST_OF_ASBATH">
+			<Text>Forest of Asbath</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FOREST_OF_AUGUSTORITUM">
+			<Text>Forest of Augustoritum</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FOREST_OF_AUTRICUM">
+			<Text>Forest of Autricum</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FOREST_OF_AVDJENA">
+			<Text>Forest of Avdjena</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FOREST_OF_AVENIO">
+			<Text>Forest of Avenio</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FOREST_OF_COKANCA">
+			<Text>Forest of Cokanca</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FOREST_OF_CURIO">
+			<Text>Forest of Curio</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FOREST_OF_DJATUKHA">
+			<Text>Forest of Djatukha</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FOREST_OF_ECUMAE">
+			<Text>Forest of Ecumae</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FOREST_OF_EKKHANU">
+			<Text>Forest of Ekkhanu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FOREST_OF_ELTHUS">
+			<Text>Forest of Elthus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FOREST_OF_ENDEMU">
+			<Text>Forest of Endemu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FOREST_OF_FARIMAR">
+			<Text>Forest of Farimar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FOREST_OF_GRYNATUS">
+			<Text>Forest of Grynatus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FOREST_OF_KUSO">
+			<Text>Forest of Kuso</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MANTUA_FOREST">
+			<Text>Mantua Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MAROMAGO_FOREST">
+			<Text>Maromago Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MEDNETY_FOREST">
+			<Text>Mednety Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MEOE_FOREST">
+			<Text>Meoe Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_NAPRUDJED_FOREST">
+			<Text>Naprudjed Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_NEKNOU_FOREST">
+			<Text>Neknou Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ORRACVRODNIA_FOREST">
+			<Text>Orracvrodnia Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_PYPONKOS_FOREST">
+			<Text>Pyponkos Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_QULSO_FOREST">
+			<Text>Qulso Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_RHOFOS_FOREST">
+			<Text>Rhofos Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_RHOS_FOREST">
+			<Text>Rhos Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SALMANTICA_FOREST">
+			<Text>Salmantica Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SPALOS_FOREST">
+			<Text>Spalos Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SYPOSOS_FOREST">
+			<Text>Syposos Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_TALADIKE_FOREST">
+			<Text>Taladike Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_TAMAE_FOREST">
+			<Text>Tamae Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_THOUENE_FOREST">
+			<Text>Thouene Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_THRARHAPHI_FOREST">
+			<Text>Thrarhaphi Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_THYSDRUS_FOREST">
+			<Text>Thysdrus Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ZELA_FOREST">
+			<Text>Zela Forest</Text>
+		</Row>
+
+
+		<!--
+=========================== 
+Deserts 
+=========================== 
+-->
+		<Row Tag="TXT_KEY_NAME_ML_ACCONA_DESERT">
+			<Text>Accona Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ALONISSOS_DESERT">
+			<Text>Alonissos Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_QATTARA_DEPRESSION">
+			<Text>Qattara Depression</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SINAI_DESERT">
+			<Text>Sinai Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_KAIROUAN_DESERT">
+			<Text>Kairouan Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_DESERT_OF_FORMIAE">
+			<Text>Desert of Formiae</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_DESERT_OF_OLISIPO">
+			<Text>Desert of Olisipo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_DESERT_OF_ISCA_AUGUSTA">
+			<Text>Desert of Isca Augusta</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_DESERT_OF_TRICENSIMAE">
+			<Text>Desert of Tricensimae</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_DESERT_OF_TOLBIACUM">
+			<Text>Desert of Tolbiacum</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_DESERT_OF_PORTUS_ITIUS">
+			<Text>Desert of Portus Itius</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_DESERT_OF_MUTINA">
+			<Text>Desert of Mutina</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_DESERT_OF_RISINIUM">
+			<Text>Desert of Risinium</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_DESERT_OF_ARGENTORATUM">
+			<Text>Desert of Argentoratum</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SERYTHVREIKE_DESERT">
+			<Text>Serythvreike Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_NIESSA_DESERT">
+			<Text>Niessa Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_NIOPIKE_DESERT">
+			<Text>Niopike Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_TEOE_DESERT">
+			<Text>Teoe Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ELYNOS_DESERT">
+			<Text>Elynos Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SKYENE_DESERT">
+			<Text>Skyene Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_KEDFOS_DESERT">
+			<Text>Kedfos Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_RHOFIAAI_DESERT">
+			<Text>Rhofiaai Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_COOPLA_DESERT">
+			<Text>Coopla Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ADKHOTH_DESERT">
+			<Text>Adkhoth Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_CHALIA_DESERT">
+			<Text>Chalia Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_KARUNOS_DESERT">
+			<Text>Karunos Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_GRYTIS_DESERT">
+			<Text>Grytis Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SMYRALEMA_DESERT">
+			<Text>Smyralema Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_PHOAE_DESERT">
+			<Text>Phoae Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ZAMAE_DESERT">
+			<Text>Zamae Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MARIO_DESERT">
+			<Text>Mario Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_PAEA_DESERT">
+			<Text>Paea Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ELPHALOS_DESERT">
+			<Text>Elphalos Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_EMESMIS_DESERT">
+			<Text>Emesmis Desert</Text>
+		</Row>
+
+
+	</Language_en_US>
+</GameData>

@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+*****************************************
+*			Map Labels					*
+*	by Hazel (hazel16 @ CivFanatics)	*
+*****************************************
+-->
+<GameData>
+	<ML_Labels_Dynamic>
+		<!-- Template:
+			
+		-->
+
+		<!-- 
+=========================== 
+Regions 
+=========================== 
+-->
+		<Row Name="TXT_KEY_NAME_ML_GALICIA" MainType="REGION" SubType="REGION" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_ASTURIAS" MainType="REGION" SubType="REGION" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_CANTABRIA" MainType="REGION" SubType="REGION" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_NAVARRE" MainType="REGION" SubType="REGION" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_CATALONIA" MainType="REGION" SubType="REGION" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_ARAGON" MainType="REGION" SubType="REGION" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_LA_RIOJA" MainType="REGION" SubType="REGION" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_CASTILELEON" MainType="REGION" SubType="REGION" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_CASTILELA_MANCHA" MainType="REGION" SubType="REGION" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_VALENCIA" MainType="REGION" SubType="REGION" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_MURCIA" MainType="REGION" SubType="REGION" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_ANDALUSIA" MainType="REGION" SubType="REGION" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_EXTREMADURA" MainType="REGION" SubType="REGION" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_BAJA" MainType="REGION" SubType="REGION" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_BARRANCAS_DEL_COBRE" MainType="REGION" SubType="REGION" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_COAHUILA" MainType="REGION" SubType="REGION" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_NUEVO_LEN" MainType="REGION" SubType="REGION" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_TAMAULIPAS" MainType="REGION" SubType="REGION" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_AGUASCALIENTES" MainType="REGION" SubType="REGION" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_GUANAJUATO" MainType="REGION" SubType="REGION" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_QUERTARO" MainType="REGION" SubType="REGION" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_SAN_LUIS_POTOS" MainType="REGION" SubType="REGION" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_ZACATECAS" MainType="REGION" SubType="REGION" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_COLIMA" MainType="REGION" SubType="REGION" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_JALISCO" MainType="REGION" SubType="REGION" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_MICHOACN" MainType="REGION" SubType="REGION" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_NAYARIT" MainType="REGION" SubType="REGION" CultureType="SPANISH"/>
+
+
+		<!-- 
+=========================== 
+Oceans 
+=========================== 
+-->
+		<Row Name="TXT_KEY_NAME_ML_SEA_OF_YUCATAN" MainType="REGION" SubType="OCEAN" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_SEA_OF_ANOTRID" MainType="REGION" SubType="OCEAN" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_SEA_OF_MOLETE" MainType="REGION" SubType="OCEAN" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_SEA_OF_VILA" MainType="REGION" SubType="OCEAN" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_SEA_OF_CERDO" MainType="REGION" SubType="OCEAN" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_GRIVEDRIA_SEA" MainType="REGION" SubType="OCEAN" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_MORA_SEA" MainType="REGION" SubType="OCEAN" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_ABRIATAS_SEA" MainType="REGION" SubType="OCEAN" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_AZALOS_SEA" MainType="REGION" SubType="OCEAN" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_GRESE_SEA" MainType="REGION" SubType="OCEAN" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_MARIA_SEA" MainType="REGION" SubType="OCEAN" CultureType="SPANISH"/>
+
+
+
+		<!--	
+=========================== 
+Islands 
+=========================== 
+-->
+		<Row Name="TXT_KEY_NAME_ML_ISLA_MAJORCA" MainType="REGION" SubType="ISLAND" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_ISLA_MINORCA" MainType="REGION" SubType="ISLAND" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_ISLA_IBIZA" MainType="REGION" SubType="ISLAND" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_ISLA_FORMENTERA" MainType="REGION" SubType="ISLAND" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_ISLA_CABRERA" MainType="REGION" SubType="ISLAND" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_ISLA_TREMAC" MainType="REGION" SubType="ISLAND" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_ISLA_GRAN_CANARIA" MainType="REGION" SubType="ISLAND" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_ISLA_TENERIFE" MainType="REGION" SubType="ISLAND" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_ISLA_LA_PALMA" MainType="REGION" SubType="ISLAND" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_ISLA_LANZAROTE" MainType="REGION" SubType="ISLAND" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_ISLA_FUERTEVENTURA" MainType="REGION" SubType="ISLAND" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_ISLA_LA_GOMERA" MainType="REGION" SubType="ISLAND" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_ISLA_EL_HIERRO" MainType="REGION" SubType="ISLAND" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_ISLA_ALEGRANZA" MainType="REGION" SubType="ISLAND" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_ISLA_GRACIOSA" MainType="REGION" SubType="ISLAND" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_ISLA_DELA_CARTUJA" MainType="REGION" SubType="ISLAND" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_ISLA_COZUMEL" MainType="REGION" SubType="ISLAND" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_ISLA_MUJERES" MainType="REGION" SubType="ISLAND" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_ISLA_CONTOY" MainType="REGION" SubType="ISLAND" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_ISLA_BLANCA" MainType="REGION" SubType="ISLAND" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_ISLA_CEDROS" MainType="REGION" SubType="ISLAND" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_ISLA_CORONADOS" MainType="REGION" SubType="ISLAND" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_ISLAS_SAN_BENITO" MainType="REGION" SubType="ISLAND" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_ISLA_TODOS_SANTOS" MainType="REGION" SubType="ISLAND" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_ISLA_NATIVIDAD" MainType="REGION" SubType="ISLAND" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_ISLA_SANTA_MARGARITA" MainType="REGION" SubType="ISLAND" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_ISLAS_MARAS" MainType="REGION" SubType="ISLAND" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_ISLA_SAN_MARTIN" MainType="REGION" SubType="ISLAND" CultureType="SPANISH"/>
+
+
+		<!--		
+=========================== 
+Mountains 
+=========================== 
+-->
+		<Row Name="TXT_KEY_NAME_ML_MOUNT_ABANTOS" MainType="FEATURE" SubType="MOUNTAIN" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_MONTE_ALOIA" MainType="FEATURE" SubType="MOUNTAIN" CultureType="SPANISH"/>
+
+		<Row Name="TXT_KEY_NAME_ML_CALDERA_DE_TABURIENTE" MainType="FEATURE" SubType="MOUNTAIN" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_MONTE_HACHO" MainType="FEATURE" SubType="MOUNTAIN" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_MONTE_HAUTZA" MainType="FEATURE" SubType="MOUNTAIN" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_MONTE_LA_TORRECILLA" MainType="FEATURE" SubType="MOUNTAIN" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_MONTE_LARRUN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_MONTE_LOBO" MainType="FEATURE" SubType="MOUNTAIN" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_MONTE_ORISOL" MainType="FEATURE" SubType="MOUNTAIN" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_MONTE_PEALARA" MainType="FEATURE" SubType="MOUNTAIN" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_MONTE_PICO_ALMANZOR" MainType="FEATURE" SubType="MOUNTAIN" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_MONTE_PUIG_TOMIR" MainType="FEATURE" SubType="MOUNTAIN" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_MONTE_PUIGMAL" MainType="FEATURE" SubType="MOUNTAIN" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_SIERRA_DE_LA_ALFAGUARA" MainType="FEATURE" SubType="MOUNTAIN" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_MONTE_SOTRES" MainType="FEATURE" SubType="MOUNTAIN" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_MONTE_TEIDE" MainType="FEATURE" SubType="MOUNTAIN" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_MONTE_TELLAMENDI" MainType="FEATURE" SubType="MOUNTAIN" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_MONTE_URRIELES_MASSIF" MainType="FEATURE" SubType="MOUNTAIN" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_MONTE_UZTURRE" MainType="FEATURE" SubType="MOUNTAIN" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_MONTE_NEVADO_DE_COLIMA" MainType="FEATURE" SubType="MOUNTAIN" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_MONTE_NEVADO_DE_TOLUCA" MainType="FEATURE" SubType="MOUNTAIN" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_CERRO_TIOTEPEC" MainType="FEATURE" SubType="MOUNTAIN" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_CERRO_EL_NACIMIENTO" MainType="FEATURE" SubType="MOUNTAIN" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_PICACHO_DEL_DIABLO" MainType="FEATURE" SubType="MOUNTAIN" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_CERRO_NUBE" MainType="FEATURE" SubType="MOUNTAIN" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_CERRO_LAS_CONCHAS" MainType="FEATURE" SubType="MOUNTAIN" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_SIERRA_LA_LAGUNA" MainType="FEATURE" SubType="MOUNTAIN" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_SIERRA_LA_MADERA" MainType="FEATURE" SubType="MOUNTAIN" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_CERRO_TIA_CHENA" MainType="FEATURE" SubType="MOUNTAIN" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_CERRO_EL_POTOS" MainType="FEATURE" SubType="MOUNTAIN" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_CERRO_LA_JOYA" MainType="FEATURE" SubType="MOUNTAIN" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_MONTE_TANCTARO" MainType="FEATURE" SubType="MOUNTAIN" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_PICACHO_SAN_ONOFRE" MainType="FEATURE" SubType="MOUNTAIN" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_CERRO_EL_CENTINELA" MainType="FEATURE" SubType="MOUNTAIN" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_LAS_TRES_VRGENES" MainType="FEATURE" SubType="MOUNTAIN" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_SIERRA_DE_SANTA_MARTHA" MainType="FEATURE" SubType="MOUNTAIN" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_CERRO_LAS_CAPILLAS" MainType="FEATURE" SubType="MOUNTAIN" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_PICACHOS_EL_FRAILE" MainType="FEATURE" SubType="MOUNTAIN" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_SIERRA_EL_CERRO_AZUL" MainType="FEATURE" SubType="MOUNTAIN" CultureType="SPANISH"/>
+
+
+		<!--
+=========================== 
+Lakes 
+=========================== 
+-->
+		<Row Name="TXT_KEY_NAME_ML_LAKE_OF_COVADONGA" MainType="FEATURE" SubType="LAKE" CultureType="SPANISH"/>
+
+		<Row Name="TXT_KEY_NAME_ML_LAGUNA_DE_GALLOCANTA" MainType="FEATURE" SubType="LAKE" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_LAKE_ARREO" MainType="FEATURE" SubType="LAKE" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_LAKE_AS_PONTES" MainType="FEATURE" SubType="LAKE" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_LAGUNAS_DE_RUIDERA" MainType="FEATURE" SubType="LAKE" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_SANABRIA_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_ULLIBARRIGAMBOA_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_LAKE_OF_ENOL" MainType="FEATURE" SubType="LAKE" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_LAKE_ERCINA" MainType="FEATURE" SubType="LAKE" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_LAGUNA_BELLA" MainType="FEATURE" SubType="LAKE" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_LAGUNA_BATANA" MainType="FEATURE" SubType="LAKE" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_LAGUNA_DE_SANTOS_MORCILLO" MainType="FEATURE" SubType="LAKE" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_LAGUNA_SALVADORA" MainType="FEATURE" SubType="LAKE" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_LAGUNA_DE_SAN_PEDRO" MainType="FEATURE" SubType="LAKE" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_LAGUNA_TINAJA" MainType="FEATURE" SubType="LAKE" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_LAGUNA_TOMILLA" MainType="FEATURE" SubType="LAKE" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_LAGUNA_CONCEJA" MainType="FEATURE" SubType="LAKE" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_LAGUNA_TAZA" MainType="FEATURE" SubType="LAKE" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_LAGUNA_CENAGOSA" MainType="FEATURE" SubType="LAKE" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_LAGUNA_COLADILLA" MainType="FEATURE" SubType="LAKE" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_LAGUNA_DEL_REY" MainType="FEATURE" SubType="LAKE" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_LAGUNA_BLANCA" MainType="FEATURE" SubType="LAKE" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_LAKE_BACCARAC" MainType="FEATURE" SubType="LAKE" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_LAKE_COMEDERO" MainType="FEATURE" SubType="LAKE" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_LAKE_DOMINGUEZ" MainType="FEATURE" SubType="LAKE" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_LAKE_HIDALGO" MainType="FEATURE" SubType="LAKE" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_LAKE_HUITES" MainType="FEATURE" SubType="LAKE" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_LAKE_MATEOS" MainType="FEATURE" SubType="LAKE" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_LAKE_SALTO" MainType="FEATURE" SubType="LAKE" CultureType="SPANISH"/>
+
+
+
+		<!-- 		
+=========================== 
+Rivers 
+=========================== 
+-->
+		<Row Name="TXT_KEY_NAME_ML_RIO_CIDACOS" MainType="FEATURE" SubType="RIVER" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_RIO_EGA" MainType="FEATURE" SubType="RIVER" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_RIO_ARAGN" MainType="FEATURE" SubType="RIVER" CultureType="SPANISH"/>
+
+		<Row Name="TXT_KEY_NAME_ML_RIO_ARGA" MainType="FEATURE" SubType="RIVER" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_RIO_CANDANCH" MainType="FEATURE" SubType="RIVER" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_RIO_JALN" MainType="FEATURE" SubType="RIVER" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_RIO_JILOCA" MainType="FEATURE" SubType="RIVER" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_RIO_PIEDRA" MainType="FEATURE" SubType="RIVER" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_RIO_GLLEGO" MainType="FEATURE" SubType="RIVER" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_RIO_AGUAS_LIMPIAS" MainType="FEATURE" SubType="RIVER" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_RIO_CALDARS" MainType="FEATURE" SubType="RIVER" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_RIO_ESCARRA" MainType="FEATURE" SubType="RIVER" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_RIO_LANA_MAYOR" MainType="FEATURE" SubType="RIVER" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_RIO_AURN" MainType="FEATURE" SubType="RIVER" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_RIO_GUARGA" MainType="FEATURE" SubType="RIVER" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_RIO_SECO" MainType="FEATURE" SubType="RIVER" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_RIO_ASABN" MainType="FEATURE" SubType="RIVER" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_RIO_SOTN" MainType="FEATURE" SubType="RIVER" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_RIO_GUADALOPE" MainType="FEATURE" SubType="RIVER" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_RIO_BERGANTES" MainType="FEATURE" SubType="RIVER" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_RIO_SEGRE" MainType="FEATURE" SubType="RIVER" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_RIO_CINCA" MainType="FEATURE" SubType="RIVER" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_RIO_ARA" MainType="FEATURE" SubType="RIVER" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_RIO_ARAZAS" MainType="FEATURE" SubType="RIVER" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_RIO_SERA" MainType="FEATURE" SubType="RIVER" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_RIO_LANATA" MainType="FEATURE" SubType="RIVER" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_RIO_NOGUERA_RIBAGORZANA" MainType="FEATURE" SubType="RIVER" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_RIO_NOGUERA_PALLARESA" MainType="FEATURE" SubType="RIVER" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_RIO_QUEILES" MainType="FEATURE" SubType="RIVER" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_RIO_MIJARES" MainType="FEATURE" SubType="RIVER" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_RIO_TURIA" MainType="FEATURE" SubType="RIVER" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_RIO_JCAR" MainType="FEATURE" SubType="RIVER" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_RIO_CABRIEL" MainType="FEATURE" SubType="RIVER" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_RIO_ALBAIDA" MainType="FEATURE" SubType="RIVER" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_RIO_HUCAR" MainType="FEATURE" SubType="RIVER" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_RIO_VALDEMEMBRA" MainType="FEATURE" SubType="RIVER" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_RIO_MAGRO" MainType="FEATURE" SubType="RIVER" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_RIO_VINALOP" MainType="FEATURE" SubType="RIVER" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_RIO_SEGURA" MainType="FEATURE" SubType="RIVER" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_RIO_MUNDO" MainType="FEATURE" SubType="RIVER" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_RIO_MULA" MainType="FEATURE" SubType="RIVER" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_RIO_GUADALENTN" MainType="FEATURE" SubType="RIVER" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_RIO_ALHRABE" MainType="FEATURE" SubType="RIVER" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_RIO_GUADALETE" MainType="FEATURE" SubType="RIVER" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_RIO_MAJACEITE" MainType="FEATURE" SubType="RIVER" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_RIO_SAN_PEDRO" MainType="FEATURE" SubType="RIVER" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_RIO_GUADALQUIVIR" MainType="FEATURE" SubType="RIVER" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_RIO_GUADIANA_MENOR" MainType="FEATURE" SubType="RIVER" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_RIO_GUADALBULLN" MainType="FEATURE" SubType="RIVER" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_RIO_GENIL" MainType="FEATURE" SubType="RIVER" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_RIO_DARRO" MainType="FEATURE" SubType="RIVER" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_RIO_CORBONES" MainType="FEATURE" SubType="RIVER" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_RIO_GUADARA" MainType="FEATURE" SubType="RIVER" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_RIO_GUADIAMAR" MainType="FEATURE" SubType="RIVER" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_RIO_TINTO" MainType="FEATURE" SubType="RIVER" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_RIO_ODIEL" MainType="FEATURE" SubType="RIVER" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_RIO_GUADIANA" MainType="FEATURE" SubType="RIVER" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_RIO_GUADALUPE" MainType="FEATURE" SubType="RIVER" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_RIO_JABALN" MainType="FEATURE" SubType="RIVER" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_RIO_ZNCARA" MainType="FEATURE" SubType="RIVER" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_RIO_MATACHEL" MainType="FEATURE" SubType="RIVER" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_RIO_CHANZA" MainType="FEATURE" SubType="RIVER" CultureType="SPANISH"/>
+
+		<!-- 
+=========================== 
+Forests 
+=========================== 
+-->
+		<Row Name="TXT_KEY_NAME_ML_BOSQUE_DE_ZARREDA" MainType="FEATURE" SubType="FOREST" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_BOSQUE_DE_MERA" MainType="FEATURE" SubType="FOREST" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_BOSQUE_DE_ALARRALLS" MainType="FEATURE" SubType="FOREST" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_BOSQUE_DE_FELSESA" MainType="FEATURE" SubType="FOREST" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_BOSQUE_DE_MANA" MainType="FEATURE" SubType="FOREST" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_BOSQUE_DE_ACERRES" MainType="FEATURE" SubType="FOREST" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_BOSQUE_DE_ADINAR" MainType="FEATURE" SubType="FOREST" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_BOSQUE_DE_ADECIN" MainType="FEATURE" SubType="FOREST" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_BOSQUE_DE_RAKAO" MainType="FEATURE" SubType="FOREST" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_BOSQUE_DE_CIOSEVA" MainType="FEATURE" SubType="FOREST" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_BOSQUE_DE_VILLONA" MainType="FEATURE" SubType="FOREST" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_SELVA_ADANAR" MainType="FEATURE" SubType="FOREST" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_SELVA_CASTE" MainType="FEATURE" SubType="FOREST" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_SELVA_CADA" MainType="FEATURE" SubType="FOREST" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_SELVA_MARGO" MainType="FEATURE" SubType="FOREST" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_SELVA_MANRA" MainType="FEATURE" SubType="FOREST" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_SELVA_VILA" MainType="FEATURE" SubType="FOREST" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_SELVA_MORIA" MainType="FEATURE" SubType="FOREST" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_SELVA_AZUMID" MainType="FEATURE" SubType="FOREST" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_SELVA_TELDEPIN" MainType="FEATURE" SubType="FOREST" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_SELVA_EIVACELS" MainType="FEATURE" SubType="FOREST" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_SELVA_MURCIA" MainType="FEATURE" SubType="FOREST" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_SELVA_CANTE" MainType="FEATURE" SubType="FOREST" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_SELVA_PORTURTZA" MainType="FEATURE" SubType="FOREST" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_SELVA_MADRANGO" MainType="FEATURE" SubType="FOREST" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_SELVA_PONFELSA" MainType="FEATURE" SubType="FOREST" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_SELVA_MOSTERRA" MainType="FEATURE" SubType="FOREST" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_SELVA_AGAGON" MainType="FEATURE" SubType="FOREST" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_SELVA_ILLALELL" MainType="FEATURE" SubType="FOREST" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_SELVA_PAMPLA" MainType="FEATURE" SubType="FOREST" CultureType="SPANISH"/>
+
+
+		<!--
+=========================== 
+Deserts 
+=========================== 
+-->
+		<Row Name="TXT_KEY_NAME_ML_BARDENAS_REALES" MainType="FEATURE" SubType="DESERT" CultureType="SPANISH"/>
+
+		<Row Name="TXT_KEY_NAME_ML_CABO_DE_GATANJAR" MainType="FEATURE" SubType="DESERT" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_MONEGROS_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_TABERNAS_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_CHIHUAHUAN_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_GRAN_DESIERTO_DE_ALTAR" MainType="FEATURE" SubType="DESERT" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_SONORAN_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_YUHA_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_YUMA_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_SALAR_DE_ARIZARO" MainType="FEATURE" SubType="DESERT" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_PATAGONIAN_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_SALINAS_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_ATACAMA_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_SECHURA_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_LA_GUAJIRA_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="SPANISH"/>
+		<Row Name="TXT_KEY_NAME_ML_MDANOS_DE_CORO" MainType="FEATURE" SubType="DESERT" CultureType="SPANISH"/>
+
+	</ML_Labels_Dynamic>
+</GameData>

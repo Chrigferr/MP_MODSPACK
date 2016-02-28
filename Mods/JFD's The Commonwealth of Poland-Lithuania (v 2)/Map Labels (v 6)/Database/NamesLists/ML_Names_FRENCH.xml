@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+*****************************************
+*			Map Labels					*
+*	by Hazel (hazel16 @ CivFanatics)	*
+*****************************************
+-->
+<GameData>
+	<ML_Labels_Dynamic>
+		<!-- Template:
+			
+		-->
+
+		<!-- 
+=========================== 
+Regions 
+=========================== 
+-->
+
+		<Row Name="TXT_KEY_NAME_MLADD_LA_BRETAGNE" MainType="REGION" SubType="REGION" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_MLADD_L_ALSACE" MainType="REGION" SubType="REGION" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_MLADD_LA_PROVENCE" MainType="REGION" SubType="REGION" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_MLADD_LAUVERGNE" MainType="REGION" SubType="REGION" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_MLADD_LA_TOURAINE" MainType="REGION" SubType="REGION" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_MLADD_LAQUITAINE" MainType="REGION" SubType="REGION" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_MLADD_LA_BOURGOGNE" MainType="REGION" SubType="REGION" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_MLADD_LANJOU" MainType="REGION" SubType="REGION" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_MLADD_LA_SAINTONGE" MainType="REGION" SubType="REGION" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_MLADD_LAUNIS" MainType="REGION" SubType="REGION" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_MLADD_LE_POITOU" MainType="REGION" SubType="REGION" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_MLADD_LE_LIMOUSIN" MainType="REGION" SubType="REGION" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_MLADD_LE_BERRY" MainType="REGION" SubType="REGION" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_MLADD_LA_NORMANDIE" MainType="REGION" SubType="REGION" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_MLADD_LE_LANGUEDOC" MainType="REGION" SubType="REGION" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_MLADD_LE_DAUPHIN" MainType="REGION" SubType="REGION" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_MLADD_LA_PICARDIE" MainType="REGION" SubType="REGION" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_MLADD_LE_BARN" MainType="REGION" SubType="REGION" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_MLADD_LE_ROUSSILLON" MainType="REGION" SubType="REGION" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_MLADD_LA_FLANDRE" MainType="REGION" SubType="REGION" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_MLADD_LA_FRANCHECOMT" MainType="REGION" SubType="REGION" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_MLADD_LA_SAVOIE" MainType="REGION" SubType="REGION" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_MLADD_LA_CHAMPAGNE" MainType="REGION" SubType="REGION" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_MLADD_LES_ARDENNES" MainType="REGION" SubType="REGION" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_MLADD_LLEDEFRANCE" MainType="REGION" SubType="REGION" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_MLADD_COMT_DARTOIS" MainType="REGION" SubType="REGION" CultureType="FRENCH"/>
+
+
+
+		<!-- 
+=========================== 
+Oceans 
+=========================== 
+-->
+		<Row Name="TXT_KEY_NAME_MLADD_LA_CTE_DAZUR" MainType="REGION" SubType="OCEAN" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_MLADD_LA_CTE_BASQUE" MainType="REGION" SubType="OCEAN" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_MLADD_LA_CTE_SAUVAGE" MainType="REGION" SubType="OCEAN" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_MLADD_LA_CTE_DAMOUR" MainType="REGION" SubType="OCEAN" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_MLADD_LA_CTE_DARGENT" MainType="REGION" SubType="OCEAN" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_MLADD_LA_CTE_DOPALE" MainType="REGION" SubType="OCEAN" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_MLADD_LA_CTE_DE_BEAUT" MainType="REGION" SubType="OCEAN" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_MLADD_LE_GOLFE_DE_GASCOGNE" MainType="REGION" SubType="OCEAN" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_MLADD_LE_GOLFE_DU_LION" MainType="REGION" SubType="OCEAN" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_MLADD_LE_GOLFE_DU_MORBIHAN" MainType="REGION" SubType="OCEAN" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_MLADD_LA_BAIE_DU_MONT_SAINT_MICHEL" MainType="REGION" SubType="OCEAN" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_MLADD_LA_BAIE_DE_SOMME" MainType="REGION" SubType="OCEAN" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_MLADD_LA_BAIE_DES_ANGES" MainType="REGION" SubType="OCEAN" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_MLADD_LA_MANCHE" MainType="REGION" SubType="OCEAN" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_MLADD_LA_MER_DU_NORD" MainType="REGION" SubType="OCEAN" CultureType="FRENCH"/>
+
+
+
+		<!--	
+=========================== 
+Islands 
+=========================== 
+-->
+		<Row Name="TXT_KEY_NAME_MLADD_LA_CORSE" MainType="REGION" SubType="ISLAND" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_MLADD_LLE_DAIX" MainType="REGION" SubType="ISLAND" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_MLADD_LLE_DE_R" MainType="REGION" SubType="ISLAND" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_MLADD_LLE_DOLRON" MainType="REGION" SubType="ISLAND" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_MLADD_LLE_DYEU" MainType="REGION" SubType="ISLAND" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_MLADD_LLE_DE_NOIRMOUTIER" MainType="REGION" SubType="ISLAND" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_MLADD_LLE_MADAME" MainType="REGION" SubType="ISLAND" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_MLADD_LLE_DE_GROIX" MainType="REGION" SubType="ISLAND" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_MLADD_LLE_AUX_OISEAUX" MainType="REGION" SubType="ISLAND" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_MLADD_LLE_DE_PORQUEROLLES" MainType="REGION" SubType="ISLAND" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_MLADD_BELLELEENMER" MainType="REGION" SubType="ISLAND" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_MLADD_LLE_DE_SEIN" MainType="REGION" SubType="ISLAND" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_MLADD_OUESSANT" MainType="REGION" SubType="ISLAND" CultureType="FRENCH"/>
+
+
+
+
+		<!--		
+=========================== 
+Mountains 
+=========================== 
+-->
+		<Row Name="TXT_KEY_NAME_MLADD_LE_MORVAN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="FRENCH"/>
+
+
+		<Row Name="TXT_KEY_NAME_MLADD_LES_ALPES" MainType="FEATURE" SubType="MOUNTAIN" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_MLADD_LES_PYRNES" MainType="FEATURE" SubType="MOUNTAIN" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_MLADD_LE_MASSIF_CENTRAL" MainType="FEATURE" SubType="MOUNTAIN" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_MLADD_LE_JURA" MainType="FEATURE" SubType="MOUNTAIN" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_MLADD_LES_VOSGES" MainType="FEATURE" SubType="MOUNTAIN" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_MLADD_LE_MASSIF_ARMORICAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_MLADD_LES_CVENNES" MainType="FEATURE" SubType="MOUNTAIN" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_MLADD_LE_FOREZ" MainType="FEATURE" SubType="MOUNTAIN" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_MLADD_LES_CAUSSES" MainType="FEATURE" SubType="MOUNTAIN" CultureType="FRENCH"/>
+
+		<Row Name="TXT_KEY_NAME_MLADD_LES_ALPILLES" MainType="FEATURE" SubType="MOUNTAIN" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_MLADD_LE_MONT_BLANC" MainType="FEATURE" SubType="MOUNTAIN" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_MLADD_LE_PIC_DU_VIGNEMALE" MainType="FEATURE" SubType="MOUNTAIN" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_MLADD_LE_CRT_DE_LA_NEIGE" MainType="FEATURE" SubType="MOUNTAIN" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_MLADD_LE_PUY_DE_SANCY" MainType="FEATURE" SubType="MOUNTAIN" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_MLADD_LE_BALLON_DE_GUEBWILLER" MainType="FEATURE" SubType="MOUNTAIN" CultureType="FRENCH"/>
+
+
+
+		<!--
+=========================== 
+Lakes 
+=========================== 
+-->
+		<Row Name="TXT_KEY_NAME_ML_GOUR_DE_TAZENAT" MainType="FEATURE" SubType="LAKE" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_ML_LAC_DAYDAT" MainType="FEATURE" SubType="LAKE" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_ML_LAC_DE_BORTLESORGUES" MainType="FEATURE" SubType="LAKE" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_ML_LAC_CHAMBON" MainType="FEATURE" SubType="LAKE" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_ML_LAC_CHAUVET" MainType="FEATURE" SubType="LAKE" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_ML_LAC_DENBAS_GODEVILLE" MainType="FEATURE" SubType="LAKE" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_ML_LAC_DENHAUT_GODEVILLE" MainType="FEATURE" SubType="LAKE" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_ML_LAC_DE_GURY" MainType="FEATURE" SubType="LAKE" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_ML_LAC_PAVIN" MainType="FEATURE" SubType="LAKE" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_ML_LAC_DE_SAINTPARDOUX" MainType="FEATURE" SubType="LAKE" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_ML_LAC_SERVIRES" MainType="FEATURE" SubType="LAKE" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_ML_LAC_DE_VASSIVIRE" MainType="FEATURE" SubType="LAKE" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_ML_LAC_DE_GRARDMER" MainType="FEATURE" SubType="LAKE" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_ML_LAC_DE_LONGEMER" MainType="FEATURE" SubType="LAKE" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_ML_LAC_DE_RETOURNEMER" MainType="FEATURE" SubType="LAKE" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_ML_LAC_DE_CHAMBON" MainType="FEATURE" SubType="LAKE" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_ML_TANGS_DE_SOLOGNE" MainType="FEATURE" SubType="LAKE" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_ML_LAC_DE_GRANDLIEU" MainType="FEATURE" SubType="LAKE" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_ML_LAC_DU_DERCHANTECOQ" MainType="FEATURE" SubType="LAKE" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_ML_TANGS_DES_DOMBES" MainType="FEATURE" SubType="LAKE" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_ML_LAC_DE_SAINTECROIX" MainType="FEATURE" SubType="LAKE" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_ML_TANG_DE_BISCAROSSE" MainType="FEATURE" SubType="LAKE" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_ML_TANG_DE_LACANAU" MainType="FEATURE" SubType="LAKE" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_ML_TANG_DE_BERRE" MainType="FEATURE" SubType="LAKE" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_ML_TANG_DE_THAU" MainType="FEATURE" SubType="LAKE" CultureType="FRENCH"/>
+
+
+
+		<!-- 		
+=========================== 
+Rivers 
+=========================== 
+-->
+		<Row Name="TXT_KEY_NAME_MLADD_LA_SEINE" MainType="FEATURE" SubType="RIVER" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_MLADD_LE_RHNE" MainType="FEATURE" SubType="RIVER" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_MLADD_LA_LOIRE" MainType="FEATURE" SubType="RIVER" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_MLADD_LA_GARONNE" MainType="FEATURE" SubType="RIVER" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_MLADD_LA_SOMME" MainType="FEATURE" SubType="RIVER" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_MLADD_LOISE" MainType="FEATURE" SubType="RIVER" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_MLADD_LAISNE" MainType="FEATURE" SubType="RIVER" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_MLADD_LA_MARNE" MainType="FEATURE" SubType="RIVER" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_MLADD_LA_MEUSE" MainType="FEATURE" SubType="RIVER" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_MLADD_LA_MOSELLE" MainType="FEATURE" SubType="RIVER" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_MLADD_LA_SAONE" MainType="FEATURE" SubType="RIVER" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_MLADD_LE_DOUBS" MainType="FEATURE" SubType="RIVER" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_MLADD_LA_DURANCE" MainType="FEATURE" SubType="RIVER" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_MLADD_LISRE" MainType="FEATURE" SubType="RIVER" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_MLADD_LA_DORDOGNE" MainType="FEATURE" SubType="RIVER" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_MLADD_LA_CHARENTE" MainType="FEATURE" SubType="RIVER" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_MLADD_LA_VIENNE" MainType="FEATURE" SubType="RIVER" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_MLADD_LE_CHER" MainType="FEATURE" SubType="RIVER" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_MLADD_LINDRE" MainType="FEATURE" SubType="RIVER" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_MLADD_LE_LOIR" MainType="FEATURE" SubType="RIVER" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_MLADD_LA_SARTHE" MainType="FEATURE" SubType="RIVER" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_MLADD_LA_MAYENNE" MainType="FEATURE" SubType="RIVER" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_MLADD_LALLIER" MainType="FEATURE" SubType="RIVER" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_MLADD_LA_VILAINE" MainType="FEATURE" SubType="RIVER" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_MLADD_LE_LOT" MainType="FEATURE" SubType="RIVER" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_MLADD_LA_VZRE" MainType="FEATURE" SubType="RIVER" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_MLADD_LE_TARN" MainType="FEATURE" SubType="RIVER" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_MLADD_LARDCHE" MainType="FEATURE" SubType="RIVER" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_MLADD_LA_CREUSE" MainType="FEATURE" SubType="RIVER" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_MLADD_LE_VAR" MainType="FEATURE" SubType="RIVER" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_MLADD_LA_DRME" MainType="FEATURE" SubType="RIVER" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_MLADD_LEURE" MainType="FEATURE" SubType="RIVER" CultureType="FRENCH"/>
+
+
+
+		<!-- 
+=========================== 
+Forests 
+=========================== 
+-->
+		<Row Name="TXT_KEY_NAME_ML_FOREST_OF_HARDT" MainType="FEATURE" SubType="FOREST" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_ML_FOREST_DONON" MainType="FEATURE" SubType="FOREST" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_ML_HAGUENAU_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_ML_FOREST_OBERNAI" MainType="FEATURE" SubType="FOREST" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_ML_IRATI_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_ML_LANDES_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_ML_FOREST_LEGE_ET_GARONNE" MainType="FEATURE" SubType="FOREST" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_ML_FOREST_GROSBOIS" MainType="FEATURE" SubType="FOREST" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_ML_FOREST_MARIGNY" MainType="FEATURE" SubType="FOREST" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_ML_FOREST_MESSARGES" MainType="FEATURE" SubType="FOREST" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_ML_FOREST_PRIORIES_MALADIER" MainType="FEATURE" SubType="FOREST" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_ML_TRONAIS" MainType="FEATURE" SubType="FOREST" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_ML_FOREST_CARNOT" MainType="FEATURE" SubType="FOREST" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_ML_FOREST_COTQUEN" MainType="FEATURE" SubType="FOREST" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_ML_FOREST_CRANOU" MainType="FEATURE" SubType="FOREST" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_ML_FOREST_FERNS" MainType="FEATURE" SubType="FOREST" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_ML_FOREST_FRAU" MainType="FEATURE" SubType="FOREST" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_ML_HUELGOAT_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_ML_FOREST_HUNAUDAYE" MainType="FEATURE" SubType="FOREST" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_ML_THE_HUGUENOT_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_ML_FOREST_LIFFR" MainType="FEATURE" SubType="FOREST" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_ML_MESNIL_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_ML_PAIMPONT_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_ML_FOREST_RENNES_IN_LIFFR" MainType="FEATURE" SubType="FOREST" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_ML_FOREST_OF_SAINTAUBINDUCORMIER" MainType="FEATURE" SubType="FOREST" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_ML_LANOUE_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_ML_WOOD_FAYS" MainType="FEATURE" SubType="FOREST" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_ML_WOOD_MONTCLAIMS" MainType="FEATURE" SubType="FOREST" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_ML_FOREST_ARCENBARROIS" MainType="FEATURE" SubType="FOREST" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_ML_ARGONNE_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_ML_FOREST_OF_ARDEN" MainType="FEATURE" SubType="FOREST" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_ML_FOREST_BASSICAN" MainType="FEATURE" SubType="FOREST" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_ML_FOREST_CLAIRVAUX" MainType="FEATURE" SubType="FOREST" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_ML_FOREST_CORGEBIN" MainType="FEATURE" SubType="FOREST" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_ML_FOREST_DER" MainType="FEATURE" SubType="FOREST" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_ML_FOREST_DHUITS" MainType="FEATURE" SubType="FOREST" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_ML_FOREST_STAR" MainType="FEATURE" SubType="FOREST" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_ML_FOREST_LA_GARENNE" MainType="FEATURE" SubType="FOREST" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_ML_FOREST_OF_THE_MONTAGNE_DE_REIMS" MainType="FEATURE" SubType="FOREST" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_ML_FOREST_OF_MONTDIEU" MainType="FEATURE" SubType="FOREST" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_ML_ORIENT_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_ML_OTHE_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_ML_RETZ_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_ML_FOREST_ROMILLY" MainType="FEATURE" SubType="FOREST" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_ML_FOREST_AUMONT" MainType="FEATURE" SubType="FOREST" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_ML_FOREST_CROGNY" MainType="FEATURE" SubType="FOREST" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_ML_FOREST_CUSSANGY" MainType="FEATURE" SubType="FOREST" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_ML_BOIS_DE_BOULOGNE" MainType="FEATURE" SubType="FOREST" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_ML_BOIS_DE_LA_TOUR_DU_LAY" MainType="FEATURE" SubType="FOREST" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_ML_BOIS_DE_VILLIERS_BOIS_DE_LA_BUCAILLE" MainType="FEATURE" SubType="FOREST" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_ML_BOIS_DE_VINCENNES" MainType="FEATURE" SubType="FOREST" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_ML_FOREST_OF_ALLUETS" MainType="FEATURE" SubType="FOREST" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_ML_FOREST_OF_ARMAINVILLIERS" MainType="FEATURE" SubType="FOREST" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_ML_FOREST_OF_CARNELLE" MainType="FEATURE" SubType="FOREST" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_ML_FOREST_OF_FONTAINEBLEAU" MainType="FEATURE" SubType="FOREST" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_ML_FOREST_OF_LISLEADAM" MainType="FEATURE" SubType="FOREST" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_ML_FOREST_OF_JOUY" MainType="FEATURE" SubType="FOREST" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_ML_FOREST_OF_MARLY" MainType="FEATURE" SubType="FOREST" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_ML_FOREST_OF_MEUDON" MainType="FEATURE" SubType="FOREST" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_ML_FOREST_OF_HARVEST" MainType="FEATURE" SubType="FOREST" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_ML_FOREST_OF_MONTMORENCY" MainType="FEATURE" SubType="FOREST" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_ML_FOREST_BEAUMONT" MainType="FEATURE" SubType="FOREST" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_ML_FOREST_OF_BRETEUIL" MainType="FEATURE" SubType="FOREST" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_ML_BROTONNE_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_ML_FOREST_CONCHES" MainType="FEATURE" SubType="FOREST" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_ML_IN_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_ML_FOREST_OF_EVREUX" MainType="FEATURE" SubType="FOREST" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_ML_FOREST_LOUVIERS" MainType="FEATURE" SubType="FOREST" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_ML_FOREST_BONNEVAUX" MainType="FEATURE" SubType="FOREST" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_ML_FOREST_CHAMBARAN" MainType="FEATURE" SubType="FOREST" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_ML_FOREST_OF_THE_GRANDE_CHARTREUSE" MainType="FEATURE" SubType="FOREST" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_ML_SAOU_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="FRENCH"/>
+
+
+		<!--
+=========================== 
+Deserts 
+=========================== 
+-->
+		<Row Name="TXT_KEY_NAME_ML_DESERT_OF_CHENE" MainType="FEATURE" SubType="DESERT" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_ML_DESERT_OF_NEVOIE" MainType="FEATURE" SubType="DESERT" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_ML_DESERT_OF_HYERE" MainType="FEATURE" SubType="DESERT" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_ML_DESERT_OF_LAISE" MainType="FEATURE" SubType="DESERT" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_ML_DESERT_OF_CELLE" MainType="FEATURE" SubType="DESERT" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_ML_DESERT_OF_NISSE" MainType="FEATURE" SubType="DESERT" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_ML_DESERT_OF_BEZY" MainType="FEATURE" SubType="DESERT" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_ML_CHIONVOIE_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_ML_CENE_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_ML_MONTE_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_ML_ARSEIS_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_ML_TRESEAU_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_ML_BESE_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_ML_CONY_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_ML_CHILTIA_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_ML_PANTE_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_ML_RESE_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_ML_SCHATOU_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_ML_MAHY_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_ML_LENCE_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_ML_DRIGNE_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_ML_MINY_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_ML_MARY_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_ML_CAHE_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_ML_BETHY_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_ML_HATE_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_ML_MEILE_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_ML_CLETOU_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_ML_PARY_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="FRENCH"/>
+		<Row Name="TXT_KEY_NAME_ML_BEZY_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="FRENCH"/>
+
+
+	</ML_Labels_Dynamic>
+</GameData>

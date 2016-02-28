@@ -1,0 +1,801 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+*****************************************
+*			Map Labels					*
+*	by Hazel (hazel16 @ CivFanatics)	*
+*****************************************
+-->
+<GameData>
+	<Language_en_US>
+		<!-- Template:
+		<Row Tag="TXT_KEY_NAME_ML_KILIMANJARO">
+			<Text>Mount Kilimanjaro</Text>
+		</Row>
+		-->
+		<!-- 
+=========================== 
+Regions 
+=========================== 
+-->
+		<Row Tag="TXT_KEY_NAME_ML_GALICIA">
+			<Text>Galicia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ASTURIAS">
+			<Text>Asturias</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_CANTABRIA">
+			<Text>Cantabria</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_NAVARRE">
+			<Text>Navarre</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_CATALONIA">
+			<Text>Catalonia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ARAGON">
+			<Text>Aragon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LA_RIOJA">
+			<Text>La Rioja</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_CASTILELEON">
+			<Text>Castile-Leon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_CASTILELA_MANCHA">
+			<Text>Castile-La Mancha</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_VALENCIA">
+			<Text>Valencia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MURCIA">
+			<Text>Murcia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ANDALUSIA">
+			<Text>Andalusia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_EXTREMADURA">
+			<Text>Extremadura</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_BAJA">
+			<Text>Baja</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_BARRANCAS_DEL_COBRE">
+			<Text>Barrancas del Cobre</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_COAHUILA">
+			<Text>Coahuila</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_NUEVO_LEN">
+			<Text>Nuevo León</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_TAMAULIPAS">
+			<Text>Tamaulipas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_AGUASCALIENTES">
+			<Text>Aguascalientes</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_GUANAJUATO">
+			<Text>Guanajuato</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_QUERTARO">
+			<Text>Querétaro</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SAN_LUIS_POTOS">
+			<Text>San Luis Potosí</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ZACATECAS">
+			<Text>Zacatecas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_COLIMA">
+			<Text>Colima</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_JALISCO">
+			<Text>Jalisco</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MICHOACN">
+			<Text>Michoacán</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_NAYARIT">
+			<Text>Nayarit</Text>
+		</Row>
+
+
+		<!-- 
+=========================== 
+Oceans 
+=========================== 
+-->
+		<Row Tag="TXT_KEY_NAME_ML_SEA_OF_YUCATAN">
+			<Text>Sea of Yucatan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SEA_OF_ANOTRID">
+			<Text>Sea of Anotrid</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SEA_OF_MOLETE">
+			<Text>Sea of Molete</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SEA_OF_VILA">
+			<Text>Sea of Vila</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SEA_OF_CERDO">
+			<Text>Sea of Cerdo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_GRIVEDRIA_SEA">
+			<Text>Grivedria Sea</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MORA_SEA">
+			<Text>Mora Sea</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ABRIATAS_SEA">
+			<Text>Abriatas Sea</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_AZALOS_SEA">
+			<Text>Azalos Sea</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_GRESE_SEA">
+			<Text>Grese Sea</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MARIA_SEA">
+			<Text>Maria Sea</Text>
+		</Row>
+
+
+
+		<!--	
+=========================== 
+Islands 
+=========================== 
+-->
+		<Row Tag="TXT_KEY_NAME_ML_ISLA_MAJORCA">
+			<Text>Isla Majorca</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ISLA_MINORCA">
+			<Text>Isla Minorca</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ISLA_IBIZA">
+			<Text>Isla Ibiza</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ISLA_FORMENTERA">
+			<Text>Isla Formentera</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ISLA_CABRERA">
+			<Text>Isla Cabrera</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ISLA_TREMAC">
+			<Text>Isla Tremac</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ISLA_GRAN_CANARIA">
+			<Text>Isla Gran Canaria</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ISLA_TENERIFE">
+			<Text>Isla Tenerife</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ISLA_LA_PALMA">
+			<Text>Isla La Palma</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ISLA_LANZAROTE">
+			<Text>Isla Lanzarote</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ISLA_FUERTEVENTURA">
+			<Text>Isla Fuerteventura</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ISLA_LA_GOMERA">
+			<Text>Isla La Gomera</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ISLA_EL_HIERRO">
+			<Text>Isla El Hierro</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ISLA_ALEGRANZA">
+			<Text>Isla Alegranza </Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ISLA_GRACIOSA">
+			<Text>Isla Graciosa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ISLA_DELA_CARTUJA">
+			<Text>Isla de la Cartuja</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ISLA_COZUMEL">
+			<Text>Isla Cozumel</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ISLA_MUJERES">
+			<Text>Isla Mujeres</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ISLA_CONTOY">
+			<Text>Isla Contoy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ISLA_BLANCA">
+			<Text>Isla Blanca</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ISLA_CEDROS">
+			<Text>Isla Cedros</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ISLA_CORONADOS">
+			<Text>Isla Coronados</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ISLAS_SAN_BENITO">
+			<Text>Islas San Benito</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ISLA_TODOS_SANTOS">
+			<Text>Isla Todos Santos</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ISLA_NATIVIDAD">
+			<Text>Isla Natividad</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ISLA_SANTA_MARGARITA">
+			<Text>Isla Santa Margarita</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ISLAS_MARAS">
+			<Text>Islas Marías</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ISLA_SAN_MARTIN">
+			<Text>Isla San Martin</Text>
+		</Row>
+
+
+		<!--		
+=========================== 
+Mountains 
+=========================== 
+-->
+
+		<Row Tag="TXT_KEY_NAME_ML_MOUNT_ABANTOS">
+			<Text>Mount Abantos</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MONTE_ALOIA">
+			<Text>Monte Aloia</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_NAME_ML_CALDERA_DE_TABURIENTE">
+			<Text>Caldera de Taburiente</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MONTE_HACHO">
+			<Text>Monte Hacho</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MONTE_HAUTZA">
+			<Text>Monte Hautza</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MONTE_LA_TORRECILLA">
+			<Text>Monte La Torrecilla</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MONTE_LARRUN">
+			<Text>Monte Larrun</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MONTE_LOBO">
+			<Text>Monte Lobo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MONTE_ORISOL">
+			<Text>Monte Orisol</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MONTE_PEALARA">
+			<Text>Monte Peñalara</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MONTE_PICO_ALMANZOR">
+			<Text>Monte Pico Almanzor</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MONTE_PUIG_TOMIR">
+			<Text>Monte Puig Tomir</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MONTE_PUIGMAL">
+			<Text>Monte Puigmal</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SIERRA_DE_LA_ALFAGUARA">
+			<Text>Sierra de la Alfaguara</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MONTE_SOTRES">
+			<Text>Monte Sotres</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MONTE_TEIDE">
+			<Text>Monte Teide</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MONTE_TELLAMENDI">
+			<Text>Monte Tellamendi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MONTE_URRIELES_MASSIF">
+			<Text>Monte Urrieles Massif</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MONTE_UZTURRE">
+			<Text>Monte Uzturre</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MONTE_NEVADO_DE_COLIMA">
+			<Text>Monte Nevado de Colima</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MONTE_NEVADO_DE_TOLUCA">
+			<Text>Monte Nevado de Toluca</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_CERRO_TIOTEPEC">
+			<Text>Cerro Tiotepec</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_CERRO_EL_NACIMIENTO">
+			<Text>Cerro El Nacimiento</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_PICACHO_DEL_DIABLO">
+			<Text>Picacho del Diablo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_CERRO_NUBE">
+			<Text>Cerro Nube</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_CERRO_LAS_CONCHAS">
+			<Text>Cerro Las Conchas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SIERRA_LA_LAGUNA">
+			<Text>Sierra La Laguna</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SIERRA_LA_MADERA">
+			<Text>Sierra La Madera</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_CERRO_TIA_CHENA">
+			<Text>Cerro Tia Chena</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_CERRO_EL_POTOS">
+			<Text>Cerro El Potosí</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_CERRO_LA_JOYA">
+			<Text>Cerro La Joya</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MONTE_TANCTARO">
+			<Text>Monte Tancítaro</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_PICACHO_SAN_ONOFRE">
+			<Text>Picacho San Onofre</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_CERRO_EL_CENTINELA">
+			<Text>Cerro El Centinela</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAS_TRES_VRGENES">
+			<Text>Las Tres Vírgenes</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SIERRA_DE_SANTA_MARTHA">
+			<Text>Sierra de Santa Martha</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_CERRO_LAS_CAPILLAS">
+			<Text>Cerro Las Capillas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_PICACHOS_EL_FRAILE">
+			<Text>Picachos El Fraile</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SIERRA_EL_CERRO_AZUL">
+			<Text>Sierra El Cerro Azul</Text>
+		</Row>
+
+		<!--
+=========================== 
+Lakes 
+=========================== 
+-->
+		<Row Tag="TXT_KEY_NAME_ML_LAKE_OF_COVADONGA">
+			<Text>Lake of Covadonga</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_NAME_ML_LAGUNA_DE_GALLOCANTA">
+			<Text>Laguna de Gallocanta</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAKE_ARREO">
+			<Text>Lake Arreo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAKE_AS_PONTES">
+			<Text>Lake As Pontes</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAGUNAS_DE_RUIDERA">
+			<Text>Lagunas de Ruidera</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SANABRIA_LAKE">
+			<Text>Sanabria Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ULLIBARRIGAMBOA_LAKE">
+			<Text>Ullibarri-Gamboa Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAKE_OF_ENOL">
+			<Text>Lake of Enol</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAKE_ERCINA">
+			<Text>Lake Ercina</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAGUNA_BELLA">
+			<Text>Laguna Bella</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAGUNA_BATANA">
+			<Text>Laguna Batana</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAGUNA_DE_SANTOS_MORCILLO">
+			<Text>Laguna de Santos Morcillo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAGUNA_SALVADORA">
+			<Text>Laguna Salvadora</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAGUNA_DE_SAN_PEDRO">
+			<Text>Laguna de San Pedro</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAGUNA_TINAJA">
+			<Text>Laguna Tinaja</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAGUNA_TOMILLA">
+			<Text>Laguna Tomilla</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAGUNA_CONCEJA">
+			<Text>Laguna Conceja</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAGUNA_TAZA">
+			<Text>Laguna Taza</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAGUNA_CENAGOSA">
+			<Text>Laguna Cenagosa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAGUNA_COLADILLA">
+			<Text>Laguna Coladilla</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAGUNA_DEL_REY">
+			<Text>Laguna del Rey</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAGUNA_BLANCA">
+			<Text>Laguna Blanca</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAKE_BACCARAC">
+			<Text>Lake Baccarac</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAKE_COMEDERO">
+			<Text>Lake Comedero</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAKE_DOMINGUEZ">
+			<Text>Lake Dominguez</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAKE_HIDALGO">
+			<Text>Lake Hidalgo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAKE_HUITES">
+			<Text>Lake Huites</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAKE_MATEOS">
+			<Text>Lake Mateos</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAKE_SALTO">
+			<Text>Lake Salto</Text>
+		</Row>
+
+
+		<!-- 		
+=========================== 
+Rivers 
+=========================== 
+-->
+		<Row Tag="TXT_KEY_NAME_ML_RIO_CIDACOS">
+			<Text>Rio Cidacos</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_RIO_EGA">
+			<Text>Rio Ega</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_RIO_ARAGN">
+			<Text>Rio Aragón</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_NAME_ML_RIO_ARGA">
+			<Text>Rio Arga</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_RIO_CANDANCH">
+			<Text>Rio Candanchú</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_RIO_JALN">
+			<Text>Rio Jalón</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_RIO_JILOCA">
+			<Text>Rio Jiloca</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_RIO_PIEDRA">
+			<Text>Rio Piedra</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_RIO_GLLEGO">
+			<Text>Rio Gállego</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_RIO_AGUAS_LIMPIAS">
+			<Text>Rio Aguas limpias</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_RIO_CALDARS">
+			<Text>Rio Caldarés</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_RIO_ESCARRA">
+			<Text>Rio Escarra</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_RIO_LANA_MAYOR">
+			<Text>Rio Lana Mayor</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_RIO_AURN">
+			<Text>Rio Aurín</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_RIO_GUARGA">
+			<Text>Rio Guarga</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_RIO_SECO">
+			<Text>Rio Seco</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_RIO_ASABN">
+			<Text>Rio Asabón</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_RIO_SOTN">
+			<Text>Rio Sotón</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_RIO_GUADALOPE">
+			<Text>Rio Guadalope</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_RIO_BERGANTES">
+			<Text>Rio Bergantes</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_RIO_SEGRE">
+			<Text>Rio Segre</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_RIO_CINCA">
+			<Text>Rio Cinca</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_RIO_ARA">
+			<Text>Rio Ara</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_RIO_ARAZAS">
+			<Text>Rio Arazas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_RIO_SERA">
+			<Text>Rio Ésera</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_RIO_LANATA">
+			<Text>Rio Lanata</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_RIO_NOGUERA_RIBAGORZANA">
+			<Text>Rio Noguera Ribagorzana</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_RIO_NOGUERA_PALLARESA">
+			<Text>Rio Noguera Pallaresa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_RIO_QUEILES">
+			<Text>Rio Queiles</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_RIO_MIJARES">
+			<Text>Rio Mijares</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_RIO_TURIA">
+			<Text>Rio Turia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_RIO_JCAR">
+			<Text>Rio Júcar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_RIO_CABRIEL">
+			<Text>Rio Cabriel</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_RIO_ALBAIDA">
+			<Text>Rio Albaida</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_RIO_HUCAR">
+			<Text>Rio Huécar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_RIO_VALDEMEMBRA">
+			<Text>Rio Valdemembra</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_RIO_MAGRO">
+			<Text>Rio Magro</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_RIO_VINALOP">
+			<Text>Rio Vinalopó</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_RIO_SEGURA">
+			<Text>Rio Segura</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_RIO_MUNDO">
+			<Text>Rio Mundo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_RIO_MULA">
+			<Text>Rio Mula</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_RIO_GUADALENTN">
+			<Text>Rio Guadalentín</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_RIO_ALHRABE">
+			<Text>Rio Alhárabe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_RIO_GUADALETE">
+			<Text>Rio Guadalete</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_RIO_MAJACEITE">
+			<Text>Rio Majaceite</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_RIO_SAN_PEDRO">
+			<Text>Rio San Pedro</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_RIO_GUADALQUIVIR">
+			<Text>Rio Guadalquivir</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_RIO_GUADIANA_MENOR">
+			<Text>Rio Guadiana Menor</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_RIO_GUADALBULLN">
+			<Text>Rio Guadalbullón</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_RIO_GENIL">
+			<Text>Rio Genil</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_RIO_DARRO">
+			<Text>Rio Darro</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_RIO_CORBONES">
+			<Text>Rio Corbones</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_RIO_GUADARA">
+			<Text>Rio Guadaíra</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_RIO_GUADIAMAR">
+			<Text>Rio Guadiamar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_RIO_TINTO">
+			<Text>Rio Tinto</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_RIO_ODIEL">
+			<Text>Rio Odiel</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_RIO_GUADIANA">
+			<Text>Rio Guadiana</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_RIO_GUADALUPE">
+			<Text>Rio Guadalupe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_RIO_JABALN">
+			<Text>Rio Jabalón</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_RIO_ZNCARA">
+			<Text>Rio Záncara</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_RIO_MATACHEL">
+			<Text>Rio Matachel</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_RIO_CHANZA">
+			<Text>Rio Chanza</Text>
+		</Row>
+
+		<!-- 
+=========================== 
+Forests 
+=========================== 
+-->
+		<Row Tag="TXT_KEY_NAME_ML_BOSQUE_DE_ZARREDA">
+			<Text>Bosque de Zarreda</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_BOSQUE_DE_MERA">
+			<Text>Bosque de Mera</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_BOSQUE_DE_ALARRALLS">
+			<Text>Bosque de Alarralls</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_BOSQUE_DE_FELSESA">
+			<Text>Bosque de Felsesa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_BOSQUE_DE_MANA">
+			<Text>Bosque de Mana</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_BOSQUE_DE_ACERRES">
+			<Text>Bosque de Acerres</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_BOSQUE_DE_ADINAR">
+			<Text>Bosque de Adinar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_BOSQUE_DE_ADECIN">
+			<Text>Bosque de Adecin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_BOSQUE_DE_RAKAO">
+			<Text>Bosque de Rakao</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_BOSQUE_DE_CIOSEVA">
+			<Text>Bosque de Cioseva</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_BOSQUE_DE_VILLONA">
+			<Text>Bosque de Villona</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SELVA_ADANAR">
+			<Text>Selva Adanar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SELVA_CASTE">
+			<Text>Selva Caste</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SELVA_CADA">
+			<Text>Selva Cada</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SELVA_MARGO">
+			<Text>Selva Margo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SELVA_MANRA">
+			<Text>Selva Manra</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SELVA_VILA">
+			<Text>Selva Vila</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SELVA_MORIA">
+			<Text>Selva Moria</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SELVA_AZUMID">
+			<Text>Selva Azumid</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SELVA_TELDEPIN">
+			<Text>Selva Teldepin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SELVA_EIVACELS">
+			<Text>Selva Eivacels</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SELVA_MURCIA">
+			<Text>Selva Murcia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SELVA_CANTE">
+			<Text>Selva Cante</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SELVA_PORTURTZA">
+			<Text>Selva Porturtza</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SELVA_MADRANGO">
+			<Text>Selva Madrango</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SELVA_PONFELSA">
+			<Text>Selva Ponfelsa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SELVA_MOSTERRA">
+			<Text>Selva Mosterra</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SELVA_AGAGON">
+			<Text>Selva Agagon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SELVA_ILLALELL">
+			<Text>Selva Illalell</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SELVA_PAMPLA">
+			<Text>Selva Pampla</Text>
+		</Row>
+
+
+		<!--
+=========================== 
+Deserts 
+=========================== 
+-->
+		<Row Tag="TXT_KEY_NAME_ML_BARDENAS_REALES">
+			<Text>Bardenas Reales</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_NAME_ML_CABO_DE_GATANJAR">
+			<Text>Cabo de Gata-Níjar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MONEGROS_DESERT">
+			<Text>Monegros Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_TABERNAS_DESERT">
+			<Text>Tabernas Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_CHIHUAHUAN_DESERT">
+			<Text>Chihuahuan Desert‎</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_GRAN_DESIERTO_DE_ALTAR">
+			<Text>Gran Desierto de Altar‎</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SONORAN_DESERT">
+			<Text>Sonoran Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_YUHA_DESERT">
+			<Text>Yuha Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_YUMA_DESERT">
+			<Text>Yuma Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SALAR_DE_ARIZARO">
+			<Text>Salar de Arizaro</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_PATAGONIAN_DESERT">
+			<Text>Patagonian Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SALINAS_DESERT">
+			<Text>Salinas Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ATACAMA_DESERT">
+			<Text>Atacama Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SECHURA_DESERT">
+			<Text>Sechura Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LA_GUAJIRA_DESERT">
+			<Text>La Guajira Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MDANOS_DE_CORO">
+			<Text>Médanos de Coro</Text>
+		</Row>
+
+	</Language_en_US>
+</GameData>

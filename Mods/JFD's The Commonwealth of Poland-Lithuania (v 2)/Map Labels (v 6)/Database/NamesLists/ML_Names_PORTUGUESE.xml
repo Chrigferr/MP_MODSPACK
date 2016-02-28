@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+*****************************************
+*			Map Labels					*
+*	by Hazel (hazel16 @ CivFanatics)	*
+*****************************************
+-->
+<GameData>
+	<ML_Labels_Dynamic>
+		<!-- Template:
+			
+		-->
+
+		<!-- 
+=========================== 
+Regions 
+=========================== 
+-->
+		<Row Name="TXT_KEY_NAME_ML_ALENTEJO" MainType="REGION" SubType="REGION" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_ALGARVE" MainType="REGION" SubType="REGION" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_ALTO_DOURO" MainType="REGION" SubType="REGION" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_BEIRA" MainType="REGION" SubType="REGION" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_BEIRA_ALTA" MainType="REGION" SubType="REGION" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_LISBOA" MainType="REGION" SubType="REGION" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_VALE_DO_TEJO" MainType="REGION" SubType="REGION" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_NORDESTE_TRANSMONTANO" MainType="REGION" SubType="REGION" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_TERRAS_DE_RIBACA" MainType="REGION" SubType="REGION" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_TRSOSMONTES" MainType="REGION" SubType="REGION" CultureType="PORTUGUESE"/>
+
+
+		<!-- 
+=========================== 
+Oceans 
+=========================== 
+-->
+		<Row Name="TXT_KEY_NAME_ML_ALMEIDA_SEA" MainType="REGION" SubType="OCEAN" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_ALMENDRA_SEA" MainType="REGION" SubType="OCEAN" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_ALMODVAR_SEA" MainType="REGION" SubType="OCEAN" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_ALMOFALA_SEA" MainType="REGION" SubType="OCEAN" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_ALPENDURADA_SEA" MainType="REGION" SubType="OCEAN" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_ALPIARA_SEA" MainType="REGION" SubType="OCEAN" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_ALTER_DO_CHO_SEA" MainType="REGION" SubType="OCEAN" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_ALVAIZERE_SEA" MainType="REGION" SubType="OCEAN" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_ALVALADE_SEA" MainType="REGION" SubType="OCEAN" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_ALVITE_SEA" MainType="REGION" SubType="OCEAN" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_ALVITO_SEA" MainType="REGION" SubType="OCEAN" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_LOUREIRO_SEA" MainType="REGION" SubType="OCEAN" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_LOURIAL_SEA" MainType="REGION" SubType="OCEAN" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_LOURINH_SEA" MainType="REGION" SubType="OCEAN" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_TORREDEITA_SEA" MainType="REGION" SubType="OCEAN" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_TORREIRA_SEA" MainType="REGION" SubType="OCEAN" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_SEA_OF_TORTOSENDO" MainType="REGION" SubType="OCEAN" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_SEA_OF_SO_JOO" MainType="REGION" SubType="OCEAN" CultureType="PORTUGUESE"/>
+
+		<Row Name="TXT_KEY_NAME_ML_SEA_OF_PONTINHA" MainType="REGION" SubType="OCEAN" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_SEA_OF_PORCHES" MainType="REGION" SubType="OCEAN" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_SEA_OF_PORTEL" MainType="REGION" SubType="OCEAN" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_SEA_OF_MONCHIQUE" MainType="REGION" SubType="OCEAN" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_SEA_OF_BEIRA" MainType="REGION" SubType="OCEAN" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_SEA_OF_BASTO" MainType="REGION" SubType="OCEAN" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_SEA_OF_MONFORTE" MainType="REGION" SubType="OCEAN" CultureType="PORTUGUESE"/>
+
+		<!--	
+=========================== 
+Islands 
+=========================== 
+-->
+		<Row Name="TXT_KEY_NAME_ML_A_NOVA" MainType="REGION" SubType="ISLAND" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_AGOLADA" MainType="REGION" SubType="ISLAND" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_ALMOUROL" MainType="REGION" SubType="ISLAND" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_ILHA_DE_AMOROSO" MainType="REGION" SubType="ISLAND" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_ILHA_DE_BALEAL" MainType="REGION" SubType="ISLAND" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_ILHA_DE_BUGIO" MainType="REGION" SubType="ISLAND" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_ILHA_DE_CAMBALHO" MainType="REGION" SubType="ISLAND" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_ILHA_DE_CARMONA" MainType="REGION" SubType="ISLAND" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_ESTRADA" MainType="REGION" SubType="ISLAND" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_ILHA_DE_FORA" MainType="REGION" SubType="ISLAND" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_ILHA_DE_GAGA" MainType="REGION" SubType="ISLAND" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_ILHA_DE_GAIVOTA" MainType="REGION" SubType="ISLAND" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_ILHA_DE_GRAMATAL" MainType="REGION" SubType="ISLAND" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_ILHA_DE_IDANHA" MainType="REGION" SubType="ISLAND" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_ILHA_DE_LOMBO" MainType="REGION" SubType="ISLAND" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_ILHA_DE_MARCEHAL" MainType="REGION" SubType="ISLAND" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_ILHA_DE_MARINHA_NOVA" MainType="REGION" SubType="ISLAND" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_ILHA_DE_MATADOUCE" MainType="REGION" SubType="ISLAND" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_ILHA_DE_MONTE_FARINHA" MainType="REGION" SubType="ISLAND" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_ILHA_DE_MORRACEIRA" MainType="REGION" SubType="ISLAND" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_ILHA_DE_MODOMEIO" MainType="REGION" SubType="ISLAND" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_ILHA_DE_OVOS" MainType="REGION" SubType="ISLAND" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_ILHA_DE_PARRACHILL" MainType="REGION" SubType="ISLAND" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_ILHA_DE_PEDRA" MainType="REGION" SubType="ISLAND" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_ILHA_DE_POO" MainType="REGION" SubType="ISLAND" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_ILHA_DE_RATO" MainType="REGION" SubType="ISLAND" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_ILHA_DE_SAMOS" MainType="REGION" SubType="ISLAND" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_ILHA_DE_TESTDA" MainType="REGION" SubType="ISLAND" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_ILHA_DE_TRANQUERIA" MainType="REGION" SubType="ISLAND" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_ILHA_DE_TRS_POSTES" MainType="REGION" SubType="ISLAND" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_ILHA_DE_TURBINA" MainType="REGION" SubType="ISLAND" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_ILHA_DE_CORVO" MainType="REGION" SubType="ISLAND" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_ILHA_DE_FAIAL" MainType="REGION" SubType="ISLAND" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_ILHA_DE_FLORES" MainType="REGION" SubType="ISLAND" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_ILHA_DE_GRACIOSA" MainType="REGION" SubType="ISLAND" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_ILHA_DE_PICO" MainType="REGION" SubType="ISLAND" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_ILHA_DE_SANTA_MARIA" MainType="REGION" SubType="ISLAND" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_ILHA_DE_SO_JORGE" MainType="REGION" SubType="ISLAND" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_ILHA_DE_SO_MIGUEL" MainType="REGION" SubType="ISLAND" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_ILHA_DE_TERCEIRA" MainType="REGION" SubType="ISLAND" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_ILHA_DE_FORMIGAS" MainType="REGION" SubType="ISLAND" CultureType="PORTUGUESE"/>
+
+
+
+		<!--		
+=========================== 
+Mountains 
+=========================== 
+-->
+		<Row Name="TXT_KEY_NAME_ML_PIQUINHO" MainType="FEATURE" SubType="MOUNTAIN" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_SERRA_DA_ESTRELA" MainType="FEATURE" SubType="MOUNTAIN" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_ALTO_DO_TALEFE" MainType="FEATURE" SubType="MOUNTAIN" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_PICO_RUIVO_DE_SANTANA" MainType="FEATURE" SubType="MOUNTAIN" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_PICO_DO_ARIEIRO" MainType="FEATURE" SubType="MOUNTAIN" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_SERRA_DO_GERS" MainType="FEATURE" SubType="MOUNTAIN" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_PICO_DA_NEVOSA" MainType="FEATURE" SubType="MOUNTAIN" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_SERRA_DO_MARO" MainType="FEATURE" SubType="MOUNTAIN" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_SERRA_DE_MONTEMURO" MainType="FEATURE" SubType="MOUNTAIN" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_SERRA_AMARELA" MainType="FEATURE" SubType="MOUNTAIN" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_SERRA_GRACIOSA" MainType="FEATURE" SubType="MOUNTAIN" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_SERRA_DE_PAU" MainType="FEATURE" SubType="MOUNTAIN" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_CABEO_GORDO" MainType="FEATURE" SubType="MOUNTAIN" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_PICO_DO_GARDUNHA" MainType="FEATURE" SubType="MOUNTAIN" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_SERRA_FIA" MainType="FEATURE" SubType="MOUNTAIN" CultureType="PORTUGUESE"/>
+
+
+
+		<!--
+=========================== 
+Lakes 
+=========================== 
+-->
+		<Row Name="TXT_KEY_NAME_ML_LAGOA_FUNDA" MainType="FEATURE" SubType="LAKE" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_LAGOA_FUNDA_DAS_LAJES" MainType="FEATURE" SubType="LAKE" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_LAGOA_BRANCA" MainType="FEATURE" SubType="LAKE" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_LAGOA_COMPRIDA" MainType="FEATURE" SubType="LAKE" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_LAGOA_SECA" MainType="FEATURE" SubType="LAKE" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_LAGOA_DA_LOMBA" MainType="FEATURE" SubType="LAKE" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_LAGOA_RASA" MainType="FEATURE" SubType="LAKE" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_LAGOA_DA_PRAINHA" MainType="FEATURE" SubType="LAKE" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_LAGOA_DO_CAPITO" MainType="FEATURE" SubType="LAKE" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_LAGOA_DO_PAUL" MainType="FEATURE" SubType="LAKE" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_LAGOA_CORRE_GUA" MainType="FEATURE" SubType="LAKE" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_LAGOA_DO_LANDROAL" MainType="FEATURE" SubType="LAKE" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_LAGOA_DO_CAIADO" MainType="FEATURE" SubType="LAKE" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_LAGOA_DOS_GROTES" MainType="FEATURE" SubType="LAKE" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_LAGOA_DA_ROSADA" MainType="FEATURE" SubType="LAKE" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_LAGOA_NEGRA" MainType="FEATURE" SubType="LAKE" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_LAGOA_DO_PEIXINHO" MainType="FEATURE" SubType="LAKE" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_LAGOA_DO_ILHU" MainType="FEATURE" SubType="LAKE" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_LAGOA_DO_PAL" MainType="FEATURE" SubType="LAKE" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_LAGOA_DA_BARREIRA" MainType="FEATURE" SubType="LAKE" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_CH_DAS_LAGOINHAS" MainType="FEATURE" SubType="LAKE" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_LAGOA_DAS_PATAS" MainType="FEATURE" SubType="LAKE" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_LAGOA_DO_GINJAL" MainType="FEATURE" SubType="LAKE" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_LAGOINHA" MainType="FEATURE" SubType="LAKE" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_LAGOA_DO_PICO_DO_ALPANAQUE" MainType="FEATURE" SubType="LAKE" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_LAGOA_DO_PICO_DO_AREEIRO" MainType="FEATURE" SubType="LAKE" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_LAGOA_DO_ESCAMPADOURO" MainType="FEATURE" SubType="LAKE" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_LAGOA_DO_JUNCO" MainType="FEATURE" SubType="LAKE" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_LAGOA_DO_LABAAL" MainType="FEATURE" SubType="LAKE" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_LAGOA_DO_CARVO" MainType="FEATURE" SubType="LAKE" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_LAGOA_DE_SO_BRS" MainType="FEATURE" SubType="LAKE" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_LAGOA_DO_AREEIRO" MainType="FEATURE" SubType="LAKE" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_LAGOA_DOS_NENFARES" MainType="FEATURE" SubType="LAKE" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_LAGOA_DO_PEIXE" MainType="FEATURE" SubType="LAKE" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_LAGOA_DO_CHARCO_DA_MADEIRA" MainType="FEATURE" SubType="LAKE" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_LAGOA_DAS_CANAS" MainType="FEATURE" SubType="LAKE" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_LAGOA_DA_PRATA" MainType="FEATURE" SubType="LAKE" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_LAGOA_DAS_ACHADAS" MainType="FEATURE" SubType="LAKE" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_LAGOA_DO_CALDEIRO_GRANDE" MainType="FEATURE" SubType="LAKE" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_LAGOA_DO_CALDEIRO_NORTE" MainType="FEATURE" SubType="LAKE" CultureType="PORTUGUESE"/>
+
+
+		<!-- 		
+=========================== 
+Rivers 
+=========================== 
+-->
+		<Row Name="TXT_KEY_NAME_ML_ARCOSS_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_ARDILA_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_ARNIA_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_AROUCE_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_ARUNCA_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_ASNES_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_ASSUREIRA_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_AVE_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_AVIA_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_AZIBO_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_CARVALHOSA_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_CSTER_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_CASTRO_LABOREIRO_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_CVADO_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_DE_CAVALOS_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_CAVALUM_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_CEIRA_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_CERCAL_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_CRTIMA_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_CHANA_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_CA_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_COBRO_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_EGA_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_EIRIZ_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_FEBROS_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_FERREIRA_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_LEVIRA_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_LIMA_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_LIS_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_LIZANDRO_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_LORDELO_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_MAS_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_MAIOR_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_PAIV_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_PECULHOS_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_PAVIA_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_PEIO_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_SELHO_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_SEVER_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_SILVES_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_TINHELA_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_TINHESA_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_TORNADA_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_XARRAMA_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_XVORA_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="PORTUGUESE"/>
+
+
+		<!-- 
+=========================== 
+Forests 
+=========================== 
+-->
+		<Row Name="TXT_KEY_NAME_ML_CHOUPAL_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_MONSANTO_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_MOITA_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_MOITA_DOS_FERREIROS_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_MONO_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_MONCARAPACHO_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_PAMPILHOSA_DA_SERRA_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_PARANHOS_DA_BEIRA_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_PARCHAL_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_PAREDE_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_SO_FLIX_DA_MARINHA_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_SO_JOO_DA_PESQUEIRA_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_SO_JOO_DE_AREIAS_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_SO_JOO_DE_OVAR_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_SERT_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_SERZEDELO_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_SERZEDO_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_SESIMBRA_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_SEVER_DO_VOUGA_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_TOCHA_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_FOREST_OF_TORRO" MainType="FEATURE" SubType="FOREST" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_FOREST_OF_VERRIDE" MainType="FEATURE" SubType="FOREST" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_FOREST_OF_VIALONGA" MainType="FEATURE" SubType="FOREST" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_FOREST_OF_VIANA_DO_ALENTEJO" MainType="FEATURE" SubType="FOREST" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_FOREST_OF_VIDAGO" MainType="FEATURE" SubType="FOREST" CultureType="PORTUGUESE"/>
+
+
+		<!--
+=========================== 
+Deserts 
+=========================== 
+-->
+		<Row Name="TXT_KEY_NAME_ML_ODECEIXE_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_ODEMIRA_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_OEIRAS_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_PEDRGO_GRANDE_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_PEDROSO_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_PENACOVA_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_MANTEIGAS_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_MARIALVA_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_MARINHAIS_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_FREIXO_DE_NUMO_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_FRONTEIRA_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_FUSETA_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_CERNACHE_DO_BONJARDIM_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_CESAR_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_CHAMUSCA_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_CANEAS_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_CANEDO_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_AVIS_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_AV_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_AZAMBUJA_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_AZEITO_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_DESERT_OF_BORBA" MainType="FEATURE" SubType="DESERT" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_DESERT_OF_BOTICAS" MainType="FEATURE" SubType="DESERT" CultureType="PORTUGUESE"/>
+		<Row Name="TXT_KEY_NAME_ML_DESERT_OF_BRANCA" MainType="FEATURE" SubType="DESERT" CultureType="PORTUGUESE"/>
+
+
+	</ML_Labels_Dynamic>
+</GameData>

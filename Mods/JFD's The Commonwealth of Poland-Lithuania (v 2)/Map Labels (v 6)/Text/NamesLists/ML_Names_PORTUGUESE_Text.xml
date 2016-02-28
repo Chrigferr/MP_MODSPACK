@@ -1,0 +1,749 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+*****************************************
+*			Map Labels					*
+*	by Hazel (hazel16 @ CivFanatics)	*
+*****************************************
+-->
+<GameData>
+	<Language_en_US>
+		<!-- Template:
+		<Row Tag="TXT_KEY_NAME_ML_KILIMANJARO">
+			<Text>Mount Kilimanjaro</Text>
+		</Row>
+		-->
+		<!-- 
+=========================== 
+Regions 
+=========================== 
+-->
+		<Row Tag="TXT_KEY_NAME_ML_ALENTEJO">
+			<Text>Alentejo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ALGARVE">
+			<Text>Algarve</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ALTO_DOURO">
+			<Text>Alto Douro</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_BEIRA">
+			<Text>Beira</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_BEIRA_ALTA">
+			<Text>Beira Alta</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LISBOA">
+			<Text>Lisboa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_VALE_DO_TEJO">
+			<Text>Vale do Tejo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_NORDESTE_TRANSMONTANO">
+			<Text>Nordeste Transmontano</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_TERRAS_DE_RIBACA">
+			<Text>Terras de Riba-Côa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_TRSOSMONTES">
+			<Text>Trás-os-Montes</Text>
+		</Row>
+
+
+		<!-- 
+=========================== 
+Oceans 
+=========================== 
+-->
+		<Row Tag="TXT_KEY_NAME_ML_ALMEIDA_SEA">
+			<Text>Almeida Sea</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ALMENDRA_SEA">
+			<Text>Almendra Sea</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ALMODVAR_SEA">
+			<Text>Almodôvar Sea</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ALMOFALA_SEA">
+			<Text>Almofala Sea</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ALPENDURADA_SEA">
+			<Text>Alpendurada Sea</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ALPIARA_SEA">
+			<Text>Alpiarça Sea</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ALTER_DO_CHO_SEA">
+			<Text>Alter do Chão Sea</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ALVAIZERE_SEA">
+			<Text>Alvaiázere Sea</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ALVALADE_SEA">
+			<Text>Alvalade Sea</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ALVITE_SEA">
+			<Text>Alvite Sea</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ALVITO_SEA">
+			<Text>Alvito Sea</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LOUREIRO_SEA">
+			<Text>Loureiro Sea</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LOURIAL_SEA">
+			<Text>Louriçal Sea</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LOURINH_SEA">
+			<Text>Lourinhã Sea</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_TORREDEITA_SEA">
+			<Text>Torredeita Sea</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_TORREIRA_SEA">
+			<Text>Torreira Sea</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SEA_OF_TORTOSENDO">
+			<Text>Sea of Tortosendo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SEA_OF_SO_JOO">
+			<Text>Sea of São João</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_NAME_ML_SEA_OF_PONTINHA">
+			<Text>Sea of Pontinha</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SEA_OF_PORCHES">
+			<Text>Sea of Porches</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SEA_OF_PORTEL">
+			<Text>Sea of Portel</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SEA_OF_MONCHIQUE">
+			<Text>Sea of Monchique</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SEA_OF_BEIRA">
+			<Text>Sea of Beira</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SEA_OF_BASTO">
+			<Text>Sea of Basto</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SEA_OF_MONFORTE">
+			<Text>Sea of Monforte</Text>
+		</Row>
+
+
+		<!--	
+=========================== 
+Islands 
+=========================== 
+-->
+		<Row Tag="TXT_KEY_NAME_ML_A_NOVA">
+			<Text>A Nova</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_AGOLADA">
+			<Text>Agolada</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ALMOUROL">
+			<Text>Almourol</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ILHA_DE_AMOROSO">
+			<Text>Ilha Amoroso</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ILHA_DE_BALEAL">
+			<Text>Ilha Baleal</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ILHA_DE_BUGIO">
+			<Text>Ilha Bugio</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ILHA_DE_CAMBALHO">
+			<Text>Ilha Cambalhão</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ILHA_DE_CARMONA">
+			<Text>Ilha Carmona</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ESTRADA">
+			<Text>Estrada</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ILHA_DE_FORA">
+			<Text>Ilha Fora</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ILHA_DE_GAGA">
+			<Text>Ilha Gaga</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ILHA_DE_GAIVOTA">
+			<Text>Ilha Gaivota</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ILHA_DE_GRAMATAL">
+			<Text>Ilha Gramatal</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ILHA_DE_IDANHA">
+			<Text>Ilha Idanha</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ILHA_DE_LOMBO">
+			<Text>Ilha Lombo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ILHA_DE_MARCEHAL">
+			<Text>Ilha Marcehal</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ILHA_DE_MARINHA_NOVA">
+			<Text>Ilha Marinha Nova</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ILHA_DE_MATADOUCE">
+			<Text>Ilha Matadouce</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ILHA_DE_MONTE_FARINHA">
+			<Text>Ilha Monte Farinha</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ILHA_DE_MORRACEIRA">
+			<Text>Ilha Morraceira</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ILHA_DE_MODOMEIO">
+			<Text>Ilha Mo-do-Meio</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ILHA_DE_OVOS">
+			<Text>Ilha Ovos</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ILHA_DE_PARRACHILL">
+			<Text>Ilha Parrachill</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ILHA_DE_PEDRA">
+			<Text>Ilha Pedra</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ILHA_DE_POO">
+			<Text>Ilha Poço</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ILHA_DE_RATO">
+			<Text>Ilha Rato</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ILHA_DE_SAMOS">
+			<Text>Ilha Samos</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ILHA_DE_TESTDA">
+			<Text>Ilha Testáda</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ILHA_DE_TRANQUERIA">
+			<Text>Ilha Tranqueria</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ILHA_DE_TRS_POSTES">
+			<Text>Ilha Três Postes</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ILHA_DE_TURBINA">
+			<Text>Ilha Turbina</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ILHA_DE_CORVO">
+			<Text>Ilha Corvo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ILHA_DE_FAIAL">
+			<Text>Ilha Faial</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ILHA_DE_FLORES">
+			<Text>Ilha Flores</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ILHA_DE_GRACIOSA">
+			<Text>Ilha Graciosa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ILHA_DE_PICO">
+			<Text>Ilha Pico</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ILHA_DE_SANTA_MARIA">
+			<Text>Ilha Santa Maria</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ILHA_DE_SO_JORGE">
+			<Text>Ilha São Jorge</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ILHA_DE_SO_MIGUEL">
+			<Text>Ilha São Miguel</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ILHA_DE_TERCEIRA">
+			<Text>Ilha Terceira</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ILHA_DE_FORMIGAS">
+			<Text>Ilha Formigas</Text>
+		</Row>
+
+
+
+		<!--		
+=========================== 
+Mountains 
+=========================== 
+-->
+		<Row Tag="TXT_KEY_NAME_ML_PIQUINHO">
+			<Text>Piquinho</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SERRA_DA_ESTRELA">
+			<Text>Serra da Estrela</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ALTO_DO_TALEFE">
+			<Text>Alto do Talefe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_PICO_RUIVO_DE_SANTANA">
+			<Text>Pico Ruivo de Santana</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_PICO_DO_ARIEIRO">
+			<Text>Pico do Arieiro</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SERRA_DO_GERS">
+			<Text>Serra do Gerês</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_PICO_DA_NEVOSA">
+			<Text>Pico da Nevosa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SERRA_DO_MARO">
+			<Text>Serra do Marão</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SERRA_DE_MONTEMURO">
+			<Text>Serra de Montemuro</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SERRA_AMARELA">
+			<Text>Serra Amarela</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SERRA_GRACIOSA">
+			<Text>Serra Graciosa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SERRA_DE_PAU">
+			<Text>Serra de Pau</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_CABEO_GORDO">
+			<Text>Cabeço Gordo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_PICO_DO_GARDUNHA">
+			<Text>Pico do Gardunha</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SERRA_FIA">
+			<Text>Serra Fóia</Text>
+		</Row>
+
+
+		<!--
+=========================== 
+Lakes 
+=========================== 
+-->
+		<Row Tag="TXT_KEY_NAME_ML_LAGOA_FUNDA">
+			<Text>Lagoa Funda</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAGOA_FUNDA_DAS_LAJES">
+			<Text>Lagoa Funda das Lajes</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAGOA_BRANCA">
+			<Text>Lagoa Branca</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAGOA_COMPRIDA">
+			<Text>Lagoa Comprida</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAGOA_SECA">
+			<Text>Lagoa Seca</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAGOA_DA_LOMBA">
+			<Text>Lagoa da Lomba</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAGOA_RASA">
+			<Text>Lagoa Rasa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAGOA_DA_PRAINHA">
+			<Text>Lagoa da Prainha</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAGOA_DO_CAPITO">
+			<Text>Lagoa do Capitão</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAGOA_DO_PAUL">
+			<Text>Lagoa do Paul</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAGOA_CORRE_GUA">
+			<Text>Lagoa Corre Água</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAGOA_DO_LANDROAL">
+			<Text>Lagoa do Landroal</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAGOA_DO_CAIADO">
+			<Text>Lagoa do Caiado</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAGOA_DOS_GROTES">
+			<Text>Lagoa dos Grotões</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAGOA_DA_ROSADA">
+			<Text>Lagoa da Rosada</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAGOA_NEGRA">
+			<Text>Lagoa Negra</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAGOA_DO_PEIXINHO">
+			<Text>Lagoa do Peixinho</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAGOA_DO_ILHU">
+			<Text>Lagoa do Ilhéu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAGOA_DO_PAL">
+			<Text>Lagoa do Paúl</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAGOA_DA_BARREIRA">
+			<Text>Lagoa da Barreira</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_CH_DAS_LAGOINHAS">
+			<Text>Chã das Lagoinhas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAGOA_DAS_PATAS">
+			<Text>Lagoa das Patas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAGOA_DO_GINJAL">
+			<Text>Lagoa do Ginjal</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAGOINHA">
+			<Text>Lagoinha</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAGOA_DO_PICO_DO_ALPANAQUE">
+			<Text>Lagoa do Pico do Alpanaque</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAGOA_DO_PICO_DO_AREEIRO">
+			<Text>Lagoa do Pico do Areeiro</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAGOA_DO_ESCAMPADOURO">
+			<Text>Lagoa do Escampadouro</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAGOA_DO_JUNCO">
+			<Text>Lagoa do Junco</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAGOA_DO_LABAAL">
+			<Text>Lagoa do Labaçal</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAGOA_DO_CARVO">
+			<Text>Lagoa do Carvão</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAGOA_DE_SO_BRS">
+			<Text>Lagoa de São Brás</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAGOA_DO_AREEIRO">
+			<Text>Lagoa do Areeiro</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAGOA_DOS_NENFARES">
+			<Text>Lagoa dos Nenúfares</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAGOA_DO_PEIXE">
+			<Text>Lagoa do Peixe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAGOA_DO_CHARCO_DA_MADEIRA">
+			<Text>Lagoa do Charco da Madeira</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAGOA_DAS_CANAS">
+			<Text>Lagoa das Canas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAGOA_DA_PRATA">
+			<Text>Lagoa da Prata</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAGOA_DAS_ACHADAS">
+			<Text>Lagoa das Achadas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAGOA_DO_CALDEIRO_GRANDE">
+			<Text>Lagoa do Caldeirão Grande</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAGOA_DO_CALDEIRO_NORTE">
+			<Text>Lagoa do Caldeirão Norte</Text>
+		</Row>
+
+
+		<!-- 		
+=========================== 
+Rivers 
+=========================== 
+-->
+		<Row Tag="TXT_KEY_NAME_ML_ARCOSS_RIVER">
+			<Text>Arcossó River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ARDILA_RIVER">
+			<Text>Ardila River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ARNIA_RIVER">
+			<Text>Arnóia River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_AROUCE_RIVER">
+			<Text>Arouce River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ARUNCA_RIVER">
+			<Text>Arunca River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ASNES_RIVER">
+			<Text>Asnes River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ASSUREIRA_RIVER">
+			<Text>Assureira River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_AVE_RIVER">
+			<Text>Ave River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_AVIA_RIVER">
+			<Text>Avia River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_AZIBO_RIVER">
+			<Text>Azibo River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_CARVALHOSA_RIVER">
+			<Text>Carvalhosa River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_CSTER_RIVER">
+			<Text>Cáster River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_CASTRO_LABOREIRO_RIVER">
+			<Text>Castro Laboreiro River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_CVADO_RIVER">
+			<Text>Cávado River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_DE_CAVALOS_RIVER">
+			<Text>de Cavalos River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_CAVALUM_RIVER">
+			<Text>Cavalum River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_CEIRA_RIVER">
+			<Text>Ceira River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_CERCAL_RIVER">
+			<Text>Cercal River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_CRTIMA_RIVER">
+			<Text>Cértima River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_CHANA_RIVER">
+			<Text>Chança River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_CA_RIVER">
+			<Text>Côa River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_COBRO_RIVER">
+			<Text>Cobrão River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_EGA_RIVER">
+			<Text>Ega River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_EIRIZ_RIVER">
+			<Text>Eiriz River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FEBROS_RIVER">
+			<Text>Febros River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FERREIRA_RIVER">
+			<Text>Ferreira River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LEVIRA_RIVER">
+			<Text>Levira River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LIMA_RIVER">
+			<Text>Lima River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LIS_RIVER">
+			<Text>Lis River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LIZANDRO_RIVER">
+			<Text>Lizandro River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LORDELO_RIVER">
+			<Text>Lordelo River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MAS_RIVER">
+			<Text>Maçãs River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MAIOR_RIVER">
+			<Text>Maior River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_PAIV_RIVER">
+			<Text>Paivô River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_PECULHOS_RIVER">
+			<Text>Peculhos River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_PAVIA_RIVER">
+			<Text>Pavia River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_PEIO_RIVER">
+			<Text>Peio River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SELHO_RIVER">
+			<Text>Selho River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SEVER_RIVER">
+			<Text>Sever River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SILVES_RIVER">
+			<Text>Silves River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_TINHELA_RIVER">
+			<Text>Tinhela River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_TINHESA_RIVER">
+			<Text>Tinhesa River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_TORNADA_RIVER">
+			<Text>Tornada River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_XARRAMA_RIVER">
+			<Text>Xarrama River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_XVORA_RIVER">
+			<Text>Xévora River</Text>
+		</Row>
+
+
+		<!-- 
+=========================== 
+Forests 
+=========================== 
+-->
+		<Row Tag="TXT_KEY_NAME_ML_CHOUPAL_FOREST">
+			<Text>Choupal Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MONSANTO_FOREST">
+			<Text>Monsanto Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOITA_FOREST">
+			<Text>Moita Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOITA_DOS_FERREIROS_FOREST">
+			<Text>Moita dos Ferreiros Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MONO_FOREST">
+			<Text>Monção Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MONCARAPACHO_FOREST">
+			<Text>Moncarapacho Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_PAMPILHOSA_DA_SERRA_FOREST">
+			<Text>Pampilhosa da Serra Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_PARANHOS_DA_BEIRA_FOREST">
+			<Text>Paranhos da Beira Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_PARCHAL_FOREST">
+			<Text>Parchal Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_PAREDE_FOREST">
+			<Text>Parede Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SO_FLIX_DA_MARINHA_FOREST">
+			<Text>São Félix da Marinha Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SO_JOO_DA_PESQUEIRA_FOREST">
+			<Text>São João da Pesqueira Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SO_JOO_DE_AREIAS_FOREST">
+			<Text>São João de Areias Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SO_JOO_DE_OVAR_FOREST">
+			<Text>São João de Ovar Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SERT_FOREST">
+			<Text>Sertã Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SERZEDELO_FOREST">
+			<Text>Serzedelo Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SERZEDO_FOREST">
+			<Text>Serzedo Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SESIMBRA_FOREST">
+			<Text>Sesimbra Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SEVER_DO_VOUGA_FOREST">
+			<Text>Sever do Vouga Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_TOCHA_FOREST">
+			<Text>Tocha Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FOREST_OF_TORRO">
+			<Text>Forest of Torrão</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FOREST_OF_VERRIDE">
+			<Text>Forest of Verride</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FOREST_OF_VIALONGA">
+			<Text>Forest of Vialonga</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FOREST_OF_VIANA_DO_ALENTEJO">
+			<Text>Forest of Viana do Alentejo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FOREST_OF_VIDAGO">
+			<Text>Forest of Vidago</Text>
+		</Row>
+
+
+		<!--
+=========================== 
+Deserts 
+=========================== 
+-->
+		<Row Tag="TXT_KEY_NAME_ML_ODECEIXE_DESERT">
+			<Text>Odeceixe Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ODEMIRA_DESERT">
+			<Text>Odemira Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_OEIRAS_DESERT">
+			<Text>Oeiras Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_PEDRGO_GRANDE_DESERT">
+			<Text>Pedrógão Grande Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_PEDROSO_DESERT">
+			<Text>Pedroso Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_PENACOVA_DESERT">
+			<Text>Penacova Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MANTEIGAS_DESERT">
+			<Text>Manteigas Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MARIALVA_DESERT">
+			<Text>Marialva Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MARINHAIS_DESERT">
+			<Text>Marinhais Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FREIXO_DE_NUMO_DESERT">
+			<Text>Freixo de Numão Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FRONTEIRA_DESERT">
+			<Text>Fronteira Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FUSETA_DESERT">
+			<Text>Fuseta Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_CERNACHE_DO_BONJARDIM_DESERT">
+			<Text>Cernache do Bonjardim Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_CESAR_DESERT">
+			<Text>Cesar Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_CHAMUSCA_DESERT">
+			<Text>Chamusca Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_CANEAS_DESERT">
+			<Text>Caneças Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_CANEDO_DESERT">
+			<Text>Canedo Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_AVIS_DESERT">
+			<Text>Avis Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_AV_DESERT">
+			<Text>Avô Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_AZAMBUJA_DESERT">
+			<Text>Azambuja Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_AZEITO_DESERT">
+			<Text>Azeitão Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_DESERT_OF_BORBA">
+			<Text>Desert of Borba</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_DESERT_OF_BOTICAS">
+			<Text>Desert of Boticas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_DESERT_OF_BRANCA">
+			<Text>Desert of Branca</Text>
+		</Row>
+
+
+	</Language_en_US>
+</GameData>

@@ -1,0 +1,992 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+*****************************************
+*Map Labels*
+*by Hazel (hazel16 @ CivFanatics)*
+*****************************************
+-->
+<GameData>
+	<Language_en_US>
+		
+		<!-- 
+=========================== 
+Regions 
+=========================== 
+-->
+		<Row Tag="TXT_KEY_NAME_ML_APALACHIN">
+			<Text>Apalachin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ASHAROKEN">
+			<Text>Asharoken</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_TAUGHANNOCK">
+			<Text>Taughannock</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_TONAWANDA">
+			<Text>Tonawanda</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_WALLOOMSAC">
+			<Text>Walloomsac</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_IXKUN">
+			<Text>Ixkun</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MAYAPAN">
+			<Text>Mayapan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_PAKAL">
+			<Text>Pakal</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_YAXHA">
+			<Text>Yaxha</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_NAME_ML_CHINCHAYSUYU">
+			<Text>Chinchaysuyu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ANTISUYU">
+			<Text>Antisuyu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_KUNTISUYU">
+			<Text>Kuntisuyu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_QOLLASUYU">
+			<Text>Qollasuyu </Text>
+		</Row>
+
+		<!-- 
+=========================== 
+Oceans 
+=========================== 
+-->
+		<Row Tag="TXT_KEY_NAME_ML_SEA_OF_QUCHA">
+			<Text>Sea of Qucha</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SEA_OF_KWICHANA">
+			<Text>Sea of Kwichana</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SEA_OF_AVONACO">
+			<Text>Sea of Avonaco</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SEA_OF_POJOAQUE">
+			<Text>Sea of Pojoaque</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SEA_OF_YUKEMA">
+			<Text>Sea of Yukema</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SEA_OF_MANTOTOHPA">
+			<Text>Sea of Mantotohpa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_WAQUINI_SEA">
+			<Text>Waquini Sea</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_TOKALA_SEA">
+			<Text>Tokala Sea</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_POWHATAN_SEA">
+			<Text>Powhatan Sea</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_TONAWANDA_SEA">
+			<Text>Tonawanda Sea</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_QUERECHO_SEA">
+			<Text>Querecho Sea</Text>
+		</Row>
+
+
+
+		<!--	
+=========================== 
+Islands 
+=========================== 
+-->
+		<Row Tag="TXT_KEY_NAME_ML_BALTRA_ISLAND">
+			<Text>Baltra Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_CHIMALMAT_ISLAND">
+			<Text>Chimalmat Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_CUM_HAU_ISLAND">
+			<Text>Cum Hau Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_HOBNIL_ISLAND">
+			<Text>Hobnil Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_IXTAB_ISLAND">
+			<Text>Ixtab  Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_XBALANQUE_ISLAND">
+			<Text>Xbalanque Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ITZAMNA_ISLAND">
+			<Text>Itzamna Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_PACARI_ISLAND">
+			<Text>Pacari Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_GUACRA_ISLAND">
+			<Text>Guacra Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_HUAMAN_ISLAND">
+			<Text>Huaman Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_QUIZO_ISLAND">
+			<Text>Quizo Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SAHUARAURA_ISLAND">
+			<Text>Sahuaraura Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_TAIPI_ISLAND">
+			<Text>Taipi Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_RIMAC_ISLAND">
+			<Text>Rimac Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SAYRITUPAC_ISLAND">
+			<Text>Sayri-Tupac Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ISLAND_OF_TANQUI">
+			<Text>Island of Tanqui</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ISLAND_OF_ROCA">
+			<Text>Island of Roca</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ISLAND_OF_SOTAURCO">
+			<Text>Island of Sotaurco</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ISLAND_OF_TARAQUE">
+			<Text>Island of Taraque</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ISLAND_OF_RONPA">
+			<Text>Island of Ronpa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ISLAND_OF_SULLCAYANAC">
+			<Text>Island of Sullca-Yanac</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ISLAND_OF_TISO">
+			<Text>Island of Tiso</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ISLAND_OF_RUMINAVI">
+			<Text>Island of Ruminavi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ISLAND_OF_SURANDAMAN">
+			<Text>Island of Surandaman</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ISLAND_OF_TITUATAUCHI">
+			<Text>Island of Titu-Atauchi</Text>
+		</Row>
+
+
+
+		<!--		
+=========================== 
+Mountains 
+=========================== 
+-->
+		<Row Tag="TXT_KEY_NAME_ML_MOUNT_BABOQUIVARI">
+			<Text>Mount Baboquivari</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOUNT_PHA_SAP">
+			<Text>Mount Páha Sapá </Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOUNT_MATO_TIPILA">
+			<Text>Mount Mato Tipila</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOUNT_TS_BITA">
+			<Text>Mount Tsé Bitʼaʼí</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOUNT_BAQUEDANO">
+			<Text>Mount Baquedano</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_CHICAUMA_MOUNTAIN">
+			<Text>Chicauma Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_DOMEYKO_MOUNTAIN">
+			<Text>Domeyko Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_NAHUELBUTA_MOUNTAIN">
+			<Text>Nahuelbuta Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ONCOL_MOUNTAIN">
+			<Text>Oncol Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_PIRULIL_MOUNTAIN">
+			<Text>Pirulil Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_PIUCHEN_MOUNTAINS">
+			<Text>Piuchen Mountains</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_PUYHUE_MOUNTAINS">
+			<Text>Puyhue Mountains</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_QUEULE_MOUNTAINS">
+			<Text>Queule Mountains</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_TALINAY_MOUNTAINS">
+			<Text>Talinay Mountains</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_VIZCACHAS_MOUNTAINS">
+			<Text>Vizcachas Mountains</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_APOLOBAMBA_MOUNTAINS">
+			<Text>Apolobamba Mountains</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_RENTEMA_MOUNTAINS">
+			<Text>Rentema Mountains</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_KALLAWAYA_MOUNTAINS">
+			<Text>Kallawaya Mountains</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_PARYAQAQA_MOUNTAIN">
+			<Text>Paryaqaqa Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_RAWRA_MOUNTAIN">
+			<Text>Rawra Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_URUPAMPA_MOUNTAIN">
+			<Text>Urupampa Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_WALLANKA_MOUNTAIN">
+			<Text>Wallanka Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_WAYTAPALLANA_MOUNTAIN">
+			<Text>Waytapallana Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_WILLKANUTA_MOUNTAIN">
+			<Text>Willkanuta Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_POTOSI_MOUNTAIN">
+			<Text>Potosi Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_AGUARAGE_MOUNTAIN">
+			<Text>Aguaragüe Mountain</Text>
+		</Row>
+
+
+
+		<!--
+=========================== 
+Lakes 
+=========================== 
+-->
+		<Row Tag="TXT_KEY_NAME_ML_LAKE_PARIME">
+			<Text>Lake Parime</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_HUECHULAFQUEN_LAKE">
+			<Text>Huechulafquen Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LCAR_LAKE">
+			<Text>Lácar Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LLANCANELO_LAKE">
+			<Text>Llancanelo Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MELINCU_LAKE">
+			<Text>Melincué Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_NAHUEL_HUAPI_LAKE">
+			<Text>Nahuel Huapi Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_PUEYRREDN_LAKE">
+			<Text>Pueyrredón Lake</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_NAME_ML_BUDI_LAKE">
+			<Text>Budi Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_CABURGUA_LAKE">
+			<Text>Caburgua Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_CALAFQUN_LAKE">
+			<Text>Calafquén Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_CAMI_LAKE">
+			<Text>Cami Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_CHUNGAR_LAKE">
+			<Text>Chungará Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_COLBN_LAKE">
+			<Text>Colbún Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_COLICO_LAKE">
+			<Text>Colico Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_CONGUILLO_LAKE">
+			<Text>Conguillío Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_COTACOTANI_LAKE">
+			<Text>Cotacotani Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_GALLETU_LAKE">
+			<Text>Galletué Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_PETREL_LAKE">
+			<Text>Petrel Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_PIRIHUEICO_LAKE">
+			<Text>Pirihueico Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_PORTEO_LAKE">
+			<Text>Porteño Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_PULLINQUE_LAKE">
+			<Text>Pullinque Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_PUYEHUE_LAKE">
+			<Text>Puyehue Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_RANCO_LAKE">
+			<Text>Ranco Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_RIIHUE_LAKE">
+			<Text>Riñihue Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_RUPANCO_LAKE">
+			<Text>Rupanco Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_TUYAJTO_LAKE">
+			<Text>Tuyajto Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_VIEDMA_LAKE">
+			<Text>Viedma Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_YELCHO_LAKE">
+			<Text>Yelcho Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_YULTON_LAKE">
+			<Text>Yulton Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAKE_OKEECHOBEE">
+			<Text>Lake Okeechobee</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_TIMUCUAN_LAKE">
+			<Text>Timucuan Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAKE_WAWASEE">
+			<Text>Lake Wawasee </Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_BEMIJIGAMAAG_LAKE">
+			<Text>Bemijigamaag Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAKEBAKEGAMA">
+			<Text>Lake Bakegama</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAKE_WINNIBIGOSHISH">
+			<Text>Lake Winnibigoshish</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAKE_MATTAMUSKEET">
+			<Text>Lake Mattamuskeet</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_KACHESS_LAKE">
+			<Text>Kachess Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LAKE_CHELAN">
+			<Text>Lake Chelan</Text>
+		</Row>
+
+		<!-- 		
+=========================== 
+Rivers 
+=========================== 
+-->
+		<Row Tag="TXT_KEY_NAME_ML_ORINOCO_RIVER">
+			<Text>Orinoco River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_TAPAJOS_RIVER">
+			<Text>Tapajos River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_XINGU_RIVER">
+			<Text>Xingu River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_TOCATINS_RIVER">
+			<Text>Tocatins River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_PARANA_RIVER">
+			<Text>Parana River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ACONCAGUA_RIVER">
+			<Text>Aconcagua River</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_NAME_ML_CAQUET_RIVER">
+			<Text>Caquetá River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MADEIRA_RIVER">
+			<Text>Madeira River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_PUTUMAYO_RIVER">
+			<Text>Putumayo River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_IGAN_RIVER">
+			<Text>Iganá River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_TOCANTINS_RIVER">
+			<Text>Tocantins River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_VAUPS_RIVER">
+			<Text>Vaupés River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_APURE_RIVER">
+			<Text>Apure River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ATRATO_RIVER">
+			<Text>Atrato River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_BAUD_RIVER">
+			<Text>Baudó River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_BOBO_RIVER">
+			<Text>Bío-Bío River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MALLECO_RIVER">
+			<Text>Malleco River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_CARON_RIVER">
+			<Text>Caroní River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_CATATUMBO_RIVER">
+			<Text>Catatumbo River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ZULIA_RIVER">
+			<Text>Zulia River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SARDINATA_RIVER">
+			<Text>Sardinata River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_CAUCA_RIVER">
+			<Text>Cauca River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_CAUTN_RIVER">
+			<Text>Cautín River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_CHUBUT_RIVER">
+			<Text>Chubut River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ELQUI_RIVER">
+			<Text>Elqui River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ESSEQUIBO_RIVER">
+			<Text>Essequibo River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ITATA_RIVER">
+			<Text>Itata River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_UBLE_RIVER">
+			<Text>Ñuble River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LOA_RIVER">
+			<Text>Loa River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MAIPO_RIVER">
+			<Text>Maipo River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MAPOCHO_RIVER">
+			<Text>Mapocho River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MAULE_RIVER">
+			<Text>Maule River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LONCOMILLA_RIVER">
+			<Text>Loncomilla River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ANCOA_RIVER">
+			<Text>Ancoa River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LONGAV_RIVER">
+			<Text>Longaví River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_PERQUILAUQUN_RIVER">
+			<Text>Perquilauquén River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_PURAPEL_RIVER">
+			<Text>Purapel River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_PUTAGN_RIVER">
+			<Text>Putagán River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MAULLN_RIVER">
+			<Text>Maullín River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MARONI_RIVER">
+			<Text>Maroni River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ARAUCA_RIVER">
+			<Text>Arauca River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_META_RIVER">
+			<Text>Meta River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_GUAVIARE_RIVER">
+			<Text>Guaviare River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_VICHADA_RIVER">
+			<Text>Vichada River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_PARNAIBA_RIVER">
+			<Text>Parnaiba River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_RAPEL_RIVER">
+			<Text>Rapel River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_REIHUE_RIVER">
+			<Text>Reñihue River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_RAHUE_RIVER">
+			<Text>Rahue River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_DAMAS_RIVER">
+			<Text>Damas River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_PARAN_RIVER">
+			<Text>Paraná River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_PALENA_RIVER">
+			<Text>Palena River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_PATA_RIVER">
+			<Text>Patía River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_PETROHU_RIVER">
+			<Text>Petrohué River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_PUELO_RIVER">
+			<Text>Puelo River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SIN_RIVER">
+			<Text>Sinú River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_TOLTN_RIVER">
+			<Text>Toltén River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_TRANCURA_RIVER">
+			<Text>Trancura River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ENCO_RIVER">
+			<Text>Enco River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LLANQUIHUE_RIVER">
+			<Text>Llanquihue River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_HUAHUM_RIVER">
+			<Text>Huahum River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_CHAPELCO_RIVER">
+			<Text>Chapelco River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LIQUIE_RIVER">
+			<Text>Liquiñe River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_CAUCAU_RIVER">
+			<Text>Cau-Cau River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_CRUCES_RIVER">
+			<Text>Cruces River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_CUTIPAY_RIVER">
+			<Text>Cutipay River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FUTA_RIVER">
+			<Text>Futa River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_YELCHO_RIVER">
+			<Text>Yelcho River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FUTALEUF_RIVER">
+			<Text>Futaleufú River</Text>
+		</Row>
+
+		<!-- 
+=========================== 
+Forests 
+=========================== 
+-->
+		<Row Tag="TXT_KEY_NAME_ML_FOREST_OF_NOHOCHACYUM">
+			<Text>Forest of Nohochacyum</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_NAME_ML_FOREST_OF_OXLAHUNTIKU">
+			<Text>Forest of Oxlahuntiku</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FOREST_OF_QAHOLOM">
+			<Text>Forest of Qaholom</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FOREST_OF_QUQUMATZ">
+			<Text>Forest of Q'uq'umatz</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FOREST_OF_TEPEU">
+			<Text>Forest of Tepeu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FOREST_OF_TOHIL">
+			<Text>Forest of Tohil</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FOREST_OF_VOTAN">
+			<Text>Forest of Votan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FOREST_OF_VUCUBCAQUIX">
+			<Text>Forest of Vucub-Caquix</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FOREST_OF_XAMAN_EK">
+			<Text>Forest of Xaman Ek</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FOREST_OF_XBALANQUE">
+			<Text>Forest of Xbalanque</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FOREST_OF_XMUCANE">
+			<Text>Forest of Xmucane</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FOREST_OF_YALUK">
+			<Text>Forest of Yaluk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FOREST_OF_YUM_KAAX">
+			<Text>Forest of Yum Kaax</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FOREST_OF_ZAC_CIMI">
+			<Text>Forest of Zac Cimi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FOREST_OF_ZIPACNA">
+			<Text>Forest of Zipacna</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FOREST_OF_ANQUIMARCA">
+			<Text>Forest of Anquimarca</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FOREST_OF_ANTAACCLA">
+			<Text>Forest of Anta-Accla</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FOREST_OF_APO">
+			<Text>Forest of Apo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FOREST_OF_APU">
+			<Text>Forest of Apu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FOREST_OF_ATAHUALPA">
+			<Text>Forest of Atahualpa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FOREST_OF_ATOC">
+			<Text>Forest of Atoc</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FOREST_OF_ATOCSOPA">
+			<Text>Forest of Atoc-Sopa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FOREST_OF_ATOCSUQUI">
+			<Text>Forest of Atoc-Suqui</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FOREST_OF_AUQUIHUAMAN">
+			<Text>Forest of Auqui-Huaman</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FOREST_OF_CANCHARI">
+			<Text>Forest of Canchari</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FOREST_OF_CAPACTUPAC">
+			<Text>Forest of Capac-Tupac</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FOREST_OF_CARIAPATA">
+			<Text>Forest of Cariapata</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FOREST_OF_CAYOTOPA">
+			<Text>Forest of Cayo-Topa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FOREST_OF_CHALCUCHIMA">
+			<Text>Forest of Chalcuchima</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FOREST_OF_CHALLCO">
+			<Text>Forest of Challco</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FOREST_OF_CHIAQUITINTA">
+			<Text>Forest of Chiaquitinta</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FOREST_OF_CHIGUANTOPA">
+			<Text>Forest of Chiguan-Topa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FOREST_OF_CHILCHE">
+			<Text>Forest of Chilche</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FOREST_OF_CHUNCHOS">
+			<Text>Forest of Chunchos</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FOREST_OF_COLLATOPA">
+			<Text>Forest of Colla-Topa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_FOREST_OF_CONDORCANQUI">
+			<Text>Forest of Condorcanqui</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_COYLLAS_FOREST">
+			<Text>Coyllas Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_CURIPAUCAR_FOREST">
+			<Text>Curi-Paucar Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_CURIATAO_FOREST">
+			<Text>Curiatao Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_CUSI_FOREST">
+			<Text>Cusi Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_CUSICHACA_FOREST">
+			<Text>Cusichaca Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_GUACRA_FOREST">
+			<Text>Guacra Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_GUAMANPOMA_FOREST">
+			<Text>Guaman-Poma Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_GUARITOPA_FOREST">
+			<Text>Guaritopa Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_HUACHURI_FOREST">
+			<Text>Huachuri Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_HUALPA_FOREST">
+			<Text>Hualpa Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_HUAMAN_FOREST">
+			<Text>Huaman Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_HUARITICO_FOREST">
+			<Text>Huaritico Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_HUASCAR_FOREST">
+			<Text>Huascar Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_HUAYNACAPAC_FOREST">
+			<Text>Huayna-Capac Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_HUAYPALCON_FOREST">
+			<Text>Huaypalcon Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LOOTAH_FOREST">
+			<Text>Lootah Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ASAKIWAKI_FOREST">
+			<Text>Asa-Ki-Waki Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_NIGAN_FOREST">
+			<Text>Nigan Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_PAYTON_FOREST">
+			<Text>Payton Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SOWINGWA_FOREST">
+			<Text>Sowi'ngwa Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_KLIKITAT_FOREST">
+			<Text>Klikitat Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_HEKLI_FOREST">
+			<Text>Hekli Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_WAMPANOAG_FOREST">
+			<Text>Wampanoag Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MONA_FOREST">
+			<Text>Mona Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_TEMOAK_FOREST">
+			<Text>Te-Moak Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_VAIVEAHTOISH_FOREST">
+			<Text>Vaiveahtoish Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_TUNICA_FOREST">
+			<Text>Tunica Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_HAWIOVI_FOREST">
+			<Text>Hawiovi Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_POKAGON_FOREST">
+			<Text>Pokagon Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SIKYAHONAW_FOREST">
+			<Text>Sikyahonaw Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_HUNKPAPA_FOREST">
+			<Text>Hunkpapa Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ADAHY_FOREST">
+			<Text>Adahy Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_KENEENAW_FOREST">
+			<Text>Keneenaw Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LONATO_FOREST">
+			<Text>Lonato Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SISSETON_FOREST">
+			<Text>Sisseton Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MAKYA_FOREST">
+			<Text>Makya Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_NUCI_FOREST">
+			<Text>Nu-Ci Forest</Text>
+		</Row>
+
+		<!--
+=========================== 
+Deserts 
+=========================== 
+-->
+		<Row Tag="TXT_KEY_NAME_ML_DESERT_OF_PAPINA">
+			<Text>Desert of Papina</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_DESERT_OF_TESQUE">
+			<Text>Desert of Tesque</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_NAME_ML_DESERT_OF_ISI">
+			<Text>Desert of Isi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_DESERT_OF_MODOC">
+			<Text>Desert of Modoc</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_DESERT_OF_TOPANGA">
+			<Text>Desert of Topanga</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_DESERT_OF_MONO">
+			<Text>Desert of Mono</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_DESERT_OF_MAHAL">
+			<Text>Desert of Mahal</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_DESERT_OF_PASSAMAQUODDY">
+			<Text>Desert of Passamaquoddy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_DESERT_OF_CHICKOA">
+			<Text>Desert of Chickoa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_DESERT_OF_KIOWA">
+			<Text>Desert of Kiowa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_DESERT_OF_ANKTI">
+			<Text>Desert of Ankti</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_DESERT_OF_UMPQUA">
+			<Text>Desert of Umpqua</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SOKANON_DESERT">
+			<Text>Sokanon Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MOLALA_DESERT">
+			<Text>Molala Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_POLOMA_DESERT">
+			<Text>Poloma Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_PAIUTE_DESERT">
+			<Text>Paiute Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_YOKI_DESERT">
+			<Text>Yoki Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MISSION_DESERT">
+			<Text>Mission Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ZLHNA_DESERT">
+			<Text>Zlhna Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SHAWNEE_DESERT">
+			<Text>Shawnee Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ODAHINGUM_DESERT">
+			<Text>Odahingum Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_KWAKIUTL_DESERT">
+			<Text>Kwakiutl Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_SINOPA_DESERT">
+			<Text>Sinopa Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_KAYA_DESERT">
+			<Text>Kaya Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ACOMA_DESERT">
+			<Text>Acoma Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_CHUMANI_DESERT">
+			<Text>Chumani Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_PALA_DESERT">
+			<Text>Pala Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_CHITSA_DESERT">
+			<Text>Chitsa Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_COVELO_DESERT">
+			<Text>Covelo Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_TAIMA_DESERT">
+			<Text>Taima Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_PENACOOK_DESERT">
+			<Text>Penacook Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_LEQUOIA_DESERT">
+			<Text>Lequoia Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_CUYAPAIPE_DESERT">
+			<Text>Cuyapaipe Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MEOQUANEE_DESERT">
+			<Text>Meoquanee Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_BENA_DESERT">
+			<Text>Bena Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_OGLALA_DESERT">
+			<Text>Oglala Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_CHIANNA_DESERT">
+			<Text>Chianna Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ZIA_DESERT">
+			<Text>Zia Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MARAS_DESERT">
+			<Text>Maras Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MARCAVILCA_DESERT">
+			<Text>Marcavilca Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_MAYTA_DESERT">
+			<Text>Mayta Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_NINANCUYUCHI_DESERT">
+			<Text>Ninan-Cuyuchi Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_NINANCORO_DESERT">
+			<Text>Ninancoro Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_ORCOVARANCA_DESERT">
+			<Text>Orco-Varanca Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_OZCOC_DESERT">
+			<Text>Ozcoc Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_PACHACUTI_DESERT">
+			<Text>Pachacuti Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_PARINANGO_DESERT">
+			<Text>Parinango Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_PASCAC_DESERT">
+			<Text>Pascac Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_PAUCAR_DESERT">
+			<Text>Paucar Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_PAULLU_DESERT">
+			<Text>Paullu Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_POMACAPI_DESERT">
+			<Text>Pomacapi Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_POMAGUALA_DESERT">
+			<Text>Pomaguala Desert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ML_PUMA_DESERT">
+			<Text>Puma Desert</Text>
+		</Row>
+
+	</Language_en_US>
+</GameData>

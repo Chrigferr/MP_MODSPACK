@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+*****************************************
+*			Map Labels					*
+*	by Hazel (hazel16 @ CivFanatics)	*
+*****************************************
+-->
+<GameData>
+	<ML_Labels_Dynamic>
+		<!-- Template:
+			<Row Name="TXT_KEY_NAME_ML_KILIMANJARO" CultureType="AFRICA" MainType="FEATURE" SubType="MOUNTAIN" />
+		-->
+
+		<!-- 
+=========================== 
+Regions 
+=========================== 
+-->
+		<Row Name="TXT_KEY_NAME_ML_ALANBAR" MainType="REGION" SubType="REGION" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_BBIL" MainType="REGION" SubType="REGION" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_ALBASRAH" MainType="REGION" SubType="REGION" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_DH_QR" MainType="REGION" SubType="REGION" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_DIYL" MainType="REGION" SubType="REGION" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_DOHUK" MainType="REGION" SubType="REGION" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_ERBL" MainType="REGION" SubType="REGION" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_HALABJA" MainType="REGION" SubType="REGION" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_KARBAL" MainType="REGION" SubType="REGION" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_KIRKUK" MainType="REGION" SubType="REGION" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_MAYSN" MainType="REGION" SubType="REGION" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_ALMUTHANN" MainType="REGION" SubType="REGION" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_ANNAJAF" MainType="REGION" SubType="REGION" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_NNAW" MainType="REGION" SubType="REGION" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_ALQDISIYYAH" MainType="REGION" SubType="REGION" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_SALH_ADDN" MainType="REGION" SubType="REGION" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_ASSULAYMNIYYAH" MainType="REGION" SubType="REGION" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_WSIT" MainType="REGION" SubType="REGION" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_HAIL" MainType="REGION" SubType="REGION" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_QASSIM" MainType="REGION" SubType="REGION" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_RIYADH" MainType="REGION" SubType="REGION" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_TABUK" MainType="REGION" SubType="REGION" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_MADINAH" MainType="REGION" SubType="REGION" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_MAKKAH" MainType="REGION" SubType="REGION" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_BAHAH" MainType="REGION" SubType="REGION" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_JAWF" MainType="REGION" SubType="REGION" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_JIZAN" MainType="REGION" SubType="REGION" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_NAJRAN" MainType="REGION" SubType="REGION" CultureType="ARABIAN"/>
+
+
+		<!-- 
+=========================== 
+Oceans 
+=========================== 
+-->
+		<Row Name="TXT_KEY_NAME_ML_ARABIAN_SEA" MainType="REGION" SubType="OCEAN" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_RED_SEA" MainType="REGION" SubType="OCEAN" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_PERSIAN_GULF" MainType="REGION" SubType="OCEAN" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_SEA_OF_THAMMI" MainType="REGION" SubType="OCEAN" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_SEA_OF_GHAFJI" MainType="REGION" SubType="OCEAN" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_SEA_OF_TIFUL" MainType="REGION" SubType="OCEAN" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_SEA_OF_IZWAN" MainType="REGION" SubType="OCEAN" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_SEA_OF_HAIMI" MainType="REGION" SubType="OCEAN" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_JADDAH_SEA" MainType="REGION" SubType="OCEAN" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_KHABI_SEA" MainType="REGION" SubType="OCEAN" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_ABAH_SEA" MainType="REGION" SubType="OCEAN" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_SAYLI_SEA" MainType="REGION" SubType="OCEAN" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_MUDHA_SEA" MainType="REGION" SubType="OCEAN" CultureType="ARABIAN"/>
+
+
+
+		<!--	
+=========================== 
+Islands 
+=========================== 
+-->
+
+		<Row Name="TXT_KEY_NAME_ML_AL_MARJAN_ISLAND" MainType="REGION" SubType="ISLAND" CultureType="ARABIAN"/>
+
+		<Row Name="TXT_KEY_NAME_ML_DAS_ISLAND" MainType="REGION" SubType="ISLAND" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_HALAT_BAHRANI_ISLAND" MainType="REGION" SubType="ISLAND" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_JAZIRAT_BADIYAH_ISLAND" MainType="REGION" SubType="ISLAND" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_NUJOOM_ISLAND" MainType="REGION" SubType="ISLAND" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_SAADIYAT_ISLAND" MainType="REGION" SubType="ISLAND" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_ABU_NUAYR_ISLAND" MainType="REGION" SubType="ISLAND" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_ABU_AL_ABYAD_ISLAND" MainType="REGION" SubType="ISLAND" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_AL_FUTAISI" MainType="REGION" SubType="ISLAND" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_AL_LULU_ISLAND" MainType="REGION" SubType="ISLAND" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_AL_REEM_ISLAND" MainType="REGION" SubType="ISLAND" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_ALARYAM_ISLAND" MainType="REGION" SubType="ISLAND" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_DALMA_ISLAND" MainType="REGION" SubType="ISLAND" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_MARAWAH_ISLAND" MainType="REGION" SubType="ISLAND" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_BANI_YAS" MainType="REGION" SubType="ISLAND" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_YAS_ISLAND" MainType="REGION" SubType="ISLAND" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_MASIRAH_ISLAND" MainType="REGION" SubType="ISLAND" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_JEZIRA_HAFT_TALAR_ISLAND" MainType="REGION" SubType="ISLAND" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_SOQOTRA_ISLAND" MainType="REGION" SubType="ISLAND" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_DAHLAK_KEBIR_ISLAND" MainType="REGION" SubType="ISLAND" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_FARASAN_ISLAND" MainType="REGION" SubType="ISLAND" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_HANISH_ISLANDS" MainType="REGION" SubType="ISLAND" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_HARMIL" MainType="REGION" SubType="ISLAND" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_JABAL_ALTAIR_ISLAND" MainType="REGION" SubType="ISLAND" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_KAA_DBALI_ISLAND" MainType="REGION" SubType="ISLAND" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_KAMARAN_ISLAND" MainType="REGION" SubType="ISLAND" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_MUKAWWA_ISLAND" MainType="REGION" SubType="ISLAND" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_NAHALEG_ISLAND" MainType="REGION" SubType="ISLAND" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_PERIM_ISLAND" MainType="REGION" SubType="ISLAND" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_SAJID_ISLAND" MainType="REGION" SubType="ISLAND" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_S_CONT" MainType="REGION" SubType="ISLAND" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_SANAFIR_ISLAND" MainType="REGION" SubType="ISLAND" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_SASO_ISLAND" MainType="REGION" SubType="ISLAND" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_SHADWAN_ISLAND" MainType="REGION" SubType="ISLAND" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_TIRAN_ISLAND" MainType="REGION" SubType="ISLAND" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_ZUQAR_ISLAND" MainType="REGION" SubType="ISLAND" CultureType="ARABIAN"/>
+
+		<!--		
+=========================== 
+Mountains 
+=========================== 
+-->
+		<Row Name="TXT_KEY_NAME_ML_MOUNT_PONTUS" MainType="FEATURE" SubType="MOUNTAIN" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_MOUNT_TAURUS" MainType="FEATURE" SubType="MOUNTAIN" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_MOUNT_ARARAT" MainType="FEATURE" SubType="MOUNTAIN" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_MOUNT_ELBURZ" MainType="FEATURE" SubType="MOUNTAIN" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_MOUNT_ZAGROS" MainType="FEATURE" SubType="MOUNTAIN" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_MOUNT_JEBEL_AL_AKHDAR" MainType="FEATURE" SubType="MOUNTAIN" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_ASIR" MainType="FEATURE" SubType="MOUNTAIN" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_HEJAZ_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_ZAGROS_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_PAMIR_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_TIEN_SHAN_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="ARABIAN"/>
+
+		<Row Name="TXT_KEY_NAME_ML_ABU_KUBAIS_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_ALMANIFA_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_JABAL_ATHERB_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_JABAL_ALDUKHAN_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_JABAL_ALLAWZ_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_NAJD_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_JABAL_ALNOUR_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_JABAL_SAWDA_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_JABAL_THAWR_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_UHUD_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_ALFAF_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_BRADOST_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_CHEEKHA_DAR_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_GIRE_KUMAR_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_JABAL_KUMAR_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_KUHE_HAJI_EBRAHIM_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_MAR_DANIEL_MOUNTAIN" MainType="FEATURE" SubType="MOUNTAIN" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_HAMRIN_MOUNTAINS" MainType="FEATURE" SubType="MOUNTAIN" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_QANDIL_MOUNTAINS" MainType="FEATURE" SubType="MOUNTAIN" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_SINJAR_MOUNTAINS" MainType="FEATURE" SubType="MOUNTAIN" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_ZAGROS_MOUNTAINS" MainType="FEATURE" SubType="MOUNTAIN" CultureType="ARABIAN"/>
+
+
+		<!--
+=========================== 
+Lakes 
+=========================== 
+-->
+		<Row Name="TXT_KEY_NAME_ML_ALMA_GOL_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="ARABIAN"/>
+
+		<Row Name="TXT_KEY_NAME_ML_BAKHTEGAN_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_QOURI_GOL_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_HAMUN_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_HAMUNE_HELMAND_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_MAHARLOO_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_NAMAK_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_OVAN_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_LAKE_PARISHAN" MainType="FEATURE" SubType="LAKE" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_SHORABIL_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_LAKE_URMIA" MainType="FEATURE" SubType="LAKE" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_ZARIVAR_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_SABKHAT_MATTI_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_LAKE_HABBANIYAH" MainType="FEATURE" SubType="LAKE" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_LAKE_HAMMAR" MainType="FEATURE" SubType="LAKE" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_LAKE_HAMRIN" MainType="FEATURE" SubType="LAKE" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_LAKE_QADISIYAH" MainType="FEATURE" SubType="LAKE" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_LAKE_MILH" MainType="FEATURE" SubType="LAKE" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_LAKE_THARTHAR" MainType="FEATURE" SubType="LAKE" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_UMM_AL_BINNI_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_LAKE_ASSAD" MainType="FEATURE" SubType="LAKE" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_LAKE_HOMS" MainType="FEATURE" SubType="LAKE" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_LAKE_RAM" MainType="FEATURE" SubType="LAKE" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_SABKHAT_ALJABBUL_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_ZARZAR_LAKE" MainType="FEATURE" SubType="LAKE" CultureType="ARABIAN"/>
+
+		<!-- 		
+=========================== 
+Rivers 
+=========================== 
+-->
+
+		<Row Name="TXT_KEY_NAME_ML_HAFFAR_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_KARUN_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_MARUN_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_DEZ_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_BAKHTIARI_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_KOOHRANG" MainType="FEATURE" SubType="RIVER" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_TIGRIS_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_KARKHEH_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_SEIMAREH_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_CHANKULA_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_SIRWAN_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_DIYALA_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_ALWAND_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_ZAB_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_BAHMANSHIR_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_JARAHI_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_ZOHREH_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_HELLEH" MainType="FEATURE" SubType="RIVER" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_MAND_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_SHUR_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_MEHRAN_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_KUL_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_GOWDEH_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_ROSTAM_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_RIVER_WADI_AS_SURR" MainType="FEATURE" SubType="RIVER" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_RIVER_WADI_ALHAMD" MainType="FEATURE" SubType="RIVER" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_RIVER_WADI_ALJIZL" MainType="FEATURE" SubType="RIVER" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_RIVER_WADI_ALAQIQ" MainType="FEATURE" SubType="RIVER" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_RIVER_WADI_RABIGH" MainType="FEATURE" SubType="RIVER" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_RIVER_WADI_FIMAH" MainType="FEATURE" SubType="RIVER" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_RIVER_WADI_SADYAH" MainType="FEATURE" SubType="RIVER" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_RIVER_WADI_ALLTH" MainType="FEATURE" SubType="RIVER" CultureType="ARABIAN"/>
+
+		<Row Name="TXT_KEY_NAME_ML_EUPHRATES_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_KHABUR_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_KHASA_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_KHAWR_ABD_ALLAH_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_SHATT_ALARAB_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_TORNADOTUS_RIVER" MainType="FEATURE" SubType="RIVER" CultureType="ARABIAN"/>
+
+		<!-- 
+=========================== 
+Forests 
+=========================== 
+-->
+		<Row Name="TXT_KEY_NAME_ML_FOREST_OF_SAHA" MainType="FEATURE" SubType="FOREST" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_FOREST_OF_MASAF" MainType="FEATURE" SubType="FOREST" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_FOREST_OF_SABU" MainType="FEATURE" SubType="FOREST" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_FOREST_OF_SHABU" MainType="FEATURE" SubType="FOREST" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_FOREST_OF_KHABI" MainType="FEATURE" SubType="FOREST" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_FOREST_OF_SANAA" MainType="FEATURE" SubType="FOREST" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_FOREST_OF_DAHA" MainType="FEATURE" SubType="FOREST" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_FOREST_OF_RANA" MainType="FEATURE" SubType="FOREST" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_FOREST_OF_JAIRA" MainType="FEATURE" SubType="FOREST" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_MADHA_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_SURA_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_SADAFT_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_RAHA_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_MASAF_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_SALI_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_DHUDAYD_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_GHASHBI_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_KHABI_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_MAHA_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_SAFIR_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_BATAF_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_MAMI_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_FAHA_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_FUJI_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_ANBUN_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_DUBI_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_MUKA_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_MAKKA_FOREST" MainType="FEATURE" SubType="FOREST" CultureType="ARABIAN"/>
+
+
+		<!--
+=========================== 
+Deserts 
+=========================== 
+-->
+		<Row Name="TXT_KEY_NAME_ML_ADDAHNA_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_AN_NAFUD_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_ARABIAN_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="ARABIAN"/>
+
+		<Row Name="TXT_KEY_NAME_ML_RUB_AL_KHALI_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_DASHTE_KAVIR_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_DASHTE_LUT_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_KAVIR_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_MARANJAB_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_PETREGAN_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_KAVIRELUT_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_QAIWI_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_UDHAYN_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_TANAA_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_AMRAH_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_RUWI_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_KHARI_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_RAIMI_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_HAYTAN_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_RIYATAF_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_MUKA_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_HABI_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_ADDAH_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_MAHA_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_SALA_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_DHAMA_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_SURA_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_DAHA_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_BAHA_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="ARABIAN"/>
+		<Row Name="TXT_KEY_NAME_ML_HAYLA_DESERT" MainType="FEATURE" SubType="DESERT" CultureType="ARABIAN"/>
+
+	</ML_Labels_Dynamic>
+</GameData>

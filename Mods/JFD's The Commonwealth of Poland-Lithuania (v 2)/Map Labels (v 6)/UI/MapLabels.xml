@@ -1,0 +1,848 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+*****************************************
+*			Map Labels					*
+*	by Hazel (hazel16 @ CivFanatics)	*
+*****************************************
+-->
+
+
+<Context>
+	<!-- ***********************************************-->
+	<!--					Map Labels					-->
+	<!-- ***********************************************-->
+	<Container ID="aaLabelContainer" Offset="0,40"/>
+
+	<Instance Name="MapLabel">
+		<WorldAnchor ID="Anchor">
+			<BoxButton ID="MapLabelButton" Anchor="C,C" Color="0,0,0,0" ConsumeMouse="0" ConsumeMouseOver="0">
+				<Box ID="MapLabelBoxBorder" Anchor="C,C" Color="255,255,255,255">
+					<Box ID="MapLabelBox" Anchor="C,C" Color="255,255,255,255">
+						<ShowOnMouseOver>
+							<AlphaAnim ID="LabelAnim" Anchor="C,C" Size="120,24" Pause="0" Cycle="Bounce" Speed="2" AlphaStart="1" AlphaEnd="0.5">
+								<Box ID="MapLabelMouseOverBox" Anchor="C,C" Color="0,0,0,1" />
+							</AlphaAnim>
+						</ShowOnMouseOver>
+						<Label ID="MapLabelNameStroke" Anchor="C,C" Font="TwCenMT20" FontStyle="Stroke" ColorSet="Beige_Black_Alpha" />
+						<Label ID="MapLabelNameShadow" Anchor="C,C" Font="TwCenMT20" FontStyle="Shadow" ColorSet="Beige_Black_Alpha"  />
+						<Label ID="MapLabelNameSoftShadow" Anchor="C,C" Font="TwCenMT20" FontStyle="SoftShadow" ColorSet="Beige_Black_Alpha"  />
+						<Label ID="MapLabelNameBase" Anchor="C,C" Font="TwCenMT20"  ColorSet="Beige_Black_Alpha" />
+					</Box>
+				</Box>
+			</BoxButton>
+		</WorldAnchor>
+	</Instance>
+
+	<Instance Name="DebugBox">
+		<WorldAnchor ID="bDebugPrintAnchor">
+			<Box ID="bDebugPrintBox" Anchor="C,C" Color="255,255,255,255">
+				<Label ID="bDebugPrintLabel" Anchor="C,C" Font="TwCenMT24" FontStyle="Stroke" ColorSet="Beige_Black_Alpha" String="Example Map Label" />
+			</Box>
+		</WorldAnchor>
+	</Instance>
+	<!-- ***********************************************-->
+	<!--				Map Labels Popup				-->
+	<!-- ***********************************************-->
+
+	<!-- Instances -->
+	<Instance Name="LabelDisplayInstance">
+		<Stack ID="LabelDisplayInstanceStack" Offset="20,8" StackGrowth="Bottom" Padding="3">
+			<Label ID="DisplayLabel"  Offset="0,5" Anchor="L,T" Font="TwCenMT18" FontStyle="Shadow" ColorSet="Beige_Black_Alpha" String="DisplayLabelString" />
+			<PullDown ID="DisplayPullDown" Style="GenericPullDown" ScrollThreshold="170" Size="190,27" SpaceForScroll="0" Anchor="L,T" Offset="0,3">
+				<StackData ID="DisplayPullDownStack"/>
+				<InstanceData Name="DisplayPullDownEntry" >
+					<Button ID="Button" Size="200,24" Anchor="C,T">
+						<ShowOnMouseOver>
+							<AlphaAnim Anchor="C,C" Size="120,24" Pause="0" Cycle="Bounce" Speed="1" AlphaStart="1" AlphaEnd="0">
+								<Grid Size="140,26" Style="Grid9FrameTurns" />
+							</AlphaAnim>
+						</ShowOnMouseOver>
+						<Label ID="DisplayPullDownEntryTitle" Anchor="L,C" Offset="0,0" Font="TwCenMT16" ColorSet="Beige_Black_Alpha" />
+					</Button>
+				</InstanceData>
+			</PullDown>
+		</Stack>
+	</Instance>
+
+	<Instance Name="LabelListInstance">
+		<Box Anchor="L,C" Color="255.255.255.0" Offset="0,0" Size="240,24" ID="Root">
+			<Button  ID="LabelListItemButton" Size="210,24" Anchor="L,C" ToolTip="TXT_KEY_ML_GOTO_LABEL">
+				<ShowOnMouseOver>
+					<AlphaAnim Anchor="L,C" Offset="-2,0" Size="210,24" Pause="0" Cycle="Bounce" Speed="1" AlphaStart="1" AlphaEnd=".25">
+						<Image Anchor="L,C" Offset="5,0" Texture="CivilopediaSideButtons272x22HL.dds" Size="210,24"/>
+					</AlphaAnim>
+				</ShowOnMouseOver>
+				<Label Anchor="L,C" ID="LabelListItemLabel" Offset="5,0" String="Label Name" ColorSet="Beige_Black_Alpha" Font="TwCenMT16" MouseOverStyle="SoftShadow" TruncateWidth="148" />
+			</Button>
+			<TextButton ID="LabelListEditButton" String="[ICON_ML_EDIT]" Anchor="R,C" Offset="69,0" ToolTip="TXT_KEY_ML_EDIT">
+				<ShowOnMouseOver>
+					<AlphaAnim Anchor="C,C" Size="30,30" Pause="0" Cycle="Bounce" Speed="1" AlphaStart="1" AlphaEnd="0">
+						<Image Anchor="C,C"  Offset="0,0" Texture="highlight32_yellow.dds" Size="32,32" />
+					</AlphaAnim>
+				</ShowOnMouseOver>
+			</TextButton>
+			<TextButton ID="LabelListDeleteButton" String="[ICON_ML_MINUS]" Anchor="R,C" Offset="42,0" ToolTip="TXT_KEY_ML_DELETE">
+				<ShowOnMouseOver>
+					<AlphaAnim Anchor="C,C" Size="30,30" Pause="0" Cycle="Bounce" Speed="1" AlphaStart="1" AlphaEnd="0">
+						<Image Anchor="C,C"  Offset="0,0" Texture="highlight32_yellow.dds" Size="32,32" />
+					</AlphaAnim>
+				</ShowOnMouseOver>
+			</TextButton>
+		</Box>
+	</Instance>
+
+	<Instance Name="LabelColorsInstance">
+		<Stack ID="LabelColorsItemStack" Offset="0,0" StackGrowth="Bottom" Padding="0">
+			<Box Anchor="C,T" Offset="4,0" Size="233,23" Color="0,56,51,255">
+				<Button Anchor="C,T" Size="230,22" Offset="0,0" Texture="CivilopediaSideButtons22.dds" ID="TypeColorBoxButton">
+					<ShowOnMouseOver>
+						<AlphaAnim Anchor="C,C" Offset="0,0" Size="230,22" Pause="0" Cycle="Bounce" Speed="1" AlphaStart="1" AlphaEnd=".25">
+							<Image Anchor="C,C" Offset="0,0" Texture="CivilopediaSideButtons272x22HL.dds" Size="230,22"/>
+						</AlphaAnim>
+					</ShowOnMouseOver>
+					<Image ID="ButtonSide" Anchor="L,C" Offset="-10,-1" TextureOffset="0.0" AnchorSide="O.O" Texture="buttonsides.dds" Size="8,16"/>
+					<Label ID="TypeColorBoxLabel"  Anchor="L,C" Offset="12,-2" Font="TwCenMT14" ColorSet="Beige_Black_Alpha" FontStyle="Shadow"/>
+				</Button>
+			</Box>
+			<Stack ID="TypeColorControlsBox" StackGrowth="Bottom" Padding="5" Offset="15,0">
+				<Stack StackGrowth="Right" Padding="5">
+					<Box Color="0,0,0,0" Size="70,27" Anchor="L,C">
+						<Label ID="AlphaLabel" Anchor="L,C" Offset="0,0" Font="TwCenMT16" ColorSet="Beige_Black_Alpha" String="TXT_KEY_ML_OPTIONS_ALPHA" />
+					</Box>
+					<Slider ID="AlphaSlider" Style="Slider" Length="125" Anchor="R,C" Offset="0,0" WheelSteps="25"/>
+				</Stack>
+				<Stack StackGrowth="Right" Padding="5">
+					<Box Color="0,0,0,0" Size="70,27" Anchor="L,C">
+						<Label ID="RedLabel" Anchor="L,C" Offset="0,0" Font="TwCenMT16" ColorSet="Beige_Black_Alpha" String="TXT_KEY_ML_OPTIONS_COLOR_R" />
+					</Box>
+					<Slider ID="RedSlider" Style="Slider" Length="125" Anchor="R,C" Offset="0,0" WheelSteps="25"/>
+				</Stack>
+				<Stack StackGrowth="Right" Padding="5">
+					<Box Color="0,0,0,0" Size="70,27" Anchor="L,C">
+						<Label ID="GreenLabel"  Anchor="L,C" Offset="0,0" Font="TwCenMT16" ColorSet="Beige_Black_Alpha" String="TXT_KEY_ML_OPTIONS_COLOR_G" />
+					</Box>
+					<Slider ID="GreenSlider" Style="Slider" Length="125" Anchor="R,C" Offset="0,0" WheelSteps="25"/>
+				</Stack>
+				<Stack StackGrowth="Right" Padding="5">
+					<Box Color="0,0,0,0" Size="70,27" Anchor="L,C">
+						<Label ID="BlueLabel" Anchor="L,C" Offset="0,0" Font="TwCenMT16" ColorSet="Beige_Black_Alpha" String="TXT_KEY_ML_OPTIONS_COLOR_B" />
+					</Box>
+					<Slider ID="BlueSlider" Style="Slider" Length="125" Anchor="R,C" Offset="0,0" WheelSteps="25"/>
+				</Stack>
+			</Stack>
+		</Stack>
+	</Instance>
+
+
+
+	<Instance Name="FeatureOptionsInstance">
+		<Stack ID="FeatureOptionsStack" Offset="0,0" StackGrowth="Bottom" Padding="0">
+
+			<Box ID="FeatureOptionsBox" Anchor="C,T" Offset="6,0" Size="230,23" Color="51,102,89,255">
+				<Button Anchor="C,B" Size="230,22" Offset="0,0" Texture="CivilopediaSideButtons22.dds" ID="FeatureOptionsButton">
+					<ShowOnMouseOver>
+						<AlphaAnim Anchor="C,C" Offset="0,0" Size="230,22" Pause="0" Cycle="Bounce" Speed="1" AlphaStart="1" AlphaEnd=".25">
+							<Image Anchor="C,C" Offset="0,0" Texture="CivilopediaSideButtons272x22HL.dds" Size="230,22"/>
+						</AlphaAnim>
+					</ShowOnMouseOver>
+					<Label ID="FeatureOptionsLabel"  Anchor="L,C" Offset="15,0" Font="TwCenMT14" ColorSet="Beige_Black_Alpha" FontStyle="Shadow"/>
+				</Button>
+			</Box>
+			
+
+			<Stack ID="FeatureOptionsOpenStack" StackGrowth="Bottom" Padding="5" Offset="15,5" Hidden="1">
+				<CheckBox ID="FeatureEnabledCheckBox" Style="SquareCheck" Font="TwCenMT16" Anchor="L,T" IsChecked="0" TextAnchor="R,T" String="TXT_KEY_ML_ENABLED" />
+
+				<Stack ID="FeatureOptionsEnabledStack" StackGrowth="Bottom" Padding="5" Hidden="1">
+					<Label ID="FeatureMaxLabel" Anchor="L,C" Offset="0,0" Font="TwCenMT18" ColorSet="Beige_Black_Alpha" String="TXT_KEY_ML_OPTIONS_GLOBALMAXCHUNKS" ToolTip="TXT_KEY_ML_OPTIONS_GLOBALMAXCHUNKS_TT" />
+					<Stack StackGrowth="Right" Offset="0,0" Padding="10">
+						<Grid Anchor="L,T" Offset="0,0" Size="50,27" Padding="0,0" Style="WindowGrid" Hidden="0">
+							<EditBox ID="FeatureMaxEditBox" CallOnChar="1" Font="TwCenMT16" EditMode="1" FocusStop="1" MaxLength="5" Size="36,27" Anchor="C,C" Color0="Beige" Color1="0.0.0.160" />
+						</Grid>
+						<CheckBox ID="FeatureMaxCheckBox" Style="SquareCheck" Font="TwCenMT16" Anchor="R,T" IsChecked="0" TextAnchor="R,C" String="TXT_KEY_ML_NOMAX" />
+					</Stack>
+
+					<Label ID="FeatureMinDistanceLabel" Anchor="L,C" Offset="0,0" Font="TwCenMT18" ColorSet="Beige_Black_Alpha" String="TXT_KEY_ML_OPTIONS_GLOBALMINPLOTDISTANCE" ToolTip="TXT_KEY_ML_OPTIONS_GLOBALMINPLOTDISTANCE_TT"/>
+					<Stack StackGrowth="Right" Offset="0,0" Padding="10">
+						<Grid Anchor="L,T" Offset="0,0" Size="50,27" Padding="0,0" Style="WindowGrid" Hidden="0">
+							<EditBox ID="FeatureMinDistanceEditBox" CallOnChar="1" Font="TwCenMT16" EditMode="1" FocusStop="1" MaxLength="5" Size="36,27" Anchor="C,C" Color0="Beige" Color1="0.0.0.160" />
+						</Grid>
+						<CheckBox ID="FeatureMinDistanceCheckBox" Style="SquareCheck" Font="TwCenMT16" Anchor="R,T" IsChecked="0" TextAnchor="R,C" String="TXT_KEY_ML_NOMIN" />
+					</Stack>
+
+					<Label ID="FeatureMinPlotsLabel" Anchor="L,C" Offset="0,0" Font="TwCenMT18" ColorSet="Beige_Black_Alpha" String="TXT_KEY_ML_OPTIONS_MINPLOTSINCHUNK" ToolTip="TXT_KEY_ML_OPTIONS_MINPLOTSINCHUNK_TT"/>
+					<Stack StackGrowth="Right" Offset="0,0" Padding="10">
+						<Grid Anchor="L,T" Offset="0,0" Size="50,27" Padding="0,0" Style="WindowGrid" Hidden="0">
+							<EditBox ID="FeatureMinPlotsEditBox" CallOnChar="1" Font="TwCenMT16" EditMode="1" FocusStop="1" MaxLength="5" Size="36,27" Anchor="C,C" Color0="Beige" Color1="0.0.0.160" />
+						</Grid>
+						<CheckBox ID="FeatureMinPlotsCheckBox" Style="SquareCheck" Font="TwCenMT16" Anchor="R,T" IsChecked="0" TextAnchor="R,C" String="TXT_KEY_ML_NOMIN" />
+					</Stack>
+
+					<Label ID="IslandMaxPlotsLabel" Anchor="L,C" Offset="0,0" Font="TwCenMT18" ColorSet="Beige_Black_Alpha" String="TXT_KEY_ML_OPTIONS_MAXPLOTSINCHUNK" ToolTip="TXT_KEY_ML_OPTIONS_MAXPLOTSINCHUNK_TT" Hidden="1"/>
+					<Stack ID="IslandMaxPlotsStack" StackGrowth="Right" Offset="0,0" Padding="10" Hidden="1">
+						<Grid Anchor="L,T" Offset="0,0" Size="50,27" Padding="0,0" Style="WindowGrid" Hidden="0">
+							<EditBox ID="IslandMaxPlotsEditBox" CallOnChar="1" Font="TwCenMT16" EditMode="1" FocusStop="1" MaxLength="5" Size="36,27" Anchor="C,C" Color0="Beige" Color1="0.0.0.160" />
+						</Grid>
+					</Stack>
+
+					<Box ID="FeatureOptionsBottomBox" Color="0,0,0,0" Size="200,10" />
+				</Stack>
+			</Stack>
+		</Stack>
+	</Instance>
+
+	<Instance Name="CivCulturesInstance">
+		<Stack ID="CivCulturesInstanceStack" Offset="0,0" StackGrowth="Bottom" Padding="0">
+
+			<Box ID="CivCulturesBox" Anchor="C,T" Offset="0,0" Size="230,23" Color="154,136,72,255">
+					<Label ID="CivCulturesLabel"  Anchor="L,C" Offset="5,0" Font="TwCenMT16" ColorSet="Beige_Black_Alpha" FontStyle="Shadow"/>
+			</Box>
+			<Stack ID="CivCulturesListStack" Offset="15,0" StackGrowth="Bottom" />
+			<Box Anchor="L,C" Color="255.255.255.0" Offset="0,0" Size="240,24">
+				<TextButton ID="CivCulturesListAddButton" String="[ICON_ML_PLUS]" Anchor="C,C" Offset="0,0" ToolTip="TXT_KEY_ML_ADDCULTURE">
+					<ShowOnMouseOver>
+						<AlphaAnim Anchor="C,C" Size="30,30" Pause="0" Cycle="Bounce" Speed="1" AlphaStart="1" AlphaEnd="0">
+							<Image Anchor="C,C"  Offset="0,0" Texture="highlight32_yellow.dds" Size="32,32" />
+						</AlphaAnim>
+					</ShowOnMouseOver>
+				</TextButton>
+			</Box>
+		</Stack>
+	</Instance>
+
+	<Instance Name="CivCulturesListInstance">
+		<Box Anchor="L,C" Color="255.255.255.0" Offset="0,0" Size="230,24" ID="CCLRoot">
+			<Label Anchor="L,C" ID="CivCulturesListLabel" Offset="5,0" String="Culture Name" ColorSet="Beige_Black_Alpha" Font="TwCenMT14" MouseOverStyle="SoftShadow" TruncateWidth="148" />
+			<TextButton ID="CivCulturesListDeleteButton" String="[ICON_ML_MINUS]" Anchor="R,C" Offset="30,0" ToolTip="TXT_KEY_ML_DELETECULTURE">
+				<ShowOnMouseOver>
+					<AlphaAnim Anchor="C,C" Size="30,30" Pause="0" Cycle="Bounce" Speed="1" AlphaStart="1" AlphaEnd="0">
+						<Image Anchor="C,C"  Offset="0,0" Texture="highlight32_yellow.dds" Size="32,32" />
+					</AlphaAnim>
+				</ShowOnMouseOver>
+			</TextButton>
+			<Box Anchor="L,B" Color="154,136,72,255" Offset="-2,0" Size="235,1" />
+		</Box>
+	</Instance>
+
+	<Instance Name="CulturesListInstance">
+		<Stack ID="CulturesListInstanceStack" Offset="0,0" StackGrowth="Bottom" Padding="0">
+			<Box ID="CulturesListBox" Anchor="C,T" Offset="0,0" Size="200,23" Color="51,102,89,255">
+					<Label ID="CultureGroupLabel"  Anchor="L,C" Offset="5,0" Font="TwCenMT14" ColorSet="Beige_Black_Alpha" FontStyle="Shadow"/>
+			</Box>
+			<Stack ID="CulturesListByGroupStack" StackGrowth="Bottom" Padding="5" />
+		</Stack>
+	</Instance>
+
+	<Instance Name="CulturesListByGroupInstance">
+		<Box Anchor="L,C" Color="255.255.255.0" Offset="0,0" Size="260,24" ID="CLBGRoot">
+			<TextButton ID="CultureListAddButton" String="[ICON_ML_PLUS]" Anchor="L,C" Offset="10,0" ToolTip="TXT_KEY_ML_ADDCULTURE">
+				<ShowOnMouseOver>
+					<AlphaAnim Anchor="C,C" Size="30,30" Pause="0" Cycle="Bounce" Speed="1" AlphaStart="1" AlphaEnd="0">
+						<Image Anchor="C,C"  Offset="0,0" Texture="highlight32_yellow.dds" Size="32,32" />
+					</AlphaAnim>
+				</ShowOnMouseOver>
+			</TextButton>
+			<TextButton ID="CultureListTextButton" Font="TwCenMT14" String="Culture Name" Anchor="L,C" Offset="40,0" ToolTip="Culture TT" />
+		</Box>
+	</Instance>
+	
+	
+	<Instance Name="IconInstance">
+		<Box ID="IconBox" Anchor="L,C" Size="26,26" Color="0,56,51,255">
+			<BoxButton ID="IconButton" Size="24,24" Anchor="C,C" Offset="0,0" Color="0,0,0,255">
+				<Grid ID="IconCurrent" Anchor="C,C" Offset="0,0" Size="26,26" Style="WindowGrid" Hidden="1" />
+				<ShowOnMouseOver>
+					<Grid ID="IconHighlight" Anchor="C,C" Offset="0,0" Size="26,26" Style="WindowGrid">
+						<Box Anchor="C,C" Size="22,22" Color="51,102,89,255" />
+					</Grid>
+				</ShowOnMouseOver>
+				<Label ID="IconLabel" Anchor="C,C" />
+			</BoxButton>
+		</Box>
+	</Instance>
+
+	<Instance Name="IconRowInstance">
+		<Stack ID="IconInnerStack" StackGrowth="Right" Padding="5" Offset="5,0"/>
+	</Instance>
+
+	<Instance Name="IconOptionsInstance">
+		<Stack ID="IconOptionsStack">
+			<Stack StackGrowth="Right" Offset="0,0" Padding="10">
+				<Grid Anchor="L,C" Offset="5,0" Size="30,30" Padding="0,0" Style="WindowGrid">
+					<BoxButton ID="IconOptionsButton" Size="26,26" Anchor="C,C" Offset="0,0" Color="0,0,0,255">
+						<ShowOnMouseOver>
+								<Box Anchor="C,C" Size="24,24" Color="51,102,89,255" />
+						</ShowOnMouseOver>
+						<Label ID="IconOptionsButtonLabel" Anchor="C,C" />
+					</BoxButton>
+				</Grid>
+				<Label ID="IconOptionsLabel" Anchor="L,C" Offset="0,0" Font="TwCenMT18" ColorSet="Beige_Black_Alpha" String="TXT_KEY_ML_OPTIONS_ICON" />
+			</Stack>
+		</Stack>
+	</Instance>
+
+
+	
+	
+
+	<!-- Header -->
+	<Grid ID="Popup_Grid" Size="300,675" Anchor="R,B" Offset="25,226" Style="Grid9DetailFive140" ConsumeMouse ="1" Hidden="1" AutoSize="0">
+		<Image ID="Image_Top" Anchor="C,T" AnchorSide="I.O"  Offset="23,-42" Texture="ML_popuptop.dds" Size="200,100" />
+		<Label ID="Label_Top" String="TXT_KEY_ML_TITLE" Anchor="C,T" Offset="7,20" Font="TwCenMT20" ColorSet="Beige_Black_Alpha" />
+		<!-- Grid Buttons -->
+		<Stack ID="PopupVStack" StackGrowth="Bottom" Padding="5" Anchor="C,T" Offset="0,60">
+			<Stack StackGrowth="Right" Padding="20" Offset="0,-2" Anchor="C,T">
+				<GridButton ID="Add_Button" Size="40,32" Anchor="L,C" Offset="0,0" Style="SmallButton" ToolTip="TXT_KEY_ML_MODE_ADD">
+					<Label Anchor="C,C" Offset="0,0" String="[ICON_ML_PLUS]" />
+				</GridButton>
+				<GridButton ID="Edit_Button" Size="40,32" Anchor="L,C" Offset="0,0" Style="SmallButton" ToolTip="TXT_KEY_ML_MODE_EDIT">
+					<Label ID="Edit_Label" Anchor="C,C" Offset="0,0"  String="[ICON_ML_EDIT]" />
+				</GridButton>
+				<GridButton ID="Move_Button" Size="40,32" Anchor="L,C" Offset="0,0" Style="SmallButton" ToolTip="TXT_KEY_ML_MODE_MOVE">
+					<Label Anchor="C,C" Offset="0,0" String="[ICON_ML_TARGET2]" />
+				</GridButton>
+				<GridButton ID="Delete_Button" Size="40,32" Anchor="L,C" Offset="0,0" Style="SmallButton" ToolTip="TXT_KEY_ML_MODE_DELETE">
+					<Label Anchor="C,C" Offset="0,0" String="[ICON_ML_MINUS]" />
+				</GridButton>
+			</Stack>
+			
+			<TextButton ID="More_Button" Offset="0,5" Anchor="C,T" Font="TwCenMT20" ColorSet="Beige_Black_Alpha" String="[ICON_ML_DOWN]" MouseOverStyle="SoftShadow" ConsumeMouse="1">
+					<ShowOnMouseOver>
+						<AlphaAnim Anchor="C,C" Size="30,30" Pause="0" Cycle="Bounce" Speed="1" AlphaStart="1" AlphaEnd="0">
+							<Image ID="IconH_green" Anchor="C,C"  Offset="0,0" Texture="highlight32_yellow.dds" Size="32,32" />
+						</AlphaAnim>
+				</ShowOnMouseOver>
+			</TextButton>
+			<Image ID="Bar_Top" Anchor="L,T" Texture="HorizontalTrim.dds" Offset="0,0" Size="283,5" Hidden="1"/>
+		</Stack>
+				
+<!-- Grid Bottom -->
+		<TextButton Offset="0,24" Anchor="C,B" Style="Font14or20" ColorSet="Beige_Black_Alpha" String="TXT_KEY_ML_POPUP_CLOSE" MouseOverStyle="SoftShadow" ConsumeMouse="1" ID="Close_Button" Hidden="0" />
+	</Grid>
+
+	<Container ID="PopupContentContainer" Hidden="1">
+		<!-- Main -->
+		<Stack ID="MainVStack" Anchor="C,T" StackGrowth="Bottom" Offset="0,0" Padding="5">
+					
+			<PullDown ID="MainPullDown" Style="GenericPullDown" ScrollThreshold="170" Size="190,27" SpaceForScroll="0" Anchor="C,T" Offset="0,0">
+				<StackData ID="MainPullDownStack"/>
+				<InstanceData Name="MainPullDownEntry" >
+					<Button ID="Button" Size="200,24" Anchor="C,T">
+						<ShowOnMouseOver>
+							<AlphaAnim Anchor="C,C" Size="120,24" Pause="0" Cycle="Bounce" Speed="1" AlphaStart="1" AlphaEnd="0">
+								<Grid Size="140,26" Style="Grid9FrameTurns" />
+							</AlphaAnim>
+						</ShowOnMouseOver>
+						<Label ID="MainPullDownEntryTitle" Anchor="L,C" Offset="0,0" Font="TwCenMT16" ColorSet="Beige_Black_Alpha" />
+					</Button>
+				</InstanceData>
+			</PullDown>
+
+			<Grid ID="MainScrollGrid" Anchor="C,T" Size="220,500" Offset="0,10" Padding="0,0" Style="WindowGrid">
+					<ScrollPanel ID="LabelListScroll" Offset="1,6" AutoScrollBar="1" Size="220,500" Anchor="L,T" Vertical="1" >
+						<ScrollBar ID="LabelListScrollSlider" Style="VertSlider" Length="500" Offset="0,18" Anchor="R,T" AnchorSide="I,I"/>
+						<UpButton ID="LabelListScrollUp" Offset="0.0" Style="ScrollBarUp" Anchor="R,T" AnchorSide="I,I"/>
+						<DownButton ID="LabelListScrollDown" Offset="0.0" Style="ScrollBarDown" Anchor="R,B" AnchorSide="I,I" Hidden="1"/>
+						<Stack Anchor="L,T" Offset="0,0" StackGrowth="Bottom" Padding="3" ID="LabelListStack" />
+					</ScrollPanel>
+			</Grid>
+			<Image ID="Bar_Bottom" Anchor="L,T" Texture="HorizontalTrim.dds" Offset="0,5" Size="283,5" Hidden="0"/>
+			<GridButton ID="Options_Button" Size="140,36" Anchor="C,T" Offset="0,5" Style="BaseButton" ToolTip="TXT_KEY_ML_POPUP_OPTIONS_TT"  Void1="1">
+				<Label ID="Options_Label" Anchor="C,C" Offset="0,-2" String="OPTIONS" Font="TwCenMT16" FontStyle="Shadow" ColorSet="Beige_Black_Alpha" />
+			</GridButton>
+		</Stack>
+
+		<!-- Options -->
+		<Stack ID="OptionsVStack" Anchor="C,T" Offset="0,0" StackGrowth="Bottom" Padding="5" Hidden="0">
+			<Box ID="OptionsTitleBox" Size="256,35" Anchor="L,T" Offset="0,5" Color="0,0,0,0">
+				<Button ID="BackButton"  Anchor="L,T" Offset="35,-7" Size="32,32" TextureOffset="32,0" Texture="UnitPanelArrows.dds" ToolTip="TXT_KEY_ML_POPUP_BACK_TT" Void1="1"  />
+				<Label ID="Subtitle_Options" Offset="-10,0" Anchor="C,T" Font="TwCenMT20" FontStyle="Shadow" ColorSet="Beige_Black_Alpha" String="OPTIONS"/>
+				<PullDown ID="OptionsPullDown" Style="GenericPullDown" ScrollThreshold="170" Size="190,27" SpaceForScroll="0" Anchor="C,T" Offset="0,30">
+					<StackData ID="OptionsPullDownStack"/>
+					<InstanceData Name="OptionsPullDownEntry" >
+						<Button ID="Button" Size="190,24" Anchor="C,T">
+							<ShowOnMouseOver>
+								<AlphaAnim Anchor="C,C" Size="190,24" Pause="0" Cycle="Bounce" Speed="1" AlphaStart="1" AlphaEnd="0">
+									<Grid Size="190,26" Style="Grid9FrameTurns" Anchor="L,C" />
+								</AlphaAnim>
+							</ShowOnMouseOver>
+							<Label ID="OptionsPullDownEntryTitle" Anchor="L,C" Offset="0,0" Font="TwCenMT16" ColorSet="Beige_Black_Alpha" />
+						</Button>
+					</InstanceData>
+				</PullDown>
+			</Box>
+			<Grid ID="OptionsScrollGrid" Size="256,500" Anchor="C,T" Offset="0,23" Style="Grid9Detail48">
+					<ScrollPanel ID="OptionsScroll" Offset="1,6" AutoScrollBar="1" Size="248,500" Anchor="L,T" Vertical="1">
+						<ScrollBar ID="OptionsScrollSlider" Style="VertSlider" Length="500" Offset="0,15" Anchor="R,T" AnchorSide="I,I"/>
+						<UpButton Offset="0,0" ID="OptionsScrollUp" Style="ScrollBarUp" Anchor="R,T" AnchorSide="I,I"/>
+						<DownButton ID="OptionsScrollDown" Offset="0,0" Style="ScrollBarDown" Anchor="R,B" AnchorSide="I,I" Hidden="1"/>
+	
+						<!-- ChangeParent will move different Options panels here -->
+
+					</ScrollPanel>
+			</Grid>
+		</Stack>
+	</Container>
+
+	<Container ID="OptionsContentContainer" Hidden="1">
+		<!-- OptionsContent_Display -->
+		<Stack ID="OptionsContent_Display" StackGrowth="Bottom" Padding="5" Offset="3,10">
+			<Stack ID="LabelDisplayStack" Anchor="L,T" Offset="0,0" StackGrowth="Bottom" Padding="5" />
+		</Stack>
+
+		<!-- OptionsContent_Appearance -->
+		<Stack ID="OptionsContent_Appearance" StackGrowth="Bottom" Padding="5" Offset="3,10">
+			<!-- Label Type Pulldown -->
+			<PullDown ID="AppearancePullDown" Style="GenericPullDown" ScrollThreshold="170" Size="190,27" SpaceForScroll="0" Anchor="C,T" Offset="0,-3">
+				<StackData ID="AppearancePullDownStack"/>
+				<InstanceData Name="AppearancePullDownEntry" >
+					<Button ID="Button" Size="120,24" Anchor="C,T">
+						<ShowOnMouseOver>
+							<AlphaAnim Anchor="C,C" Size="120,24" Pause="0" Cycle="Bounce" Speed="1" AlphaStart="1" AlphaEnd="0">
+								<Grid Size="120,26" Style="Grid9FrameTurns" />
+							</AlphaAnim>
+						</ShowOnMouseOver>
+						<Label ID="AppearancePullDownEntryTitle" Anchor="L,C" Offset="0,0" Font="TwCenMT16" ColorSet="Beige_Black_Alpha" />
+					</Button>
+				</InstanceData>
+			</PullDown>
+			<Image ID="Appearance_Bar" Anchor="L,T" Texture="HorizontalTrim.dds" Offset="0,3" Size="248,5"/>
+			<!--Font Pulldown-->
+			<Stack StackGrowth="Right" Offset="15,5">
+				<Box Color="0,0,0,0" Size="80,27">
+					<Label ID="AFontLabel" Anchor="L,C" Offset="0,0" Font="TwCenMT18" ColorSet="Beige_Black_Alpha" String="TXT_KEY_ML_OPTIONS_FONTSIZE" />
+				</Box>
+				<PullDown ID="AFontPullDown" Style="GenericPullDown" ScrollThreshold="170" Size="120,27" SpaceForScroll="0" Anchor="R,T" Offset="0,0">
+					<StackData ID="AFontPullDownStack"/>
+					<InstanceData Name="AFontPullDownEntry" >
+						<Button ID="Button" Size="120,24" Anchor="C,T">
+							<ShowOnMouseOver>
+								<AlphaAnim Anchor="C,C" Size="120,24" Pause="0" Cycle="Bounce" Speed="1" AlphaStart="1" AlphaEnd="0">
+									<Grid Size="120,26" Style="Grid9FrameTurns" />
+								</AlphaAnim>
+							</ShowOnMouseOver>
+							<Label ID="AFontPullDownEntryTitle" Anchor="L,C" Offset="0,0" Font="TwCenMT16" ColorSet="Beige_Black_Alpha" />
+						</Button>
+					</InstanceData>
+				</PullDown>
+			</Stack>
+			<!-- Font Style Pulldown -->
+			<Stack StackGrowth="Right" Offset="15,0">
+				<Box ID="AStyleLabelBox" Color="0,0,0,0" Size="80,27">
+					<Label ID="AStyleLabel"  Anchor="L,C" Offset="0,0" Font="TwCenMT18" ColorSet="Beige_Black_Alpha" String="TXT_KEY_ML_OPTIONS_FONTSTYLE" />
+				</Box>
+				<PullDown ID="AStylePullDown" Style="GenericPullDown" ScrollThreshold="170" Size="120,27" SpaceForScroll="0" Anchor="R,T" Offset="0,0">
+					<StackData ID="AStylePullDownStack"/>
+					<InstanceData Name="AStylePullDownEntry" >
+						<Button ID="Button" Size="200,24" Anchor="C,T">
+							<ShowOnMouseOver>
+								<AlphaAnim Anchor="C,C" Size="120,24" Pause="0" Cycle="Bounce" Speed="1" AlphaStart="1" AlphaEnd="0">
+									<Grid Size="140,26" Style="Grid9FrameTurns" />
+								</AlphaAnim>
+							</ShowOnMouseOver>
+							<Label ID="AStylePullDownEntryTitle" Anchor="L,C" Offset="0,0" Font="TwCenMT16" ColorSet="Beige_Black_Alpha" />
+						</Button>
+					</InstanceData>
+				</PullDown>
+			</Stack>
+			<!-- Colors Stack -->
+			<Stack ID="LabelColorStack" Anchor="L,T" Offset="0,10" StackGrowth="Bottom" Padding="5" />
+		</Stack>
+		
+		<!-- OptionsContent_Icons -->
+		<Stack ID="OptionsContent_Icons" StackGrowth="Bottom" Padding="5" Offset="3,10">
+			<Label ID="Icon_Header_Player" String="TXT_KEY_ML_MAINTYPE_PLAYER"  Anchor="L,C" Offset="12,0" Font="TwCenMT16" ColorSet="Beige_Black_Alpha" FontStyle="Shadow"/>
+			<Stack ID="IconPlayerStack" StackGrowth="Bottom" Padding="5" Offset="10,0" />
+
+			<Label ID="Icon_Header_Regions" String="TXT_KEY_ML_MAINTYPE_REGION"  Anchor="L,C" Offset="12,10" Font="TwCenMT16" ColorSet="Beige_Black_Alpha" FontStyle="Shadow"/>
+			<Stack ID="IconRegionsStack" StackGrowth="Bottom" Padding="5" Offset="10,0" />
+			
+			<Label ID="Icon_Header_Features" String="TXT_KEY_ML_MAINTYPE_FEATURE"  Anchor="L,C" Offset="12,10" Font="TwCenMT16" ColorSet="Beige_Black_Alpha" FontStyle="Shadow"/>
+			<Stack ID="IconFeaturesStack" StackGrowth="Bottom" Padding="5" Offset="10,0" />
+			
+			<Label ID="Icon_Header_Battles" String="TXT_KEY_ML_MAINTYPE_BATTLE"  Anchor="L,C" Offset="12,10" Font="TwCenMT16" ColorSet="Beige_Black_Alpha" FontStyle="Shadow"/>
+			<Stack ID="IconBattlesStack" StackGrowth="Bottom" Padding="5" Offset="10,0" />
+
+			<Label ID="Icon_Header_Other" String="TXT_KEY_ML_MAINTYPE_OTHER"  Anchor="L,C" Offset="12,10" Font="TwCenMT16" ColorSet="Beige_Black_Alpha" FontStyle="Shadow" Hidden="1"/>
+			<Stack ID="IconOtherStack" StackGrowth="Bottom" Padding="5" Offset="10,0" Hidden="1" />
+
+		</Stack>
+		
+		<!-- OptionsContent_Battle -->
+		<Stack ID="OptionsContent_Battle" StackGrowth="Bottom" Padding="10" Offset="10,10">
+
+			<CheckBox ID="BattleEnabledCheckBox" Style="SquareCheck" Font="TwCenMT16" Anchor="L,T" IsChecked="0" TextAnchor="R,C" String="TXT_KEY_ML_BATTLE_ENABLED" ToolTip="TXT_KEY_ML_BATTLE_ENABLED_TT" />
+			
+			<Stack ID="BattleEnabledStack"  StackGrowth="Bottom" Padding="10" Offset="15,0">
+				<Label ID="BattleMinUnitsLabel" Anchor="L,C" Offset="0,0" Font="TwCenMT18" ColorSet="Beige_Black_Alpha" String="TXT_KEY_ML_BATTLE_MINUNITS" ToolTip="TXT_KEY_ML_BATTLE_MINUNITS_TT" />
+				<Grid Anchor="L,T" Offset="0,0" Size="50,27" Padding="0,0" Style="WindowGrid" Hidden="0">
+					<EditBox ID="BattleMinUnitsEditBox" CallOnChar="1" Font="TwCenMT16" EditMode="1" FocusStop="1" MaxLength="5" Size="36,27" Anchor="C,C" Color0="Beige" Color1="0.0.0.160" />
+				</Grid>
+
+				<Label ID="BattleMaxSizeLabel" Anchor="L,C" Offset="0,0" Font="TwCenMT18" ColorSet="Beige_Black_Alpha" String="TXT_KEY_ML_BATTLE_MAXSIZE" ToolTip="TXT_KEY_ML_BATTLE_MAXSIZE_TT" />
+				<Grid Anchor="L,T" Offset="0,0" Size="50,27" Padding="0,0" Style="WindowGrid" Hidden="0">
+					<EditBox ID="BattleMaxSizeEditBox" CallOnChar="1" Font="TwCenMT16" EditMode="1" FocusStop="1" MaxLength="5" Size="36,27" Anchor="C,C" Color0="Beige" Color1="0.0.0.160" />
+				</Grid>
+
+				<Label ID="BattleMaxYearsLabel" Anchor="L,C" Offset="0,0" Font="TwCenMT18" ColorSet="Beige_Black_Alpha" String="TXT_KEY_ML_BATTLE_MAXYEARS" ToolTip="TXT_KEY_ML_BATTLE_MAXYEARS_TT" />
+				<Grid Anchor="L,T" Offset="0,0" Size="50,27" Padding="0,0" Style="WindowGrid" Hidden="0">
+					<EditBox ID="BattleMaxYearsEditBox" CallOnChar="1" Font="TwCenMT16" EditMode="1" FocusStop="1" MaxLength="5" Size="36,27" Anchor="C,C" Color0="Beige" Color1="0.0.0.160" />
+				</Grid>
+			</Stack>
+
+			<CheckBox ID="RazedEnabledCheckBox" Style="SquareCheck" Font="TwCenMT16" Anchor="L,T" IsChecked="0" TextAnchor="R,C" String="TXT_KEY_ML_RAZED_ENABLED" ToolTip="TXT_KEY_ML_RAZED_ENABLED" />
+
+		</Stack>
+
+		<!-- OptionsContentPanel_Dynamic -->
+		<Stack ID="OptionsContentPanel_Dynamic" StackGrowth="Bottom" Padding="10" Offset="3,10">
+			<Label ID="StaticLabel"  Anchor="C,C" Offset="0,0" String="TXT_KEY_ML_STATIC_EXPLAIN" Font="TwCenMT18" FontStyle="Shadow" ColorSet="Beige_Black_Alpha" Hidden="1"/>
+			<GridButton ID="OptionsPanel_OpenDLGButton" Offset="15,25"  Size="200,35" Style="BaseButton" Anchor="C,T">
+				<Label String="TXT_KEY_ML_OPENDLG" Font="TwCenMT18" FontStyle="Shadow" ColorSet="Beige_Black_Alpha" Anchor="C,C" />
+			</GridButton>
+		</Stack>
+
+		<!-- OptionsContent_Dynamic -->
+		<Stack ID="OptionsContent_Dynamic" StackGrowth="Bottom" Padding="10" Offset="3,10">
+			<Stack StackGrowth="Bottom" Padding="5"  ID="DynamicOptionsStack" Hidden="0">
+				<GridButton ID="GenerateDynamicLabelsButton"  Size="200,35" Style="BaseButton" Anchor="C,T">
+					<Label String="TXT_KEY_ML_DYNAMIC_BUTTON" Font="TwCenMT18" FontStyle="Shadow" ColorSet="Beige_Black_Alpha" Anchor="C,C" />
+				</GridButton>
+				<!-- Culture Type Pulldown -->
+				<Stack StackGrowth="Right" Offset="15,10">
+					<Box Color="0,0,0,0" Size="80,27">
+						<Label ID="CultureTypeLabel" Anchor="L,C" Offset="0,0" Font="TwCenMT18" ColorSet="Beige_Black_Alpha" String="TXT_KEY_ML_OPTIONS_CULTURE" />
+					</Box>
+					<PullDown ID="CultureTypePullDown" Style="GenericPullDown" ScrollThreshold="170" Size="120,27" SpaceForScroll="0" Anchor="R,T" Offset="0,0">
+						<StackData ID="CultureTypePullDownStack"/>
+						<InstanceData Name="CultureTypePullDownEntry" >
+							<Button ID="Button" Size="200,24" Anchor="C,T">
+								<ShowOnMouseOver>
+									<AlphaAnim Anchor="C,C" Size="120,24" Pause="0" Cycle="Bounce" Speed="1" AlphaStart="1" AlphaEnd="0">
+										<Grid Size="120,26" Style="Grid9FrameTurns" />
+									</AlphaAnim>
+								</ShowOnMouseOver>
+								<Label ID="CultureTypePullDownEntryTitle" Anchor="L,C" Offset="0,0" Font="TwCenMT16" ColorSet="Beige_Black_Alpha" />
+							</Button>
+						</InstanceData>
+					</PullDown>
+				</Stack>
+				<!-- One Culture Pulldown -->
+				<Stack ID="OneCultureStack" StackGrowth="Right" Offset="15,10" Hidden="1">
+					<Box Color="0,0,0,0" Size="80,27" />
+					<PullDown ID="OneCulturePullDown" Style="GenericPullDown" ScrollThreshold="170" Size="120,27" SpaceForScroll="0" Anchor="R,T" Offset="0,-5">
+						<StackData ID="OneCulturePullDownStack"/>
+						<InstanceData Name="OneCulturePullDownEntry" >
+							<Button ID="Button" Size="200,24" Anchor="C,T">
+								<ShowOnMouseOver>
+									<AlphaAnim Anchor="C,C" Size="120,24" Pause="0" Cycle="Bounce" Speed="1" AlphaStart="1" AlphaEnd="0">
+										<Grid Size="120,26" Style="Grid9FrameTurns" />
+									</AlphaAnim>
+								</ShowOnMouseOver>
+								<Label ID="OneCulturePullDownEntryTitle" Anchor="L,C" Offset="0,0" Font="TwCenMT16" ColorSet="Beige_Black_Alpha" />
+							</Button>
+						</InstanceData>
+					</PullDown>
+				</Stack>
+				<!--Choose Cultures Button-->
+				<GridButton ID="CivCulturesButton" Size="120,30" Anchor="R,T" Offset="20,0" Style="SmallButton" ToolTip="TXT_KEY_ML_CHOOSECIVCULTURES_TT" Hidden="1">
+					<Label ID="CivCulturesButtonLabel" Anchor="C,C" Offset="0,0"  String="TXT_KEY_ML_CHOOSECIVCULTURES" Font="TwCenMT14" ColorSet="Beige_Black_Alpha"  />
+				</GridButton>
+				
+				<!-- Global Max Labels Editbox-->
+				<Label ID="GlobalMaxLabel" Anchor="L,C" Offset="15,10" Font="TwCenMT18" ColorSet="Beige_Black_Alpha" String="TXT_KEY_ML_OPTIONS_GLOBALMAXCHUNKS" ToolTip="TXT_KEY_ML_OPTIONS_GLOBALMAXCHUNKS_TT" />
+				<Stack StackGrowth="Right" Offset="15,0" Padding="10">
+					<Grid Anchor="L,T" Offset="0,0" Size="50,27" Padding="0,0" Style="WindowGrid" Hidden="0">
+						<EditBox ID="GlobalMaxEditBox" CallOnChar="1" Font="TwCenMT16" EditMode="1" FocusStop="1" MaxLength="5" Size="36,27" Anchor="C,C" Color0="Beige" Color1="0.0.0.160" />
+					</Grid>
+					<CheckBox ID="GlobalMaxCheckBox" Style="SquareCheck" Font="TwCenMT16" Anchor="R,T" IsChecked="0" TextAnchor="R,C" String="TXT_KEY_ML_NOMAX" />
+				</Stack>
+
+				<!-- Global Min Distance Editbox-->
+				<Label ID="GlobalMinDistanceLabel" Anchor="L,C" Offset="15,0" Font="TwCenMT18" ColorSet="Beige_Black_Alpha" String="TXT_KEY_ML_OPTIONS_GLOBALMINPLOTDISTANCE" ToolTip="TXT_KEY_ML_OPTIONS_GLOBALMINPLOTDISTANCE_TT"/>
+				<Stack StackGrowth="Right" Offset="15,0" Padding="10">
+						<Grid ID="MinGridInner" Anchor="L,T" Offset="0,0" Size="50,27" Padding="0,0" Style="WindowGrid" Hidden="0">
+							<EditBox ID="GlobalMinDistanceEditBox" CallOnChar="1" Font="TwCenMT16" EditMode="1" FocusStop="1" MaxLength="5" Size="36,27" Anchor="C,C"  Color0="Beige" Color1="0.0.0.160"  />
+						</Grid>
+					<CheckBox ID="GlobalMinDistanceCheckBox" Style="SquareCheck" Font="TwCenMT16" Anchor="R,T" IsChecked="0" TextAnchor="R,C" String="TXT_KEY_ML_NOMIN" />
+				</Stack>
+				
+				<!--Dynamic Options By Feature-->
+				<Box ID="RegionHeaderBox" Anchor="C,T" Offset="4,0" Size="233,23" Color="0,56,51,255">
+					<Button Anchor="C,T" Size="230,22" Offset="0,0" Texture="CivilopediaSideButtons22.dds" ID="RegionsHeaderButton">
+						<ShowOnMouseOver>
+							<AlphaAnim Anchor="C,C" Offset="0,0" Size="230,22" Pause="0" Cycle="Bounce" Speed="1" AlphaStart="1" AlphaEnd=".25">
+								<Image Anchor="C,C" Offset="0,0" Texture="CivilopediaSideButtons272x22HL.dds" Size="230,22"/>
+							</AlphaAnim>
+						</ShowOnMouseOver>
+						<Image ID="ButtonSide" Anchor="L,C" Offset="-10,-1" TextureOffset="0.0" AnchorSide="O.O" Texture="buttonsides.dds" Size="8,16"/>
+						<Label ID="RegionHeaderLabel" String="TXT_KEY_ML_REGIONS_HEADER_CLOSED"  Anchor="L,C" Offset="17,0" Font="TwCenMT14" ColorSet="Beige_Black_Alpha" FontStyle="Shadow"/>
+					</Button>
+				</Box>
+				<Stack ID="RegionsStack" StackGrowth="Bottom" Hidden="1" Offset="0,-5"/>
+
+
+				<Box ID="FeatureHeaderBox" Anchor="C,T" Offset="4,-5" Size="233,23" Color="0,56,51,255">
+					<Button Anchor="C,T" Size="230,22" Offset="0,0" Texture="CivilopediaSideButtons22.dds" ID="FeaturesHeaderButton">
+						<ShowOnMouseOver>
+							<AlphaAnim Anchor="C,C" Offset="0,0" Size="230,22" Pause="0" Cycle="Bounce" Speed="1" AlphaStart="1" AlphaEnd=".25">
+								<Image Anchor="C,C" Offset="0,0" Texture="CivilopediaSideButtons272x22HL.dds" Size="230,22"/>
+							</AlphaAnim>
+						</ShowOnMouseOver>
+						<Image ID="ButtonSide" Anchor="L,C" Offset="-10,-1" TextureOffset="0.0" AnchorSide="O.O" Texture="buttonsides.dds" Size="8,16"/>
+						<Label ID="FeatureHeaderLabel" String="TXT_KEY_ML_FEATURES_CLOSED"  Anchor="L,C" Offset="17,0" Font="TwCenMT14" ColorSet="Beige_Black_Alpha" FontStyle="Shadow"/>
+					</Button>
+				</Box>
+				<Stack ID="FeaturesStack" Offset="0,-5" StackGrowth="Bottom" Hidden="1" />
+
+			</Stack>			
+		</Stack>
+
+		<!-- OptionsContent_Other -->
+		<Stack ID="OptionsContent_Other" StackGrowth="Bottom" Padding="5" Offset="3,10">
+			<GridButton ID="Other_RestoreDefaults" Offset="15,25"  Size="200,35" Style="BaseButton" Anchor="C,T" ToolTip="TXT_KEY_ML_RESTOREDEFAULTS_TT">
+				<Label String="TXT_KEY_ML_RESTOREDEFAULTS" Font="TwCenMT18" FontStyle="Shadow" ColorSet="Beige_Black_Alpha" Anchor="C,C" />
+			</GridButton>
+		</Stack>
+	</Container>
+
+
+	<!-- ***********************************************-->
+	<!--					Modes						-->
+	<!-- ***********************************************-->
+	<Container ID="AddEditContainer" Hidden="1" Anchor="C,T">
+		<Box Style="BGBlock_ClearTopBar" />
+		<Grid ID="AddEditGrid" Anchor="C,C" Offset="0,400" Size="350,400" Style="Grid9DetailFive140" ConsumeMouse="1">
+			<Label ID="AddEditTitle" Anchor="C,T" Offset="0,20" String="TXT_KEY_ML_TITLE_ADD" Font="TwCenMT18" ColorSet="Beige_Black_Alpha" FontStyle="Shadow" />
+			<Stack ID="AddEditStack" Anchor="L,T" Offset="25,55" StackGrowth="Bottom" Padding="10">
+
+				<Stack StackGrowth="Right" Padding="5">
+					<Label Anchor="L,C" Offset="0,0" Font="TwCenMT18" ColorSet="Beige_Black_Alpha" String="TXT_KEY_ML_ADD_NAME" />
+					<Label ID="AddNameInvalid" Anchor="L,C" Offset="0,0" Font="TwCenMT18" ColorSet="Beige_Black_Alpha" String="TXT_KEY_ML_ADD_NAME_INVALID" Hidden="1" />
+				</Stack>
+				<Grid Anchor="L,C" Offset="0,0" Size="300,27" Padding="0,0" Style="WindowGrid" Hidden="0">
+					<EditBox ID="AddName_EditBox" CallOnChar="1" Font="TwCenMT16" EditMode="1" FocusStop="0" MaxLength="150" Size="288,27" Anchor="C,C"  Color0="Beige" Color1="0.0.0.160"  />
+				</Grid>
+
+				<Label Anchor="L,C" Offset="0,0" Font="TwCenMT18" ColorSet="Beige_Black_Alpha" String="TXT_KEY_ML_ADD_TOOLTIP" />
+				<Grid Anchor="L,C" Offset="0,0" Size="300,27" Padding="0,0" Style="WindowGrid" Hidden="0">
+					<EditBox ID="AddTT_EditBox" CallOnChar="1" Font="TwCenMT16" EditMode="1" FocusStop="1" MaxLength="150" Size="288,27" Anchor="C,C"  Color0="Beige" Color1="0.0.0.160"  />
+				</Grid>
+
+				<Stack StackGrowth="Right">
+					<Box Anchor="L,C" Offset="0,0" Color="0,0,0,0" Size="90,30">
+						<Label Anchor="L,C" Offset="0,0" Font="TwCenMT18" ColorSet="Beige_Black_Alpha" String="TXT_KEY_ML_ADD_TYPE" />
+					</Box>
+					<PullDown ID="AddMainTypePullDown" Style="GenericPullDown" ScrollThreshold="170" Size="190,27" SpaceForScroll="0" Anchor="L,T" Offset="0,3">
+						<StackData ID="AddMainTypePullDownStack"/>
+						<InstanceData Name="AddMainTypePullDownEntry" >
+							<Button ID="Button" Size="200,24" Anchor="C,T">
+								<ShowOnMouseOver>
+									<AlphaAnim Anchor="C,C" Size="120,24" Pause="0" Cycle="Bounce" Speed="1" AlphaStart="1" AlphaEnd="0">
+										<Grid Size="140,26" Style="Grid9FrameTurns" />
+									</AlphaAnim>
+								</ShowOnMouseOver>
+								<Label ID="AddMainTypePullDownEntryTitle" Anchor="L,C" Offset="0,0" Font="TwCenMT16" ColorSet="Beige_Black_Alpha" />
+							</Button>
+						</InstanceData>
+					</PullDown>
+				</Stack>
+
+				<Stack StackGrowth="Right">
+					<Box Anchor="L,C" Offset="0,0" Color="0,0,0,0" Size="90,30" />
+					<PullDown ID="AddSubTypePullDown" Style="GenericPullDown" ScrollThreshold="170" Size="190,27" SpaceForScroll="0" Anchor="L,T" Offset="0,3">
+						<StackData ID="AddSubTypePullDownStack"/>
+						<InstanceData Name="AddSubTypePullDownEntry" >
+							<Button ID="Button" Size="200,24" Anchor="C,T">
+								<ShowOnMouseOver>
+									<AlphaAnim Anchor="C,C" Size="120,24" Pause="0" Cycle="Bounce" Speed="1" AlphaStart="1" AlphaEnd="0">
+										<Grid Size="140,26" Style="Grid9FrameTurns" />
+									</AlphaAnim>
+								</ShowOnMouseOver>
+								<Label ID="AddSubTypePullDownEntryTitle" Anchor="L,C" Offset="0,0" Font="TwCenMT16" ColorSet="Beige_Black_Alpha" />
+							</Button>
+						</InstanceData>
+					</PullDown>
+				</Stack>
+
+				<Stack ID="AddIconStack" StackGrowth="Right">
+					<Box Anchor="L,C" Offset="0,0" Color="0,0,0,0" Size="90,30">
+						<Label Anchor="L,C" Offset="0,0" Font="TwCenMT18" ColorSet="Beige_Black_Alpha" String="TXT_KEY_ML_ADD_ICON" />
+					</Box>
+					<Grid ID="AddIconGrid" Anchor="L,C" Offset="5,0" Size="30,30" Padding="0,0" Style="WindowGrid">
+						<BoxButton ID="AddIconButton" Size="26,26" Anchor="C,C" Offset="0,0" Color="0,0,0,255">
+							<ShowOnMouseOver>
+								<Box Anchor="C,C" Size="24,24" Color="51,102,89,255" />
+							</ShowOnMouseOver>
+							<Label ID="AddIconButtonLabel" Anchor="C,C" />
+						</BoxButton>
+					</Grid>
+				</Stack>
+			</Stack>
+			<Stack ID="AddButtonStack" Size="300,40" Offset="0,50" Anchor="C,B" StackGrowth="Right" Padding="15">
+				<GridButton ID="AddCancelButton" Size="140,36" Anchor="C,C" Style="BaseButton">
+					<Label Anchor="C,C" Offset="0,-2" String="TXT_KEY_ML_CANCEL"  Font="TwCenMT18" ColorSet="Beige_Black_Alpha" FontStyle="Shadow" WrapWidth="200"/>
+				</GridButton>
+				<GridButton ID="AddSaveButton" Size="140,36" Anchor="C,C" Style="BaseButton">
+					<Label Anchor="C,C" Offset="0,-2" String="TXT_KEY_ML_SAVE"  Font="TwCenMT18" ColorSet="Beige_Black_Alpha" FontStyle="Shadow"/>
+				</GridButton>
+			</Stack>
+		</Grid>
+	</Container>
+
+	<Box ID="ModeInstructions" Color="0,0,0,100" Size="350,150" Anchor="C,T" Offset="0,150" Hidden="1">
+		<Stack ID="ModeInstructionsStack" Anchor="C,C" Offset="0,0" StackGrowth="Bottom" Padding="10">
+			<Label ID="ModeInstructionsHeader" String="ModeInstructionsHeader"  Anchor="C,C" Offset="0,0" Font="TwCenMT22" ColorSet="Beige_Black_Alpha" FontStyle="Shadow"/>
+			<Label ID="ModeInstructionsText" String="ModeInstructionsText"  Anchor="C,C" Offset="0,0" Font="TwCenMT20" ColorSet="Beige_Black_Alpha" FontStyle="Shadow"/>
+			<Label ID="ModeInstructionsCancel" String="ModeInstructionsCancel"  Anchor="C,C" Offset="0,0" Font="TwCenMT20" ColorSet="Beige_Black_Alpha" FontStyle="Shadow"/>
+		</Stack>
+	</Box>
+
+	
+	<!-- ***********************************************-->
+	<!--				Components						-->
+	<!-- ***********************************************-->
+	<Container ID="IconContainer" Hidden="1" Anchor="C,T">
+		<Box Style="BGBlock_ClearTopBar" />
+		<Grid ID="IconFrame" Anchor="C,C" Offset="0,0" Size="200,203" Style="WindowGrid" ConsumeMouse="1" Hidden="0">
+			<Label Anchor="L,T" Offset="10,10" ID="IconHeaderLabel" String="TXT_KEY_ML_ICON_HEADER" Font="TwCenMT16" ColorSet="Beige_Black_Alpha" FontStyle="Shadow"/>
+			<Button Anchor="R,T" Size="32,32" Offset="3,-3" TextureOffset="28,-3" Texture="CloseMinButtons.dds" ToolTip="TXT_KEY_ESC_TO_EXIT" ID="IconCloseButton"/>
+			<Box ID="IconOuterBorder" Size="162,162" Anchor="L,T" Offset="10,30" Color="0,56,51,255" >
+				<Box ID="IconOuterBox" Size="160,160" Anchor="C,C" Offset="0,0" Color="0,0,0,256">
+					<ScrollPanel ID="IconScroll" Offset="0,0" AutoScrollBar="1" Size="160,160" Anchor="C,C" Vertical="1">
+						<ScrollBar ID="IconScrollSlider" Style="VertSlider" Length="130" Offset="0,15" Anchor="R,T" AnchorSide="O,I"/>
+						<UpButton Offset="0,0" Style="ScrollBarUp" Anchor="R,T" AnchorSide="O,I"/>
+						<DownButton Offset="0,0" Style="ScrollBarDown" Anchor="R,B" AnchorSide="O,I"/>
+						<Stack StackGrowth="Bottom" Offset="0,5" Padding="5">
+
+							<Label Anchor="L,T" Offset="5,0" String="TXT_KEY_ML_ICON_RECENT" Font="TwCenMT14" ColorSet="Beige_Black_Alpha" FontStyle="Shadow" Hidden="1"/>
+
+							<Stack ID="IconRecentStack" StackGrowth="Bottom" Padding="5"/>
+							<Image ID="Bar_Icon" Anchor="L,T" Texture="HorizontalTrim.dds" Offset="0,0" Size="160,1"/>
+							<Stack ID="IconOuterStack" StackGrowth="Bottom" Padding="5"/>
+						</Stack>
+					</ScrollPanel>
+				</Box>
+			</Box>
+		</Grid>
+	</Container>
+
+	<!-- Message -->
+	<Container ID="Message" Hidden="1" Anchor="C,T">
+		<Box Style="BGBlock_ClearTopBar" />
+		<Grid ID="MessageGrid" Anchor="C,C" Offset="0,300" Size="400,300" Style="Grid9DetailFive140" ConsumeMouse="1">
+			<Label ID="MessageTitle" Anchor="C,T" Offset="0,20" String="TXT_KEY_ML_MSG_TITLE" Font="TwCenMT18" ColorSet="Beige_Black_Alpha" FontStyle="Shadow" />
+			<Stack StackGrowth="Bottom" Anchor="C,C" Offset="0,-25">
+				<Label ID="MessageText" Anchor="C,T" Offset="0,0" String="TXT_KEY_ML_MSG_TXT" Font="TwCenMT16" ColorSet="Beige_Black_Alpha" FontStyle="Shadow" />
+				<Label ID="MessageText2" Anchor="C,T" Offset="0,25" String="TXT_KEY_ML_MSG_TXT" Font="TwCenMT16" ColorSet="Beige_Black_Alpha" FontStyle="Shadow" Hidden="1" />
+			</Stack>
+
+			<Stack ID="MessageButtonStack" Size="300,40" Offset="0,60" Anchor="C,B" StackGrowth="Right" Padding="15">
+				<GridButton ID="CancelButton" Size="140,36" Anchor="C,C" Style="BaseButton">
+					<Label Anchor="C,C" Offset="0,-2" String="TXT_KEY_ML_CANCEL"  Font="TwCenMT18" ColorSet="Beige_Black_Alpha" FontStyle="Shadow" WrapWidth="200"/>
+				</GridButton>
+				<GridButton ID="ContinueButton" Size="140,36" Anchor="C,C" Style="BaseButton">
+					<Label Anchor="C,C" Offset="0,-2" String="TXT_KEY_ML_CONTINUE"  Font="TwCenMT18" ColorSet="Beige_Black_Alpha" FontStyle="Shadow"/>
+				</GridButton>
+			</Stack>
+		</Grid>
+	</Container>
+
+	<!-- MiniMap CheckBox-->
+	<Stack ID="MMStack" StackGrowth="Right" Anchor="L,T" ColorSet="Beige_Black_Alpha" Font="TwCenMT18" FontStyle="Shadow" >
+		<CheckBox Anchor="L,T"  TextAnchorSide="Right" Offset="0,0" TextOffset="40,0" IsChecked="1" ID="MMShowMapLabels" String="TXT_KEY_ML_MM_SHOWLABELS" ToolTip="TXT_KEY_ML_MM_SHOWLABELS_TT" ColorSet="Beige_Black_Alpha" Font="TwCenMT18" />
+		<TextButton ID="MMOpenPopup" String="[ICON_ML_PIN2]" ToolTip="TXT_KEY_ML_MM_OPENPOPUP_TT" Anchor="L,C" Offset="95,0">
+			<ShowOnMouseOver>
+				<AlphaAnim Anchor="C,C" Size="30,30" Pause="0" Cycle="Bounce" Speed="1" AlphaStart="1" AlphaEnd="0">
+					<Image ID="Icon_Highlight" Anchor="C,C"  Offset="0,0" Texture="highlight32_yellow.dds" Size="32,32" />
+				</AlphaAnim>
+			</ShowOnMouseOver>
+		</TextButton>
+		<TextButton ID="MMOpenOptions" String="[ICON_GREAT_ENGINEER]" ToolTip="TXT_KEY_ML_MM_OPENOPTIONS_TT" Anchor="L,C" Offset="5,0">
+			<ShowOnMouseOver>
+				<AlphaAnim Anchor="C,C" Size="30,30" Pause="0" Cycle="Bounce" Speed="1" AlphaStart="1" AlphaEnd="0">
+					<Image Anchor="C,C"  Offset="0,0" Texture="highlight32_yellow.dds" Size="32,32" />
+				</AlphaAnim>
+			</ShowOnMouseOver>
+		</TextButton>
+	</Stack>
+	
+	<!-- Dynamic Labels Generator Status Updates-->
+	<Container ID="DLGStatus" Hidden="1" Anchor="C,T">
+		<Box Style="BGBlock_ClearTopBar" />
+		<Grid ID="DLGStatusGrid" Size="260,300" Style="Grid9DetailFive140" Anchor="C,C" Offset="0,350">
+			<Label ID="DLGTitle" Anchor="C,T" Offset="0,20" String="TXT_KEY_ML_DLG_TITLE" Font="TwCenMT18" ColorSet="Beige_Black_Alpha" FontStyle="Shadow" />
+			<!--<Label ID="DLGStatusLabel" Anchor="C,T" String="DLG Status"  Font="TwCenMT20" ColorSet="Beige_Black_Alpha" FontStyle="Shadow" WrapWidth="350" Hidden="1" />-->
+				<Label ID="DLGTotalsLabel" Anchor="C,T" String="Totals" Font="TwCenMT16" ColorSet="Beige_Black_Alpha" FontStyle="Shadow" WrapWidth="350" Offset="0,32" />
+
+			<Stack Anchor="C,B" Offset="0,75" StackGrowth="Right" Padding="10">
+				<GridButton ID="DLGRedo" Size="100,28" Anchor="C,B" Offset="0,0" Style="BaseButton">
+					<Label Anchor="C,C" Offset="0,0" String="TXT_KEY_ML_DLG_REDO"  Font="TwCenMT18" ColorSet="Beige_Black_Alpha" FontStyle="Shadow"/>
+				</GridButton>
+				<GridButton ID="DLGOK" Size="100,28" Anchor="C,B" Offset="0,0" Style="BaseButton">
+					<Label Anchor="C,C" Offset="0,0" String="TXT_KEY_ML_DONE"  Font="TwCenMT18" ColorSet="Beige_Black_Alpha" FontStyle="Shadow"/>
+				</GridButton>
+			</Stack>
+		</Grid>
+	</Container>
+
+	<!-- DLG Grid-->
+	<Container ID="DLG_Start" Hidden="1" Anchor="C,T">
+		<Box Style="BGBlock_ClearTopBar" />
+		<Grid ID="DLG_StartGrid" Size="300,675" Anchor="C,B" Offset="25,-800" Style="Grid9DetailFive140" ConsumeMouse ="1" Hidden="0" AutoSize="0">
+			<Image Anchor="C,T" AnchorSide="I.O"  Offset="23,-42" Texture="ML_popuptop.dds" Size="200,100" />
+			<Label String="TXT_KEY_ML_TITLE" Anchor="C,T" Offset="7,20" Font="TwCenMT20" ColorSet="Beige_Black_Alpha" />
+
+			<Stack StackGrowth="Bottom" Padding="5" Anchor="C,T" Offset="0,60">
+				<Grid ID="DLG_ScrollGrid" Size="256,500" Anchor="C,T" Offset="0,0" Style="Grid9Detail48">
+					<ScrollPanel ID="DLG_Scroll" Offset="1,6" AutoScrollBar="1" Size="248,500" Anchor="L,T" Vertical="1">
+						<ScrollBar ID="DLG_ScrollSlider" Style="VertSlider" Length="500" Offset="0,15" Anchor="R,T" AnchorSide="I,I"/>
+						<UpButton Offset="0,0" ID="DLG_ScrollUp" Style="ScrollBarUp" Anchor="R,T" AnchorSide="I,I"/>
+						<DownButton ID="DLG_ScrollDown" Offset="0,0" Style="ScrollBarDown" Anchor="R,B" AnchorSide="I,I" Hidden="1"/>
+
+						<!-- ChangeParent will move DLG panel here -->
+
+					</ScrollPanel>
+				</Grid>
+			</Stack>
+			<TextButton Offset="0,24" Anchor="C,B" Style="Font14or20" ColorSet="Beige_Black_Alpha" String="TXT_KEY_ML_CANCEL" MouseOverStyle="SoftShadow" ConsumeMouse="1" ID="DLG_CloseButton" Hidden="0" />
+		</Grid>
+	</Container>
+	
+	
+	
+	<!-- DLG Civilizations Cultures Panel-->
+	<Stack ID="DLG_Civilizations" StackGrowth="Bottom" Padding="5" Anchor="L,T" Offset="0,5" Hidden ="1">
+		<Box Anchor="L,T" Color="255.255.255.0" Offset="0,0" Size="240,35">
+			<Button ID="DLGBackButton"  Anchor="L,T" Offset="18,-3" Size="32,32" TextureOffset="32,0" Texture="UnitPanelArrows.dds" ToolTip="TXT_KEY_ML_POPUP_BACK_TT" Void1="1"  />
+			<Label String="TXT_KEY_ML_DLG_SELECTCULTURES" Anchor="C,T" Offset="0,5" Font="TwCenMT20" />
+		</Box>
+		<GridButton ID="DLGAncientButton" Size="160,20" Anchor="C,T" Offset="0,0" Style="SmallButton">
+			<Label Anchor="C,C" Offset="0,0" String="TXT_KEY_ML_DLGDEFAULT_ANCIENT"  Font="TwCenMT14" ColorSet="Beige_Black_Alpha" FontStyle="Shadow" ToolTip="TXT_KEY_ML_DLGDEFAULT_ANCIENT_TT"/>
+		</GridButton>
+		<GridButton ID="DLGModernButton" Size="160,20" Anchor="C,T" Offset="0,0" Style="SmallButton">
+			<Label Anchor="C,C" Offset="0,0" String="TXT_KEY_ML_DLGDEFAULT_MODERN"  Font="TwCenMT14" ColorSet="Beige_Black_Alpha" FontStyle="Shadow" ToolTip="TXT_KEY_ML_DLGDEFAULT_MODERN_TT"/>
+		</GridButton>
+		<Stack ID="DLG_Civilizations_CivList" StackGrowth="Bottom" Padding="5" />		
+	</Stack>
+
+	<Container ID="DLGCulturesContainer" Hidden="1" Anchor="C,T">
+		<Box Style="BGBlock_ClearTopBar" />
+		<Grid ID="DLGCulturesFrame" Anchor="C,C" Offset="200,400" Size="240,303" Style="WindowGrid" ConsumeMouse="1" Hidden="0">
+			<Label Anchor="L,T" Offset="20,10" ID="DLGCulturesHeaderLabel" String="TXT_KEY_ML_DLGCULTURES_HEADER" Font="TwCenMT16" ColorSet="Beige_Black_Alpha" FontStyle="Shadow"/>
+			<Button Anchor="R,T" Size="32,32" Offset="3,-3" TextureOffset="28,-3" Texture="CloseMinButtons.dds" ToolTip="TXT_KEY_ESC_TO_EXIT" ID="DLGCulturesCloseButton"/>
+			<Box ID="DLGCulturesOuterBorder" Size="202,262" Anchor="L,T" Offset="10,30" Color="0,56,51,255" >
+				<Box ID="DLGCulturesOuterBox" Size="200,260" Anchor="C,C" Offset="0,0" Color="0,0,0,256">
+					<ScrollPanel ID="DLGCulturesScroll" Offset="0,0" AutoScrollBar="1" Size="200,260" Anchor="C,C" Vertical="1">
+						<ScrollBar ID="DLGCulturesScrollSlider" Style="VertSlider" Length="230" Offset="0,15" Anchor="R,T" AnchorSide="O,I"/>
+						<UpButton Offset="0,0" Style="ScrollBarUp" Anchor="R,T" AnchorSide="O,I"/>
+						<DownButton Offset="0,0" Style="ScrollBarDown" Anchor="R,B" AnchorSide="O,I"/>
+						<Stack ID="DLGCulturesListStack" StackGrowth="Bottom" Offset="0,0" Padding="5"/>
+					</ScrollPanel>
+				</Box>
+			</Box>
+		</Grid>
+	</Container>
+	
+</Context>
